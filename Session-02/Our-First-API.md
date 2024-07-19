@@ -551,4 +551,4 @@ Here are some questions to reflect upon.
 
 # END
 
-Next Up: [Journals](Journals.md)
+Next Up: [Journals](../Session-01/Journals.md)
