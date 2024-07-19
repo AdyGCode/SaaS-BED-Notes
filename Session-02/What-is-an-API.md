@@ -17,10 +17,10 @@ date modified: 10 July 2024
 # What is an API
 
 Software as a Service - Back-End Development
-
 Session 01
-
 Developed by Adrian Gould
+
+![[What-is-an-API-20240719140725141.png]]
 
 ---
 
@@ -148,7 +148,6 @@ Data transferred as ???
 Simonyan, H. (2023). API Design 101: From Basics to Best Practices [YouTube Video]. In _YouTube_. <https://www.youtube.com/watch?v=7QfswaV0re4>
 
 ‌
-
 **Exercise:** What positives and negatives could be added to the SOAP column.
 
 ---
@@ -183,7 +182,7 @@ Constraints/principles to promote simplicity, scalability, and statelessness in 
 - State not stored in application 
 - Client takes care of tracking state
 
-An API where each client request contains all the necessary information needed to process the reuqstr and the the applicaitn does not maintain any session state of context information between requests.
+An API where each client request contains all the necessary information needed to process the request and the the application does not maintain any session state of context information between requests.
 
 ## Making stateless 'stateful'
 
@@ -314,7 +313,7 @@ _What Is an HTTP Request_. (n.d.). Sematext. <https://sematext.com/glossary/http
 - PUT
 - PATCH
 - DELETE
-- INFO ?
+- OPTIONS
 
 ---
 
@@ -379,14 +378,8 @@ Useful / most used - Continued:
 - _What Is an HTTP Request_. (n.d.). Sematext. <https://sematext.com/glossary/http-requests/>
 - Gupta, L. (2018, May 30). _HTTP Status Codes_. REST API Tutorial. <https://restfulapi.net/http-status-codes/>
 - Santos, L. (2020, March 4). The Complete Guide to Status Codes for Meaningful ReST APIs - Let’s start! DEV Community. <https://dev.to/_staticvoid/the-complete-guide-to-status-codes-for-meaningful-rest-apis-1-5c5>
-- 
+- ...
 
-
----
-
-| ![saas-addiction.webp](saas-addiction.jpg) |
-| :-------------------------------------------------: |
-|          Image from: <https://orlybooks.com>          |
 
 ---
 
