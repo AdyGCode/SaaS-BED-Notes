@@ -1324,4 +1324,4 @@ These methods should be in the "Cities" group.
 
 # END
 
-Next up: [Our First API](Our-First-API.md)
+Next up: [Our First API](../Session-02/Our-First-API.md)

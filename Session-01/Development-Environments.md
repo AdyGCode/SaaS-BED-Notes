@@ -1,6 +1,16 @@
 ---
-date created: 05 July 2024
-date modified: 08 July 2024
+theme: default
+paginate: true
+footer: © Copyright 2024, Adrian Gould & NM TAFE
+header: "![NMTAFE](../images/Black-Red-Banner.svg)"
+auto-scaling: true
+size: 4k
+color: "#ccc"
+backgroundColor: "#060606"
+tags: SaaS, APIs, Back-End
+
+date created: 03 July 2024
+date modified: 07 July 2024
 ---
 
 # Development Environments
@@ -91,15 +101,11 @@ Our preferred standard development environment at TAFE is:
 
 For Command Line interaction, which is a vital part of modern development, we use Microsoft's Windows Terminal. We also use the version of Bash that comes with Git. Details and links to install these below:
 
-		- [Windows Terminal (MS Store)](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-us&gl=US) 
-
-		- [Setting Terminal as default CLI](https://learn.microsoft.com/en-us/windows/terminal/install) 
-
-		- [Git Bash in Windows Terminal](https://help.screencraft.net.au/hc/2680392001/65/add-git-bash-to-microsoft-terminal?category_id=35)  {SC}
-
-		- [Bash aliases for increased productivity](https://help.screencraft.net.au/hc/2680392001/66/add-bash-command-line-aliases-for-git?category_id=35)  {SC}
-
-		- [Windows Terminal Themes](https://windowsterminalthemes.dev)
+- [Windows Terminal (MS Store)](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-us&gl=US) 
+- [Setting Terminal as default CLI](https://learn.microsoft.com/en-us/windows/terminal/install) 
+- [Git Bash in Windows Terminal](https://help.screencraft.net.au/hc/2680392001/65/add-git-bash-to-microsoft-terminal?category_id=35)  {SC}
+- [Bash aliases for increased productivity](https://help.screencraft.net.au/hc/2680392001/66/add-bash-command-line-aliases-for-git?category_id=35)  {SC}
+- [Windows Terminal Themes](https://windowsterminalthemes.dev)
 
 # Other Recommended Tools
 
@@ -116,14 +122,14 @@ We have tried many different systems between us, and the following are a sample 
 
 ## IDEs
 
-- PhpStorm
+- PhpStorm - Professional only
 	- Professional free whilst studying
 	- Platform(s): Windows, Linux, MacOS
 - Visual Studio Code (VSCode) - Free
 	- Platform(s): Windows, Linux, MacOS
-- PyCharm  - Community or Professional free whilst studying
+- PyCharm - Community or Professional free whilst studying
 	- Platform(s): Windows, Linux, MacOS
-- CLion  - Professional free whilst studying
+- CLion - Professional free whilst studying
 	- Platform(s): Windows, Linux, MacOS
 - Arduino -
 	- Platform(s): Windows, Linux, MacOS
@@ -193,8 +199,7 @@ Installation of these systems may not be possible on every Operating System, or 
 - Xdebug 
 	- is a useful debugging extension that may be integrated into PhpStorm and VSCode.
 	- Platform(s): Windows, MacOS, Linux
-	- Installation details - …
-	- 
+	- Installation details - [Adding-XDebug](..\Session-02\Adding-XDebug.md)
 
 # FAQs
 

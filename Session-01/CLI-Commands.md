@@ -1,3 +1,18 @@
+---
+theme: default
+paginate: true
+footer: © Copyright 2024, Adrian Gould & NM TAFE
+header: "![NMTAFE](../images/Black-Red-Banner.svg)"
+auto-scaling: true
+size: 4k
+color: "#ccc"
+backgroundColor: "#060606"
+tags: SaaS, APIs, Back-End
+
+date created: 03 July 2024
+date modified: 07 July 2024
+---
+
 # CLI Commands
 
 | command                                                   | action                                                                                                                                                                                                                                     |
