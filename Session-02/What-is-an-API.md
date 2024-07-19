@@ -252,14 +252,14 @@ We will know the state of the resource:
 - Use **correct/appropriate** HTTP Method
 - Kebab style (use hyphens between words is needed)
 
-| BAD                   | Good                            | HTTP      |
-| --------------------- | ------------------------------- | --------- |
-| getUsers              | /api/v1/users                   | GET       |
-| getUserById           | /api/v1users/{id}               | GET       |
-| getUsersV1            | /api/v1/users                   | GET       |
-| store-inventory       | /api/v2/inventories             | POST      |
-| updateUserByID        | /api/v1/users/{id}              | PUT/PATCH |
-| removeProductFromCart | /api/v2/cart/{cart_id}/product/ | DELETE    |
+| BAD                     | Good                              | HTTP      |
+| ----------------------- | --------------------------------- | --------- |
+| `getUsers`              | `/api/v1/users`                   | GET       |
+| `getUserById`           | `/api/v1users/{id}`               | GET       |
+| `getUsersV1`            | `/api/v1/users`                   | GET       |
+| `store-inventory`       | `/api/v2/inventories`             | POST      |
+| `updateUserByID`        | `/api/v1/users/{id}`              | PUT/PATCH |
+| `removeProductFromCart` | `/api/v2/cart/{cart_id}/product/` | DELETE    |
 
 CoderOne. (2023). REST API Mistakes Every Junior Developer should Avoid | clean-code [YouTube Video]. In _YouTube_. <https://www.youtube.com/watch?v=JxeTegu4dD8&t=8s>
 

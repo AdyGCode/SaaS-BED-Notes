@@ -36,7 +36,7 @@ includeLinks: true
 
 ---
 
-# Session 01 Exercises & Journals 
+# Session 02 Exercises & Journals 
 
 For this week's journal we would like you to do the following:
 
