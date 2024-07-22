@@ -15,3 +15,8 @@ https://medium.com/@chirag1162/how-to-setup-xdebug-for-laravel-in-phpstorm-050cc
 https://datavizblog.com/2018/12/21/dataviz-humor-oreilly-programming-book-parody-covers/
 
 https://dev.to/snakepy/how-to-debug-laravel-apps-with-laravel-apps-with-xdebuger-in-vs-code-8cp
+
+https://scribe.knuckles.wtf/laravel
+
+https://www.postman.com/what-is-an-api/
+
