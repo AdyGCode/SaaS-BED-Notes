@@ -92,7 +92,7 @@ Repeat the steps 4-7 for the other versions of PHP as needed.
 
 Enable XDebug by right click on the Laragon task-bar icon (or the Laragon window).
 
-Then select `PHP` :FasArrowRightLong:  `Extensions` :FasArrowRightLong: click `xdebug-2.5.5...`  to enable it.
+Then select `PHP` -->  `Extensions` --> click `xdebug-2.5.5...`  to enable it.
 
 Access in your browser the file you created in step 1, make sure that it shows XDebug installed.
 

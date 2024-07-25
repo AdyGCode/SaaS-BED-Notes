@@ -156,7 +156,7 @@ Simonyan, H. (2023). API Design 101: From Basics to Best Practices [YouTube Vide
 
 Video content to watch:
 
-- [API Design 101: From Basics to Best Practices (youtube.com)](https://www.youtube.com/watch?v=7QfswaV0re4)
+- [API Design 101: From Basics to Best Practices (youtube.com)](https://www.youtube.com/watch?v=7QfswaV0re4) (~6min)
 
 ---
 
@@ -263,8 +263,9 @@ We will know the state of the resource:
 
 CoderOne. (2023). REST API Mistakes Every Junior Developer should Avoid | clean-code [YouTube Video]. In _YouTube_. <https://www.youtube.com/watch?v=JxeTegu4dD8&t=8s>
 
-‌
+
 ---
+
 
 ## REST & Resource Methods
 
