@@ -15,10 +15,12 @@ Developed by Adrian Gould
 
 ---
 
-```table-of-contents
-title: # Contents
-style: nestedList
-minLevel: 0
-maxLevel: 3
-includeLinks: true
-```
+# Session Content
+
+[What-is-an-API](What-is-an-API.md)
+[[Adding-XDebug]]
+[[Our-First-API]]
+[[Session-02-Exercises-and-Journal-Entry]]
+
+
+
