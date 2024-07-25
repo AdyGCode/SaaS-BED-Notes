@@ -44,13 +44,16 @@ For this week's journal we would like you to do the following:
 
 Be honest with yourself as to what you did and did not understand. If you spotted any issues in notes or other materials, then make sure you note that, and as a big help to your lecturer, submit a help desk request with the 
 
+
+## TDD API Development Exercises
+
 The following are exercises for you to use to add features to the API as practice.
 
-## Exercise 1: Subregion
+### Exercise 1: Subregion
 
 We have completed the Region, next we need to add the Subregion
 
-### Subregion model details
+#### Subregion model details
 
 When you complete the same as we have done for the Region, make sure that the Subregion model contains only the following:
 
@@ -62,17 +65,17 @@ Make sure you write the tests to go with the index and show methods.
 
 The region id should not be string, but an unsigned integer.
 
-### Add Documentation
+#### Add Documentation
 
 Add the required Php DocBlocks to the methods in the Controller to allow Scribe to autogenerate the documents.
 
 These methods should be in the "Subregions" group.
 
-## Exercise 2: Country
+### Exercise 2: Country
 
 We have completed the Region and Subregion, next we need to add the Country.
 
-### Country model details
+#### Country model details
 
 When you complete the same as we have done for the Region, make sure that the Country model contains only the following:
 
@@ -96,17 +99,17 @@ Make sure you write the tests to go with the index and show methods.
 
 The region id, subregion id, and numeric code should not be string, but unsigned integers.
 
-### Add Documentation
+#### Add Documentation
 
 Add the required Php DocBlocks to the methods in the Controller to allow Scribe to autogenerate the documents.
 
 These methods should be in the "Countries" group.
 
-## Exercise 3: States
+### Exercise 3: States
 
 Let's keep this going and create the States API…
 
-### State model details
+#### State model details
 
 When you complete the same as we have done for the Region, make sure that the States model contains only the following:
 
@@ -122,17 +125,17 @@ Make sure you write the tests to go with the index and show methods.
 
 Make sure that the country code and country id in this model matches the data types in the Country model. The state code is a string, max length of 6 characters.
 
-### Add Documentation
+#### Add Documentation
 
 Add the required Php DocBlocks to the methods in the Controller to allow Scribe to autogenerate the documents.
 
 These methods should be in the "States" group.
 
-## Exercise 4: Cities
+### Exercise 4: Cities
 
 On the last leg for this, and it's the biggest of them all. The Cities!
 
-### City model details
+#### City model details
 
 Following the same steps as before, add only the following:
 
@@ -149,7 +152,7 @@ Make sure you write the tests to go with the index and show methods.
 
 Make sure that the country code and country id in this model matches the data types in the Country model.
 
-### Add Documentation
+#### Add Documentation
 
 Add the required Php DocBlocks to the methods in the Controller to allow Scribe to autogenerate the documents.
 
