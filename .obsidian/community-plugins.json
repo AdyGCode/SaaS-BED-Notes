@@ -6,7 +6,16 @@
   "obsidian-banners",
   "mermaid-tools",
   "auto-card-link",
-  "obsidian-advanced-slides",
   "table-editor-obsidian",
-  "marp-slides"
+  "obsidian-minimal-settings",
+  "obsidian-plantuml",
+  "obsidian-reading-time",
+  "image-captions",
+  "slides-extended",
+  "obsidian-linter",
+  "image-converter",
+  "break-page",
+  "obsidian-enhancing-export",
+  "marp-slides",
+  "update-time-on-edit"
 ]

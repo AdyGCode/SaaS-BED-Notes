@@ -2,16 +2,17 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](../images/Black-Red-Banner.svg)"
+header: "![](/assets/Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
-tags: 
+tags:
   - SaaS
   - APIs
   - Back-End
-
 date created: 08 July 2024
 date modified: 10 July 2024
+created: 2024-07-25T14:52
+updated: 2024-07-25T17:17
 ---
 
 # What is an API

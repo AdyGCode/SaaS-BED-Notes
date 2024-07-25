@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "0569636a3373d2fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b00e6d0a1b4fb7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session-02/What-is-an-API.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +165,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "marp-slides:Show Slide Preview": false
+      "marp-slides:Show Slide Preview": false,
+      "workspaces:Manage workspace layouts": false,
+      "slides-extended:Show slide preview": false
     }
   },
-  "active": "026061814acc06f0",
+  "active": "fb96a705efe45053",
   "lastOpenFiles": [
     "Session-02/What-is-an-API.md",
     "Session-02/Readme.md",
+    "Exports/PDFs/Readme.pdf",
     "Session-02/ReadMe.md",
     "Session-02/Designing-an-API.md",
     "Session-02/Adding-XDebug.md",
