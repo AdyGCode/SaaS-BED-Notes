@@ -255,7 +255,7 @@ We will know the state of the resource:
 | BAD                     | Good                              | HTTP      |
 | ----------------------- | --------------------------------- | --------- |
 | `getUsers`              | `/api/v1/users`                   | GET       |
-| `getUserById`           | `/api/v1users/{id}`               | GET       |
+| `getUserById`           | `/api/v1/users/{id}`              | GET       |
 | `getUsersV1`            | `/api/v1/users`                   | GET       |
 | `store-inventory`       | `/api/v2/inventories`             | POST      |
 | `updateUserByID`        | `/api/v1/users/{id}`              | PUT/PATCH |
