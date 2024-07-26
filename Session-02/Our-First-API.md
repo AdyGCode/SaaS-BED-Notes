@@ -2,7 +2,7 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](../images/Black-Red-Banner.svg)"
+header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 tags: SaaS, APIs, Back-End
@@ -11,7 +11,7 @@ date created: 03 July 2024
 date modified: 07 July 2024
 ---
 
-![](../assets/Black-Red-Banner.svg)
+![](./assets//Black-Red-Banner.svg)
 
 # TDD & Our First API
 
