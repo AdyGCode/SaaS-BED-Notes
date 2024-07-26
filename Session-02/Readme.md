@@ -18,11 +18,6 @@ Developed by Adrian Gould
 
 ---
 
-# Note on Session 01 Journals
-
- **Note on Journals:**
-> For those who did not create a journal last week, you should take this opportunity to go back over the content, and summarise your learning BEFORE covering the content from this week.
-
 # Session 02 Content
 
 - [What-is-an-API](What-is-an-API.md)
@@ -32,4 +27,9 @@ Developed by Adrian Gould
 
 > **NB:** Your Journal entry will be expected to be completed before 9AM on the day of the next in class lecture.
 
+
+# Note on Session 01 Journals
+
+**Note on Journals:**
+> For those who did not create a journal last week, you should take this opportunity to go back over the content, and summarise your learning BEFORE covering the content from this week.
 
