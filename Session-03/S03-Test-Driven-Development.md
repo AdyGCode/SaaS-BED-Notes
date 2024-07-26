@@ -8,6 +8,7 @@ size: 4k
 ---
 
 # Test-Driven Development of an API
+
 Software as a Service - Back-End Development
 Session 01
 
@@ -20,9 +21,15 @@ Developed by Adrian Gould
 title: # Contents
 style: nestedList
 minLevel: 0
-maxLevel: 3
+maxLevel: 4
 includeLinks: true
 ```
+
+![](TDD-Circle@1x.svg)
+
+
+
+# References/Links
 
 Laravel Pest 2 Course - https://www.youtube.com/watch?v=j3bEIdo3S7U&list=PLe30vg_FG4ORor4bQJ0yjtkghK6kwrSew&pp=iAQB
 
@@ -38,6 +45,8 @@ https://www.youtube.com/@LaravelDaily/videos
 
 Laravel API Crash Course With Sanctum  - https://www.youtube.com/watch?v=TzAJfjCn7Ks
 
-Creating Laravel API and Docs: For Beginners -https://www.youtube.com/watch?v=XIdplwZb2RI
+Creating Laravel API and Docs: For Beginners - https://www.youtube.com/watch?v=XIdplwZb2RI
+
+
 
 
