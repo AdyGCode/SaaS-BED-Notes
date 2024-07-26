@@ -2,7 +2,7 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](../images/Black-Red-Banner.svg)"
+header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 color: "#ccc"
@@ -77,11 +77,11 @@ Open Blackboard
 
 Go to the cluster shell
 
-Click on the Journal link on the side, or on the welcome page
+Click on the "journal" link on the side, or on the welcome page
 
 Click create new entry
 
-Type your Journal entry into the page
+Type your journal entry into the page
 
 Save the journal
 
@@ -97,7 +97,7 @@ All entries should:
 
 - Summarise your learning
 - Be meaningful in their content
-- Use MyBib to create Bibliographic entries for Books, Web Sites, Videos, and other references
+- Use MyBib ([https://mybib.com]) to create Bibliographic entries for Books, Web Sites, Videos, and other references
 
 
 ---

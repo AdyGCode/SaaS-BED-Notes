@@ -2,7 +2,7 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](../images/Black-Red-Banner.svg)"
+header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 tags: SaaS, APIs, Back-End
@@ -907,7 +907,7 @@ You should now be able to view the documentation at: <http://workopia-api-xxx.te
 
 ###### Example of Grouped API Endpoints
 
-![The documentation for the Scribe documentation's Region group](./assets/scribe-docs-Region.png)
+![The documentation for the Scribe documentation's Region group](/assets//scribe-docs-Region.png)
 
 ---
 
