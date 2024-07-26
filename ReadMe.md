@@ -20,11 +20,48 @@ option1: value1
 option2: value2
 ```
 
-# Development Environment
+# SaaS Back-End Development Notes
 
-Please make sure you check the required [development environment](Development-Environments.md) details.
+This repository contains the most up to date versions of the notes from the cluster "**SaaS - Part II - Back-End Development**" as delivered at [North Metropolitan TAFE](https://northmetrotafe.wa.edu.au).
+
+Full credit and acknowledgement **must** be included when reusing all or any individual part of these notes, source code, and associated data. This **must** include a link to this repository.
+
+## Developer(s)
+
+| Role | Name |
+| ---- | ---- |
+| Lead | Adrian Gould (ASL)     |
+
+## Contributors
+
+Our developers encourage the students studying this cluster to contribute to this project by submitting issues and issue resolutions (via pull requests).
+
+## Development Environment
+
+Please make sure you check the required [development environment](S01-Development-Environments.md) details.
+
+## Content
+
+Each session has a `ReadMe.md` file that acts as a location that contains the session's learning sequence.
+
+- [Session 01 ReadMe](Session-01/ReadMe.md)
+- [Session 02 ReadMe](Session-02/ReadMe)
+- [Session 03 ReadMe](Session-03/ReadMe.md)
+- [Session 04 ReadMe](Session-04/ReadMe.md)
+- [Session 05 ReadMe](Session-05/ReadMe.md)
+- [Session 06 ReadMe](Session-06/ReadMe.md)
+- [Session 07 ReadMe](Session-07/ReadMe.md)
+- [Session 08 ReadMe](Session-08/ReadMe.md)
+- [Session 09 ReadMe](Session-09/ReadMe.md)
+- 
+- ...
 
 
+## Useful Links
+
+- [Adrian Gould's Diigo account (**https://diigo.com/profile/Ady_Gould**)](https://diigo.com/profile/Ady_Gould) is a good starter for useful resources.
+- [Adrian Gould's MyBib for Laravel and PHP (**https://www.mybib.com/b/4BBVPm**)](https://www.mybib.com/b/4BBVPm)
+- ...
 
 ## Badges
 
@@ -40,7 +77,7 @@ Please make sure you check the required [development environment](Development-En
 
 
 
-# Acknowledgements
+## Acknowledgements
 
 - Icons from:https://simpleicons.org
 - Badges by https://shields.io/badges

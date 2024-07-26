@@ -1021,4 +1021,4 @@ To quickly assist you locate the correct icons in the test runner toolbar, here 
 
 # END
 
-Next up: [Our First API](../Session-02/Our-First-API.md)
+Next up: [Our First API](S02-Our-First-API.md)
