@@ -10,6 +10,7 @@ updated: 2024-07-25T17:17
 ---
 
 # API Development and Testing
+
 Software as a Service - Back-End Development
 
 Session 02
@@ -27,9 +28,9 @@ Developed by Adrian Gould
 
 > **NB:** Your Journal entry will be expected to be completed before 9AM on the day of the next in class lecture.
 
-
 # Note on Session 01 Journals
 
 **Note on Journals:**
-> For those who did not create a journal last week, you should take this opportunity to go back over the content, and summarise your learning BEFORE covering the content from this week.
+> For those who did not create a journal last week, you should take this opportunity to go back over the content, and
+> summarise your learning BEFORE covering the content from this week.
 

@@ -28,9 +28,9 @@ Full credit and acknowledgement **must** be included when reusing all or any ind
 
 ## Developer(s)
 
-| Role | Name |
-| ---- | ---- |
-| Lead | Adrian Gould (ASL)     |
+| Role | Name               |
+| ---- |--------------------|
+| Lead | Adrian Gould (ASL) |
 
 ## Contributors
 
