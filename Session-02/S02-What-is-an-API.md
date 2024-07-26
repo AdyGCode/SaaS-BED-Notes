@@ -36,7 +36,7 @@ includeLinks: true
 
 # Development Environment
 
-Please make sure you check the required [development environment](Development-Environments.md) details.
+Please make sure you check the required [development environment](S01-Development-Environments.md) details.
 
 ---
 
@@ -77,7 +77,7 @@ A 'translator' of data to allow communication between two points
 
 # API Types: REST
 
-|        | ![](assets/REST-API-Logo@1x.svg) |
+|        | ![](Rest-API-Logo@1x.svg) |
 | ------ | -------------------------------- |
 | **Re** | Representational                 |
 | **S**  | State                            |
@@ -93,7 +93,7 @@ Data usually transferred as JSON
 
 # API Types: SOAP
 
-|       | ![](assets/SOAP-Logo@1x.svg) |
+|       | ![](SOAP-Logo@1x.svg) |
 | ----- | ---------------------------- |
 | **S** | Simple                       |
 | **O** | Open                         |
@@ -106,7 +106,7 @@ Data usually transferred as JSON
 
 # API Types: GraphQL
 
-|           | ![](assets/GraphQL-Logo@1x.svg) |
+|           | ![](GraphQL-Logo@1x.svg) |
 | --------- | ------------------------------- |
 | **Graph** | Graph                           |
 | **Q**     | Query                           |
@@ -118,7 +118,7 @@ Data transferred as ???
 
 # API Types: gRPC
 
-|       | ![](assets/gRPC-Logo@1x.svg) |
+|       | ![](gRPC-Logo@1x.svg) |
 | ----- | ---------------------------- |
 | **g** | general                      |
 | **R** | Remote                       |

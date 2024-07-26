@@ -17,7 +17,7 @@ date modified: 07 July 2024
 
 Software as a Service - Back-End Development
 
-Session 01
+Session 02
 
 Developed by Adrian Gould
 
@@ -35,7 +35,7 @@ includeLinks: true
 
 # Test Driven Development
 
-![](TDD-Circle@1x.svg)
+![Test Driven Development Circle](/assets/TDD-Circle@1x.svg)
 
 Test Driven Development is a methodology that works on the principle that you write tests, run the tests to fail, write code to fix the fail, rerun the tests to pass, refactor your code (testing continuously), and repeat.
 
@@ -43,13 +43,24 @@ Each loop will, be for a *single* feature or sub-feature.
 
 For example, when developing an API feature that will perform CRUD/BREAD operations it is a good principle break this into the separate steps:
 
-- Browse
+- Browse 
 - Read
 - Edit
 - Add
 - Delete
 
 We will often perform the creation of these sub-features in Browse, Read, Add, Edit Delete order.
+#### BREAD vs CRUD 
+
+Here is a quick table showing the relationship of these two acronyms.
+
+| BREAD  | CRUD   |
+| ------ | ------ |
+| Browse | Read   |
+| Read   | Read   |
+| Edit   | Update |
+| Add    | Create |
+| Delete | Delete |
 
 <div class="page-break" style="page-break-before: always;"></div>
 
@@ -65,10 +76,12 @@ The two basic stories that do not manipulate data:
 
 - As a user I must be able to list all companies
 - As a user I must be able to show a company's details
+
 The three stories that manipulate the data:
 - As a user I must be able to add a company
 - As a user I must be able to edit a company
 - As a user I must be able to delete a company
+
 The extension to the list all to enable searching:
 - As a user I must be able to search for a company
 
@@ -551,4 +564,4 @@ Here are some questions to reflect upon.
 
 # END
 
-Next Up: [Journals](../Session-01/Journals.md)
+Next Up: [S01-Journals](S01-Journals.md)
