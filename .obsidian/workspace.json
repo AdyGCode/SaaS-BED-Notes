@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-03/ReadMe.md",
+                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-03/ReadMe.md",
+                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-03/ReadMe.md",
+                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-03/ReadMe.md"
+                "file": "Session-02/S02-Exercises-and-Journal-Entry.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "c56884e6a6e2bdf2",
   "lastOpenFiles": [
+    "ReadMe.md",
+    "Session-03/ReadMe.md",
     "Session-08/S08-Portfolio-Presentations.md",
     "Session-07/S07-Portfolio-Work.md",
     "Session-07/S07-KBA-Details.md",
@@ -174,9 +176,7 @@
     "Session-02/ReadMe.md",
     "Session-02/S02-Our-First-API.md",
     "Session-02/S02-API-Development-and-Testing.md",
-    "ReadMe.md",
     "Session-01/ReadMe.md",
-    "Session-03/ReadMe.md",
     "assets/Adding-XDebug-20240719134756048.png",
     "Delivery-Specific.md",
     "_sort",
