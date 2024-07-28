@@ -85,8 +85,9 @@ Here are also direct links for some versions of PHP.
 5. Navigate to the `Laragon` :FasArrowRightLong: `bin` :FasArrowRightLong: `PHP` folder
 6. For each version of PHP installed you will now go into the folder and locate the `ext` folder
 7. Copy or move the correct DLL from the `Downloads` folder into this location
+8. Make sure the DLL contains .dll at the end. Eg. php_xdebug-3.3.2-8.3-vs16-x86_64`.dll`
 
-Repeat the steps 4-7 for the other versions of PHP as needed.
+Repeat the steps 4-8 for the other versions of PHP as needed.
 
 ## Enable Extension
 
@@ -96,7 +97,15 @@ Then select `PHP` -->  `Extensions` --> click `xdebug-2.5.5...`  to enable it.
 
 Access in your browser the file you created in step 1, make sure that it shows XDebug installed.
 
-Open `php.ini` then at the bottom of the file, add:
+Open `php.ini` --> locate to the 'Dynamic Extensions' section (<kbd>ctrl</kbd>+<kbd>F</kbd>)
+--> after ';extension=zip', add:
+
+```ini
+zend_extension=xdebug
+zend_extension=php_xdebug-3.3.2-8.3-vs16-x86_64.dll
+```
+
+then at the bottom of the file, add:
 
 ```ini
 [XDebug]
@@ -110,7 +119,9 @@ Next, create the folder `c:\laragon\www\xdebug` (or `c:\ProgramData\Laragon\www\
    
 For additional functions, see this link: <https://xdebug.org/docs/profiler
 
-Make sure to restart Laragon (either quite the application completely and restart it, or use the Stop/Start all sequence) for changes to take effect.
+Make sure to restart Laragon (either quite the application completely and restart it, or use the Stop/Start all sequence) for changes to take effect. 
+
+To check if XDebug has been installed successfuly by click <kbd>Web tab</kbd> --><kbd>info</kbd>
 
 Basically XDebug creates a file which contains all the information that it profiled on your web page/application. 
 
