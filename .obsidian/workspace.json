@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "940fad378362bc7f",
+    "id": "b8d29129378bc162",
     "type": "split",
     "children": [
       {
-        "id": "19a351e2540cdcc7",
+        "id": "d07ddcc70948eb9d",
         "type": "tabs",
         "children": [
           {
-            "id": "c56884e6a6e2bdf2",
+            "id": "2ec0417be1ab1bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
-                "mode": "source",
+                "file": "ReadMe.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "43d2ddbfa4717cc1",
+    "id": "44474f65737b3096",
     "type": "split",
     "children": [
       {
-        "id": "2c246b7b538d9745",
+        "id": "7e96c8376a6f47fa",
         "type": "tabs",
         "children": [
           {
-            "id": "bdde981e8065700e",
+            "id": "6f09d0bab1126913",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "cc60cac89d51a14d",
+            "id": "30863c209329c49d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,10 +58,18 @@
             }
           },
           {
-            "id": "5fec553def5bbf63",
+            "id": "165a5ae701a20f09",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b206747f92fbed98",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
               "state": {}
             }
           }
@@ -69,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 419.5
   },
   "right": {
-    "id": "4927f750af14caa4",
+    "id": "cf8cbb0d4e916f38",
     "type": "split",
     "children": [
       {
-        "id": "09dc3717d6f78067",
+        "id": "154e91863ce8937e",
         "type": "tabs",
         "children": [
           {
-            "id": "a31549b0c3ba0817",
+            "id": "1908f7a8ca7e5287",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "c2dcf275dd84ed52",
+            "id": "998ea2ae0b1b28ab",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9e099650d9ebca6d",
+            "id": "509ccb64b3ea8589",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,39 +128,66 @@
             }
           },
           {
-            "id": "813a08d7a8732409",
+            "id": "dc3c3ccd85b83262",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md"
+                "file": "ReadMe.md"
+              }
+            }
+          },
+          {
+            "id": "8705f2548ede1387",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "marp-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "marp-slides:Show Slide Preview": false
+      "slides-extended:Show slide preview": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c56884e6a6e2bdf2",
+  "active": "2ec0417be1ab1bd6",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Session-03/ReadMe.md",
+    "templates/slides.md",
+    "templates/sessions.md",
+    "research.md",
+    "assets/scribe-docs-home.png",
+    "assets/scribe-docs-country.png",
+    "assets/scribe-docs-Region.png",
+    "assets/phpstorm-tests-running.png",
+    "assets/phpstorm-tests-red-initial.png",
+    "assets/phpstorm-tests-red-id-column.png",
+    "assets/phpstorm-tests-partial-green.png",
+    "assets/phpstorm-test-runner-tools.png",
+    "assets/phpstorm-test-runner-autorerun.png",
+    "assets/phpstorm-test-green.png",
+    "_sort/Laravel-and-APIs 1.md",
+    "_sort",
     "Session-08/S08-Portfolio-Presentations.md",
     "Session-07/S07-Portfolio-Work.md",
     "Session-07/S07-KBA-Details.md",
@@ -160,42 +195,29 @@
     "Session-06/S06-Portfolio-Work.md",
     "Session-05/S05-Portfolio-Work.md",
     "Session-04/S04-APIS-and-Security.md",
-    "research.md",
     "Session-03/S03-Test-Driven-Development.md",
-    "Session-03/S03-Designing-an-API.md",
     "Session-03/S03-Exercises-and-Journal-Entry.md",
-    "Session-01/S01-Exercises-and-Journal-Entry.md",
-    "Session-01/SaaS-Addiction.png",
-    "Session-01/S01-Laravel-and-APIs.md",
-    "Session-01/S01-Journals.md",
-    "Session-01/S01-Development-Environments.md",
-    "Session-01/S01-CLI-Commands.md",
+    "Session-03/S03-Designing-an-API.md",
+    "Session-03/ReadMe.md",
     "Session-02/S02-What-is-an-API.md",
+    "Session-02/S02-Our-First-API.md",
     "Session-02/S02-Exercises-and-Journal-Entry.md",
     "Session-02/S02-Adding-XDebug.md",
-    "Session-02/ReadMe.md",
-    "Session-02/S02-Our-First-API.md",
-    "Session-02/S02-API-Development-and-Testing.md",
+    "Session-02/Readme.md",
+    "Session-01/S01-Laravel-and-APIs.md",
+    "Session-01/S01-Journals.md",
+    "Session-01/S01-Exercises-and-Journal-Entry.md",
+    "Session-01/S01-Development-Environments.md",
+    "Session-01/S01-CLI-Commands.md",
     "Session-01/ReadMe.md",
-    "assets/Adding-XDebug-20240719134756048.png",
-    "Delivery-Specific.md",
-    "_sort",
-    "Exports/Slides",
-    "ReadMe.md~",
-    "research.md~",
     "Exports/PDFs/What-is-an-API.pdf",
-    "assets/What-is-an-API-20240719140725141.png",
-    "Exports/PDFs/Adding-XDebug.pdf",
-    "Exports/PDFs/Development-Environments.pdf",
-    "assets/Saas-Addiction.png",
-    "Session-01/Laravel-and-APIs-20240718115929653.png",
-    "Session-01/Laravel-and-APIs-20240718115838480.png",
-    "assets/Black-Red-Banner.svg",
-    "Exports/PDFs/Journals.pdf",
-    "assets/saas-addiction.webp",
-    "assets/rubber-duck-debugging.jpg",
-    "assets/rubber-duck-debugging.webp",
+    "Exports/PDFs/Our-First-API.pdf",
     "Exports/PDFs/Laravel-and-APIs.pdf",
-    "Exports/PDFs/Our-First-API.pdf"
+    "Exports/PDFs/Journals.pdf",
+    "Exports/PDFs/Development-Environments.pdf",
+    "Exports/PDFs/Adding-XDebug.pdf",
+    "Exports/Slides",
+    "Exports/PDFs",
+    "Exports"
   ]
 }
