@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
+                "file": "Session-03/ReadMe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
+                "file": "Session-03/ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md",
+                "file": "Session-03/ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-02/S02-Exercises-and-Journal-Entry.md"
+                "file": "Session-03/ReadMe.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +151,19 @@
   },
   "active": "c56884e6a6e2bdf2",
   "lastOpenFiles": [
-    "ReadMe.md",
+    "Session-03/S03-Designing-an-API.md",
+    "Session-03/S03-Test-Driven-Development-Refactoring.md",
+    "Session-03/S03-Test-Driven-Development-User-Feature.md",
     "Session-03/ReadMe.md",
+    "Session-03/S03-Exercises-and-Journal-Entry.md",
+    "Session-02/S02-Exercises-and-Journal-Entry.md",
+    "Session-03/S03-Test-Driven-Development-Example.md",
+    "Session-03/S03-Test-Driven-Development-Overview.md",
+    "research.md",
+    "assets/SaaS-Addiction.png",
+    "Session-02/S02-Our-First-API.md",
+    "Session-01/S01-Exercises-and-Journal-Entry.md",
+    "ReadMe.md",
     "Session-08/S08-Portfolio-Presentations.md",
     "Session-07/S07-Portfolio-Work.md",
     "Session-07/S07-KBA-Details.md",
@@ -160,25 +171,15 @@
     "Session-06/S06-Portfolio-Work.md",
     "Session-05/S05-Portfolio-Work.md",
     "Session-04/S04-APIS-and-Security.md",
-    "research.md",
-    "Session-03/S03-Test-Driven-Development.md",
-    "Session-03/S03-Designing-an-API.md",
-    "Session-03/S03-Exercises-and-Journal-Entry.md",
-    "Session-01/S01-Exercises-and-Journal-Entry.md",
     "Session-01/SaaS-Addiction.png",
     "Session-01/S01-Laravel-and-APIs.md",
     "Session-01/S01-Journals.md",
     "Session-01/S01-Development-Environments.md",
     "Session-01/S01-CLI-Commands.md",
     "Session-02/S02-What-is-an-API.md",
-    "Session-02/S02-Exercises-and-Journal-Entry.md",
     "Session-02/S02-Adding-XDebug.md",
     "Session-02/ReadMe.md",
-    "Session-02/S02-Our-First-API.md",
-    "Session-02/S02-API-Development-and-Testing.md",
-    "Session-01/ReadMe.md",
     "assets/Adding-XDebug-20240719134756048.png",
-    "Delivery-Specific.md",
     "_sort",
     "Exports/Slides",
     "ReadMe.md~",
@@ -194,7 +195,6 @@
     "Exports/PDFs/Journals.pdf",
     "assets/saas-addiction.webp",
     "assets/rubber-duck-debugging.jpg",
-    "assets/rubber-duck-debugging.webp",
     "Exports/PDFs/Laravel-and-APIs.pdf",
     "Exports/PDFs/Our-First-API.pdf"
   ]
