@@ -544,24 +544,17 @@ We are not needing any extra work with this particular method.
 
 ---
 
-Reflectin Questions
+## Reflection Questions
 
 Here are some questions to reflect upon.
 
 **Question:** If you executed the command `php artisan make:model Fish -msf` what files would be created?
 
-**Question:** …
+**Question:** What is the purpose of XDebug?
 
-**Question:** …
+**Question:** What features does XDebug bring to you as a PHP Developer?
 
-**Question:** …
-
-**Question:** …
-
-**Question:** …
-
-**Question:** …
 
 # END
 
-Next Up: [S01-Journals](S01-Journals.md)
+
