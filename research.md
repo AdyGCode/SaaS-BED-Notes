@@ -1,3 +1,7 @@
+---
+created: 2024-07-31T07:52
+updated: 2024-07-31T07:52
+---
 # References/Links
 
 Laravel Pest 2 Course - https://www.youtube.com/watch?v=j3bEIdo3S7U&list=PLe30vg_FG4ORor4bQJ0yjtkghK6kwrSew&pp=iAQB
