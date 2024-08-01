@@ -8,13 +8,14 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Session-02/Readme.md": "a7c6a89a77eb0bb7e5489ce7895f32de73ff859ee826220e09ee8eaa13ce4bda",
     "Session-02/What-is-an-API.md": "c04868292a9b950f72d9b2e675d99d3e573b574fc02933ff77ade138c5e8cdee",
     "Session-02/S02-Exercises-and-Journal-Entry.md": "f06172fa2aae08a262232feb61c8eecdcd1a224c121736c2b7e1d3772ddeaf82",
     "Session-02/S02-Our-First-API.md": "1d1d51128e72b3eeef51a478760d2e8b3fe8e20ed80ddf5ac5f7cb1b746457ae",
-    "Session-03/ReadMe.md": "c34e98233c6564b8772e5405dcfe32ea84acbbb0d0de260aeba2237fef5d0871",
+    "Session-03/ReadMe.md": "a86cff7e2f1abd0aaafe10aa9e6aa5010d3d56b4e0c7886302737f32ab96f703",
     "Session-03/S03-Designing-an-API.md": "55ee2b3a135db6ba45534983e2d18182c8a227869492a66452e78cb98e36a912",
     "Session-03/S03-Exercises-and-Journal-Entry.md": "caeed9b8c18b4fcc24c0797968a78064d8baef60590b5158581ccad229f92e62",
-    "research.md": "f8253eebb2300a37a3b5036d4775e251e3c2cca0fab409e9b9ed7a994b8fe847"
+    "research.md": "f8253eebb2300a37a3b5036d4775e251e3c2cca0fab409e9b9ed7a994b8fe847",
+    "Session-02/Readme.md": "62e267ef54c94f917f1ad97405c9cb55e4706c664687d3460079b16b6f3249e5",
+    "Session-05/S05-Portfolio-Work.md": "e6593653df56ad471fba81bfe6cdb9991b6c6ebacfbb3cff4e90eebd4d8948d9"
   }
 }
