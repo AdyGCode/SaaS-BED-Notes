@@ -26,11 +26,14 @@ Developed by Adrian Gould
 - [Our-First-API](Our-First-API.md)
 - [Session-02-Exercises-and-Journal-Entry](Session-02-Exercises-and-Journal-Entry.md)
 
+# Journals
+
 > **NB:** Your Journal entry will be expected to be completed before 9AM on the day of the next in class lecture.
 
-# Note on Session 01 Journals
+## Note on Session 01 Journals
 
 **Note on Journals:**
 > For those who did not create a journal last week, you should take this opportunity to go back over the content, and
 > summarise your learning BEFORE covering the content from this week.
+
 
