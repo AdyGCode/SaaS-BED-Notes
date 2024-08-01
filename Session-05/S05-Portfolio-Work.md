@@ -1,3 +1,7 @@
+---
+created: 2024-07-31T08:45
+updated: 2024-08-01T14:33
+---
 For the portfolio you will be creating a REST API for a Job Advertising system.
 
 Part of the work has been completed during the learning sessions, and includes the API for Regions, Subregions, Countries, States and Cities.
