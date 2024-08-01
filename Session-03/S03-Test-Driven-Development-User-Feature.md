@@ -5,6 +5,8 @@ footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
+created: 2024-07-31T08:45
+updated: 2024-08-01T15:45
 ---
 
 # TDD: User Feature
@@ -47,7 +49,6 @@ In a future session we will then add security to:
 - prevent users who are not logged in to access the feature(s)
 - prevent ordinary (client) users from access edit, add and delete features
 - allow a client to only see their details and work on their information
-
 
 ## Create the User Controller
 
