@@ -10,6 +10,7 @@ updated: 2024-07-31T07:52
 - [S03-Test-Driven-Development-Example](S03-Test-Driven-Development-Example.md)
 - [S03-Test-Driven-Development-Refactoring](S03-Test-Driven-Development-Refactoring.md)
 - [S03-Test-Driven-Development-User-Feature](S03-Test-Driven-Development-User-Feature.md)
+- [S03-Test-Driven-Development-API-With-Model-Relationships](S03-Test-Driven-Development-API-With-Model-Relationships.md)
 - [S03-Exercises-and-Journal-Entry](S03-Exercises-and-Journal-Entry.md)
 
 ## Note
