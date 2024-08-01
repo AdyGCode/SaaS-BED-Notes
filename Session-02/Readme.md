@@ -6,7 +6,7 @@ header: "![NMTAFE](/assets/Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 created: 2024-07-25T15:27
-updated: 2024-08-01T14:34
+updated: 2024-08-01T14:37
 ---
 
 # API Development and Testing
@@ -21,10 +21,10 @@ Developed by Adrian Gould
 
 # Session 02 Content
 
-- [What-is-an-API](What-is-an-API.md)
-- [Adding-XDebug](Adding-XDebug.md)
-- [Our-First-API](Our-First-API.md)
-- [Session-02-Exercises-and-Journal-Entry](Session-02-Exercises-and-Journal-Entry.md)
+- [What is an API](S02-What-is-an-API.md)
+- [Adding XDebug](S02-Adding-XDebug.md)
+- [Our First API](S02-Our-First-API.md)
+- [Exercises and Journal Entry](S02-Exercises-and-Journal-Entry.md)
 
 > **NB:** Your Journal entry will be expected to be completed before 9AM on the day of the next in class lecture.
 
