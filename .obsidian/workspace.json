@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-03/S03-Test-Driven-Development-User-Feature.md",
+                "file": "Session-03/S03-Exercises-and-Journal-Entry.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-03/S03-Test-Driven-Development-User-Feature.md",
+                "file": "Session-03/S03-Exercises-and-Journal-Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-03/S03-Test-Driven-Development-User-Feature.md",
+                "file": "Session-03/S03-Exercises-and-Journal-Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-03/S03-Test-Driven-Development-User-Feature.md"
+                "file": "Session-03/S03-Exercises-and-Journal-Entry.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "4ca08ebe91f7d2a9",
   "lastOpenFiles": [
+    "Session-03/S03-Designing-an-API.md",
+    "Session-03/S03-Test-Driven-Development-User-Feature.md",
     "Session-03/S03-Exercises-and-Journal-Entry.md",
     "Session-03/ReadMe.md",
     "Session-05/S05-Portfolio-Work.md",
@@ -215,14 +217,12 @@
     "Session-06/S06-Portfolio-Work.md",
     "Session-04/S04-APIS-and-Security.md",
     "Session-03/S03-Test-Driven-Development.md",
-    "Session-03/S03-Designing-an-API.md",
     "Session-02/S02-What-is-an-API.md",
     "Session-02/S02-Our-First-API.md",
     "Session-02/S02-Exercises-and-Journal-Entry.md",
     "Session-02/S02-Adding-XDebug.md",
     "Session-01/S01-Laravel-and-APIs.md",
     "Session-01/S01-Journals.md",
-    "Session-01/S01-Exercises-and-Journal-Entry.md",
     "Exports/PDFs/What-is-an-API.pdf",
     "Exports/PDFs/Our-First-API.pdf",
     "Exports/PDFs/Laravel-and-APIs.pdf",
