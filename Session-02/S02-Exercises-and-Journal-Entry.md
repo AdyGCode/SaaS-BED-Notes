@@ -14,6 +14,8 @@ tags:
   - Journal
 date created: 03 July 2024
 date modified: 08 July 2024
+created: 2024-07-31T07:52
+updated: 2024-07-31T07:52
 ---
 
 # Session 02 Exercises & Journal Entry
