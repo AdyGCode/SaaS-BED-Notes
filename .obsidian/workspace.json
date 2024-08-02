@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-05/S05-Portfolio-Work.md",
+                "file": "Session-03/S03-Designing-an-API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-05/S05-Portfolio-Work.md",
+                "file": "Session-03/S03-Designing-an-API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-05/S05-Portfolio-Work.md",
+                "file": "Session-03/S03-Designing-an-API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-05/S05-Portfolio-Work.md"
+                "file": "Session-03/S03-Designing-an-API.md"
               }
             }
           }
@@ -151,14 +151,26 @@
   },
   "active": "c56884e6a6e2bdf2",
   "lastOpenFiles": [
+    "Session-02/S02-Our-First-API.pdf",
+    "Session-02/S01-Our-First-API.pdf",
+    "Session-02/S02-Adding-XDebug.pdf",
+    "Session-02/S02-What-is-an-API.pdf",
+    "Session-01/S02-What-is-an-API.pdf",
+    "Session-01/S01-Journals.pdf",
+    "Session-01/S01-Laravel-and-APIs.pdf",
+    "Session-01/S01-Our-First-API.pdf",
+    "Session-01/S01-Development-Environments.pdf",
+    "Session-01/Journals.pdf",
+    "Session-02/Adding-XDebug.pdf",
     "Session-03/ReadMe.md",
-    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
     "Session-03/S03-Test-Driven-Development-User-Feature.md",
-    "Session-03/S03-Exercises-and-Journal-Entry.md",
     "Session-03/S03-Test-Driven-Development-Refactoring.md",
     "Session-03/S03-Test-Driven-Development-Overview.md",
     "Session-03/S03-Test-Driven-Development-Example.md",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
+    "Session-03/S03-Exercises-and-Journal-Entry.md",
     "Session-03/S03-Designing-an-API.md",
+    "Session-05/S05-Portfolio-Work.md",
     "Session-02/ReadMe.md",
     "Session-02/S02-Exercises-and-Journal-Entry.md",
     "research.md",
@@ -171,31 +183,19 @@
     "Session-07/S07-KBA-Details.md",
     "Session-06/S06-Review.md",
     "Session-06/S06-Portfolio-Work.md",
-    "Session-05/S05-Portfolio-Work.md",
     "Session-04/S04-APIS-and-Security.md",
     "Session-01/SaaS-Addiction.png",
     "Session-01/S01-Laravel-and-APIs.md",
     "Session-01/S01-Journals.md",
     "Session-01/S01-Development-Environments.md",
     "Session-01/S01-CLI-Commands.md",
-    "Session-02/S02-What-is-an-API.md",
     "assets/Adding-XDebug-20240719134756048.png",
-    "_sort",
-    "Exports/Slides",
-    "ReadMe.md~",
-    "research.md~",
-    "Exports/PDFs/What-is-an-API.pdf",
     "assets/What-is-an-API-20240719140725141.png",
-    "Exports/PDFs/Adding-XDebug.pdf",
-    "Exports/PDFs/Development-Environments.pdf",
     "assets/Saas-Addiction.png",
     "Session-01/Laravel-and-APIs-20240718115929653.png",
     "Session-01/Laravel-and-APIs-20240718115838480.png",
     "assets/Black-Red-Banner.svg",
-    "Exports/PDFs/Journals.pdf",
     "assets/saas-addiction.webp",
-    "assets/rubber-duck-debugging.jpg",
-    "Exports/PDFs/Laravel-and-APIs.pdf",
-    "Exports/PDFs/Our-First-API.pdf"
+    "assets/rubber-duck-debugging.jpg"
   ]
 }
