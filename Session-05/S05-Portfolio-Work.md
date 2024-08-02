@@ -1,3 +1,7 @@
+---
+created: 2024-07-31T08:45
+updated: 2024-08-01T15:34
+---
 For the portfolio you will be creating a REST API for a Job Advertising system.
 
 Part of the work has been completed during the learning sessions, and includes the API for Regions, Subregions, Countries, States and Cities.
@@ -30,22 +34,13 @@ There are key items of data for the position that include, but may not be limite
 
 The table below shows how this feature maps to permissions to complete the tasks.
 
-| User type     | Browse (all)          | Read (one) | Edit     | Add      | Delete   | Search | Notes                                                                                  |
-| ------------- | --------------------- | ---------- | -------- | -------- | -------- | ------ | -------------------------------------------------------------------------------------- |
-| Unregistered  | Limited to random six | No         | No       | No       | No       | No     | Must register to be able to view details                                               |
-| Applicant     | Yes                   | Yes        | No       | No       | No       | Yes    |                                                                                        |
-| Client        | All                   | All        | Only Own | Only Own | Only Own | All    | Soft Delete: May undo only                                                             |
-| Staff         | All                   | All        | All      | All      | All      | All    | Soft Delete: Undo all, Undo one, Destroy all, Destroy one                              |
-| Administrator | All                   | All        | All      | All      | All      | All    | Soft Delete: Undo all, Undo one, Destroy all, Destroy one<br><br>Super-user account(s) |
-
-
-The positions feature requires 
-
-- List positions
-- Show a position
-- Add a position
-- Edit a position
-- Delete a positions (using soft deletes)
+| User type     | Browse (all)                                        | Read (one) | Edit     | Add      | Delete   | Search | Notes                                                                                                                  |
+| ------------- | --------------------------------------------------- | ---------- | -------- | -------- | -------- | ------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Unregistered  | Limited to six positions that are randomly selected | No         | No       | No       | No       | No     | Must register to be able to view details<br><br>User must be registered to access more than "six" positions in browse. |
+| Applicant     | Yes                                                 | Yes        | No       | No       | No       | Yes    |                                                                                                                        |
+| Client        | All                                                 | All        | Only Own | Only Own | Only Own | All    | Soft Delete: May undo own deletions                                                                                    |
+| Staff         | All                                                 | All        | All      | All      | All      | All    | Soft Delete: Undo all, Undo one, Destroy all, Destroy one                                                              |
+| Administrator | All                                                 | All        | All      | All      | All      | All    | Soft Delete: Undo all, Undo one, Destroy all, Destroy one<br><br>Super-user account(s)                                 |
 
 ### Users
 

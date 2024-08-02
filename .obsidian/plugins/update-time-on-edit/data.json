@@ -8,13 +8,15 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Session-02/Readme.md": "a7c6a89a77eb0bb7e5489ce7895f32de73ff859ee826220e09ee8eaa13ce4bda",
     "Session-02/What-is-an-API.md": "c04868292a9b950f72d9b2e675d99d3e573b574fc02933ff77ade138c5e8cdee",
     "Session-02/S02-Exercises-and-Journal-Entry.md": "f06172fa2aae08a262232feb61c8eecdcd1a224c121736c2b7e1d3772ddeaf82",
     "Session-02/S02-Our-First-API.md": "1d1d51128e72b3eeef51a478760d2e8b3fe8e20ed80ddf5ac5f7cb1b746457ae",
-    "Session-03/ReadMe.md": "c34e98233c6564b8772e5405dcfe32ea84acbbb0d0de260aeba2237fef5d0871",
-    "Session-03/S03-Designing-an-API.md": "55ee2b3a135db6ba45534983e2d18182c8a227869492a66452e78cb98e36a912",
-    "Session-03/S03-Exercises-and-Journal-Entry.md": "caeed9b8c18b4fcc24c0797968a78064d8baef60590b5158581ccad229f92e62",
-    "research.md": "f8253eebb2300a37a3b5036d4775e251e3c2cca0fab409e9b9ed7a994b8fe847"
+    "Session-03/ReadMe.md": "2ff4a6067344e3d7a69c6146e744000856e9b3af942304dc1ed63fe56541538b",
+    "Session-03/S03-Designing-an-API.md": "d84e34bd1e4fb1a94543667a77edbbf4117cecc19f73ef0ced2cd149919fe3d7",
+    "Session-03/S03-Exercises-and-Journal-Entry.md": "c51ed7bd50719422bdc87c8f9866a126a0e49fcc2a25f7ceb3c14ecd474c64a3",
+    "research.md": "f8253eebb2300a37a3b5036d4775e251e3c2cca0fab409e9b9ed7a994b8fe847",
+    "Session-02/Readme.md": "99f7e59553df2b7d17d2bb22e740488474d067564bb893bcde163716ebeee023",
+    "Session-05/S05-Portfolio-Work.md": "f750e148cce0cb0c64120cbd6865116d4edf299067f4613ea288213f7752152c",
+    "Session-03/S03-Test-Driven-Development-User-Feature.md": "c2d98d988075b2c1165a3c41121c175ed7f79b4faada1538914d04e360ec8865"
   }
 }

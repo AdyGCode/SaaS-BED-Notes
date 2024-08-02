@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-07-31T07:52
+updated: 2024-08-01T15:44
 ---
 
 # Session 03 Exercises & Journal Entry
@@ -47,6 +47,14 @@ If you have not done so, please complete the in-class exercises that are contain
 These include any exercises from sessions 1 and 2 that have not been completed... 
 
 **Remember to refactor as required!**
+
+
+## Tutorial
+
+Make sure you cover the following tutorial on TDD and REST APIs - it covers the subject again, providing you with an alternative workflow, which makes a great deal of sense.
+
+Rosas, A. (2021, October 14). _Building an API using TDD in Laravel | Laravel.io_. Laravel.io. https://laravel.io/articles/building-an-api-using-tdd-in-laravel
+
 
 ---
 
