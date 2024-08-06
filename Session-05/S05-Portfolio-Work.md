@@ -11,6 +11,7 @@ Also there is a basic API developed for User management.
 ## Features
 
 You are required to develop the following feature sets:
+
 ### Companies
 
 The companies feature will allow a client to add a company, using the country, state, city and company name as a combined unique key so that a company with multiple locations can advertise a position for a particular city.
