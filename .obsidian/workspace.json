@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-04/ReadMe.md",
+                "file": "Session-02/Readme.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-04/ReadMe.md",
+                "file": "Session-02/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-04/ReadMe.md",
+                "file": "Session-02/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-04/ReadMe.md"
+                "file": "Session-02/Readme.md"
               }
             }
           }
@@ -165,8 +165,8 @@
   },
   "active": "3e19c0000da84e82",
   "lastOpenFiles": [
-    "Session-04/S04-APIs-and-Pagination.md",
     "Session-04/ReadMe.md",
+    "Session-04/S04-APIs-and-Pagination.md",
     "research.md",
     "Session-01/ReadMe.md",
     "Session-02/Readme.md",
