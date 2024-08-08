@@ -6,7 +6,7 @@ header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 created: 2024-07-31T08:45
-updated: 2024-08-01T15:45
+updated: 2024-08-08T15:31
 ---
 
 # TDD: User Feature
@@ -405,7 +405,7 @@ it('can delete a user', function () {
 
 ```
 
-## Implement the Delete Method
+## Implement the Destroy Method
 
 Edit the `UserController.php` file and add the code for the delete method...
 

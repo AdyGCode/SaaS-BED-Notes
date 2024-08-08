@@ -5,6 +5,8 @@ footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
+created: 2024-08-01T14:33
+updated: 2024-08-08T15:33
 ---
 
 # Laravel REST API With Model Relationships
