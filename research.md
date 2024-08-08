@@ -1,6 +1,6 @@
 ---
 created: 2024-07-31T07:52
-updated: 2024-07-31T07:52
+updated: 2024-08-08T16:07
 ---
 # References/Links
 
@@ -121,4 +121,23 @@ https://www.youtube.com/watch?v=4ubp_IF6kqY
 https://laracasts.com/series/how-to-contribute-to-open-source
 
 https://laracasts.com/series/how-to-contribute-to-open-source
+
+[Mastering Laravel : From Fundamentals to Advanced Web Development - DEV Community](https://dev.to/chabbasaad/mastering-laravel-from-fundamentals-to-advanced-web-development-2g2h)
+
+[Laravel 11 Simple API Rest with tests - DEV Community](https://dev.to/jruizsilva/laravel-11-simple-api-rest-with-tests-3f9f)
+
+[7 Laravel RESTful APIs best practices for 2024 (benjamincrozat.com)](https://benjamincrozat.com/laravel-restful-api-best-practices)
+
+[Laravel 11 REST API CRUD with best practices | by Sandalanka | Medium](https://medium.com/@1415sandalanka/laravel-11-rest-api-crud-with-best-practices-fcc26505e0d2)
+
+[Testing Laravel Made Easy with Pest: A Beginner's Guide with Code Examples - Joel Male](https://joelmale.com/blog/testing-laravel-with-pest-guide-examples)
+
+[Testing Laravel API With Pest Framework - Hashnode](https://hashnode.com/post/testing-laravel-api-with-pest-framework-cky5jfawk02fr5ns16rgfdeep)
+
+[My favourite way of testing validation rules | Downing Tech](https://downing.tech/posts/my-favourite-way-to-test-laravel-validation)
+
+
+[Testing validation in Laravel - DEV Community](https://dev.to/mattdaneshvar/testing-validation-in-laravel-5fdj)
+
+[How to Unit Test a Laravel API with the Pest Framework | Twilio](https://www.twilio.com/en-us/blog/unit-test-laravel-api-pest-framework)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md",
+                "file": "research.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md",
+                "file": "research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md",
+                "file": "research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md"
+                "file": "research.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "3e19c0000da84e82",
   "lastOpenFiles": [
+    "Session-05/S04-APIS-and-Security.md",
     "Session-04/ReadMe.md",
     "Session-03/ReadMe.md",
     "Session-01/ReadMe.md",
@@ -189,7 +190,6 @@
     "Session-01/Journals.pdf",
     "Session-05/S05-Portfolio-Work.md",
     "Session-02/ReadMe.md",
-    "research.md",
     "assets/SaaS-Addiction.png",
     "Session-01/SaaS-Addiction.png",
     "assets/Adding-XDebug-20240719134756048.png",
