@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-08T15:43
+updated: 2024-08-08T17:26
 ---
 
 # Session 04 Overview
@@ -26,7 +26,9 @@ updated: 2024-08-08T15:43
 	- Setting up
 	- Managing the portfolio
 - [S04 APIs and Pagination](S04-APIs-and-Pagination.md)
-	- TO DO
+	- Adding pagination
+	- Navigating to other pages
+	- Simple validation and errors for `per_page`
 - [S04 GitHub Project Management](S04-GitHub-Project-Management.md)
 	- An overview of how to use GitHub to manage a project
 	- GitHub Issues
