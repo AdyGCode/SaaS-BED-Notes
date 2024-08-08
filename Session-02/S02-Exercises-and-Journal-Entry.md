@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-07-31T07:52
+updated: 2024-08-08T15:40
 ---
 
 # Session 02 Exercises & Journal Entry
@@ -47,6 +47,16 @@ For this week's journal we would like you to do the following...
 
 Be honest with yourself as to what you did and did not understand. 
 
+### Reflection Questions for Journal Entry
+
+Here are some questions to reflect upon.
+
+**Question:** If you executed the command `php artisan make:model Fish -msf` what files would be created?
+
+**Question:** What is the purpose of XDebug?
+
+**Question:** What features does XDebug bring to you as a PHP Developer?
+
 ## Research
 
 Identify (without using Adrian Gould's Diigo account) an example of each of the following:
@@ -65,6 +75,7 @@ Finish the [Pest From Scratch](https://laracasts.com/series/pest-from-scratch)  
 Total video time is approximately 1hr 45min. 
 
 Once completed summarise your learning in the journal as a separate post.
+
 
 ## Found a Problem?
  
