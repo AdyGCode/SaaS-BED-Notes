@@ -1,6 +1,6 @@
 ---
 created: 2024-07-31T07:52
-updated: 2024-08-08T16:07
+updated: 2024-08-08T17:07
 ---
 # References/Links
 
@@ -140,4 +140,8 @@ https://laracasts.com/series/how-to-contribute-to-open-source
 [Testing validation in Laravel - DEV Community](https://dev.to/mattdaneshvar/testing-validation-in-laravel-5fdj)
 
 [How to Unit Test a Laravel API with the Pest Framework | Twilio](https://www.twilio.com/en-us/blog/unit-test-laravel-api-pest-framework)
+
+[Building a RESTful API with Laravel: Best Practices and Implementation Tips. - DEV Community](https://dev.to/rebelnii/building-a-restful-api-with-laravel-best-practices-and-implementation-tips-1lok)
+
+[How to Paginate Query for Laravel API (RestFul)? | by Enver Şanlı | Medium](https://enversanli.medium.com/how-to-paginate-query-for-laravel-api-restful-dd509a6eeb8e)
 
