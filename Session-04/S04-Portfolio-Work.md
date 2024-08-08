@@ -1,13 +1,13 @@
 ---
 created: 2024-07-31T08:45
-updated: 2024-08-08T12:12
+updated: 2024-08-08T15:18
 ---
 
 # Portfolio Work
 
 For the portfolio you will be creating a REST API for a Job Advertising system.
 
-Part of the work has been completed during the learning sessions, and includes the Browse and Read components of the API for Regions, Subregions, Countries, States and Cities.
+Part of the work has been completed during the learning sessions, and includes the Browse and Read components of the API for Regions, Sub-regions, Countries, States and Cities.
 
 Also, there is a basic API developed for User Management.
 
@@ -15,12 +15,15 @@ At this time, no security has been added to the system.
 
 Before securing the API we require the core API features to be developed and tested.
 
+> **Note**: Links within the document may not fully function, this is due to differences between Obsidian, GitHub and other applications.
+
+
 ## Before Commencing
 
 Before commencing you will need to do the following:
 
-- Create a new empty private GitHUb (or equivalent) repository
-	- Ensure that the repository does NOT have a ReadMe.md, .gitignore, License or any other files.
+- Create a new empty private GitHub (or equivalent) repository
+	- Ensure that the repository does **NOT** have a `ReadMe.md`, `.gitignore`, `License` or any other files.
 	- Details are shown in the [Version Control Requirements section](#Version%20Control%20Requirements).
 - Create a new GitHub Project 
 	- The style will be a basic "Kanban".
@@ -45,7 +48,7 @@ Once completed the notes, you will:
 
 ## Version Control Requirements
 
-All code must be version controlled and placed into a **PRIVATE** repository on GitHub or a similar remote system. Access to this repository **must** be given to the assessors and lecturers.
+All code must be version controlled and placed into a **PRIVATE** repository on GitHub or a similar remote system. Access to this repository **must** be given to the assessors and lecturers via their **TAFE eMail** address(es).
 
 You must create a new *empty* **private** repository on GitHub (or equivalent) for this work. The repository will use the naming structure:
 
@@ -75,6 +78,8 @@ Commit messages **must** use the conventional commit style. This is outlined bel
 | Bug fix                 | fix(...)  | fix(user): Fix issue #1234              |               |
 | Documentation           | docs(...) | docs(user): Update Scribe documentation | **preferred** |
 |                         |           |                                         |               |
+|                         |           |                                         |               |
+
 Other conventional commit message types are available, and you are directed to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more guidance and examples.
 
 Note that conventional commits allow for multiple line comments. For example:
@@ -102,18 +107,14 @@ You may also link commits to your issues, and automatically close them by using 
 
 We suggest using `close` when completing a new (sub-)feature and `resolve` when completing a bug-fix.
 
-Further useful details:
-- [Conventional Commits Cheatsheet (github.com)](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
-- [Closing Issues via Commit Messages - The GitHub Blog](https://github.blog/news-insights/product-news/closing-issues-via-commit-messages/)
-- [Linking a pull request to an issue - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
-- [Quickstart for GitHub Issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
-
+Further useful details see the [S04-GitHub-Project-Management](S04-GitHub-Project-Management.md) notes.
 
 ## Requirements for ALL Features
 
-- All data MUST be validated
-- Correct HTTP Responses will be given (200 OK, 201 Created, 404 Not Found, 403 Forbidden, etc)
-- A standardised response structure will be used:
+- PEST (feature) tests **must** be written for each feature and its components
+- All data **must** be validated
+- Correct HTTP Responses **will** be given (200 OK, 201 Created, 404 Not Found, 403 Forbidden, etc)
+- A standardised response structure **will** be used:
   ```json 
   {
     "success": true|false,
@@ -124,7 +125,7 @@ Further useful details:
   }
   ```
 
-
+- The reponse structure may be amended to include an "errors" field that contains an array of errors.
 
 ## Features
 
@@ -212,13 +213,6 @@ Key relationships include, but may not be limited to:
 
 Remember that soft deletes will be required.
 
-
-### Applications (FUTURE FEATURE)
-
-The applications feature will allow an applicant will be able to apply for a position.
-
-This feature is *not* to be implemented at this time.
-
 ### Users
 
 The users feature allows for users of the system to be managed.
@@ -253,6 +247,14 @@ Key relationships include, but may not be limited to:
 - An applicant may have zero or more applications (FUTURE FEATURE)
 
 Remember that soft deletes will be required.
+
+
+### Applications (FUTURE FEATURE)
+
+The applications feature will allow an applicant will be able to apply for a position.
+
+This feature is *not* to be implemented at this time.
+
 
 ### Roles and Permissions
 

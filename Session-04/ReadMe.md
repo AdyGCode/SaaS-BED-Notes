@@ -1,12 +1,38 @@
 ---
+theme: default
+paginate: true
+footer: © Copyright 2024, Adrian Gould & NM TAFE
+header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
+auto-scaling: true
+size: 1920x1080
+color: "#ccc"
+backgroundColor: "#060606"
+tags:
+  - SaaS
+  - APIs
+  - Back-End
+  - Overview
+date created: 03 July 2024
+date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-08T10:58
+updated: 2024-08-08T15:22
 ---
 
 # Session 04 Overview
 
 - [Portfolio Part 1](./S04-Portfolio-Work.md)
+	- Overview of the portfolio part 1 for the cluster
+	- Requirements
+	- Setting up
+	- Managing the portfolio
 - [S04 APIs and Pagination](S04-APIs-and-Pagination.md)
+	- TO DO
+- [S04 GitHub Project Management](S04-GitHub-Project-Management.md)
+	- An overview of how to use GitHub to manage a project
+	- GitHub Issues
+	- Basic Issue Workflow
+	- Kanban board
+
 
 ## Note
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-08-08T11:30
-updated: 2024-08-08T11:31
+updated: 2024-08-08T15:10
 ---
 # Using GitHub to Manage a Project
 
@@ -9,7 +9,32 @@ Overview:
 - [Getting started with project planning on GitHub - The GitHub Blog](https://github.blog/developer-skills/github/getting-started-with-project-planning-on-github/)
 
 
-Watch the following video:
+Watch the following video for an overview of how to use GitHub Projects and Issues to manage a software project:
+- https://youtu.be/oPQgFxHcjAw?si=eUpDK8HlLNjFfHxs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oPQgFxHcjAw?si=Pd5sZnA8hKpgZs71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## GitHub Issues with Tasks
+
+A really good idea is to break down the big issues into a checklist of sub-tasks.
+
+The best bit about this is that you may then convert them into individual GitHub issues. The following article describes how to do this.
+
+- https://dev.to/keracudmore/create-sub-issues-in-github-issues-409m
+
+> **TODO**: Rewrite this tutorial with more detailed steps
+
+## More useful GitHub stuff
+
+### Commit Message Related
+- [Conventional Commits Cheatsheet (github.com)](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+- [Closing Issues via Commit Messages - The GitHub Blog](https://github.blog/news-insights/product-news/closing-issues-via-commit-messages/)
+
+### Pull Requests and Issues
+- [Linking a pull request to an issue - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+
+### General GitHub Issues
+- [Quickstart for GitHub Issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
+- [GitHub Issue Templates](https://youtu.be/UPsCXqxxJUA?si=xj7Dom12MymZxn_S)
+
 
