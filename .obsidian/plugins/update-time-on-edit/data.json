@@ -14,11 +14,11 @@
     "Session-03/ReadMe.md": "d5b9ac92472e06443c65a8b6e9b00859e5d542aacd8aa8228bffd70126d0260d",
     "Session-03/S03-Designing-an-API.md": "c0caec1f1d50a4855a8ae36416b0254e2f959e65cd9c2e9ad69178425539d266",
     "Session-03/S03-Exercises-and-Journal-Entry.md": "c51ed7bd50719422bdc87c8f9866a126a0e49fcc2a25f7ceb3c14ecd474c64a3",
-    "research.md": "8227c5d1d6b67574bd38e0e901a6301175102a08d3d7c6744f5c90ddac80d473",
+    "research.md": "96066d5424f63569300c69856c973b9a25f2f2c74b0d8646e7396c9faa1036e4",
     "Session-02/Readme.md": "abdf3b7ce8ad9afc2e285a8a555351f4b0089dd93121efea72132c0dcf5ec004",
     "Session-05/S05-Portfolio-Work.md": "f750e148cce0cb0c64120cbd6865116d4edf299067f4613ea288213f7752152c",
     "Session-03/S03-Test-Driven-Development-User-Feature.md": "9e7a7e3bc674b8a5e24c49ce82c835cb3e28cf1c313e7af0b93ffe6f5fc9d77b",
-    "Session-04/ReadMe.md": "aa27ccfe80bf7610c1c88d74d27e9912c6002f5c1b0fe4e36128bef563f4115d",
+    "Session-04/ReadMe.md": "845e4cf2f65f66c36dad155e61639c648281ce6fef433af25c9afceb7e0e6446",
     "Session-04/S04-Portfolio-Work.md": "cc601a9ec663f32282b89b7a7d3eafb526a95e0d218b422ff3cb63f371080022",
     "Session-04/S04-GitHub-Project-Management.md": "74d3676cc0a674cc875d6e06cb6b4a4d9158c562a215a72b7ce401a10f0ad839",
     "Session-01/ReadMe.md": "1eafada54b457f0092d19a3527643e87e537f9bac845a7197e922d28dd8fee64",
@@ -33,6 +33,7 @@
     "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md": "1b32ef501519b291137949295c3561bb2d129b56b7a0adb384916326ad278a0a",
     "Session-02/S02-Adding-XDebug.md": "023ef772c065e1909b130f592f7ca8b4e51c39ee37bb894b2dc3a694c49114e5",
     "Session-02/S02-What-is-an-API.md": "3a7fd5538b10ddb9912b8594eb6e5a08e0d02782ef67a932eb7d5f77731f67d6",
-    "Session-05/S04-APIS-and-Security.md": "8a92369bdf119325036264a0da7297ef1e65942debcd0d8dcee8131587d4a2ca"
+    "Session-05/S04-APIS-and-Security.md": "8a92369bdf119325036264a0da7297ef1e65942debcd0d8dcee8131587d4a2ca",
+    "Session-04/S04-APIs-and-Pagination.md": "c82136fabc91d1f1d113885caa38de5e797cef44b82dda15c427cdab4cbe0278"
   }
 }
