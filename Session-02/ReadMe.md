@@ -15,7 +15,7 @@ tags:
 date created: 07 July 2024
 date modified: 08 Aug 2024
 created: 2024-07-25T15:27
-updated: 2024-08-08T17:34
+updated: 2024-08-09T09:05
 ---
 
 # Session 02 Overview
