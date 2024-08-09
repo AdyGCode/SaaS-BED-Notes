@@ -1,6 +1,6 @@
 ---
 created: 2024-07-31T08:45
-updated: 2024-08-08T15:18
+updated: 2024-08-09T09:04
 ---
 
 # Portfolio Work
@@ -96,14 +96,8 @@ close #1234
 You may also link commits to your issues, and automatically close them by using the following keywords and syntax:
 
 - `fix #xxx`
-- `fixes #xxx`
-- `fixed #xxx`
 - `close #xxx`
-- `closes #xxx`
-- `closed #xxx`
 - `resolve #xxx`
-- `resolves #xxx`
-- `resolved #xxx`
 
 We suggest using `close` when completing a new (sub-)feature and `resolve` when completing a bug-fix.
 
