@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-04/S04-APIs-and-Pagination.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-04/S04-Portfolio-Work.md",
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-04/S04-Portfolio-Work.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-04/S04-Portfolio-Work.md"
+                "file": "ReadMe.md"
               }
             }
           }
@@ -176,14 +177,21 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "79d07f49b5aaf038",
+  "active": "c8818829bb662ca7",
   "lastOpenFiles": [
-    "Session-04/S04-GitHub-Project-Management.md",
+    "Session-04/S04-Portfolio-Work.md~",
+    "Session-02/ReadMe.md",
+    "Session-01/ReadMe.md",
+    "Session-02/Readme.md",
+    "Session-03/ReadMe.md",
     "Session-04/S04-Portfolio-Work.md",
+    "Session-04/S04-Portfolio-Work.pdf",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.pdf",
+    "Session-05/S05-Portfolio-Work.md",
     "Session-04/ReadMe.md",
     "Session-04/S04-APIs-and-Pagination.md",
+    "Session-04/S04-GitHub-Project-Management.md",
     "Session-03/S03-Designing-an-API.md",
-    "Session-02/Readme.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
@@ -192,17 +200,12 @@
     "Session-01/S01-Journals.pdf",
     "Session-01/S01-Laravel-and-APIs.pdf",
     "Session-01/S01-Our-First-API.pdf",
-    "Session-01/S01-Development-Environments.pdf",
-    "Session-01/Journals.pdf",
-    "Session-03/ReadMe.md",
     "Session-03/S03-Test-Driven-Development-User-Feature.md",
     "Session-03/S03-Test-Driven-Development-Refactoring.md",
     "Session-03/S03-Test-Driven-Development-Overview.md",
     "Session-03/S03-Test-Driven-Development-Example.md",
     "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
     "Session-03/S03-Exercises-and-Journal-Entry.md",
-    "Session-05/S05-Portfolio-Work.md",
-    "Session-02/ReadMe.md",
     "Session-02/S02-Exercises-and-Journal-Entry.md",
     "research.md",
     "assets/SaaS-Addiction.png",
@@ -213,8 +216,6 @@
     "Session-07/S07-Portfolio-Work.md",
     "Session-07/S07-KBA-Details.md",
     "Session-06/S06-Review.md",
-    "Session-06/S06-Portfolio-Work.md",
-    "Session-04/S04-APIS-and-Security.md",
     "Session-01/SaaS-Addiction.png",
     "assets/Adding-XDebug-20240719134756048.png",
     "assets/What-is-an-API-20240719140725141.png",
