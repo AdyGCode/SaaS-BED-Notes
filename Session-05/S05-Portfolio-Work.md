@@ -1,6 +1,6 @@
 ---
 created: 2024-07-31T08:45
-updated: 2024-08-01T15:34
+updated: 2024-08-09T09:06
 ---
 For the portfolio you will be creating a REST API for a Job Advertising system.
 
