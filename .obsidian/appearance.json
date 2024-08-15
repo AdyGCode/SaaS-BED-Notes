@@ -1,4 +1,9 @@
 {
-  "cssTheme": "Things",
-  "baseFontSizeAction": true
+  "accentColor": "",
+  "cssTheme": "Obsidianotion",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
 }

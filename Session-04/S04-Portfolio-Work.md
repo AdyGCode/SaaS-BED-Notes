@@ -164,10 +164,12 @@ The company model will have the following fields:
 - country
 - logo (image)
 
-Use the country, state, city and company name as a combined unique key so that a 
-company with multiple locations can advertise a position for a particular city.
+Use the country, state, city and company name as a combined unique key so
+that a company with multiple locations can advertise a position for a 
+particular city.
 
 Key relationships include, but may not be limited to:
+
 - A company may have one or more positions related to it.
 
 Remember that soft deletes will be required.
@@ -221,6 +223,7 @@ This includes:
 - "soft undo"
 
 The users model should include:
+
 - user nickname
 - given name
 - family name
@@ -229,7 +232,8 @@ The users model should include:
 - user type (client, staff, or applicant)
 - status (active, unconfirmed, suspended, banned, unknown, suspended)
 
-During "online" registration the client would be asked if they will be a client (posting positions) or an applicant (looking for work).
+During "online" registration the client would be asked if they will be a
+client (posting positions) or an applicant (looking for work).
 
 A user cannot be both client and applicant.
 
@@ -245,14 +249,15 @@ Remember that soft deletes will be required.
 
 ### Applications (FUTURE FEATURE)
 
-The applications feature will allow an applicant will be able to apply for a position.
+The applications feature will allow an applicant will be able to apply for 
+a position.
 
-This feature is *not* to be implemented at this time.
+This feature is ***not*** to be implemented at this time.
 
 
 ### Roles and Permissions
 
-Roles and permissions are NOT to be implemented at this time.
+Roles and permissions are ***not*** to be implemented at this time.
 
 You do not need to create an API for Roles and Permissions as these are tied into the security of the application and the API.
 

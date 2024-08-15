@@ -7,7 +7,7 @@
   "canvas": true,
   "outgoing-link": true,
   "tag-pane": true,
-  "properties": false,
+  "properties": true,
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
@@ -21,10 +21,10 @@
   "random-note": false,
   "outline": true,
   "word-count": true,
-  "slides": false,
+  "slides": true,
   "audio-recorder": false,
-  "workspaces": false,
+  "workspaces": true,
   "file-recovery": true,
-  "publish": false,
+  "publish": true,
   "sync": false
 }
