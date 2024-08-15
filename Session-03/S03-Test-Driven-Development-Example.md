@@ -163,7 +163,8 @@ Write tests for different scenarios, such as validation errors, duplicate emails
       ]);
 
       $response->assertStatus(422);
-      $response->assertJsonValidationErrors(['name', 'email', 'password']);
+      $response->assertJsonValidationErrors(['name', 'email', 'password'], null); 
+      // Thank you to Alex J for pointing out the null parameter being needed
   });
 
   it('does not allow duplicate emails', function () {
@@ -176,9 +177,10 @@ Write tests for different scenarios, such as validation errors, duplicate emails
       ]);
 
       $response->assertStatus(422);
-      $response->assertJsonValidationErrors(['email']);
+      $response->assertJsonValidationErrors(['email'], null);
+      // Thank you to Alex J for pointing out the null parameter being needed
   });
-  ```
+```
 
 # Continuous Integration
 ## Set Up CI/CD
