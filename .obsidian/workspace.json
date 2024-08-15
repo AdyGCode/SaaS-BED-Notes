@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-05/S05-Exercises-and-Journal-Entry.md",
+                "file": "Session-05/S05-APIS-and-Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-04/S04-APIs-and-Pagination.md",
+                "file": "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,20 +68,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "5fec553def5bbf63",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 330.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -97,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-05/S05-Exercises-and-Journal-Entry.md",
+                "file": "Session-05/S05-APIS-and-Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-05/S05-Exercises-and-Journal-Entry.md",
+                "file": "Session-05/S05-APIS-and-Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-05/S05-Exercises-and-Journal-Entry.md"
+                "file": "Session-05/S05-APIS-and-Security.md"
               }
             }
           },
@@ -176,10 +168,14 @@
   },
   "active": "3e19c0000da84e82",
   "lastOpenFiles": [
-    "Session-05/S05-Portfolio-Work.md",
-    "Session-05/S05-Exercises-and-Journal-Entry.md",
-    "Session-05/S05-APIS-and-Security.md",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
     "Session-04/S04-APIs-and-Pagination.md",
+    "Session-05/S05-APIS-and-Security.md",
+    "Session-05/S05-Research.md",
+    "Session-06/S06-Portfolio-Work.md",
+    "Session-06/S06-Exercises-and-Journal-Entry.md",
+    "Session-05/S05-Exercises-and-Journal-Entry.md",
+    "Session-05/S05-Portfolio-Work.md",
     "Session-04/S04-Conventaional-Commits.md",
     "Session-04/S04-GitHub-Project-Management.md",
     "Session-04/S04-Portfolio-Work.md",
@@ -197,11 +193,7 @@
     "Session-02/S02-Exercises-and-Journal-Entry.md",
     "Session-02/S02-What-is-an-API.md",
     "Session-02/S02-Adding-XDebug.md",
-    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
     "Session-03/S03-Test-Driven-Development-User-Feature.md",
-    "Session-03/S03-Test-Driven-Development-Refactoring.md",
-    "Session-03/S03-Test-Driven-Development-Overview.md",
-    "Session-03/S03-Designing-an-API.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
