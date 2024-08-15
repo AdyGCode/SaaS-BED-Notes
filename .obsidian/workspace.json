@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "44334c69293ec3ca",
+        "id": "a3446879cf8cab2f",
         "type": "tabs",
         "children": [
           {
-            "id": "a061fce68c6f5d03",
+            "id": "3e19c0000da84e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md",
+                "file": "Session-05/S05-Exercises-and-Journal-Entry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d8dda5234e68a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session-04/S04-APIs-and-Pagination.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 490.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md",
+                "file": "Session-05/S05-Exercises-and-Journal-Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md",
+                "file": "Session-05/S05-Exercises-and-Journal-Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-05/S04-APIS-and-Security.md"
+                "file": "Session-05/S05-Exercises-and-Journal-Entry.md"
               }
             }
           },
           {
-            "id": "bf9a4822901f9492",
+            "id": "0a23e8041806ccba",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,27 +164,44 @@
     "hiddenItems": {
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a061fce68c6f5d03",
+  "active": "3e19c0000da84e82",
   "lastOpenFiles": [
     "Session-05/S05-Portfolio-Work.md",
-    "Session-06/S06-Portfolio-Work.md",
-    "Session-04/S04-Portfolio-Work.md",
-    "Session-05/S04-APIS-and-Security.md",
-    "Session-04/S04-GitHub-Project-Management.md",
+    "Session-05/S05-Exercises-and-Journal-Entry.md",
+    "Session-05/S05-APIS-and-Security.md",
     "Session-04/S04-APIs-and-Pagination.md",
+    "Session-04/S04-Conventaional-Commits.md",
+    "Session-04/S04-GitHub-Project-Management.md",
+    "Session-04/S04-Portfolio-Work.md",
+    "Session-01/S01-Laravel-and-APIs.md",
+    "Session-01/S01-Development-Environments.md",
+    "Session-02/S02-Our-First-API.md",
+    "Session-04/S04-Exercises-and-Journal-Entry.md",
+    "Session-03/S03-Exercises-and-Journal-Entry.md",
+    "Session-03/S03-Test-Driven-Development-Example.md",
     "Session-04/ReadMe.md",
-    "Session-03/S03-Designing-an-API.md",
+    "research.md",
+    "Session-01/ReadMe.md",
     "Session-02/Readme.md",
+    "Session-03/ReadMe.md",
+    "Session-02/S02-Exercises-and-Journal-Entry.md",
+    "Session-02/S02-What-is-an-API.md",
+    "Session-02/S02-Adding-XDebug.md",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
+    "Session-03/S03-Test-Driven-Development-User-Feature.md",
+    "Session-03/S03-Test-Driven-Development-Refactoring.md",
+    "Session-03/S03-Test-Driven-Development-Overview.md",
+    "Session-03/S03-Designing-an-API.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
@@ -183,24 +212,7 @@
     "Session-01/S01-Our-First-API.pdf",
     "Session-01/S01-Development-Environments.pdf",
     "Session-01/Journals.pdf",
-    "Session-03/ReadMe.md",
-    "Session-03/S03-Test-Driven-Development-User-Feature.md",
-    "Session-03/S03-Test-Driven-Development-Refactoring.md",
-    "Session-03/S03-Test-Driven-Development-Overview.md",
-    "Session-03/S03-Test-Driven-Development-Example.md",
-    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
-    "Session-03/S03-Exercises-and-Journal-Entry.md",
-    "Session-02/ReadMe.md",
-    "Session-02/S02-Exercises-and-Journal-Entry.md",
-    "research.md",
     "assets/SaaS-Addiction.png",
-    "Session-02/S02-Our-First-API.md",
-    "Session-01/S01-Exercises-and-Journal-Entry.md",
-    "ReadMe.md",
-    "Session-08/S08-Portfolio-Presentations.md",
-    "Session-07/S07-Portfolio-Work.md",
-    "Session-07/S07-KBA-Details.md",
-    "Session-06/S06-Review.md",
     "Session-01/SaaS-Addiction.png",
     "assets/Adding-XDebug-20240719134756048.png",
     "assets/What-is-an-API-20240719140725141.png",
