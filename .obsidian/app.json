@@ -1,14 +1,14 @@
 {
   "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assets",
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 90
-  },
-  "useMarkdownLinks": true,
-  "showUnsupportedFiles": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "/assets",
-  "trashOption": "local"
+    "downscalePercent": 70
+  }
 }

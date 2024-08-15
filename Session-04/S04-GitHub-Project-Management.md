@@ -27,13 +27,16 @@ The best bit about this is that you may then convert them into individual GitHub
 ## More useful GitHub stuff
 
 ### Commit Message Related
+
 - [Conventional Commits Cheatsheet (github.com)](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - [Closing Issues via Commit Messages - The GitHub Blog](https://github.blog/news-insights/product-news/closing-issues-via-commit-messages/)
 
 ### Pull Requests and Issues
+
 - [Linking a pull request to an issue - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
 ### General GitHub Issues
+
 - [Quickstart for GitHub Issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 - [GitHub Issue Templates](https://youtu.be/UPsCXqxxJUA?si=xj7Dom12MymZxn_S)
 
