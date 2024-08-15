@@ -41,7 +41,21 @@ Resources:
 - https://dev.to/rebelnii/building-a-restful-api-with-laravel-best-practices-and-implementation-tips-1lok
 - https://medium.com/@vidvatek/laravel-10-rest-api-authentication-using-sanctum-d94a861a5ef9
 - https://auth0.com/blog/build-and-secure-laravel-api/
-- 
+- https://dev.to/nobleokechi/how-to-setup-postman-with-laravel-project-521n
+- https://dev.to/postman/create-a-rest-api-with-php-and-laravel-2gcb
+- https://beproblemsolver.com/rest-api-with-laravel-and-postman/
+- https://www.tutorialspoint.com/laravel-and-postman-rest-api-development-beginner-to-pro/index.asp
+- Laravel Testing 16/24: Testing APIs and JSONs https://www.youtube.com/watch?v=boXbKQZHxvk
+- https://www.youtube.com/playlist?list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp
+- Two API Things that Laravel Automates For Us https://www.youtube.com/watch?v=a5-0Dwyu1vQ
+- Creating Laravel API and Docs: For Beginners https://www.youtube.com/watch?v=XIdplwZb2RI&t=34s
+- Laravel Package For Standard API Responses https://www.youtube.com/watch?v=onkvcJMZ6Wo
+- Laravel API vs Web Validation Errors: How Does It Work? https://www.youtube.com/watch?v=xJqzjt4kWjk
+- https://beproblemsolver.com/rest-api-with-laravel-and-postman/
+- https://dev.to/postman/create-a-rest-api-with-php-and-laravel-2gcb
+
+https://laraveldaily.com/post/project-ideas-for-laravel-beginners-to-practice-their-skills
+
 
 
 
