@@ -19,8 +19,10 @@ updated: 2024-08-09T09:06
 ---
 
 # Knowledge and Skills Review
+
 Software as a Service - Back-End Development
-Session 01
+
+Session 06
 
 Developed by Adrian Gould
 

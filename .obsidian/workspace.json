@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-05/S05-APIS-and-Security.md",
+                "file": "_sort/Laravel-and-APIs 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-05/S05-Exercises-and-Journal-Entry.md",
+                "file": "Session-05/S05-APIS-and-Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scribe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,21 +175,29 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "1c1b55cd228f7fd3",
+  "active": "99e905faebce989c",
   "lastOpenFiles": [
+    "assets/S05-APIS-and-Security-20240816130513797.png",
+    "Session-05/S05-APIS-and-Security.md",
+    "Session-05/assets/explorer_Pci0tdH4n2.gif",
+    "assets/S05-APIS-and-Security-20240816130506873.png",
+    "assets/S05-APIS-and-Security-20240816125914725.png",
+    "assets/S05-APIS-and-Security-20240816125805926.png",
+    "Session-05/assets",
+    "_sort/Laravel-and-APIs 1.md",
+    "Session-05/S05-Exercises-and-Journal-Entry.md",
+    "Session-05/S05-APIS-and-Security.pdf",
     "Session-08/ReadMe.md",
     "Session-07/ReadMe.md",
     "Session-06/ReadMe.md",
     "Session-06/S06-Exercises-and-Journal-Entry.md",
     "Session-06/S06-Portfolio-Work.md",
     "Session-05/ReadMe.md",
-    "Session-05/S05-Exercises-and-Journal-Entry.md",
     "Session-05/S05-Portfolio-Work.md",
     "Session-04/S04-Portfolio-Work.md",
     "Session-04/ReadMe.md",
     "Session-08/ReadMe 1 1 1 1.md",
     "Session-07/ReadMe 1 1 1.md",
-    "Session-05/S05-APIS-and-Security.md",
     "Session-05/S04-APIS-and-Security.md",
     "Session-05/S05-Research.md",
     "Session-04/S04-Exercises-and-Journal-Entry.md",
@@ -205,22 +214,13 @@
     "Session-01/S01-Journals.pdf",
     "Session-01/S01-Laravel-and-APIs.pdf",
     "Session-01/S01-Our-First-API.pdf",
-    "Session-01/S01-Development-Environments.pdf",
-    "Session-01/Journals.pdf",
     "Session-03/ReadMe.md",
     "Session-03/S03-Test-Driven-Development-User-Feature.md",
     "Session-03/S03-Test-Driven-Development-Refactoring.md",
-    "Session-03/S03-Test-Driven-Development-Overview.md",
-    "Session-03/S03-Test-Driven-Development-Example.md",
     "assets/SaaS-Addiction.png",
     "Session-01/SaaS-Addiction.png",
     "assets/Adding-XDebug-20240719134756048.png",
     "assets/What-is-an-API-20240719140725141.png",
-    "assets/Saas-Addiction.png",
-    "Session-01/Laravel-and-APIs-20240718115929653.png",
-    "Session-01/Laravel-and-APIs-20240718115838480.png",
-    "assets/Black-Red-Banner.svg",
-    "assets/saas-addiction.webp",
-    "assets/rubber-duck-debugging.jpg"
+    "assets/Saas-Addiction.png"
   ]
 }
