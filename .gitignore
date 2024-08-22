@@ -236,3 +236,6 @@ Temporary Items
 .apdisk
 
 !.obsidian
+/.obsidian/plugins/novel-word-count/data.json
+/.obsidian/workspace.json
+/.obsidian/vault-stats.json

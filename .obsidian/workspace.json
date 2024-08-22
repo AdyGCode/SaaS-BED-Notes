@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a3446879cf8cab2f",
+        "id": "2df0278c4aae4c16",
         "type": "tabs",
         "children": [
           {
-            "id": "3e19c0000da84e82",
+            "id": "1c1b55cd228f7fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_sort/Laravel-and-APIs 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99e905faebce989c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d8dda5234e68a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scribe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,12 +69,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5fec553def5bbf63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 367.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -134,7 +143,7 @@
             }
           },
           {
-            "id": "0a23e8041806ccba",
+            "id": "bf9a4822901f9492",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,44 +165,47 @@
     "hiddenItems": {
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
-      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "3e19c0000da84e82",
+  "active": "99e905faebce989c",
   "lastOpenFiles": [
-    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
-    "Session-04/S04-APIs-and-Pagination.md",
+    "assets/S05-APIS-and-Security-20240816130513797.png",
     "Session-05/S05-APIS-and-Security.md",
-    "Session-05/S05-Research.md",
-    "Session-06/S06-Portfolio-Work.md",
-    "Session-06/S06-Exercises-and-Journal-Entry.md",
+    "Session-05/assets/explorer_Pci0tdH4n2.gif",
+    "assets/S05-APIS-and-Security-20240816130506873.png",
+    "assets/S05-APIS-and-Security-20240816125914725.png",
+    "assets/S05-APIS-and-Security-20240816125805926.png",
+    "Session-05/assets",
+    "_sort/Laravel-and-APIs 1.md",
     "Session-05/S05-Exercises-and-Journal-Entry.md",
+    "Session-05/S05-APIS-and-Security.pdf",
+    "Session-08/ReadMe.md",
+    "Session-07/ReadMe.md",
+    "Session-06/ReadMe.md",
+    "Session-06/S06-Exercises-and-Journal-Entry.md",
+    "Session-06/S06-Portfolio-Work.md",
+    "Session-05/ReadMe.md",
     "Session-05/S05-Portfolio-Work.md",
+    "Session-04/S04-Portfolio-Work.md",
+    "Session-04/ReadMe.md",
+    "Session-08/ReadMe 1 1 1 1.md",
+    "Session-07/ReadMe 1 1 1.md",
+    "Session-05/S04-APIS-and-Security.md",
+    "Session-05/S05-Research.md",
+    "Session-04/S04-Exercises-and-Journal-Entry.md",
     "Session-04/S04-Conventaional-Commits.md",
     "Session-04/S04-GitHub-Project-Management.md",
-    "Session-04/S04-Portfolio-Work.md",
-    "Session-01/S01-Laravel-and-APIs.md",
-    "Session-01/S01-Development-Environments.md",
-    "Session-02/S02-Our-First-API.md",
-    "Session-04/S04-Exercises-and-Journal-Entry.md",
-    "Session-03/S03-Exercises-and-Journal-Entry.md",
-    "Session-03/S03-Test-Driven-Development-Example.md",
-    "Session-04/ReadMe.md",
-    "research.md",
-    "Session-01/ReadMe.md",
+    "Session-04/S04-APIs-and-Pagination.md",
+    "Session-03/S03-Designing-an-API.md",
     "Session-02/Readme.md",
-    "Session-03/ReadMe.md",
-    "Session-02/S02-Exercises-and-Journal-Entry.md",
-    "Session-02/S02-What-is-an-API.md",
-    "Session-02/S02-Adding-XDebug.md",
-    "Session-03/S03-Test-Driven-Development-User-Feature.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
@@ -202,17 +214,13 @@
     "Session-01/S01-Journals.pdf",
     "Session-01/S01-Laravel-and-APIs.pdf",
     "Session-01/S01-Our-First-API.pdf",
-    "Session-01/S01-Development-Environments.pdf",
-    "Session-01/Journals.pdf",
+    "Session-03/ReadMe.md",
+    "Session-03/S03-Test-Driven-Development-User-Feature.md",
+    "Session-03/S03-Test-Driven-Development-Refactoring.md",
     "assets/SaaS-Addiction.png",
     "Session-01/SaaS-Addiction.png",
     "assets/Adding-XDebug-20240719134756048.png",
     "assets/What-is-an-API-20240719140725141.png",
-    "assets/Saas-Addiction.png",
-    "Session-01/Laravel-and-APIs-20240718115929653.png",
-    "Session-01/Laravel-and-APIs-20240718115838480.png",
-    "assets/Black-Red-Banner.svg",
-    "assets/saas-addiction.webp",
-    "assets/rubber-duck-debugging.jpg"
+    "assets/Saas-Addiction.png"
   ]
 }
