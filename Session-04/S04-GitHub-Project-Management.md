@@ -16,7 +16,7 @@ Watch the following video for an overview of how to use GitHub Projects and Issu
 
 ## GitHub Issues with Tasks
 
-A really good idea is to break down the big issues into a checklist of sub-tasks.
+A good idea is to break down the big issues into a checklist of sub-tasks.
 
 The best bit about this is that you may then convert them into individual GitHub issues. The following article describes how to do this.
 

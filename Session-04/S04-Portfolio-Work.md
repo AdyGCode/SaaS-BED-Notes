@@ -24,7 +24,7 @@ Before commencing you will need to do the following:
 
 - Create a new empty private GitHub (or equivalent) repository
 	- Ensure that the repository does **NOT** have a `ReadMe.md`, `.gitignore`, `License` or any other files.
-	- Details are shown in the [Version Control Requirements section](#Version%20Control%20Requirements).
+	- Details are shown in the [Version Control Requirements section](#Version Control 0Requirements).
 - Create a new GitHub Project 
 	- The style will be a basic "Kanban".
 	- Each feature and sub-feature should be added as issues (see [Portfolio Planning & Documentation](#Portfolio%20Planning%20&%20Documentation)).
@@ -119,7 +119,7 @@ Further useful details see the [S04-GitHub-Project-Management](S04-GitHub-Projec
   }
   ```
 
-- The reponse structure may be amended to include an "errors" field that contains an array of errors.
+- The response structure may be amended to include an "errors" field that contains an array of errors.
 
 ## Features
 
