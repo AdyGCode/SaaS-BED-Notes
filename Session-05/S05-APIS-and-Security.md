@@ -19,7 +19,6 @@ Developed by Adrian Gould
 
 ---
 
-
 ```table-of-contents
 title: # Contents
 style: nestedList
@@ -28,18 +27,19 @@ maxLevel: 3
 includeLinks: true
 ```
 
-
 ---
 
 ### Acknowledgement
 
-This tutorial is based on [Laravel 10 REST API Authentication using Sanctum (vidvatek.com)](https://vidvatek.com/post/laravel-10-rest-api-authentication-using-sanctum).
+This tutorial is based
+on [Laravel 10 REST API Authentication using Sanctum (vidvatek.com)](https://vidvatek.com/post/laravel-10-rest-api-authentication-using-sanctum).
 
 ---
 
 # Creating an Authenticated API
 
-For this tutorial we will start a fresh Laravel application. You may then apply the principles to your own code.
+For this tutorial we will start a fresh Laravel application. You may then apply the principles
+to your own code.
 
 ## Create new Laravel 11 Application
 
@@ -63,8 +63,9 @@ Change into the new project folder:
 cd SaaS-Laravel-11-Sanctum-API/
 ```
 
-Because we have selected the Breeze and API options, the Sanctum configuration and database migrations have been completed during this installation process.
-
+Because we have selected the Breeze and API options, the Sanctum configuration and database
+migrations have been
+completed during this installation process.
 
 ## Configure Sanctum
 
@@ -93,7 +94,7 @@ In the `class` definition update the `use` line to read:
 use HasFactory, Notifiable, HasApiTokens;
 ```
 
-This enables us to use tokens for verifying login status and whom  originated requests.
+This enables us to use tokens for verifying login status and whom originated requests.
 
 ## Add Migration and Models
 
@@ -103,10 +104,12 @@ We will create a new products table migration:
 php artisan make:migration create_products_table
 ```
 
-Now edit the new `database\migrations\yyyy_mm_dd_hhmmss_create_products_table.php` file and add the following definitions:
+Now edit the new `database\migrations\yyyy_mm_dd_hhmmss_create_products_table.php` file and add
+the following
+definitions:
 
 | field name | type   | size | other    |
-| ---------- | ------ | ---- | -------- |
+|------------|--------|------|----------|
 | name       | string | 128  |          |
 | detail     | text   |      | nullable |
 
@@ -118,7 +121,8 @@ Create the Product Feature Test Pest test file:
 php artisan make:test --pest ProductFeatureTest
 ```
 
-Edit the `tests/Feature/ProductFeatureTest.php` file and add a new test, and ensure the database is reset between tests:
+Edit the `tests/Feature/ProductFeatureTest.php` file and add a new test, and ensure the database
+is reset between tests:
 
 ```php
   
@@ -148,7 +152,6 @@ Result:
   Expected response status code [200] but received 404.
 Failed asserting that 404 is identical to 200.
 ```
-
 
 ## Create Routes
 
@@ -180,7 +183,10 @@ We need to create our controllers...
 
 ## Create Base Controller
 
-In a previous tutorial we created a class to deal with the responses... this time we will extend the Controller class to create a new "Base Controller" and in here create the responses we need.
+In a previous tutorial we created a class to deal with the responses...
+
+This time we will extend the Controller class to create a new "Base Controller" and in here
+create the responses we need.
 
 ```bash
 php artisan make:controller BaseController
@@ -247,13 +253,10 @@ php artisan make:controller ProductController
 php artisan test
 ```
 
-We get...
+We get... an error!
 
-```text
-
-```
-
-This is because we do not have the `ProductController` class included in the routes class, make sure to add this to the top of the file:
+This is because we do not have the `ProductController` class included in the routes class, make
+sure to add this to the top of the file:
 
 ```php
 use App\Http\Controllers\ProductController;
@@ -276,7 +279,6 @@ Error: Call to undefined method App\Http\Controllers\ProductController::index()
 
 We haven't got our index method!
 
-
 ## Edit the Product Controller
 
 Edit the Product controller to use the `BaseController` class...
@@ -287,34 +289,20 @@ Edit the Product controller to use the `BaseController` class...
 
 ## Add Products Index method
 
-We are now ready to 
-
-
-
+We are now ready to
 
 ## Create User Register Tests
 
-
 ## Create User Register Controller
-
-
-
-
-
-
-
-
 
 ## Postman Tests
 
-
 ### Create Collection
-
 
 ### Create Endpoint Requests
 
 | API Name           | Verb   | URI                                     |
-| ------------------ | ------ | --------------------------------------- |
+|--------------------|--------|-----------------------------------------|
 | **Register**       | GET    | http://localhost:8000/api/register      |
 | **Login**          | GET    | http://localhost:8000/api/login         |
 | **Logout**         |        |                                         |
@@ -325,7 +313,6 @@ We are now ready to
 | **Product Delete** | DELETE | http://localhost:8000/api/products/{id} |
 
 ### Add header details to Postman
-
 
 ### Test Endpoint Requests
 
