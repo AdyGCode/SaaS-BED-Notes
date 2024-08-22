@@ -44,28 +44,16 @@ includeLinks: true
 ---
 ## Journal Entry: Summarise the Session's Content
 
-**For general details on Journal Content see Session 01.**
-
-For this week's journal we would like you to do the following...
-
-1. Summarise the learning and exercises from this session
-2. ....
-
-
-Remember you MUST include references using MyBib APA6/APA7 format to any references used.
+No Journal Entry
 
 ---
 ## Reflection Questions
 
-Add these questions and your reflection on them to the journal
-
-- **Question:** 
-
+No Questions this week
 
 ## Exercises
 
-...
-
+No Exercises this week
 
 ## Work on the Portfolio
 
@@ -73,8 +61,7 @@ Continue to work on the portfolio.
 
 ## Tutorial
 
-...
-
+No additional tutorials
 
 
 ---
