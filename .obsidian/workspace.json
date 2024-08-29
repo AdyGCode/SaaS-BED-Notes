@@ -11,8 +11,12 @@
             "id": "ca6dc67f33bacb8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session-07/ReadMe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session-07/ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session-07/ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session-07/ReadMe.md"
+              }
             }
           },
           {
@@ -156,12 +164,12 @@
   },
   "active": "ca6dc67f33bacb8e",
   "lastOpenFiles": [
+    "Session-05/S05-APIS-and-Security.md",
     "Session-07/external/Secure-RESTful-API-Passport.md",
     "Session-07/external/medium-Api-Authenticate-How-to-authenicate.md.md",
     "Session-07/S07-Exercises-and-Journal-Entry.md",
     "Session-07/external",
     "Session-06/S06-Exercises-and-Journal-Entry.md",
-    "Session-05/S05-APIS-and-Security.md",
     "Session-07/ReadMe.md",
     "_sort/Laravel-and-APIs 1.md",
     "Session-07/assets/1_enSkT2ZdUB7O9yk64agK1w.webp",

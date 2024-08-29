@@ -310,19 +310,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 273,
+      "wordCount": 283,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.91,
-      "characterCount": 3887,
-      "nonWhitespaceCharacterCount": 3543,
-      "readingTimeInMinutes": 1.030188679245283,
+      "pageCount": 0.9433333333333334,
+      "characterCount": 4020,
+      "nonWhitespaceCharacterCount": 3661,
+      "readingTimeInMinutes": 1.0679245283018868,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724315984096,
-      "modifiedDate": 1724906638357,
-      "sizeInBytes": 4283
+      "modifiedDate": 1724910971682,
+      "sizeInBytes": 4416
     },
     "Session-07/assets/1__JD4y43egR5ZDxh9FJ_tZA.webp": {
       "isCountable": false,
@@ -591,7 +591,7 @@
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1723095957024,
-      "modifiedDate": 1724907080303,
+      "modifiedDate": 1724908523796,
       "sizeInBytes": 25818
     },
     "Session-05/ReadMe.md": {

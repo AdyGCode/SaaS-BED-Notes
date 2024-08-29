@@ -51,6 +51,13 @@ updated: 2024-08-09T09:06
 Adrian looking into this (translation of content)... [Laravel 11 REST APIs with Sanctum Auth Package in Hindi (REST APIs in 1 Hour) (youtube.com)](https://www.youtube.com/watch?v=8f3VeBBfnTM)
 
 
+## Testing Soft Deletes
+
+Thanks to Mistral for this assistance.
+
+https://chat.mistral.ai/chat/41738c25-b8ba-4adc-a0cb-5bca7b280387
+
+
 ## Note
 
 Remember that AI Generated Code is not 100% reliable, and as such you should check all code that is generated.
