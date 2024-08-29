@@ -20,10 +20,16 @@ updated: 2024-08-09T09:06
 
 # Session 07 Overview
 
+These links are especially relevant and helpful:
+
 - https://www.youtube.com/playlist?list=PL38wFHH4qYZUXLba1gx1l5r_qqMoVZmKM # Laravel 11 API CRUD app with Authentication using Laravel Sanctum
 
  - Laravel 11 - How to use Sanctum API and create register user with Postman https://www.youtube.com/watch?v=bxrghWDyxJQ&list=PLaVebpbEIP3bbdPv_67BzjiYpiHWJyv9E
 
+- Laravel Sanctum and Postman https://www.youtube.com/watch?v=My61OicxPRo
+
+- 
+### Other Research
 
 - [Laravel 11 REST API Authentication using Sanctum Tutorial - ItSolutionStuff.com](https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html)
 - [Laravel API Authentication with Sanctum: Secure Your RESTful Services 🔐 - EloquentBlog](https://www.eloquentblog.com/post/laravel-api-authentication-with-sanctum-secure-your-restful-services)
@@ -39,7 +45,7 @@ updated: 2024-08-09T09:06
 - [Laravel 11 - Building API using Sanctum - DEV Community](https://dev.to/akramghaleb/laravel-11-building-api-using-sanctum-18m#step-9-check-following-api)
 - [Laravel 11 REST API Authentication using Sanctum Tutorial | by Noumcpe | Medium](https://medium.com/@noumcpe0007/laravel-11-rest-api-authentication-using-sanctum-tutorial-12231b02354b)
 
--  Laravel Sanctum and Postman https://www.youtube.com/watch?v=My61OicxPRo
+
 - https://www.youtube.com/playlist?list=PLaVebpbEIP3bbdPv_67BzjiYpiHWJyv9E
 - https://www.youtube.com/playlist?list=PLFHz2csJcgk8kvwLWESQcfk1eAivQOjdN
 
