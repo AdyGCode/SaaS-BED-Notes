@@ -41,7 +41,7 @@ updated: 2024-08-09T09:06
 - https://www.youtube.com/playlist?list=PL38wFHH4qYZXH8Gb7PIbmyjdsWdEJLImp Laravel 11 crash course
 - https://www.youtube.com/watch?v=_lfsvZZWsXE
 - https://www.youtube.com/playlist?list=PLaVebpbEIP3bbdPv_67BzjiYpiHWJyv9E
-- 
+- [Laravel Sanctum (Airlock) with Postman - Codecourse](https://codecourse.com/articles/laravel-sanctum-airlock-with-postman/)
 
 Adrian looking into this (translation of content)... [Laravel 11 REST APIs with Sanctum Auth Package in Hindi (REST APIs in 1 Hour) (youtube.com)](https://www.youtube.com/watch?v=8f3VeBBfnTM)
 
