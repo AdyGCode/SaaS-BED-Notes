@@ -1,6 +1,6 @@
 (https://medium.com/@hendriks96?source=post_page-----c4eeaa99b472--------------------------------)
 
-![](assets/1_enSkT2ZdUB7O9yk64agK1w.webp)
+![](../assets/1_enSkT2ZdUB7O9yk64agK1w.webp)
 
 The latest version of Laravel offers the latest authentication feature, Laravel Sanctum. A simple authentication that can be used in SPA (single page application), mobile applications, and token based APIS. Quoted from laravel documentation ”[Laravel Sanctum](https://github.com/laravel/sanctum) provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs. Sanctum allows each user of your application to generate multiple API tokens for their account. These tokens may be granted abilities / scopes which specify which actions the tokens are allowed to perform”.
 
@@ -50,7 +50,7 @@ This command will run the migration command in Laravel and will automatically cr
 
 If successful, there will be a table in MySQL which was generated from the Laravel migration database.
 
-![](assets/1_HgURMMGtzhsJOfadk0G9RQ.webp)
+![](../assets/1_HgURMMGtzhsJOfadk0G9RQ.webp)
 
 default table user
 
@@ -58,7 +58,7 @@ default table user
 
 In Laravel version 9 and above, Laravel Sanctum is automatically installed when we create a Laravel project. We can check via the `composer.json` file
 
-![](assets/1_MeWY60TPP0NBVxJbWsjclA.webp)
+![](../assets/1_MeWY60TPP0NBVxJbWsjclA.webp)
 
 composer.json
 
@@ -86,7 +86,7 @@ Next, open the AuthController.php file in app\\http\\controllers\\api.
 
 Create 3 function in AuthController.php, register, login and logout
 
-![](assets/1_08aku4P8kSm-atLECS2Ugg.webp)
+![](../assets/1_08aku4P8kSm-atLECS2Ugg.webp)
 
 function in authcontroller.php
 
@@ -94,7 +94,7 @@ function in authcontroller.php
 
 We will create a simple registration, in this example we will create a user registration using name, email and password. We will create the following use case :
 
-![](assets/1_ZsvW6ObH-epnNvRYF_W8OQ.webp)
+![](../assets/1_ZsvW6ObH-epnNvRYF_W8OQ.webp)
 
 register use case
 
@@ -157,7 +157,7 @@ Headers: Accept: application/json
 
 Body: name,email,password
 
-![](assets/1_BwUa0papXvt4aC5UjMIFaw.webp)
+![](../assets/1_BwUa0papXvt4aC5UjMIFaw.webp)
 
 post register user
 
@@ -165,7 +165,7 @@ post register user
 
 Next we will create a login api that we can use to authenticate users
 
-![](assets/1__T14DpugCsxSOiKbaXEwuQ.webp)
+![](../assets/1__T14DpugCsxSOiKbaXEwuQ.webp)
 
 login use case
 
@@ -204,7 +204,7 @@ Headers: Accept: application/json
 
 Body : email, password
 
-![](assets/1__JD4y43egR5ZDxh9FJ_tZA.webp)
+![](../assets/1__JD4y43egR5ZDxh9FJ_tZA.webp)
 
 post login user
 
@@ -225,13 +225,13 @@ Now try calling the user endpoint to get the logged in user information, don’t
 | Headers       | `Accept : application, json`                                         |
 | Authorization | `bearer token`                                                       |
 
-![](assets/1_CIQ40WmCpU5ib9XEdQmGJA.webp)
+![](../assets/1_CIQ40WmCpU5ib9XEdQmGJA.webp)
 
 get user successful
 
 It’s good that we have got the user we wanted, To ensure that the URL can only give a successful response if there is a token, try changing authorization with no auth.
 
-![](assets/1_nPJaZajic89XGYM8TBB2RA.webp)
+![](../assets/1_nPJaZajic89XGYM8TBB2RA.webp)
 
 get user failed
 
@@ -261,7 +261,7 @@ Headers: Accept : application, json
 
 Authorization: `Bearer token`
 
-![](assets/1_KLMyYq-8jJA7SgW3NDto7Q.webp)
+![](../assets/1_KLMyYq-8jJA7SgW3NDto7Q.webp)
 
 Nice, now we have successfully implemented authentication using Laravel Sanctum. A simple method offered by Laravel.
 

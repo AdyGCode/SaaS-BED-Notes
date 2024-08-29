@@ -48,7 +48,6 @@ includeLinks: true
 For this week's journal we would like you to do the following...
 
 1. Summarise the learning and exercises from this session
-2. Conduct research into using Postman to test APIs (See reflection questions).
 
 
 Remember you MUST include references using MyBib APA6/APA7 format to any references used.
@@ -56,29 +55,33 @@ Remember you MUST include references using MyBib APA6/APA7 format to any referen
 ---
 ## Reflection Questions
 
-Add these questions and your reflection on them to the journal
-
-- **Question:** 
+No reflection questions.
 
 ## Exercises
 
-Complete the following exercises:
+#### Exercise 1: Postman & Sanctum in Laravel 11
 
-### Exercise 1
+Locate a video tutorial or tutorial series that covers using Postman to test an API that is based on Laravel 11 and Sanctum.
 
-- ...
-- ...
+Summarise the series into key points of interest.
+
+#### Exercise 2: Postman & Sanctum in Laravel 11
+
+Locate a written tutorial or tutorial series that covers using Postman to test an API that is based on Laravel 11 and Sanctum.
+
+Summarise the series into key points of interest.
+
+
 
 ## Work on the Portfolio
 
 Continue to work on the portfolio.
 
+You should be at the point where you are able to work on securing the API.
+
 ## Tutorial
 
-Make sure you cover the following tutorials:
-
-- ...
-- ...
+No additional tutorials.
 
 
 
