@@ -20,6 +20,9 @@ updated: 2024-08-09T09:06
 
 # Session 07 Overview
 
+
+## Laravel, Sanctum & Postman
+
 These links are especially relevant and helpful:
 
 - https://www.youtube.com/playlist?list=PL38wFHH4qYZUXLba1gx1l5r_qqMoVZmKM # Laravel 11 API CRUD app with Authentication using Laravel Sanctum
@@ -28,8 +31,20 @@ These links are especially relevant and helpful:
 
 - Laravel Sanctum and Postman https://www.youtube.com/watch?v=My61OicxPRo
 
-- 
-### Other Research
+
+## Testing Soft Deletes
+
+Thanks to Mistral for this assistance.
+
+https://chat.mistral.ai/chat/41738c25-b8ba-4adc-a0cb-5bca7b280387
+
+## Storing Images in Laravel
+https://www.devopsschool.com/blog/how-to-store-and-retrieve-image-from-the-database-in-laravel/
+
+
+
+
+## Other Research
 
 - [Laravel 11 REST API Authentication using Sanctum Tutorial - ItSolutionStuff.com](https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html)
 - [Laravel API Authentication with Sanctum: Secure Your RESTful Services 🔐 - EloquentBlog](https://www.eloquentblog.com/post/laravel-api-authentication-with-sanctum-secure-your-restful-services)
@@ -56,12 +71,6 @@ These links are especially relevant and helpful:
 
 Adrian looking into this (translation of content)... [Laravel 11 REST APIs with Sanctum Auth Package in Hindi (REST APIs in 1 Hour) (youtube.com)](https://www.youtube.com/watch?v=8f3VeBBfnTM)
 
-
-## Testing Soft Deletes
-
-Thanks to Mistral for this assistance.
-
-https://chat.mistral.ai/chat/41738c25-b8ba-4adc-a0cb-5bca7b280387
 
 
 ## Note
