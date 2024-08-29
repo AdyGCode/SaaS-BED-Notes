@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-07/ReadMe.md",
+                "file": "Session-01/S01-Laravel-and-APIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-07/ReadMe.md",
+                "file": "Session-01/S01-Laravel-and-APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-07/ReadMe.md",
+                "file": "Session-01/S01-Laravel-and-APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-07/ReadMe.md"
+                "file": "Session-01/S01-Laravel-and-APIs.md"
               }
             }
           },
@@ -164,13 +164,17 @@
   },
   "active": "ca6dc67f33bacb8e",
   "lastOpenFiles": [
+    "Session-02/S02-Our-First-API.md",
+    "Session-03/S03-Test-Driven-Development-Example.pdf",
+    "Session-03/S03-Test-Driven-Development-Overview.md",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
+    "Session-07/ReadMe.md",
     "Session-05/S05-APIS-and-Security.md",
     "Session-07/external/Secure-RESTful-API-Passport.md",
     "Session-07/external/medium-Api-Authenticate-How-to-authenicate.md.md",
     "Session-07/S07-Exercises-and-Journal-Entry.md",
     "Session-07/external",
     "Session-06/S06-Exercises-and-Journal-Entry.md",
-    "Session-07/ReadMe.md",
     "_sort/Laravel-and-APIs 1.md",
     "Session-07/assets/1_enSkT2ZdUB7O9yk64agK1w.webp",
     "Session-07/assets/1_HgURMMGtzhsJOfadk0G9RQ.webp",
@@ -201,13 +205,10 @@
     "Session-05/S04-APIS-and-Security.md",
     "Session-05/S05-Research.md",
     "Session-04/S04-Exercises-and-Journal-Entry.md",
-    "Session-04/S04-Conventaional-Commits.md",
-    "Session-04/S04-GitHub-Project-Management.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
     "Session-02/S02-What-is-an-API.pdf",
-    "Session-01/S02-What-is-an-API.pdf",
-    "Session-01/S01-Journals.pdf"
+    "Session-01/S02-What-is-an-API.pdf"
   ]
 }

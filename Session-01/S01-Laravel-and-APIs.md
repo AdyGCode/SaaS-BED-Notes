@@ -293,9 +293,9 @@ public function run(): void
   
     $json = File::get('database/data/regions.json');  
   
-    $countries = json_decode($json);  
+    $regions = json_decode($json);  
   
-    foreach ($countries as $key => $value) {  
+    foreach ($regions as $key => $value) {  
 	    // TODO: this will need to be extended to provide for translation import.
         Region::create([  
             'name' => $value->name,  
