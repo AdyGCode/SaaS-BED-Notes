@@ -48,18 +48,22 @@ This tutorial is based on https://www.devopsschool.com/blog/how-to-store-and-ret
 
 ---
 
-# Creating an Authenticated API
+# Creating a File Upload API
 
 For this tutorial we will start a fresh Laravel application. You may then apply the principles to your own code.
+
+This tutorial does not include tests, so you should investigate and practice the creation of suitable tests for the API.
+
+Most up to date code may be found on [GitHub - SaaS Laravel 11 API Files Uploads](https://github.com/AdyGCode/SaaS-Laravel-11-API-Files-Uploads.git). 
 
 
 ---
 
-# Create new Laravel 11 Application
+## Create new Laravel 11 Application
 
 ```shell
 cd ~/Source/Repos
-laravel new SaaS-Laravel-11-API-Files-Uploads
+laravel new SaaS-Laravel-11-API-File-Upload
 ```
 
 Respond to the questions with the following:
@@ -74,12 +78,18 @@ Respond to the questions with the following:
 Change into the new project folder:
 
 ```shell
-cd SaaS-Laravel-11-API-Files-Uploads
+cd SaaS-Laravel-11-API-File-Upload
 ```
 
 Because we have selected the Breeze and API options, the Sanctum configuration and database migrations have been completed during this installation process.
 
-## Edit `.env` and Duplicate
+As we are using SQLite for development, we will make sure the database file is present:
+
+```shell
+touch database/database.sqlite
+```
+
+### Edit `.env` and Duplicate
 
 Open the `.env` file and make the following changes:
 
@@ -99,7 +109,7 @@ Remember that `XXX` are your initials!
 
 Save the changes and then make a copy of the file and name it: `.env.dev`.
 
-## Add Pest Plugins
+### Add Pest Plugins
 
 We will be adding the following Pest plugins:
 
@@ -107,8 +117,20 @@ We will be adding the following Pest plugins:
 - Laravel -  *this adds extra commands for use with artisan*
 - watch -  *this will let you watch for file changes and have pest automatically re-run*
 
-Use the following commands:
+Windows users (non WSL), use the following commands:
 
+```bash
+composer require pestphp/pest-plugin-faker --dev 
+composer require pestphp/pest-plugin-laravel --dev
+```
+
+or as one line:
+
+```bash
+composer require pestphp/pest-plugin-faker --dev pestphp/pest-plugin-laravel --dev
+```
+
+For WSL, MacOS and Linux users you may use:
 ```bash
 composer require pestphp/pest-plugin-faker --dev 
 composer require pestphp/pest-plugin-laravel --dev
@@ -122,14 +144,14 @@ composer require pestphp/pest-plugin-faker --dev pestphp/pest-plugin-laravel --d
 ```
 
 
-> **Note:** The pest watch plugin is **NOT** usable on Windows systems due to the way the pipes block processes from allowing other processes to run.
+> **Note:** The PEST watch plugin is **NOT** usable on Windows systems due to the way that pipes block processes from allowing other processes to run.
 > 
 > MacOS and Linux users may use `./vendor/bin/pest --watch` or `php artisan test --watch`.
 > 
 > Remember that PhpStorm *does* have the ability to watch and run tests automatically.
 
 
-## Add Scribe
+### Add Scribe
 
 Add the Scribe package & publish the configuration to Laravel:
 
@@ -154,7 +176,7 @@ This configuration means that Scribe will use the Laravel routing and …
 
 It will also add CSRF to form requests, and automatically generate examples of the API using Bash (curl), JavaScript, PHP and Python.
 
-## Configure Sanctum
+### Configure Sanctum
 
 Make sure that the `app\bootstrap\app.php` file contains the following lines:
 
@@ -183,8 +205,23 @@ use HasFactory, Notifiable, HasApiTokens;
 
 This enables us to use tokens for verifying login status and whom  originated requests.
 
+### Create a Symbolic Link for File Storage
 
-# Create Base Controller
+To allow access via the public folder to the files we need to create a symbolic link (symlink) from `/storage/app/` to `/public/`.
+
+Run this command:
+
+```bash
+artisan storage:link
+```
+
+> **Aside:**
+> 
+> This does make the files directly accessible but each file has a 'meaningless' UUID for the name, which will make it harder to discover and download.
+
+
+
+## Create Base Controller
 
 In a previous tutorial we created an `ApiResponseClass` to deal with the responses... this time we will extend the Controller class to create a new "Base Controller" and in here create the response methods we need.
 
@@ -252,7 +289,7 @@ We will use this with our Controllers.
 
 
 
-# Prepare for Products Feature
+## Prepare for Products Feature
 
 We start by creating the product migration, model, factory and controller... testing as we go.
 
@@ -287,8 +324,18 @@ Now edit the new `yyyy_mm_dd_hhmmss_create_products_table.php` file that has bee
 | name              | string | 128  |          |
 | detail            | text   |      | nullable |
 | original_filename | string | 255  | nullable |
-| mime_type         | string | 255  | nullable |
+| mime_type         | string | 64   | nullable |
 | stored_filename   | string | 255  | nullable |
+
+Here is a set of sample definitons:
+
+```php
+$table->string('name', 128);  
+$table->text('detail')->nullable();  
+$table->string('original_filename', 255)->nullable();  
+$table->string('mime_type', 64)->nullable();  
+$table->string('stored_filename', 255)->nullable();
+```
 
 ### Execute the Migration
 
@@ -299,6 +346,7 @@ php artisan migrate
 ```
 
 If you have errors then make sure to fix them before continuing.
+
 
 ## Create the Product model
 
@@ -365,549 +413,494 @@ Edit the factory to have the following `definition` method detail:
     ```
 
 
+## Create the API Routes
 
+When creating the sample code, we used a technique to exclude selected HTTP Verb actions using the `except` modifier in the API Routes file.
 
----
-# TO DO: Tutorial needs completing
-
----
-
-
-## Create Route Tests
-
-Create the Product Feature Test Pest test file:
-
-```shell
-php artisan make:test --pest ProductFeatureTest
-```
-
-Edit the `tests/Feature/ProductFeatureTest.php` file and add a new test, and ensure the database is reset between tests:
-
+For example:
 ```php
-use Illuminate\Foundation\Testing\RefreshDatabase;  
-  
-uses(RefreshDatabase::class);  
-  
-it('has products page')  
-    ->get('/api/v1/products')  
-    ->assertStatus(200);
-```
-
-Run the test to see the failures:
-
-```shell
-php artisan test
-```
-
-Result:
-
-```text
-
-   FAIL  Tests\Feature\ProductFeatureTest
-  ⨯ it has products page                                                                                         0.16s
-  ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-   FAILED  Tests\Feature\ProductFeatureTest > it has products page
-  Expected response status code [200] but received 404.
-Failed asserting that 404 is identical to 200.
-```
-
-
-## Create Routes
-
-Edit the `routes\api.php` file and add the products route:
-
-```php
-  
 Route::group(['prefix' => 'v1'], function () {  
-    Route::apiResource('/products', ProductController::class);  
+    Route::apiResource('/products',
+                       ProductController::class)  
+        ->except(['create', 'update', 'delete',]);  
+    
 });
 ```
 
-Run the tests again.... this time we get a different error:
+This prevents anything except the index and show methods being used.
 
-```text
-   FAIL  Tests\Feature\ProductFeatureTest
-  ⨯ it has products page                                                                                         3.84s
-  ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-   FAILED  Tests\Feature\ProductFeatureTest > it has products page
-  Expected response status code [200] but received 500.
-Failed asserting that 500 is identical to 200.
-
-The following exception occurred during the last request:
-
-ReflectionException: Class "ProductController" does not exist in C:\Users\5001775\Source\Repos\SaaS-Laravel-11-Sanctum-API\vendor\laravel\framework\src\Illuminate\Container\Container.php:938
-```
-
-We need to create our controllers...
-
-## Create Products Controller
-
-```shell
-php artisan make:controller ProductController
-```
-
-> **Note:** 
-> 
-> Remember that **ONLY** tables and routes use plurals.
-
-## Run tests
-
-```shell
-php artisan test 
-```
-
-We get...
-
-```text
-
-   FAIL  Tests\Feature\ProductFeatureTest
-  ⨯ it has products page                                                                                                                              1.69s
-  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-   FAILED  Tests\Feature\ProductFeatureTest > it has products page
-  Expected response status code [200] but received 500.
-Failed asserting that 500 is identical to 200.
-
-The following exception occurred during the last request:
-
-ReflectionException: Class "ProductController" does not exist 
-```
-
-This is because we do not have the `ProductController` class included in the routes class, make sure to add this to the top of the file:
+Open the `routes/api.php` file, and add:
 
 ```php
 use App\Http\Controllers\ProductController;
 ```
 
-Running the test again... it will still fail, but it is ok...
+To the use lines at the top of the file.
 
-```text
-   FAIL  Tests\Feature\ProductFeatureTest
-  ⨯ it has products page                                                                                         3.76s
-  ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-   FAILED  Tests\Feature\ProductFeatureTest > it has products page
-  Expected response status code [200] but received 500.
-Failed asserting that 500 is identical to 200.
-
-The following exception occurred during the last request:
-
-Error: Call to undefined method App\Http\Controllers\ProductController::index() 
-```
-
-We haven't got our index method!
-
-<div class="page-break" style="page-break-before: always;"></div>
-
-
-# List Products Feature
-
-Edit the Product controller to use the `BaseController` class...
+Then add:
 
 ```php
-
+Route::group(['prefix' => 'v1'], function () {  
+    Route::apiResource('/products', 
+                       ProductController::class)  
+        ->except(['index', 'show', 'update', 'delete',]);  
+  
+});
 ```
 
-## Add Products Index method
+We will create the `create` method and test this using Postman.
 
-Add  a very basic index method:
+
+## Add the Product Create method
+
+Create a product controller:
+
+```
+php artisan make:controller ProductController --api
+```
+
+This creates a resourceful API controller which has the required stub methods.
+
+Open the `/app/Http/Controllers/ProductController.php` file and locate the `store` method.
+
+In this method we will need to:
+- Validate the name, description and product image
+- Process and store the uploaded image using a random filename
+- Store the product model including the original image name, the MIME type and the random filename.
+- Return the data and success as required.
+
+At some point it would be beneficial to send a suitable error response if:
+- the file failed to be stored
+- there was an error in validation
+- some unexpected error occurred
+
+### Validation
+
+Let's start by validating the data:
+
+The name is a simple validation, it is required, and we have set a minimum length of 4 characters:
+```php
+    'name' => [
+	    'required',  
+	    'min:4'
+	],
+```
+
+The description uses the `sometimes` option, which means it is optional, and we only check if there is data... oh and if there is data there has to be at least 12 characters...
 
 ```php
-public function index():JsonResponse  
-{  
-    $data = [];  
-    return $this->sendResponse($data,"No Data");  
+'description' => [  
+    'sometimes',  
+    'min:12'  
+],
+```
+
+Now onto the interesting part, the image validation...
+
+We allow for no image to be uploaded (`sometimes`), then tell the validation we are expecting an `image`. 
+
+We set the allowed image types to be `jpeg`,`png`,`jpg`,`gif`. 
+
+The penultimate item indicates the maximum size of image (2Mb). 
+
+Finally we force the image to be at least 100x100 pixels, and at most 2048x2048 pixels.
+
+```php
+'product_image' => [  
+    'sometimes',  
+    'image',  
+    'mimes:jpeg,png,jpg,gif',  
+    'max:2048',  
+    'dimensions:min_width=100,min_height=100,max_width=2048,max_height=2048',
+],
+```
+
+Add this code to the `store` method.
+
+```php
+public function store(Request $request)  
+{
+    $request->validate([  
+       'name' => [
+	        'required',  
+	        'min:4'
+	   ],
+       'description' => 'sometimes',  
+       'product_image' => [  
+           'sometimes',  
+           'image',  
+           'mimes:jpeg,png,jpg,gif',  
+           'max:2048',  
+'dimensions:min_width=100,min_height=100,max_width=2048,max_height=2048',
+	   ],  
+    ]);
+```
+
+
+#### Mini-Exercise...
+
+Which of the following would be also allowed to be used in the MIME types? 
+- SVG
+- WebP
+- JPEG XL
+
+### Process & Store Image
+
+At the moment we are not rejecting invalid data, we will investigate this later.
+
+For now let's process the image, if one has been uploaded.
+
+First of all, we initialise some variables so we can reuse the various parts in a more readable manner:
+
+```php
+$productImage = $request->file('product_image');  
+$originalName = null;  
+$storedName = null;  
+$mimeType = null;
+```
+
+This also takes care of the possibility of no image upload being present.
+
+Now we check to see if an image was uploaded, and if so extract the file extension, the mime type, the original name, and create a random name for storing.
+
+Then the file is moved from the temporary upload location into the storage area in a folder 'images':
+
+```php
+if ($productImage != null) {  
+    $originalExtension = $productImage->extension();  
+    $originalName = $productImage->getClientOriginalName();  
+    $storedName = Str::uuid().'.'.$originalExtension;  
+    $request->product_image->storeAs('images', $storedName);  
+    $mimeType = $productImage->getClientMimeType();  
 }
 ```
 
-We do this so we pass the test, briefly...
+The stored name uses the UUID string method to create a 36 character string that is extremely unlikely to reoccur. 
 
-```text
-   PASS  Tests\Feature\ProductFeatureTest
-  ✓ it has products page      
-```
-
-## Update Test
-
-Add a new test...
+You will need to add this to the use lines at the top of the controller file:
 
 ```php
-it('returns Data, Message & Success', function () {  
-  
-    // Arrange the test  
-    $products = Product::factory(5)->create();  
-  
-    // Act on the endpoint  
-    $response = $this->getJson('/api/v1/products');  
-  
-    // Assert these facts  
-    $response  
-        ->assertJson(fn(AssertableJson $json) =>  
-        $json->hasAll(['data','message','success'])  
-    );  
-  
-});
+use Illuminate\Support\Str;
 ```
 
+Also add the Storage facade:
 
-Running the test it should pass... if not, why not?
+```phpo
+use Illuminate\Support\Facades\Storage;
+```
 
-## Update Feature Test...
+### Store the data
 
-We will now add a third test:
+Next we are ready to create the Product's record in the database.
+
+As we have handled the eventuality of not having a file, or even details, we can now write the following to insert the product into the database:
 
 ```php
-it('returns all products', function () {  
-  
-    // Arrange the test  
-    $products = Product::factory(5)->create();  
-  
-    // Act on the endpoint  
-    $response = $this->getJson('/api/v1/products');  
-  
-    $response  
-        ->assertJson(fn(AssertableJson $json) =>  
-        $json->has('data', 5)  
-            ->etc()  
-    );  
-  
-});
+$product = new Product([  
+    "name" => $request->name,  
+    "detail" => $request->detail,  
+    "mime_type" => $mimeType ?? null,  
+    "original_filename" => $originalName ?? null,  
+    "stored_filename" => $storedName ?? null,  
+]);
 ```
 
-This test checks to see that once we add five (5) records to the table, that when the data is retrieved by the endpoint we get five records back.
+We have added the null-coalesce as a precaution, just in case there is a problem with the fields we need to be optional.
 
-Run the test...
+### Return the Success Response
 
-```text
-
-   FAIL  Tests\Feature\ProductFeatureTest
-  ✓ it has products page                                                                                                                              0.02s
-  ⨯ it returns all products                                                                                                                           0.04s
-  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-   FAILED  Tests\Feature\ProductFeatureTest > it returns all products
-  Property [data] does not have the expected size.
-Failed asserting that actual size 0 matches expected size 5.
-```
-
-## What is this `->etc()`?
-
-The `etc()` method is very cool.
-
-It allows the test to ignore any other parts of the JSON response and concentrate on only the parts that are listed.
-
-For example:
+Finally we can return the success message:
 
 ```php
-$response  
-    ->assertJson(fn(AssertableJson $json) => $json  
-        ->has('message')  
-        ->has('success')  
-        ->has('data', 5)  
-        ->etc()  
-    );
+return $this->sendResponse($product, "Created product");
 ```
 
-## Update Product Index Method
 
-We are now ready to update the first of the methods, and in this case it will retrieve all the products.
+
+## Testing the Endpoint
+
+Open Postman, and create a new workspace, `SaaS-Laravel-API-Files`.
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830110630063.png)
+
+
+#### Create a Collection
+
+Click on the New button next to the Workspace name
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114057590.png)
+
+Click Collection on the dialog box
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114057267.png)
+
+Name the collection `Product Feature`.
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114206076.png)
+
+#### Add Collection Variables
+
+Add the base URI to the collection variables, by clicking the variables button.
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114237722.png)
+
+Add a new variable `baseURI` with a value of `http://saas-laravel-11-api-file-upload.test`
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114434317.png)
+
+
+## Add Create (No file uploaded) Test
+
+Hover over Product Feature and click on the `...` that will appear
+
+Click the Add Request option
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114659031.png)
+
+Click on Headers and click the show hidden headers.
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114712061.png)
+
+Click on Body
+
+Click on Form Data
+
+To the body add the following keys and values:
+
+| Key    | Type | Value                    |
+| ------ | ---- | ------------------------ |
+| name   | Text | `{{$randomProductName}}` |
+| detail | Text | `{{$randomPhrase}}`      |
+
+
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830114647653.png)
+
+Click Save
+
+### Run the Test
+
+You are now ready to run the test... Click Send
+
+Hopefully you will get a response similar to this:
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830115102083.png)
+
+
+## Create Valid Image (with file) Test
+
+Duplicate the Image Test.
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830124404505.png)
+
+
+Open the Body
+
+Add a new field by hovering over a blank line in the key/value list, and clicking on the little grey "Text v", and selecting File.
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830115537590.png)
+
+
+Add the following key:
+
+| Key           | Type | Value |
+| ------------- | ---- | ----- |
+| product_image | File |       |
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830124424171.png)
+
+You will be presented with a "select file" button in the value field.
+
+This is where you can select an image that is suitable for the testing.
+
+You may use this [1024x1024 pixel image](../assets/S07-Image-Uploads-and-APIs-20240830120823987.png) as a test. 
+
+Save the updated test.
+
+Then try sending, and see what results you get...
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830124919188.png)
+
+
+
+## Create Invalid Image Tests
+
+We are going to cheat, as we have the first part of the test already created.
+
+Click on the "Valid Image" test we just created, and either:
+
+- hover over the name and then click the `...` then click the Duplicate option
+- or...
+- use CTRL+D to duplicate the test
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830115311068.png)
+
+You will need THREE copies for the Invalid images as we will be testing:
+- image dimensions are too small (< 100x100 pixels)
+- image dimensions are too large (> 2048x2048 pixels)
+- image size (bytes) is too large (> 1024Kb)
+
+Name each test and alter each one as needed.
+
+Here is a complete list and what each tests for (possible descriptions).
+
+| Test Name                                           | Tests for                                                |
+| --------------------------------------------------- | -------------------------------------------------------- |
+| Product Create (invalid image dimensions too large) | The pictures width and/or height are over 2048 pixels    |
+| Product Create (invalid image bytes too large)      | The picture's storage size is over 1024 bytes (1M)       |
+| Product Create (invalid image - too small)          | The pictures width and/or height is less than 100 pixels |
+| Product Create (no product_image key)               | Creates a product without an image specified             |
+| Product Create (no filename)                        | Creates a product without an image specified             |
+| Product Create (valid image)                        | Creates a product with a suitable image attached         |
+
+Locate and use suitable test images to test each of the tests you have created.
+
+Here is the complete list as an image from our copy of Postman:
+
+![](../assets/S07-Image-Uploads-and-APIs-20240830125843331.png)
+
+### Execute each test and verify
+
+Make sure you save each test, and you check it does what is expected.
+
+## Update the create method to include error response
+
+Ok, we did cheat a little and not handle the situation that we have invalid data. We simply ignored it, so it is time to make sure we get things right.
+
+We will alter the code a little to use an instance of the Validator class, rather than call `validate`.
+
+We gain a little more control over what we do with this method.
+
+Update the start of the store method thus:
 
 ```php
-public function index():JsonResponse  
+public function store(Request $request)  
+{  
+  
+    $validator = Validator::make($request->all(), [  
+        'name' => [  
+            'required',  
+            'min:4'  
+        ],  
+        'description' => [  
+            'sometimes',  
+            'min:12'  
+        ],  
+        'product_image' => [  
+            'sometimes',  
+            'image',  
+            'mimes:jpeg,png,jpg,gif',  
+            'max:1024',  
+            'dimensions:min_width=100,min_height=100,max_width=2048,max_height=2048',  
+        ],  
+    ]);
+```
+
+Now we are ready to add the new "oops you stuffed it up"  response immediately after this new code:
+
+```php
+if ($validator->fails()) {  
+    $errors = $validator->errors();  
+  
+    return $this->sendError("Error in product data", $errors);  
+}
+```
+
+This appears just before the `$productImage = $request->file('product_image');` line of code.
+
+### Test again!
+
+Now when you test with invalid data we will get messages similar to this:
+
+![Image too big (at least one dimension)](../assets/S07-Image-Uploads-and-APIs-20240830131200668.png)
+
+
+
+
+![Image too big (bytes and at least one dimension)](../assets/S07-Image-Uploads-and-APIs-20240830131527381.png)
+
+
+So that's how to use an API to upload an image when creating a new record.
+
+To round off we will briefly cover each of the Index, Show, and Delete Methods.
+
+## Index Method
+
+The index method simply returns all the records for the model.
+
+```php
+public function index()  
 {  
     $data = Product::all();  
-    return $this->sendResponse($data,"Products retrieved successfully");  
+    return $this->sendResponse($data, "Products retrieved successfully");  
 }
 ```
 
-Running the test again we get a new error... in fact now three tests are failing!
+We are not looking at Pagination in this example.
 
-```text
-   FAIL  Tests\Feature\ProductFeatureTest
-  ⨯ it has products page                                                                                                                              1.25s
-  ⨯ it returns Data, Message & Success                                                                                                                0.02s
-  ⨯ it returns all products                                                                                                                           0.02s
-  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-   FAILED  Tests\Feature\ProductFeatureTest > it has products page
-  Expected response status code [200] but received 500.
-Failed asserting that 500 is identical to 200.
+## Show Method
 
-The following exception occurred during the last request:
-
-Error: Class "App\Http\Controllers\Product" 
-```
-
-We forgot to import the Product model.
-
-Make sure the `use` section imports the `Product` model into the Product Controller.
+The show methods will attempt to retrieve the record requested, but will give an error response when not found.
 
 ```php
-use App\Models\Product;
-```
-
-Running the test one more...
-
-```text
-
- PASS  Tests\Feature\ProductFeatureTest
-✓ it has products page                                             0.03s
-✓ it returns Data, Message & Success                               0.03s
-✓ it returns success, message and data with all products           0.03s
-✓ it returns all products                                          0.03s
-
-Tests:    12 passed (32 assertions)
-Duration: 1.50s
-```
-
-Excellent. Based on our test, we have a working index...
-
-*For now.*
-
-## Remember your Scribe Commenting!
-
-Finally go back and add the comments for Scribe to pick up the end point and document it.
-
-```php
-/**  
- * Return all Products
- * 
- * @group Products
- * 
- * @response status=200 scenario="List Products" {  
- *      "success": true, 
- *      "message": "Products retrieved successfully", 
- *      "data": [ 
- *          { 
- *              "id" : 1, 
- *              "name": "LoRa 32", 
- *              "details": "LoRa 32, 863-928, LoRa/Wi-Fi/BLE, 0.96in 128x64 OLED, Li-Po management." 
- *          } 
- *      ] 
- * } 
- *
- * @return JsonResponse  
- */
-```
-
-Publish the docs...
-
-```bash
-php artisan scribe:generate
-```
-
-You should now be able to view the documentation at: <http://saas-laravel-11-sanctum-api.test/docs>
-
-
-<div class="page-break" style="page-break-before: always;"></div>
-
-
-# Product Show Method and Tests
-
-As before we will now go through the sequence...
-
-- Repeat until feature complete:
-	- Write Tests
-	- Create code to pass test
-	- Refactor
-
-## Write Tests
-
-Create a new test file...
-
-```bash
-php artisan make:test ProductShowFeatureTest
-```
-
-Edit the file and add the following tests, remembering to add the use statements for Product model, Refresh Database and Assertable Json.
-
-```php
-uses(RefreshDatabase::class);  
-  
-it('has products/{id} page')  
-    ->get('/api/v1/products/1')  
-    ->assertStatus(200);  
-  
-it('returns Data, Message & Success', function () {  
-  
-    $product = Product::factory(1)->create();  
-  
-    $response = $this->getJson('/api/v1/products/1');  
-  
-    $response  
-        ->assertJson(fn(AssertableJson $json) => $json  
-            ->hasAll(['data', 'message', 'success'])  
-        );  
-  
-});  
-  
-  
-it('returns success, message and one record in data', function () {  
-  
-    $product = Product::factory()->create();  
-  
-    $response = $this->getJson('/api/v1/products/1');  
-  
-    $response  
-        ->assertJson(fn(AssertableJson $json) => $json  
-            ->has('message')  
-            ->has('success')  
-            ->has('data', 1)  
-            ->etc()  
-        );  
-  
-});  
-  
-  
-it('returns correct Product data', function () {  
-
-  $products = Product::factory(1)->create();  
-  
-  $response = $this->getJson('/api/v1/products');  
-  
-  $response  
-    ->assertJson(fn(AssertableJson $json) => $json->has('data', 1)  
-        ->where('data.0.id',1)  
-        ->etc()  
-    );
-});
-```
-
-> **Note:**
-> 
-> The `->where('data.0.id,1)` call does the following:
-> 
-> - looks at the `data` key from the JSON (an array is returned)
-> - `0` identifies the 1st array element 
-> - `id` identifies the `id` key from the data.
->
-> This means we can target one item of data from a JSON array.
-
-## Run just this set of tests
-
-We can run one set of tests by using the `--filter` switch...
-
-```bash
-php artisan test  --filter ProductShowFeatureTest
-```
-
-Results in...
-
-```text
-
-   FAIL  Tests\Feature\ProductShowFeatureTest
-  ⨯ it has products/{id} page                                                             5.04s
-  ⨯ it returns Data, Message & Success                                                    0.05s
-  ⨯ it returns success, message and one record in data                                    0.05s
-  ⨯ it returns correct Product data                                                       0.05s
-  ─────────────────────────────────────────────────────────────────────────────────────────────
-   FAILED  Tests\Feature\ProductShowFeatureTest > it has products/{id} page
-  Expected response status code [200] but received 500.
-Failed asserting that 500 is identical to 200.
-
-The following exception occurred during the last request:
-
-Error: Call to undefined method App\Http\Controllers\ProductController::show() 
-```
-
-## Write Code to Pass Each Test
-
-Write the code to pass each part of the tests in turn
-
-- Create Route (this is taken care of by using an `ApiResource` route)
-- Create `show` method in controller
-
-```php
-/**  
- * Return the product identified by `id` *  
- * @group Products  
- * 
- * @response status=200 scenario="Show Product" {  
- *      "success": true, 
- *      "message": "Products retrieved successfully", 
- *      "data": [ 
- *          { 
- *              "id" : 1, 
- *              "name": "LoRa 32", 
- *              "details": "LoRa 32, 863-928, LoRa/Wi-Fi/BLE, 
- *                          0.96in 128x64 OLED, Li-Po management. www.heltech.cn" 
- *          } 
- *      ] 
- * } 
- * 
- * @return JsonResponse  
- */public function show(int $id):JsonResponse  
+public function show(string $id)  
 {  
     $data = Product::whereId($id)->get();  
-    return $this->sendResponse($data,"Product retrieved successfully");  
+  
+    if ($data->isEmpty()) {  
+        return $this->sendError("Product Not Found", $data);  
+    }  
+  
+    return $this->sendResponse($data, "Product retrieved successfully");  
+  
 }
 ```
 
 
-<div class="page-break" style="page-break-before: always;"></div>
+
+## Destroy Method
+
+The destroy method attempts to retrieve the requested resource.
+
+If the resource is not found, it will send a suitable error message.
+
+If found then the image associated with the resource is deleted, and then the product is deleted from the model.
+
+```php
+public function destroy(int $id)  
+{  
+  
+    $products = Product::whereId($id)->limit(1)->get();  
+  
+    if ($products->isEmpty()) {  
+        return $this->sendError("Product Not Found", $products);  
+    }  
+  
+    foreach ($products as $product) {  
+        $storedName = $product->stored_filename;  
+  
+        if(Storage::exists('images/' . $storedName)) {  
+            Storage::delete('images/' . $storedName);  
+        }  
+  
+        $product->delete();  
+    }  
+  
+    return $this->sendResponse($product, "Product deleted");  
+}
+```
 
 
-# Postman Tests
-
-- Export Collection from Scribe
-- Create Workspace
-- Import Collection
-- Run tests
-
-## Export Postman Collection
-
-Open your Scribe documentation and locate the link "View Postman Collection".
-
-![](../assets/S05-APIS-and-Security-20240816125805926.png)
-
-Right Click and select save as, name the download: "`saas-laravel-11-sanctum-api-collection.json`".
-
-## Create Workspace
-
-Open Postman and create a new (private) Workspace called `SaaS Laravel 11 Sanctum API`.
-
-## Import Collection from Scribe
-
-Once your workspace is created and you have it selected/active...
-
-Click on the Import
-
-![](../assets/S05-APIS-and-Security-20240816125914725.png)
-
-Either drag and drop the JSON file onto the interface or locate it via the Choose Files button.
-
-![Choose files button in postman for collection importing](../assets/S05-APIS-and-Security-20240816130513797.png)
+Here is the result of a test in action
 
 
-Here is a demo of the import process:
-
-![](../assets/explorer_Pci0tdH4n2.gif)
+![](../assets/S07-Image-Uploads-and-APIs-20240830134349976.png)
 
 
-## Endpoint Requests
+### Update API Endpoint
 
-One of the best parts of using Scribe to document, is the automatic generation of the collection for endpoints, as we have seen.
-
-The list below identifies the important endpoints for our example.
-
-| API Name           | Verb   | URI                                     |
-| ------------------ | ------ | --------------------------------------- |
-| **Register**       | GET    | http://localhost:8000/api/register      |
-| **Login**          | GET    | http://localhost:8000/api/login         |
-| **Logout**         |        |                                         |
-| **Product List**   | GET    | http://localhost:8000/api/products      |
-| **Product Create** | POST   | http://localhost:8000/api/products      |
-| **Product Show**   | GET    | http://localhost:8000/api/products/{id} |
-| **Product Update** | PUT    | http://localhost:8000/api/products/{id} |
-| **Product Delete** | DELETE | http://localhost:8000/api/products/{id} |
-
-
-
-# Secured API Requests
-
-
-
-
-# Postman and Secure Requests
-
-### Add header details to Postman
-
-
-### Test Endpoint Requests
+Update is left (at the moment) as an exercise. When you do look at it, make sure you do the following:
+- As per create, check the image dimensions etc
+- If an image exists for the record, and the supplied data does not have a new image, leave the current one untouched
+- If an image exists and the supplied data contains a new image, delete the old image, save the new one, and update the record with the new name
 
