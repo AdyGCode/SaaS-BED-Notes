@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41cdc03983d4fb37",
+        "id": "e288bbfe32544be5",
         "type": "tabs",
         "children": [
           {
-            "id": "0f600e67faa190d8",
+            "id": "01c657bbd48142c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-07/S07-Image-Uploads-and-APIs.md",
+                "file": "Session-08/S07-KBA-Details.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-07/S07-Image-Uploads-and-APIs.md",
+                "file": "Session-08/S07-KBA-Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-07/S07-Image-Uploads-and-APIs.md",
+                "file": "Session-08/S07-KBA-Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-07/S07-Image-Uploads-and-APIs.md"
+                "file": "Session-08/S07-KBA-Details.md"
               }
             }
           },
@@ -162,23 +162,24 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "0f600e67faa190d8",
+  "active": "01c657bbd48142c3",
   "lastOpenFiles": [
+    "Session-01/ReadMe.md",
+    "ReadMe.md",
+    "Session-08/S07-KBA-Details.md",
+    "Session-07/S07-Image-Uploads-and-APIs.md",
     "assets/S07-Image-Uploads-and-APIs-20240830120823987.png",
     "assets/S07-Image-Uploads-and-APIs-20240830134349976.png",
     "Session-07/external/assets/1_ZsvW6ObH-epnNvRYF_W8OQ.webp",
     "Session-07/external/assets/1_nPJaZajic89XGYM8TBB2RA.webp",
     "Session-07/external/assets/1_MeWY60TPP0NBVxJbWsjclA.webp",
     "Session-05/assets/explorer_Pci0tdH4n2.gif",
-    "Session-07/S07-Image-Uploads-and-APIs.md",
     "Session-07/external/assets/1__JD4y43egR5ZDxh9FJ_tZA.webp",
     "Session-07/external/assets/1_KLMyYq-8jJA7SgW3NDto7Q.webp",
     "assets/S07-Image-Uploads-and-APIs-20240830114057267.png",
     "assets/S07-Image-Uploads-and-APIs-20240830131527381.png",
-    "assets/S07-Image-Uploads-and-APIs-20240830131200668.png",
     "().md",
     "Session-07/ReadMe.md",
-    "Session-08/S07-KBA-Details.md",
     "Session-07/external/Secure-RESTful-API-Passport.md",
     "Session-07/external/medium-Api-Authenticate-How-to-authenicate.md.md",
     "Session-07/external",
@@ -203,7 +204,6 @@
     "Session-04/S04-Portfolio-Work.md",
     "Session-04/ReadMe.md",
     "Session-08/ReadMe 1 1 1 1.md",
-    "Session-07/ReadMe 1 1 1.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
