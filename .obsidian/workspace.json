@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e288bbfe32544be5",
+        "id": "da57bc03ed1d2904",
         "type": "tabs",
         "children": [
           {
-            "id": "01c657bbd48142c3",
+            "id": "2e2cadf544637f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md",
+                "file": "Session-07/S07-Image-Uploads-and-APIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 539.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md",
+                "file": "Session-07/S07-Image-Uploads-and-APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md",
+                "file": "Session-07/S07-Image-Uploads-and-APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md"
+                "file": "Session-07/S07-Image-Uploads-and-APIs.md"
               }
             }
           },
@@ -150,53 +150,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "01c657bbd48142c3",
+  "active": "2e2cadf544637f16",
   "lastOpenFiles": [
-    "Session-01/ReadMe.md",
-    "ReadMe.md",
-    "Session-08/S07-KBA-Details.md",
-    "Session-07/S07-Image-Uploads-and-APIs.md",
-    "assets/S07-Image-Uploads-and-APIs-20240830120823987.png",
     "assets/S07-Image-Uploads-and-APIs-20240830134349976.png",
-    "Session-07/external/assets/1_ZsvW6ObH-epnNvRYF_W8OQ.webp",
-    "Session-07/external/assets/1_nPJaZajic89XGYM8TBB2RA.webp",
+    "assets/S07-Image-Uploads-and-APIs-20240830110630063.png",
     "Session-07/external/assets/1_MeWY60TPP0NBVxJbWsjclA.webp",
-    "Session-05/assets/explorer_Pci0tdH4n2.gif",
+    "Session-07/external/assets/1_ZsvW6ObH-epnNvRYF_W8OQ.webp",
+    "Session-07/external/assets/1__T14DpugCsxSOiKbaXEwuQ.webp",
     "Session-07/external/assets/1__JD4y43egR5ZDxh9FJ_tZA.webp",
+    "Session-07/external/assets/1_08aku4P8kSm-atLECS2Ugg.webp",
+    "Session-07/external/assets/1_nPJaZajic89XGYM8TBB2RA.webp",
+    "Session-07/external/assets/1_CIQ40WmCpU5ib9XEdQmGJA.webp",
     "Session-07/external/assets/1_KLMyYq-8jJA7SgW3NDto7Q.webp",
-    "assets/S07-Image-Uploads-and-APIs-20240830114057267.png",
-    "assets/S07-Image-Uploads-and-APIs-20240830131527381.png",
-    "().md",
+    "Session-07/external/assets/1_HgURMMGtzhsJOfadk0G9RQ.webp",
+    "Session-07/external/assets",
+    "Session-05/S05-APIS-and-Security.pdf",
+    "Session-05/S05-APIS-and-Security.md",
+    "Session-07/S07-Image-Uploads-and-APIs.md",
+    "Session-08/S07-KBA-Details.md",
     "Session-07/ReadMe.md",
+    "Session-01/S01-Laravel-and-APIs.md",
+    "Session-02/S02-Our-First-API.md",
+    "Session-03/S03-Test-Driven-Development-Example.pdf",
+    "Session-03/S03-Test-Driven-Development-Overview.md",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
     "Session-07/external/Secure-RESTful-API-Passport.md",
     "Session-07/external/medium-Api-Authenticate-How-to-authenicate.md.md",
-    "Session-07/external",
-    "_sort/Laravel-and-APIs 1.md",
-    "Session-07/Secure-RESTful-API-Passport.md",
-    "Session-07/medium-Api-Authenticate-How-to-authenicate.md.md",
-    "Session-07/external/assets",
     "Session-07/S07-Exercises-and-Journal-Entry.md",
-    "Session-07/S07-Portfolio-Work.md",
-    "Session-07/S07-KBA-Details.md",
-    "Session-06/S06-Portfolio-Work.md",
+    "Session-07/external",
     "Session-06/S06-Exercises-and-Journal-Entry.md",
-    "Session-05/S05-APIS-and-Security.md",
+    "_sort/Laravel-and-APIs 1.md",
+    "Session-07/assets",
+    "Session-07/S07-Portfolio-Work.md",
+    "Session-06/S06-Portfolio-Work.md",
     "templates/Exercises-and-Journal-Entry.md",
     "Session-05/assets",
     "Session-05/S05-Exercises-and-Journal-Entry.md",
-    "Session-05/S05-APIS-and-Security.pdf",
     "Session-08/ReadMe.md",
     "Session-06/ReadMe.md",
     "Session-05/ReadMe.md",
@@ -204,11 +205,10 @@
     "Session-04/S04-Portfolio-Work.md",
     "Session-04/ReadMe.md",
     "Session-08/ReadMe 1 1 1 1.md",
+    "Session-07/ReadMe 1 1 1.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
-    "Session-02/S02-What-is-an-API.pdf",
-    "Session-01/S02-What-is-an-API.pdf",
-    "Session-01/S01-Journals.pdf"
+    "Session-02/S02-What-is-an-API.pdf"
   ]
 }
