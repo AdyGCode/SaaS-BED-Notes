@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-09/ReadMe.md",
+                "file": "Session-02/ReadMe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91861174fd967059",
+            "id": "5ef885997e3578f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-08/ReadMe.md",
+                "file": "Session-02/S02-Adding-XDebug.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scribe",
+                "query": "xdeb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-08/ReadMe.md",
+                "file": "Session-02/S02-Adding-XDebug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-08/ReadMe.md",
+                "file": "Session-02/S02-Adding-XDebug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-08/ReadMe.md"
+                "file": "Session-02/S02-Adding-XDebug.md"
               }
             }
           },
@@ -175,14 +175,28 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "91861174fd967059",
+  "active": "bdde981e8065700e",
   "lastOpenFiles": [
-    "Session-09/MongoDB-Learning-Path.md",
-    "Session-09/ReadMe.md",
-    "Session-07/S07-PEST-and-APIs.md",
-    "Session-07/S07-PEST-and-APIs.md",
-    "Session-08/ReadMe.md",
+    "Session-02/ReadMe.md",
     "Session-09/NoSQL-Introduction.md",
+    "Session-09/MongoDB-Learning-Path.md",
+    "Session-08/ReadMe.md",
+    "assets/MongoDB-Learning-Path-20240905145654430.png",
+    "Session-07/S07-PEST-and-APIs.md",
+    "Session-07/S07-Portfolio-Work.md",
+    "assets/SQLtoMongoDBCheatSheet1.pdf",
+    "assets/MongoDB-Learning-Path-20240905152403207.png",
+    "assets/MongoDB-Learning-Path-20240905152357471.png",
+    "assets/MongoDB-Learning-Path-20240905152341334.png",
+    "assets/MongoDB-Learning-Path-20240905145836669.png",
+    "assets/MongoDB-Learning-Path-20240905145827298.png",
+    "assets/MongoDB-Learning-Path-20240905145823108.png",
+    "assets/MongoDB-Learning-Path-20240905145817076.png",
+    "assets/MongoDB-Learning-Path-20240905145810634.png",
+    "assets/MongoDB-Learning-Path-20240905145800687.png",
+    "Session-09/assets",
+    "Session-09/ReadMe.md",
+    "Session-08/assets",
     "Session-08/S08-Terminology.md",
     "Delivery-Specific.md",
     "Session-09",
@@ -192,16 +206,6 @@
     "Session-01/ReadMe.md",
     "ReadMe.md",
     "Session-07/S07-Image-Uploads-and-APIs.md",
-    "assets/S07-Image-Uploads-and-APIs-20240830120823987.png",
-    "assets/S07-Image-Uploads-and-APIs-20240830134349976.png",
-    "Session-07/external/assets/1_ZsvW6ObH-epnNvRYF_W8OQ.webp",
-    "Session-07/external/assets/1_nPJaZajic89XGYM8TBB2RA.webp",
-    "Session-07/external/assets/1_MeWY60TPP0NBVxJbWsjclA.webp",
-    "Session-05/assets/explorer_Pci0tdH4n2.gif",
-    "Session-07/external/assets/1__JD4y43egR5ZDxh9FJ_tZA.webp",
-    "Session-07/external/assets/1_KLMyYq-8jJA7SgW3NDto7Q.webp",
-    "assets/S07-Image-Uploads-and-APIs-20240830114057267.png",
-    "assets/S07-Image-Uploads-and-APIs-20240830131527381.png",
     "().md",
     "Session-07/ReadMe.md",
     "Session-07/external/Secure-RESTful-API-Passport.md",
@@ -212,16 +216,11 @@
     "Session-07/medium-Api-Authenticate-How-to-authenicate.md.md",
     "Session-07/external/assets",
     "Session-07/S07-Exercises-and-Journal-Entry.md",
-    "Session-07/S07-Portfolio-Work.md",
     "Session-07/S07-KBA-Details.md",
     "Session-06/S06-Portfolio-Work.md",
-    "Session-06/S06-Exercises-and-Journal-Entry.md",
     "Session-05/assets",
     "Session-05/S05-APIS-and-Security.pdf",
     "Session-02/S02-Our-First-API.pdf",
-    "Session-02/S01-Our-First-API.pdf",
-    "Session-02/S02-Adding-XDebug.pdf",
-    "Session-02/S02-What-is-an-API.pdf",
-    "Session-01/S02-What-is-an-API.pdf"
+    "Session-02/S01-Our-First-API.pdf"
   ]
 }
