@@ -1322,15 +1322,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.2833333333333333,
-      "characterCount": 845,
+      "characterCount": 816,
       "nonWhitespaceCharacterCount": 617,
       "readingTimeInMinutes": 0.32075471698113206,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1721892422610,
-      "modifiedDate": 1723699759450,
-      "sizeInBytes": 1232
+      "modifiedDate": 1725528090910,
+      "sizeInBytes": 1185
     },
     "Session-01/S01-Laravel-and-APIs.pdf": {
       "isCountable": false,
