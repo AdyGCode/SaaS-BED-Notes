@@ -103,6 +103,13 @@ Open `php.ini` then at the bottom of the file, add:
 [XDebug]
 xdebug.profiler_enable = 1
 xdebug.profiler_output_dir = "C:\\laragon\\www\\xdebug"
+xdebug.mode = coverage,debug,develop,profile
+```
+
+Remember that on TAFE systems the output directory will be:
+
+```ini
+xdebug.profiler_output_dir = "C:\\ProgramData\laragon\\www\\xdebug"
 ```
 
 Next, create the folder `c:\laragon\www\xdebug` (or `c:\ProgramData\Laragon\www\xdebug` on TAFE systems).
@@ -116,6 +123,28 @@ Make sure to restart Laragon (either quite the application completely and restar
 Basically XDebug creates a file which contains all the information that it profiled on your web page/application. 
 
 You can use a tool called [QCacheGrind](https://xdebug.org/docs/profiler) to display the results in a much easier to understand graphical interface.
+
+### XDebug and Debug Options
+
+In the `php.ini` in the XDebug section we have:
+
+```ini
+[XDebug]
+xdebug.profiler_enable = 1
+xdebug.profiler_output_dir = "C:\\laragon\\www\\xdebug"
+xdebug.mode = coverage,debug,develop,profile
+```
+
+The Debug Mode option provide the following:
+
+- `develop` - Enables [Development Helpers](https://xdebug.org/docs/develop) including the overloaded [var_dump()](https://xdebug.org/docs/all_functions#var_dump).
+- `coverage` - Enables [Code Coverage Analysis](https://xdebug.org/docs/code_coverage) to generate code coverage reports, mainly in combination with [PHPUnit](https://phpunit.readthedocs.io/en/9.0/code-coverage-analysis.html).
+- `debug` - Enables [Step Debugging](https://xdebug.org/docs/step_debug). This can be used to step through your code while it is running, and analyse values of variables.
+- `profile` - Enables [Profiling](https://xdebug.org/docs/profiler), with which you can analyse performance bottlenecks with tools like [KCacheGrind](https://xdebug.org/docs/profiler#kcachegrind).
+
+More detail at: https://xdebug.org/docs/code_coverage#mode
+
+
 
 # XDebug and IDEs
 
