@@ -1,0 +1,11 @@
+{
+	"id": "truth-table-gen",
+	"name": "Truth Table+",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Generate truth tables quickly in your .md files",
+	"author": "Maximilian Schulten",
+	"authorUrl": "https://maxschulten.info",
+	"fundingUrl": "https://buymeacoffee.com/maxschulten",
+	"isDesktopOnly": false
+}
