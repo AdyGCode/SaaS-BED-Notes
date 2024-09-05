@@ -29,6 +29,7 @@ The link above is a quick survey to allow us to tailor the NoSQL section of this
 
 Please complete before end of Session 09.
 
+![](../assets/ReadMe-20240905143804012.png)
 
 
 ## PEST Testing - Useful Resources
