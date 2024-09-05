@@ -20,8 +20,22 @@ updated: 2024-08-09T09:06
 
 # Session 08 Overview
 
-- 
 
+## Survey for ***TAFE*** Students only
+
+- https://forms.office.com/r/yAvK5s1pj5
+
+The link above is a quick survey to allow us to tailor the NoSQL section of this cluster to your preference as a class.
+
+Please complete before end of Session 09.
+
+
+
+## PEST Testing - Useful Resources
+
+- [Laravel Testing with Pest: The Complete Guide for Beginners | by Abu Sayed | Medium](https://abu-sayed.medium.com/laravel-testing-with-pest-the-complete-guide-for-beginners-a0b6680cfd71)
+- [Three useful tricks I learned with Pest testing in Laravel - DEV Community](https://dev.to/victoor/three-useful-tricks-i-learned-with-pest-testing-in-laravel-1icd)
+- 
 
 ## Note
 

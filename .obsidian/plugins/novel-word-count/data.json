@@ -152,15 +152,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.2833333333333333,
-      "characterCount": 629,
-      "nonWhitespaceCharacterCount": 525,
+      "characterCount": 615,
+      "nonWhitespaceCharacterCount": 511,
       "readingTimeInMinutes": 0.32075471698113206,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1725513554115,
-      "modifiedDate": 1725513660334,
-      "sizeInBytes": 1002
+      "modifiedDate": 1725515769098,
+      "sizeInBytes": 988
     },
     "Session-09/NoSQL-Introduction.md": {
       "isCountable": true,
@@ -184,19 +184,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 110,
+      "wordCount": 147,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.36666666666666664,
-      "characterCount": 899,
-      "nonWhitespaceCharacterCount": 762,
-      "readingTimeInMinutes": 0.41509433962264153,
+      "pageCount": 0.49,
+      "characterCount": 1143,
+      "nonWhitespaceCharacterCount": 963,
+      "readingTimeInMinutes": 0.5547169811320755,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724315984096,
-      "modifiedDate": 1725514295631,
-      "sizeInBytes": 1272
+      "modifiedDate": 1725517392727,
+      "sizeInBytes": 1516
     },
     "Session-08/S08-Terminology.md": {
       "isCountable": true,
@@ -2735,6 +2735,24 @@
       "createdDate": 1725515033679,
       "modifiedDate": 1725515699714,
       "sizeInBytes": 6204
+    },
+    "Session-09/MongoDB-Learning-Path.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 206,
+      "readingTimeInMinutes": 0.10566037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1725515769085,
+      "modifiedDate": 1725515908238,
+      "sizeInBytes": 612
     }
   }
 }
