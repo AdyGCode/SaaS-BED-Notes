@@ -3,12 +3,16 @@
   "livePreview": true,
   "showLineNumber": true,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "/assets",
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "A4",
     "landscape": true,
     "margin": "0",
     "downscalePercent": 70
-  }
+  },
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "trashOption": "local"
 }

@@ -1,3 +1,7 @@
+---
+created: 2024-09-05T10:54
+updated: 2024-09-05T18:08
+---
 # Introduction to NoSQL
 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c3a6a0f347babe2",
+        "id": "97a248aabee1b914",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d9117e72177e2f",
+            "id": "24c326c0c42ddd39",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xdeb",
+                "query": "scribe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-02/S02-Adding-XDebug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-02/S02-Adding-XDebug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session-02/S02-Adding-XDebug.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,32 +138,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
+      "marp-slides:Show Slide Preview": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "bdde981e8065700e",
+  "active": "24c326c0c42ddd39",
   "lastOpenFiles": [
-    "Session-02/ReadMe.md",
+    "Session-08/S08-Terminology.md",
     "Session-09/NoSQL-Introduction.md",
-    "Session-09/MongoDB-Learning-Path.md",
-    "Session-08/ReadMe.md",
-    "assets/MongoDB-Learning-Path-20240905145654430.png",
-    "Session-07/S07-PEST-and-APIs.md",
-    "Session-07/S07-Portfolio-Work.md",
     "assets/SQLtoMongoDBCheatSheet1.pdf",
+    "assets/ReadMe-20240905143804012.png",
     "assets/MongoDB-Learning-Path-20240905152403207.png",
     "assets/MongoDB-Learning-Path-20240905152357471.png",
     "assets/MongoDB-Learning-Path-20240905152341334.png",
@@ -177,11 +178,11 @@
     "assets/MongoDB-Learning-Path-20240905145817076.png",
     "assets/MongoDB-Learning-Path-20240905145810634.png",
     "assets/MongoDB-Learning-Path-20240905145800687.png",
-    "Session-09/assets",
-    "Session-09/ReadMe.md",
-    "Session-08/assets",
-    "Session-08/S08-Terminology.md",
+    "Session-09/MongoDB-Learning-Path.md",
+    "Session-07/S07-PEST-and-APIs.md",
     "Delivery-Specific.md",
+    "Session-09/ReadMe.md",
+    "Session-08/ReadMe.md",
     "Session-09",
     "Session-08/S08-Adding-API-Roles-Permissions.md",
     "Session-08/S08-Ten-Common-HTTP-Responses.md",
@@ -199,11 +200,15 @@
     "Session-07/medium-Api-Authenticate-How-to-authenicate.md.md",
     "Session-07/external/assets",
     "Session-07/S07-Exercises-and-Journal-Entry.md",
+    "Session-07/S07-Portfolio-Work.md",
     "Session-07/S07-KBA-Details.md",
     "Session-06/S06-Portfolio-Work.md",
+    "Session-06/S06-Exercises-and-Journal-Entry.md",
     "Session-05/assets",
     "Session-05/S05-APIS-and-Security.pdf",
     "Session-02/S02-Our-First-API.pdf",
-    "Session-02/S01-Our-First-API.pdf"
+    "Session-02/S01-Our-First-API.pdf",
+    "Session-02/S02-Adding-XDebug.pdf",
+    "Session-02/S02-What-is-an-API.pdf"
   ]
 }

@@ -1425,7 +1425,7 @@ const shortNames = {
     '🐧': 'penguin',
     '🕊': 'dove',
     '🦅': 'eagle',
-    '🦆': 'duck',
+    '🦆': 'Duck',
     '🦢': 'swan',
     '🦉': 'owl',
     '🦤': 'dodo',
