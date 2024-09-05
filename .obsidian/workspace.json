@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md",
+                "file": "Session-09/NoSQL-Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md",
+                "file": "Session-09/NoSQL-Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md",
+                "file": "Session-09/NoSQL-Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-08/S07-KBA-Details.md"
+                "file": "Session-09/NoSQL-Introduction.md"
               }
             }
           },
@@ -164,9 +164,17 @@
   },
   "active": "01c657bbd48142c3",
   "lastOpenFiles": [
+    "Session-08/S08-Terminology.md",
+    "Session-09/NoSQL-Introduction.md",
+    "Delivery-Specific.md",
+    "Session-09/ReadMe.md",
+    "Session-08/ReadMe.md",
+    "Session-09",
+    "Session-08/S08-Adding-API-Roles-Permissions.md",
+    "Session-08/S08-Ten-Common-HTTP-Responses.md",
+    "Session-08/S07-KBA-Details.md",
     "Session-01/ReadMe.md",
     "ReadMe.md",
-    "Session-08/S07-KBA-Details.md",
     "Session-07/S07-Image-Uploads-and-APIs.md",
     "assets/S07-Image-Uploads-and-APIs-20240830120823987.png",
     "assets/S07-Image-Uploads-and-APIs-20240830134349976.png",
@@ -197,18 +205,10 @@
     "Session-05/assets",
     "Session-05/S05-Exercises-and-Journal-Entry.md",
     "Session-05/S05-APIS-and-Security.pdf",
-    "Session-08/ReadMe.md",
-    "Session-06/ReadMe.md",
-    "Session-05/ReadMe.md",
-    "Session-05/S05-Portfolio-Work.md",
-    "Session-04/S04-Portfolio-Work.md",
-    "Session-04/ReadMe.md",
-    "Session-08/ReadMe 1 1 1 1.md",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
     "Session-02/S02-Adding-XDebug.pdf",
     "Session-02/S02-What-is-an-API.pdf",
-    "Session-01/S02-What-is-an-API.pdf",
-    "Session-01/S01-Journals.pdf"
+    "Session-01/S02-What-is-an-API.pdf"
   ]
 }
