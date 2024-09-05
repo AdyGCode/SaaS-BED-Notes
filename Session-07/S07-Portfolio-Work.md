@@ -1,7 +1,8 @@
 
 
-An example of how to add search to the index method of a Users Controller:
+An example of how to add search to the index method of a Users Controller.
 
+This example is for an application with a web front end, but it will give you a good guide to how to implement for a REST API that returns JSON data.
 
 ```php
 
@@ -25,8 +26,6 @@ An example of how to add search to the index method of a Users Controller:
             $users->appends(['search' => $search]);
         }
 
-        $trashedCount = User::onlyTrashed()->latest()->get()->count();
-
-        return view('users.index', compact(['users', 'trashedCount', 'search']));
+        return view('users.index', compact(['users', 'search']));
     }
 ```
