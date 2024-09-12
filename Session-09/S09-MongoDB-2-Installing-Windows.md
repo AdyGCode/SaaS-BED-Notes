@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-07-18T09:24
-updated: 2024-09-12T15:23
+updated: 2024-09-12T15:25
 ---
 
 # MongoDB: Installing within Laragon
@@ -107,7 +107,7 @@ You may also or download version 100.10.0 directly using this link: https://fast
 
 Once the downloads are complete you will want to uncompress the ZIPs into folders.
 
-![](assets/explorer_9maIfR0ARx.gif)
+![](../assets/explorer_9maIfR0ARx.gif)
 
 # Move to Correct Location
 
@@ -119,17 +119,17 @@ At TAFE enter the location `%programdata%\Laragon\bin` into the address bar
 
 At home the default location is `C:\Laragon\bin`.
 
-![](assets/explorer_36hf9fEsIY.gif)
+![](../assets/explorer_36hf9fEsIY.gif)
 
 Click anywhere in the bin folder and press <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>N</kbd> to create a new folder. Name this `MongoDB`.
 
-![](assets/explorer_AwmGkSETPE.gif)
+![](../assets/explorer_AwmGkSETPE.gif)
 
 Double click to open this folder.
 
 Open a second Windows File Explorer window (<kbd>WIN</kbd>+<kbd>E</kbd>), and arrange the two windows side by side (Click on first window and press <kbd>WIN</kbd>+<kbd>➡</kbd>, click on second window and press <kbd>WIN</kbd>+<kbd>⬅</kbd> .)
 
-![](assets/explorer_oo0JfYFIxZ.gif)
+![](../assets/explorer_oo0JfYFIxZ.gif)
 
 In the second File Explorer, open the MongoDB folder then drag and drop the folder within it to the MongoDB folder in the other File Explorer window.
 
@@ -156,11 +156,11 @@ We need to next copy the MongoDB Tools and MongoDB Shell files over to the `mong
 
 If you have not done so, extract the files from the two compressed files:
 
-![](assets/vivaldi_BsQXA41Nje.gif)
+![](../assets/vivaldi_BsQXA41Nje.gif)
 
 In the second File Explorer, open the `MongoDB-Windows-7.0.14\bin` folder.
 
-![](assets/explorer_K3iOL5JiC6.gif)
+![](../assets/explorer_K3iOL5JiC6.gif)
 
 Return to the other File Explorer, and open the first of the two newly created folders (eg. MongoDB Shell)
 
@@ -168,7 +168,7 @@ Navigate into the bin folder inside this.
 
 Now select all the files (<kbd>CTRL</kbd>+<kbd>A</kbd>) in this folder, and drag and drop them into the `Laragon\bin\MongoDB\mongodb-windows-7.0.14\bin` folder.
 
-![](assets/explorer_VNu4dzD4zW.gif)
+![](../assets/explorer_VNu4dzD4zW.gif)
 
 Repeat the steps for the second set of files (eg. the MongoDB Tools).
 
@@ -208,7 +208,7 @@ Once downloaded, un-compress the file contents.
 
 Once uncompressed move the new MongoDB-Compass folder into the `Laragon\bin\MongoDB` folder.
 
-![](assets/explorer_3MCbYqmxVh.gif)
+![](../assets/explorer_3MCbYqmxVh.gif)
 
 
 # Starting MongoDB in Laragon
@@ -219,7 +219,7 @@ Open the Laragon UI, and click the settings Cog on the top right.
 
 Navigate to the Services and Ports tab.
 
-![](assets/Obsidian_h9i3Nw984c.gif)
+![](../assets/Obsidian_h9i3Nw984c.gif)
 
 Tick the MongoDB option if it is not already ticked.
 
@@ -233,7 +233,7 @@ If not you can check MongoDB is available by right mouse clicking on the main La
 You may also start/stop MongoDB by using the right mouse button menu, and hovering over MongoDB, then clicking the Stop (or start) option.
 
 
-![](assets/Obsidian_xVuFmRnXbW.gif)
+![](../assets/Obsidian_xVuFmRnXbW.gif)
 
 
 
