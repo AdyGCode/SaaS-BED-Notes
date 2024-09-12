@@ -2,15 +2,19 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE](/assets//Black-Red-Banner.svg)
+header: "![NMTAFE Banner](../assets/Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
-color: #ccc
-backgroundColor: #060606
-tags: SaaS, APIs, Back-End
-
+color: 
+backgroundColor: 
+tags:
+  - SaaS
+  - APIs
+  - Back-End
 date created: 03 July 2024
 date modified: 10 July 2024
+created: 2024-07-18T09:24
+updated: 2024-09-12T11:50
 ---
 
 # Session Title

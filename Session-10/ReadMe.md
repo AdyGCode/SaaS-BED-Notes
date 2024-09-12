@@ -15,18 +15,15 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-09-12T11:32
 ---
 
-# Session 06 Overview
+# Session 09 Overview
 
-- [Portfolio Part 3](S06-Portfolio-Work.md)
-	- Overview of the portfolio part 3 for the cluster
-	- Secured API with Roles and Permissions
-- [S06-Exercises-and-Journal-Entry](S06-Exercises-and-Journal-Entry.md)
-	- ...
-- [S06-Review](S06-Review.md)
-	- ...
+- [S10 MongoDB 2 - ...](../Session-10/S10-MongoDB-2-.md)
+	- [MongoDB Learning Path](./Session-09/MongoDB-Learning-Path.md)
+- 
+
 
 ## Note
 

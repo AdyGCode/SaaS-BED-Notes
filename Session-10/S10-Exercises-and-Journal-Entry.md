@@ -2,87 +2,74 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
 backgroundColor: "#060606"
 tags:
   - SaaS
+  - APIs
   - Back-End
-  - Overview
-  - MongoDB
-  - NoSQL
+  - Journal
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-09-12T11:41
+updated: 2024-09-12T11:35
 ---
 
-# Learning path for NoSQL using MongoDB
+# Session 08 Exercises & Journal Entry
+
+## Software as a Service - Back-End Development
+
+Session 09 In-class, Out-of-Class, and Assessment Activities 
+
+Developed by Adrian Gould
+
+---
+
+```table-of-contents
+title: # Contents
+style: nestedList
+minLevel: 0
+maxLevel: 3
+includeLinks: true
+```
+
+---
+
+# Session 09 Exercises & Journals 
+
+---
+## Journal Entry: Summarise the Session's Content
+
+**For general details on Journal Content see Session 01.**
+
+For this week's journal we would like you to do the following...
+
+1. Summarise the learning and exercises from this session
 
 
-- Sign Up for Free MongoDB Atlas Account
-- Complete the Introduction to MongoDB course
+Remember you MUST include references using MyBib APA6/APA7 format to any references used.
 
-## SQL to MongoDB Cheat Sheet
+---
+## Reflection Questions
 
-Original download:
-- https://learn.mongodb.com/learn/course/mongodb-sql-cheat-sheet/main/mongodb-sql-cheat-sheet
-Copy contained with this repo:
-- [Cheat Sheet version as of 5/9/2024](../assets/SQLtoMongoDBCheatSheet1.pdf)
+No reflection questions.
 
+## Exercises
 
-
-
-## Signing Up
-
-1) Head
-   to [Introduction to MongoDB Course | MongoDB University](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)
-2) Create a FREE Atlas Account
-   via: [MongoDB Atlas | MongoDB](https://www.mongodb.com/cloud/atlas/register)
-
-![](../assets/MongoDB-Learning-Path-20240905145654430.png)
-
-![](../assets/MongoDB-Learning-Path-20240905145800687.png)
-![](../assets/MongoDB-Learning-Path-20240905145810634.png)
-![](../assets/MongoDB-Learning-Path-20240905145817076.png)
-
-![](../assets/MongoDB-Learning-Path-20240905145823108.png)
-
-![](../assets/MongoDB-Learning-Path-20240905145836669.png)
+No Exercises this session.
 
 
-## Introduction to MongoDB Course
+## Work on the Portfolio
 
-Open MongoDB's home page in new browser window.
+Complete the Portfolio Part 1 work.
 
-Click on resources
-![](../assets/MongoDB-Learning-Path-20240905152341334.png)
+## Tutorial
 
-Click on Courses and Certification
+Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](Session-09/MongoDB-Learning-Path.md).
 
-![](../assets/MongoDB-Learning-Path-20240905152357471.png)
-
-
-Click on Introduction to MongoDB
-
-![](../assets/MongoDB-Learning-Path-20240905152403207.png)
-
-Click on Register now
-
-This will use the Atlas account to log you into the MongoDB University and thus allow your
-progress to be tracked.
-
-
-## Learning Timeline
-
-The following table outlines the timeline for completion of the course. Remember that some
-of this is expected to be completed as part of your out-of-class activities.
-
-You may find topics being covered in class that do not match this timeline. 
-
-You will also be expected to complete some learning during our non-contact week.
 
 | Session          | Chapter                                               | Link                                                                                   | Duration (Mins) |
 |------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|
@@ -101,3 +88,15 @@ You will also be expected to complete some learning during our non-contact week.
 
 
 
+
+
+---
+# Found a Problem?
+ 
+If you spotted any problems (including missing details) in notes or other materials, then make sure you note that, and as a big help to your lecturer, you could fork the notes repository, create an issue, create a fix to the issue, and submit a pull request.
+
+
+
+---
+
+# END

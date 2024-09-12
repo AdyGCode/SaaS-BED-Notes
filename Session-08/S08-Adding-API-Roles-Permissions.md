@@ -2,7 +2,7 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](../assets//Black-Red-Banner.svg)"
+header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-09-12T11:51
 ---
 
 # Adding Roles and Permissions to an API

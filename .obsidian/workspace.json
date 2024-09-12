@@ -11,8 +11,12 @@
             "id": "24c326c0c42ddd39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/sessions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/sessions.md"
+              }
             }
           },
           {
@@ -143,7 +151,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
       "marp-slides:Show Slide Preview": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
@@ -151,6 +158,7 @@
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -158,25 +166,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24c326c0c42ddd39",
+  "active": "bdde981e8065700e",
   "lastOpenFiles": [
-    "Session-08/S08-Terminology.md",
-    "Session-09/NoSQL-Introduction.md",
-    "assets/SQLtoMongoDBCheatSheet1.pdf",
-    "assets/ReadMe-20240905143804012.png",
-    "assets/MongoDB-Learning-Path-20240905152403207.png",
-    "assets/MongoDB-Learning-Path-20240905152357471.png",
-    "assets/MongoDB-Learning-Path-20240905152341334.png",
-    "assets/MongoDB-Learning-Path-20240905145836669.png",
-    "assets/MongoDB-Learning-Path-20240905145827298.png",
-    "assets/MongoDB-Learning-Path-20240905145823108.png",
-    "assets/MongoDB-Learning-Path-20240905145817076.png",
-    "assets/MongoDB-Learning-Path-20240905145810634.png",
-    "assets/MongoDB-Learning-Path-20240905145800687.png",
+    "Session-09/Untitled.md",
+    "Session-09/S09-MongoDB-1-Introduction.md",
+    "Session-09/S09-Exercises-and-Journal-Entry.md",
     "Session-09/MongoDB-Learning-Path.md",
-    "Session-07/S07-PEST-and-APIs.md",
-    "Delivery-Specific.md",
     "Session-09/ReadMe.md",
+    "Delivery-Specific.md",
+    "Session-10/S10-MongoDB-2-.md",
+    "Session-10/S10-Exercises-and-Journal-Entry.md",
+    "Session-10/ReadMe.md",
+    "Session-10/S09-MongoDB-1-Introduction.md",
+    "Session-10/S09-Exercises-and-Journal-Entry.md",
+    "Session-10",
+    "Session-09/NoSQL-Introduction.md",
+    "Session-07/S07-Exercises-and-Journal-Entry.md",
+    "assets/S09-MongoDB-1-Introduction-20240912100047077.png",
+    "assets/S09-MongoDB-1-Introduction-20240912105316113.png",
+    "assets/S09-MongoDB-1-Introduction-20240912102155996.png",
+    "assets/S09-MongoDB-1-Introduction-20240912100751933.png",
+    "assets/S09-MongoDB-1-Introduction-20240912100740662.png",
+    "Session-09/S09-MOngoDB-1-Introduction-20240912102155996.png",
+    "Session-09/S09-MOngoDB-1-Introduction-20240912100751933.png",
+    "Session-09/S09-MOngoDB-1-Introduction-20240912100740662.png",
+    "Session-09/S09-MOngoDB-1-Introduction-20240912100047077.png",
+    "Session-09/S09-MOngoDB-1-Introduction.md",
+    "Session-09/S09-MOngoDB-1-Introduction-20240912105316113.png",
+    "Session-08/S08-Terminology.md",
+    "assets/SQLtoMongoDBCheatSheet1.pdf",
+    "Session-07/S07-PEST-and-APIs.md",
     "Session-08/ReadMe.md",
     "Session-09",
     "Session-08/S08-Adding-API-Roles-Permissions.md",
@@ -188,22 +207,12 @@
     "().md",
     "Session-07/ReadMe.md",
     "Session-07/external/Secure-RESTful-API-Passport.md",
-    "Session-07/external/medium-Api-Authenticate-How-to-authenicate.md.md",
     "Session-07/external",
-    "_sort/Laravel-and-APIs 1.md",
-    "Session-07/Secure-RESTful-API-Passport.md",
-    "Session-07/medium-Api-Authenticate-How-to-authenicate.md.md",
     "Session-07/external/assets",
-    "Session-07/S07-Exercises-and-Journal-Entry.md",
-    "Session-07/S07-Portfolio-Work.md",
-    "Session-07/S07-KBA-Details.md",
-    "Session-06/S06-Portfolio-Work.md",
-    "Session-06/S06-Exercises-and-Journal-Entry.md",
     "Session-05/assets",
     "Session-05/S05-APIS-and-Security.pdf",
     "Session-02/S02-Our-First-API.pdf",
     "Session-02/S01-Our-First-API.pdf",
-    "Session-02/S02-Adding-XDebug.pdf",
-    "Session-02/S02-What-is-an-API.pdf"
+    "Session-02/S02-Adding-XDebug.pdf"
   ]
 }

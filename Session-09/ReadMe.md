@@ -2,7 +2,7 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](../assets//Black-Red-Banner.svg)"
+header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
@@ -12,16 +12,19 @@ tags:
   - APIs
   - Back-End
   - Overview
+  - MongoDB
+  - NoSQL
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-09-12T11:41
 ---
 
 # Session 09 Overview
 
 - [NoSQL-Introduction](../Session-09/NoSQL-Introduction.md)
-- [MongoDB Learning Path](MongoDB-Learning-Path.md)
+- [S09-MongoDB-1-Introduction](../Session-09/S09-MongoDB-1-Introduction.md)
+	- [MongoDB Learning Path](./MongoDB-Learning-Path.md)
 - 
 
 
