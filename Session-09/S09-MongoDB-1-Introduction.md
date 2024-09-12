@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-09-12T09:59
-updated: 2024-09-12T12:15
+updated: 2024-09-12T13:32
 ---
 
 # NoSQL 1
