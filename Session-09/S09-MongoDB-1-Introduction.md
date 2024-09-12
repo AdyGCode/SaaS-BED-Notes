@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-09-12T09:59
-updated: 2024-09-12T11:45
+updated: 2024-09-12T12:08
 ---
 
 # NoSQL 1
@@ -151,50 +151,59 @@ https://geekandpoke.typepad.com/geekandpoke/2011/01/nosql.html
 <div class="page-break" style="page-break-before: always;"></div>
 
 
-# Terms Terms Terms
+# General Terms 
 
-| Category  | Term           | Meaning                                                                                                                                     |
-| --------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| General   | DBMS           | Database Management System<br>                                                                                                              |
-|           | Database       | An organised collection of items of interrelated data                                                                                       |
-|           | API            | A general term to represent the ‘type’ of the data                                                                                          |
-|           | ACID           | Atomicity, Consistency, Isolation, and Durability                                                                                           |
-|           | CAP            | Consistency, Availability, Partition-Tolerance                                                                                              |
-|           | BASE           | Basically-Available, Soft-State, Eventually-Consistent                                                                                      |
-|           | RDBMS          | Relational Database Management System                                                                                                       |
-|           |                |                                                                                                                                             |
-
-<div class="page-break" style="page-break-before: always;"></div>
-
-| Category  | Term           | Meaning                                                                                                                                     |
-| --------- | -------------- |---------------------------------------------------------------------------------------------------------------------------------------------|
-| SQL Terms | SQL            | Structured Query Language                                                                                                                   |
-|           | SQL            | Structured Query Language<br>Two general components DDL & DML                                                                               |
-|           | DDL            | Data Definition Language<br>Definition of Databases and Tables                                                                              |
-|           | DML            | Data Manipulation Language<br>Data operations: Create, Edit, Retrieve and Delete                                                            |
-|           | Normalisation  | The formal process of designing a relational database<br>Reduces redundancy, errors and other inconsistencies                               |
-|           | Schema         | Another name for database<br>Databases are made up of tables                                                                                |
-|           | Table          | A collection of columns and rows<br>Blueprint for items that contain similarly structured data                                              |
-|           | Column / Field | A single property of an ‘object’                                                                                                            |
-|           | Row / Record   | All row data relates directly to the same item<br>One datum per column in the table                                                         |
-|           | Relationship   | When two or more tables are ‘joined’ using primary and foreign keys                                                                         |
-|           | Candidate Key  | A field that could be used as a primary key<br>Each item of data in this field is unique                                                    |
-|           | Primary Key    | An identifier that is unique for each record in the table                                                                                   |
-|           | Foreign Key    | A field that is the primary key in another table<br>Used to create ‘relationships’ between tables                                           |
-|           |                |                                                                                                                                             |
+| Term     | Meaning                                                |
+| -------- | ------------------------------------------------------ |
+| DBMS     | Database Management System<br>                         |
+| Database | An organised collection of items of interrelated data  |
+| API      | A general term to represent the ‘type’ of the data     |
+| ACID     | Atomicity, Consistency, Isolation, and Durability      |
+| CAP      | Consistency, Availability, Partition-Tolerance         |
+| BASE     | Basically-Available, Soft-State, Eventually-Consistent |
+| RDBMS    | Relational Database Management System                  |
+|          |                                                        |
 
 <div class="page-break" style="page-break-before: always;"></div>
 
-| Category  | Term           | Meaning                                                                                                                                     |
-| --------- | -------------- |---------------------------------------------------------------------------------------------------------------------------------------------|
-| NoSQL     | NoSQL          | Not Only SQL                                                                                                                                |
-|           | Graph DB       | Designed to store and navigate relationships between data                                                                                   |
-|           | Document DB    | Manage semi-structured data<br>No fixed structure to data                                                                                   |
-|           | Key-Value DB   | Stores data in a simple key and value method<br>In programming known as an "associative array", "dictionary" or  "hash"                     |
-|           | Wide-Column DB | Use a concept of "keyspace"<br>Keyspace is similar to a relational database’s schema<br>Organise data storage into flexible columns         |
-|           |                |                                                                                                                                             |
+
+# RDBMS/SQL Terms 
+
+| Term           | Meaning                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| SQL            | Structured Query Language                                                                                     |
+| SQL            | Structured Query Language<br>Two general components DDL & DML                                                 |
+| DDL            | Data Definition Language<br>Definition of Databases and Tables                                                |
+| DML            | Data Manipulation Language<br>Data operations: Create, Edit, Retrieve and Delete                              |
+| Normalisation  | The formal process of designing a relational database<br>Reduces redundancy, errors and other inconsistencies |
+| Schema         | Another name for database<br>Databases are made up of tables                                                  |
+| Table          | A collection of columns and rows<br>Blueprint for items that contain similarly structured data                |
+| Column / Field | A single property of an ‘object’                                                                              |
+| Row / Record   | All row data relates directly to the same item<br>One datum per column in the table                           |
+| Relationship   | When two or more tables are ‘joined’ using primary and foreign keys                                           |
+| Candidate Key  | A field that could be used as a primary key<br>Each item of data in this field is unique                      |
+| Primary Key    | An identifier that is unique for each record in the table                                                     |
+| Foreign Key    | A field that is the primary key in another table<br>Used to create ‘relationships’ between tables             |
+|                |                                                                                                               |
 
 <div class="page-break" style="page-break-before: always;"></div>
+
+
+# NoSQL Terms 
+
+| Term           | Meaning                                                                                                                             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| NoSQL          | Not Only SQL                                                                                                                        |
+| Graph DB       | Designed to store and navigate relationships between data                                                                           |
+| Document DB    | Manage semi-structured data<br>No fixed structure to data                                                                           |
+| Key-Value DB   | Stores data in a simple key and value method<br>In programming known as an "associative array", "dictionary" or  "hash"             |
+| Wide-Column DB | Use a concept of "keyspace"<br>Keyspace is similar to a relational database’s schema<br>Organise data storage into flexible columns |
+|                |                                                                                                                                     |
+
+<div class="page-break" style="page-break-before: always;"></div>
+
+
+# Other Terms 
 
 | Category  | Term           | Meaning                                                                                                                                     |
 | --------- | -------------- |---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -219,22 +228,24 @@ https://geekandpoke.typepad.com/geekandpoke/2011/01/nosql.html
 
 <div class="page-break" style="page-break-before: always;"></div>
 
+
 # MongoDB Key Details
 
-- Commands:
-	- CASE SENSITIVE
-- Will NOT pick up typos in the names of:
+- **Commands:**
+	- <span style="background:rgba(240, 107, 5, 0.2)">CASE SENSITIVE</span>
+
+- **Will <span style="background:rgba(240, 107, 5, 0.2)">NOT</span> pick up typos in the names of:
 	- Databases
 	- Collections
 	- Documents or
 	- Fields
 
-Names of databases, collections, attributes, etc:  
+**Names of databases, collections, attributes, etc:**  
 - Case Sensitive  
 - May use any UTF-8 characters  
 - Must not be blank or null
 
-Recommendation:  
+**Recommendation:**  
 - Use standard A-Z, a-z, 0-9, underscore (_)  
 - Other UTF-8 characters may be hard to enter  
 - (examples:  Über, ålpha, Français, … and so on)

@@ -3754,19 +3754,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 786,
+      "wordCount": 792,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.62,
-      "characterCount": 11789,
-      "nonWhitespaceCharacterCount": 6495,
-      "readingTimeInMinutes": 2.9660377358490564,
+      "pageCount": 2.64,
+      "characterCount": 10105,
+      "nonWhitespaceCharacterCount": 6407,
+      "readingTimeInMinutes": 2.9886792452830186,
       "linkCount": 2,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1726106390946,
-      "modifiedDate": 1726112727736,
-      "sizeInBytes": 12763,
+      "modifiedDate": 1726114119404,
+      "sizeInBytes": 11079,
       "frontmatter": {
         "theme": "default",
         "paginate": true,
@@ -3785,7 +3785,7 @@
         "date created": "03 July 2024",
         "date modified": "10 July 2024",
         "created": "2024-09-12T09:59",
-        "updated": "2024-09-12T11:44"
+        "updated": "2024-09-12T11:45"
       }
     },
     "assets/S09-MongoDB-1-Introduction-20240912105316113.png": {
