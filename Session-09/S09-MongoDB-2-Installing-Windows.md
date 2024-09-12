@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-07-18T09:24
-updated: 2024-09-12T15:25
+updated: 2024-09-12T15:55
 ---
 
 # MongoDB: Installing within Laragon
@@ -210,6 +210,21 @@ Once uncompressed move the new MongoDB-Compass folder into the `Laragon\bin\Mong
 
 ![](../assets/explorer_3MCbYqmxVh.gif)
 
+## Running Compass from Extracted Zip
+
+At college we need to add the Compass executable to the start menu. This is done by:
+
+- Opening the `Laragon\bin\MongoDB\MongoDB-Compass\` folder
+- Locate the `MongoDBCompass.exe` file
+- Right Mouse Click and select Pin to Start
+
+You now have MongoDB Compass available to you from the Start menu.
+
+![](../assets/explorer_Spi0O8An0R.gif)
+
+
+You may now run Compass from this location.
+
 
 # Starting MongoDB in Laragon
 
@@ -236,7 +251,26 @@ You may also start/stop MongoDB by using the right mouse button menu, and hoveri
 ![](../assets/Obsidian_xVuFmRnXbW.gif)
 
 
+# Update Laragon Paths
 
+
+Before we can use the CLI tools we need to update the Windows Paths.
+
+Right Mouse button on the Laragon interface
+
+Navigate through the steps:
+- Tools
+- Path
+- Remove Laragon from Path
+- Tools
+- Path
+- Add Laragon to Path
+
+![](../assets/Obsidian_07VVnnyMq6.gif)
+You may now open the Windows Terminal and use the CLI tools...
+
+
+![](../assets/vivaldi_wnXznqslo1.gif)
 
 
 # END

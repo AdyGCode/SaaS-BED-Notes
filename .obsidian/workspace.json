@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb97df32db0094cd",
+        "id": "d14fd7d771c03971",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdf0f8947f692fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session-09/S09-MongoDB-2-Installing-Windows.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6301b0eea18e1d48",
+            "id": "32c41fece8586c3b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-09/S09-MongoDB-2-Installing-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-09/S09-MongoDB-2-Installing-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session-09/S09-MongoDB-2-Installing-Windows.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,21 +158,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cdf0f8947f692fe",
+  "active": "32c41fece8586c3b",
   "lastOpenFiles": [
+    "Session-10/S10-MongoDB-2-.md",
+    "Session-09/S09-MongoDB-2-Installing-Windows.md",
+    "assets/vivaldi_wnXznqslo1.gif",
+    "assets/Obsidian_07VVnnyMq6.gif",
+    "assets/explorer_Spi0O8An0R.gif",
     "assets/Obsidian_xVuFmRnXbW.gif",
     "assets/Obsidian_h9i3Nw984c.gif",
     "assets/explorer_3MCbYqmxVh.gif",
     "assets/S09-MongoDB-2-Installing-Windows-20240912133513760.png",
     "assets/S09-MongoDB-2-Installing-Windows-20240912134242968.png",
-    "Session-09/S09-MongoDB-2-Installing-Windows.md",
     "assets/explorer_VNu4dzD4zW.gif",
     "assets/explorer_K3iOL5JiC6.gif",
-    "assets/explorer_AwmGkSETPE 1.gif",
-    "assets/vivaldi_BsQXA41Nje.gif",
-    "assets/explorer_9maIfR0ARx 1.gif",
     "assets/MongoDB-Compass.7z",
-    "assets/explorer_oo0JfYFIxZ.gif",
     "assets/MongoDB-Compass-1.44.3.7z",
     "assets/MongoDB-Compass-1.44.3.7z",
     "assets/mongod.conf",
@@ -200,7 +184,6 @@
     "Session-09/MongoDB-Learning-Path.md",
     "Session-09/ReadMe.md",
     "Delivery-Specific.md",
-    "Session-10/S10-MongoDB-2-.md",
     "Session-10/S10-Exercises-and-Journal-Entry.md",
     "Session-10/ReadMe.md",
     "Session-10/S09-MongoDB-1-Introduction.md",
