@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-09-12T09:59
-updated: 2024-09-12T12:08
+updated: 2024-09-12T12:15
 ---
 
 # NoSQL 1
@@ -318,11 +318,11 @@ https://www.deviantart.com/arseniic/art/What-did-the-buffalo-say-to-his-son-when
 # MongoDB Structure Waterfall
 
  > MongoDB                               
- > 	has **Databases**                   
- > 		which have **Collections**            
- > 			which have **Documents**              
- > 				made up of **Key-Value pairs**        
- > 					with **values** having data **types** 
+ > > has **Databases**                   
+ > > > which have **Collections**            
+ > > > > which have **Documents**              
+ > > > > > made up of **Key-Value pairs**        
+ > > > > > > with **values** having data **types** 
   
 
 # Exercises
