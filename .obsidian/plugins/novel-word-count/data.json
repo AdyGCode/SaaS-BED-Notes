@@ -3879,8 +3879,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1726112196818,
-      "modifiedDate": 1726113109119,
-      "sizeInBytes": 1003
+      "modifiedDate": 1726715398221,
+      "sizeInBytes": 999
     },
     "Session-10/S10-Exercises-and-Journal-Entry.md": {
       "isCountable": true,
@@ -3920,23 +3920,23 @@
         "updated": "2024-09-12T11:35"
       }
     },
-    "Session-10/S10-MongoDB-2-.md": {
+    "Session-10/S10-MongoDB-2.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 731,
+      "wordCount": 234,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4366666666666665,
-      "characterCount": 9993,
-      "nonWhitespaceCharacterCount": 5223,
-      "readingTimeInMinutes": 2.758490566037736,
+      "pageCount": 0.78,
+      "characterCount": 3516,
+      "nonWhitespaceCharacterCount": 2257,
+      "readingTimeInMinutes": 0.8830188679245283,
       "linkCount": 2,
-      "embedCount": 2,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1726112196802,
-      "modifiedDate": 1726111930931,
-      "sizeInBytes": 10954,
+      "modifiedDate": 1726715428564,
+      "sizeInBytes": 3963,
       "frontmatter": {
         "theme": "default",
         "paginate": true,
@@ -3951,10 +3951,8 @@
           "APIs",
           "Back-End"
         ],
-        "date created": "03 July 2024",
-        "date modified": "10 July 2024",
         "created": "2024-09-12T09:59",
-        "updated": "2024-09-12T11:32"
+        "updated": "2024-09-19T11:08"
       }
     }
   }

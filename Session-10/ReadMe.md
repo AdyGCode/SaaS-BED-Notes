@@ -20,7 +20,7 @@ updated: 2024-09-12T11:32
 
 # Session 09 Overview
 
-- [S10 MongoDB 2 - ...](../Session-10/S10-MongoDB-2-.md)
+- [S10 MongoDB 2 - ...](Session-10/S10-MongoDB-2.md)
 	- [MongoDB Learning Path](./Session-09/MongoDB-Learning-Path.md)
 - 
 
