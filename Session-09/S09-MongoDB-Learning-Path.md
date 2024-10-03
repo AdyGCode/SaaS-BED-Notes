@@ -102,5 +102,4 @@ You will also be expected to complete some learning during our non-contact week.
 | 12               | MongoDB Data Modeling Intro                           | https://learn.mongodb.com/courses/introduction-to-mongodb-data-modeling                | 45              |
 | 12               | MongoDB Transactions                                  | https://learn.mongodb.com/courses/mongodb-transactions                                 | 60              |
 
-
 [S09 Exercises and Journal Entry](Session-09/S09-Exercises-and-Journal-Entry.md)
