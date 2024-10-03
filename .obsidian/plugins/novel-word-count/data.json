@@ -4319,15 +4319,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.8933333333333333,
-      "characterCount": 3794,
+      "characterCount": 3793,
       "nonWhitespaceCharacterCount": 2483,
       "readingTimeInMinutes": 1.0113207547169811,
       "linkCount": 2,
       "embedCount": 9,
       "aliases": null,
-      "createdDate": 1726992130670,
-      "modifiedDate": 1727938733527,
-      "sizeInBytes": 4951,
+      "createdDate": 1727938923864,
+      "modifiedDate": 1727938966921,
+      "sizeInBytes": 4950,
       "frontmatter": {
         "theme": "default",
         "paginate": true,
@@ -4350,7 +4350,7 @@
         "date created": "03 July 2024",
         "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:15"
+        "updated": "2024-10-03T14:58"
       }
     }
   }
