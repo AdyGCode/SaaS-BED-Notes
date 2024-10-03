@@ -17,10 +17,10 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-09-12T11:40
+updated: 2024-10-03T09:01
 ---
 
-# Session 08 Exercises & Journal Entry
+# Session 09 Exercises & Journal Entry
 
 ## Software as a Service - Back-End Development
 
@@ -70,23 +70,16 @@ Complete the Portfolio Part 1 work.
 
 ## Tutorial
 
-Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](Session-09/MongoDB-Learning-Path.md).
+Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](../Session-09/MongoDB-Learning-Path.md).
 
 
 | Session          | Chapter                                               | Link                                                                                   | Duration (Mins) |
-|------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|
+| ---------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------- |
 | 08 - 09          | Intro to MongoDB                                      | https://learn.mongodb.com/courses/start-here-introduction-to-mongodb                   | 15              |
 | 08 - 09          | Getting Started with MongoDB Atlas                    | https://learn.mongodb.com/courses/getting-started-with-mongodb-atlas                   | 60              |
 | 09               | MongoDB and the Document Model                        | https://learn.mongodb.com/courses/overview-of-mongodb-and-the-document-model           | 75              |
 | 09               | Connecting to a MongoDB Database                      | https://learn.mongodb.com/courses/connecting-to-a-mongodb-database                     | 60              |
-| 10               | MongoDB CRUD Operations: Insert and Find Documents    | https://learn.mongodb.com/courses/mongodb-crud-operations-insert-and-find-documents    | 105             |
-| 10               | MongoDB CRUD Operations: Replace and Delete Documents | https://learn.mongodb.com/courses/mongodb-crud-operations-replace-and-delete-documents | 105             |
-| Non Contact Week | MongoDB CRUD Operations: Modifying Query Results      | https://learn.mongodb.com/courses/mongodb-crud-operations-modifying-query-results      | 85              |
-| Non Contact Week | MongoDB Aggregation                                   | https://learn.mongodb.com/courses/mongodb-aggregation                                  | 105             |
-| 11               | MongoDB Indexes                                       | https://learn.mongodb.com/courses/mongodb-indexes                                      | 105             |
-| 11               | MongoDB Atlas Search                                  | https://learn.mongodb.com/courses/mongodb-atlas-search                                 | 90              |
-| 12               | MongoDB Data Modeling Intro                           | https://learn.mongodb.com/courses/introduction-to-mongodb-data-modeling                | 45              |
-| 12               | MongoDB Transactions                                  | https://learn.mongodb.com/courses/mongodb-transactions                                 | 60              |
+
 
 
 

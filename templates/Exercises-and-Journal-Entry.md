@@ -2,24 +2,25 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE Banner](../assets/Black-Red-Banner.svg)"
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
-size: 4k
-color: 
-backgroundColor: 
+size: 1920x1080
+color: "#ccc"
+backgroundColor: "#060606"
 tags:
   - SaaS
   - APIs
   - Back-End
-  - NoSQL
+  - Overview
   - MongoDB
-  - Laravel
-  - PHP
-  - Journal
+  - NoSQL
 date created: 03 July 2024
-date modified: 10 July 2024
-created: 2024-07-18T09:24
-updated: 2024-09-12T11:57
+date modified: 08 July 2024
+created: 2024-07-31T07:52
+updated: 2024-10-03T09:18
 ---
 
 # Session XX Exercises & Journal Entry

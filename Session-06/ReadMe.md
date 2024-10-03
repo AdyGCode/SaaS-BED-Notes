@@ -2,7 +2,10 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
@@ -15,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-10-03T09:16
 ---
 
 # Session 06 Overview
@@ -37,6 +40,3 @@ We **extremely strongly** advise that you write your test cases and your code by
 This session's notes were developed with the assistance of Mistral AI, and other resources. These include:
 
 Mistral Conversation: 
-
-
-

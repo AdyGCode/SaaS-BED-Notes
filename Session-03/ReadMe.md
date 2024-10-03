@@ -2,7 +2,10 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
@@ -15,7 +18,7 @@ tags:
 date created: 07 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-10-03T09:15
 ---
 
 # Session 03 Overview
@@ -78,4 +81,3 @@ _My tests are stories_. (2024, June 27). Hakan Aktaş. https://hakanaktas.com.tr
 Van der Herten, F. (2024, July 19). _How to test all routes in your Laravel app by writing just a single Pest test | freek.dev_. Freek.dev. https://freek.dev/2739-how-to-test-all-routes-in-your-laravel-app-by-writing-just-a-single-pest-test
 
 Van der Herten, F. (2024a, July 3). _A package to display solutions on the Laravel error page | freek.dev_. Freek.dev. https://freek.dev/2736-a-package-to-display-solutions-on-the-laravel-error-page
-

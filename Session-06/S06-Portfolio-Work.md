@@ -2,20 +2,23 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 4k
 color: "#ccc"
 backgroundColor: "#060606"
 tags:
-- SaaS
-- APIs
-- Back-End
-- Overview
+  - SaaS
+  - APIs
+  - Back-End
+  - Overview
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-10-03T09:16
 ---
 
 
@@ -49,7 +52,3 @@ The table below shows how this feature maps to permissions to complete the tasks
 | Client        | All                                                 | All        | Only Own | Only Own | Only Own | All    | Soft Delete: May undo own deletions                                                                                    |
 | Staff         | All                                                 | All        | All      | All      | All      | All    | Soft Delete: Undo all, Undo one, Destroy all, Destroy one                                                              |
 | Administrator | All                                                 | All        | All      | All      | All      | All    | Soft Delete: Undo all, Undo one, Destroy all, Destroy one<br><br>Super-user account(s)                                 |
-
-
-
-

@@ -2,7 +2,10 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
@@ -17,6 +20,7 @@ date modified: 08 July 2024
 created: 2024-09-05T13:45:23 (UTC +08:00)
 source: https://abu-sayed.medium.com/laravel-testing-with-pest-the-complete-guide-for-beginners-a0b6680cfd71
 author: Abu Sayed
+updated: 2024-10-03T09:16
 ---
 
 # Laravel Testing with Pest: The Complete Guide for Beginners

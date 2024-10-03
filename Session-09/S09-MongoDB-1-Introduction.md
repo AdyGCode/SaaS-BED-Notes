@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-09-12T09:59
-updated: 2024-09-19T11:14
+updated: 2024-10-03T15:01
 ---
 
 # NoSQL 1
@@ -290,7 +290,7 @@ https://www.deviantart.com/arseniic/art/What-did-the-buffalo-say-to-his-son-when
 	],
 	"ingredients": [
 		{
-			"name": "pie crusts"
+			"name": "pie crusts",
 			"amount": {
 				"quantity": 2,
 				"unit": null
@@ -327,7 +327,7 @@ https://www.deviantart.com/arseniic/art/What-did-the-buffalo-say-to-his-son-when
 
 # Exercises
 
-Refer to the notes in  [MongoDB-Learning-Path](../Session-09/MongoDB-Learning-Path.md) for details on signing upo for MongoDB University and the Course(s) that are to be undertaken for free.
+Refer to the notes in  [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path) for details on signing upo for MongoDB University and the Course(s) that are to be undertaken for free.
 
 
 # END

@@ -2,7 +2,10 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 4k
 color: "#ccc"
@@ -15,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-10-03T09:15
 ---
 
 
@@ -57,4 +60,3 @@ Protect all routes for companies so an end user must be logged in via the API.
 Protect all route except the index (browse) route so that end users must be logged in via the client.
 
 The index (browse) route should only return six (6) positions when the user is not logged in, and return all positions when logged in. The latter will be paginated (pages of 3, 6, or 9 for testing).
-

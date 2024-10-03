@@ -15,10 +15,10 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-09-12T11:35
+updated: 2024-10-03T08:52
 ---
 
-# Session 08 Exercises & Journal Entry
+# Session 10 Exercises & Journal Entry
 
 ## Software as a Service - Back-End Development
 
@@ -68,7 +68,7 @@ Complete the Portfolio Part 1 work.
 
 ## Tutorial
 
-Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](Session-09/MongoDB-Learning-Path.md).
+Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path).
 
 
 | Session          | Chapter                                               | Link                                                                                   | Duration (Mins) |

@@ -2,7 +2,10 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
@@ -15,14 +18,14 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-09-12T11:32
+updated: 2024-10-03T09:16
 ---
 
-# Session 09 Overview
+# Session 10 Overview
 
-- [S10 MongoDB 2 - ...](Session-10/S10-MongoDB-2.md)
+- [S10 MongoDB 3 - ...](../Session-10/S10-MongoDB-3)
 	- [MongoDB Learning Path](./Session-09/MongoDB-Learning-Path.md)
-- 
+- [S10 Exercises and Journal Entry](Session-10/S10-Exercises-and-Journal-Entry.md)
 
 
 ## Note
@@ -34,6 +37,3 @@ We **extremely strongly** advise that you write your test cases and your code by
 This session's notes were developed with the assistance of Mistral AI, and other resources. These include:
 
 Mistral Conversation: 
-
-
-

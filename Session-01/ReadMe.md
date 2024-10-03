@@ -2,7 +2,10 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 1920x1080
 color: "#ccc"
@@ -15,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T08:45
-updated: 2024-08-08T15:19
+updated: 2024-10-03T15:01
 ---
 # Session 01 Overview
 
@@ -42,5 +45,3 @@ updated: 2024-08-08T15:19
 	- Exercises for revision
 	- Create summary of learning
 	- Laravel PEST from Scratch video series
-	
-

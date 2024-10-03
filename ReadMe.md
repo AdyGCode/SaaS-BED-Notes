@@ -44,15 +44,15 @@ Please make sure you check the required [development environment](S01-Developmen
 
 Each session has a `ReadMe.md` file that acts as a location that contains the session's learning sequence.
 
-- [Session 01 ReadMe](Session-01/ReadMe.md)
-- [Session 02 ReadMe](Session-02/ReadMe)
-- [Session 03 ReadMe](Session-03/ReadMe.md)
-- [Session 04 ReadMe](Session-04/ReadMe.md)
-- [Session 05 ReadMe](Session-05/ReadMe.md)
-- [Session 06 ReadMe](Session-06/ReadMe.md)
-- [Session 07 ReadMe](Session-07/ReadMe.md)
-- [Session 08 ReadMe](Session-08/ReadMe.md)
-- [Session 09 ReadMe](Session-09/ReadMe.md)
+- [Session 01 ReadMe](../Session-01/ReadMe.md)
+- [Session 02 ReadMe](../Session-02/ReadMe)
+- [Session 03 ReadMe](../Session-03/ReadMe.md)
+- [Session 04 ReadMe](../Session-04/ReadMe.md)
+- [Session 05 ReadMe](../Session-05/ReadMe.md)
+- [Session 06 ReadMe](../Session-06/ReadMe.md)
+- [Session 07 ReadMe](../Session-07/ReadMe.md)
+- [Session 08 ReadMe](../Session-08/ReadMe.md)
+- [Session 09 ReadMe](../Session-09/ReadMe.md)
 - 
 - ...
 

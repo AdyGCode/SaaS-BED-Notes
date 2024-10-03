@@ -2,20 +2,23 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ![NMTAFE Banner](../assets/Black-Red-Banner.svg)
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+banner: "![[Black-Red-Banner.svg]]"
+banner_x: 1
+banner_y: "0"
 auto-scaling: true
 size: 4k
 color: "#ccc"
 backgroundColor: "#060606"
 tags:
-- SaaS
-- APIs
-- Back-End
-- Overview
+  - SaaS
+  - APIs
+  - Back-End
+  - Overview
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-09T09:06
+updated: 2024-10-03T09:15
 ---
 
 # Image Uploads and APIs
@@ -903,4 +906,3 @@ Update is left (at the moment) as an exercise. When you do look at it, make sure
 - As per create, check the image dimensions etc
 - If an image exists for the record, and the supplied data does not have a new image, leave the current one untouched
 - If an image exists and the supplied data contains a new image, delete the old image, save the new one, and update the record with the new name
-
