@@ -11,8 +11,12 @@
             "id": "c3710c610f09a9e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session-12/S12-Exercises-and-Journal-Entry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session-12/S12-Exercises-and-Journal-Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session-12/S12-Exercises-and-Journal-Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session-12/S12-Exercises-and-Journal-Entry.md"
+              }
             }
           },
           {
@@ -160,13 +168,20 @@
   },
   "active": "c3710c610f09a9e6",
   "lastOpenFiles": [
+    "Session-12/S12-MongoDB-5.md",
+    "Session-12/S12-MongoDB-6.md",
+    "Session-10/S10-MongoDB-3.md",
+    "Session-11/S11-MongoDB-4.md",
+    "Session-12/S12-Exercises-and-Journal-Entry.md",
+    "Session-12/S11-Exercises-and-Journal-Entry.md",
+    "Session-12/S11-MongoDB-4.md",
+    "Session-12/ReadMe.md",
+    "Session-12",
     "Session-09/S09-MongoDB-Learning-Path.md",
     "Session-11/S11-Exercises-and-Journal-Entry.md",
     "Session-11/ReadMe.md",
-    "Session-11/S11-MongoDB-4.md",
     "MongoDB-University",
     "Session-10/S10-Exercises-and-Journal-Entry.md",
-    "Session-10/S10-MongoDB-3.md",
     "ReadMe.md",
     "Session-03/ReadMe.pdf",
     "assets/Black-Red-Banner.svg",
@@ -184,12 +199,7 @@
     "Session-09/Untitled.md",
     "templates/slides.md",
     "templates/Exercises-and-Journal-Entry.md",
-    "templates/sessions.md",
-    "Delivery-Specific.md",
-    "Session-10/S09-MongoDB-1-Introduction.md",
-    "Session-10/S09-Exercises-and-Journal-Entry.md",
     "Session-10",
-    "Session-09/NoSQL-Introduction.md",
     "assets/S09-MongoDB-1-Introduction-20240912100047077.png",
     "assets/S09-MongoDB-1-Introduction-20240912105316113.png",
     "assets/S09-MongoDB-1-Introduction-20240912102155996.png",
@@ -203,7 +213,6 @@
     "Session-09",
     "Session-07/external",
     "Session-07/external/assets",
-    "Session-05/assets",
-    "Session-05/S05-APIS-and-Security.pdf"
+    "Session-05/assets"
   ]
 }

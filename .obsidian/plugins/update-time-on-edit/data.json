@@ -34,8 +34,8 @@
     "templates/Exercises-and-Journal-Entry.md": "62e01a560bae65fac1a5d7dcf28ef0bef231203fa0d62fa3694c665a47c22e83",
     "templates/slides.md": "caae8849056aa6cb4198a01e2739f76d372545180d6a3b56179b33e9225eabd9",
     "Session-10/S10-Exercises-and-Journal-Entry.md": "3328fdc75d261a61e759f13316741e4048652cd58e92c234c4445d40ede11514",
-    "Session-11/S11-MongoDB-4.md": "361c1cf601553a28d19248608184c4d4e7675af18c0a844fde19867d29e11085",
-    "Session-10/S10-MongoDB-3.md": "8022e8f183c4e3cfd2bb373b489f83b9594224bde790eab91b728f6d1480eb9a",
+    "Session-11/S11-MongoDB-4.md": "bc20392b047f4572f2860c40b184e033b9d50b5f7c31b7dc20a0dad6fd30a56b",
+    "Session-10/S10-MongoDB-3.md": "c85c9941a993148bd03b8d5a4fa35415c31dfb7e1181276ff70a5474f40fcd8f",
     "Session-11/S11-Exercises-and-Journal-Entry.md": "599aa18450215f3ae9c0e0c30104f5e55e881356485b64c8c49b7c2878d877ef",
     "Session-11/ReadMe.md": "ce3cdff27b2eccf7530510e9d2056cb56524959c4fe441f35f779f5aaae0bb13",
     "Session-06/ReadMe.md": "76c17116c5964a7de8d0270956fe8e8b466e6b126cd0cedd6f23c0fbed3b92e4",
@@ -47,6 +47,10 @@
     "Session-06/S06-Review.md": "1a4322d2c263deae2e1765b4eac0a921e46c9ccb4c65870be09856462f1fce52",
     "Session-07/S07-PEST-and-APIs.md": "5a1e638056c1624fe42fcf68207fa0093fad240ba71da684ad232a8caba13a24",
     "Session-05/ReadMe.md": "17ee77461446e91814604d3cf5869d62087ab419891622757c07eefdffbe3fd5",
-    "Session-07/S07-Image-Uploads-and-APIs.md": "4654059d04838c3acb7abb621b3b073ddf1b4db486cb3c27bd92395637c857cd"
+    "Session-07/S07-Image-Uploads-and-APIs.md": "4654059d04838c3acb7abb621b3b073ddf1b4db486cb3c27bd92395637c857cd",
+    "Session-12/S12-Exercises-and-Journal-Entry.md": "872ec7ef5fb3e41292509306d7fc54a2dd0e6f55d38547bfc7f5bace1db0681c",
+    "Session-12/S12-MongoDB-5.md": "b107a61befa22848e58a8ab834379f73d04d3d08da082f219cae9759dccb8235",
+    "Session-12/ReadMe.md": "2ead0fb1a4dc0ef1a87a55e600833a7b863f5bc2ec7405969fc7f3a167818716",
+    "Session-12/S12-MongoDB-6.md": "332ab823b2ad3fe96c5ad0a59a579ca3c0884355afb56accad88ee965c701c45"
   }
 }

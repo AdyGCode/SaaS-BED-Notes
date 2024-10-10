@@ -12,7 +12,7 @@ tags:
   - APIs
   - Back-End
 created: 2024-09-12T09:59
-updated: 2024-10-03T08:56
+updated: 2024-10-10T10:50
 ---
 
 # NoSQL 3
@@ -60,6 +60,10 @@ The following table shows the targeted lessons from MongoDB University for this 
 
 
 For the next session's target learning you may see here: [S11 MongoDB 4](Session-11/S11-MongoDB-4.md).
+
+
+
+
 
 # END
 
