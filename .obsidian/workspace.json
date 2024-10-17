@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c709bfcdba6c8c4",
+        "id": "6217653ab30f2749",
         "type": "tabs",
         "children": [
           {
-            "id": "c3710c610f09a9e6",
+            "id": "705620c562a26bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-12/S12-Exercises-and-Journal-Entry.md",
+                "file": "Session-13/S13-MongoDB-7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-12/S12-Exercises-and-Journal-Entry.md",
+                "file": "Session-13/S13-MongoDB-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-12/S12-Exercises-and-Journal-Entry.md",
+                "file": "Session-13/S13-MongoDB-7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-12/S12-Exercises-and-Journal-Entry.md"
+                "file": "Session-13/S13-MongoDB-7.md"
               }
             }
           },
@@ -166,8 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3710c610f09a9e6",
+  "active": "bdde981e8065700e",
   "lastOpenFiles": [
+    "assets/php-8.3-ext-mongodb-xdebug.zip",
+    "assets/php_mongodb_xdebug.zip",
+    "Session-12/S12-Exercises-and-Journal-Entry.md",
+    "Session-13/S13-MongoDB-7.md~",
+    "Session-13/ReadMe.md~",
+    "Session-13/S13-MongoDB-7.md",
+    "Session-13/S13-Exercises-and-Journal-Entry.md",
+    "Session-13/S12-Exercises-and-Journal-Entry.md",
+    "Session-13/S12-MongoDB-6.md",
+    "Session-13/S12-MongoDB-5.md",
+    "Session-13/ReadMe.md",
+    "Session-13",
     "Session-09/S09-MongoDB-Learning-Path.md",
     "Session-09/S09-MongoDB-1-Introduction.md",
     "Session-09/S09-Exercises-and-Journal-Entry.md",
@@ -177,7 +189,6 @@
     "Session-08/S08-Ten-Common-HTTP-Responses.md",
     "Session-08/S08-Terminology.md",
     "templates/Exercises-and-Journal-Entry.md",
-    "Session-12/S12-Exercises-and-Journal-Entry.md",
     "Session-12/S12-MongoDB-5.md",
     "Session-12/S12-MongoDB-6.md",
     "Session-10/S10-MongoDB-3.md",
@@ -189,15 +200,8 @@
     "Session-11/S11-Exercises-and-Journal-Entry.md",
     "Session-11/ReadMe.md",
     "MongoDB-University",
-    "Session-10/S10-Exercises-and-Journal-Entry.md",
-    "ReadMe.md",
     "Session-03/ReadMe.pdf",
     "assets/Black-Red-Banner.svg",
-    "Session-10/ReadMe.md",
-    "Session-09/S09-NoSQL-Introduction.md",
-    "Session-11/S10-MongoDB-4.md",
-    "Session-11/S10-MongoDB-2.md",
-    "Session-11/S10-Exercises-and-Journal-Entry.md",
     "Session-11",
     "Session-10",
     "assets/S09-MongoDB-1-Introduction-20240912100047077.png",
@@ -209,10 +213,6 @@
     "Session-09/S09-MOngoDB-1-Introduction-20240912100751933.png",
     "Session-09/S09-MOngoDB-1-Introduction-20240912100740662.png",
     "Session-09/S09-MOngoDB-1-Introduction-20240912100047077.png",
-    "assets/SQLtoMongoDBCheatSheet1.pdf",
-    "Session-09",
-    "Session-07/external",
-    "Session-07/external/assets",
-    "Session-05/assets"
+    "assets/SQLtoMongoDBCheatSheet1.pdf"
   ]
 }
