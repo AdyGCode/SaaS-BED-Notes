@@ -79,20 +79,17 @@ N/A
 
 ## Tutorial
 
-Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path).
+Complete the MongoDB University course content if yiou have not done so.
+See [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path).
 
+## MongoDB and Event triggers
 
-| Session          | Chapter                                               | Link                                                                                   | Duration (Mins) |
-| ---------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------- |
-| Non Contact Week | MongoDB CRUD Operations: Modifying Query Results      | https://learn.mongodb.com/courses/mongodb-crud-operations-modifying-query-results      | 85              |
-| Non Contact Week | MongoDB Aggregation                                   | https://learn.mongodb.com/courses/mongodb-aggregation                                  | 105             |
-| 11               | MongoDB Indexes                                       | https://learn.mongodb.com/courses/mongodb-indexes                                      | 105             |
-| 11               | MongoDB Atlas Search                                  | https://learn.mongodb.com/courses/mongodb-atlas-search                                 | 90              |
-| 13               | MongoDB Data Modeling Intro                           | https://learn.mongodb.com/courses/introduction-to-mongodb-data-modeling                | 45              |
-| 13               | MongoDB Transactions                                  | https://learn.mongodb.com/courses/mongodb-transactions                                 | 60              |
+Complete the following Tutorials:
 
-
-
+- Mastering MongoDB Triggers: The Definitive Guide --  https://thelinuxcode.com/mongodb-triggers/
+- MongoDB Triggers Simplified: A Comprehensive Guide 101 -- https://hevodata.com/learn/mongodb-triggers/
+- Building A Transaction Processing System With MongoDB Trigger -- https://dev.to/caleberi/building-a-transaction-processing-system-with-mongodb-trigger-30i1
+- How to use MongoDB Triggers -- https://youtu.be/oEUEGjkPH-w?si=DunPcywWJM6cQAmu
 
 
 ---
