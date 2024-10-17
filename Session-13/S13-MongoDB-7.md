@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2024-10-10T09:33
-updated: 2024-10-17T12:16
+updated: 2024-10-17T13:56
 ---
 ---
 theme: default
@@ -168,8 +168,9 @@ Update the migration schema to include:
 ```php
     Schema::create('posts', function (Blueprint $table) {   
             $table->bigIncrements('id');  
-            $table->string('name')->nullable();  
-            $table->longText('detail')->nullable();  
+			$table->string('title');  
+			$table->longText('body')->nullable();  
+			$table->string('slug')->nullable();
             $table->timestamps();  
         });  
     }  
@@ -238,7 +239,7 @@ Edit the post controller, and add this code to each of the indicated methods:
 
 ```php
 $posts = Post::latest()->paginate(5);  
-return view('post.index',compact('posts'))
+return view('posts.index',compact('posts'))
 	->with('i', (request()->input('page', 1) - 1) * 5);  
 
 ```
@@ -246,18 +247,19 @@ return view('post.index',compact('posts'))
 #### create
 
 ```php
-return view('post.create');  
+return view('posts.create');  
 ```
 
 #### store
 
 ```php 
-$request->validate([  
-	'name' => 'required',  
-	'detail' => 'required',  
+$validated = validate([  
+    'title'=>['required', 'string',],  
+    'body'=>['sometimes','nullable','string',],  
+    'slug'=>['sometimes','nullable','string',],  
 ]);  
-
-Post::create($request->all());  
+  
+$post = Post::create($validated);
 
 return redirect()
 	->route('posts.index')
@@ -268,13 +270,13 @@ return redirect()
 #### show
 
 ```php
-return view('post.show',compact('post'));  
+return view('posts.show',compact('post'));  
 ```
 
 #### edit
 
 ```php
-return view('post.edit',compact('post'));  
+return view('posts.edit',compact('post'));  
 ```
 
 #### update
@@ -294,7 +296,7 @@ return redirect()
 
 ```
 
-#### delete
+#### destroy
 
 ```php
         $post->delete();  
