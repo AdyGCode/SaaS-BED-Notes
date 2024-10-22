@@ -17,7 +17,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-10-11T10:39
+updated: 2024-10-22T08:16
 ---
 
 # Session 09 Exercises & Journal Entry

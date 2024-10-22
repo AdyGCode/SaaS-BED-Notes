@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2024-09-05T10:55
-updated: 2024-10-11T10:40
+updated: 2024-10-22T08:16
 ---
 ---
 theme: default
