@@ -1,6 +1,11 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2024-10-04T08:58
+updated: 2024-10-25T10:34
+---
+---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2024-10-04T08:58
 updated: 2024-10-22T08:16
 ---
 ---

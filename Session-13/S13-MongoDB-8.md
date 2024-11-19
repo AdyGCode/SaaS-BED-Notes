@@ -1,5 +1,10 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
+created: 2024-10-17T10:03
+updated: 2024-10-18T14:59
+---
+---
+banner: "![[Black-Red-Banner.svg]]"
 created: 2024-10-10T09:33
 updated: 2024-10-17T13:56
 ---
@@ -28,7 +33,7 @@ created: 2024-07-31T07:52
 updated: 2024-10-10T09:34
 ---
 
-# NoSQL 7
+# NoSQL 8
 
 ## Software as a Service - Back-End Development
 
@@ -54,15 +59,15 @@ includeLinks: true
 
 # Session 13
 
-During this session you will continue with the MongoDB Learning Path.
+This session demonstrates the Laravel and MongoDB integration.
 
-Also we will be conducting demonstrations of the first portfolio item.
-
-Refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
 
 # MongoDB University Target Lessons
 
-By this week you shold have completed all the MongoDB University chapters.
+By this week you should have completed all the MongoDB University chapters.
+
+If you have not done so, refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
+
 
 # Using MongoDB with Laravel
 
@@ -71,13 +76,18 @@ By this week you shold have completed all the MongoDB University chapters.
 Windows PHP 8.3 Thread Safe MongoDB Drivers (plus xdebug)
 ![](../assets/php-8.3-ext-mongodb-xdebug.zip)
 
-Uncompress and then move the DLLs to the `laragon/bin/php/php-xxxx/ext` folder
+Uncompress and then move the DLLs to the `laragon/bin/php/php-xxxx/ext` folder.
 
 
 ### Edit the PHP.INI 
 
-
 This has to happen for any version of PHP you are using.
+
+Move to the end of the `.ini` file and add teh lines below:
+
+> NOte: If you have installed xDebug previously, you may want to move the `zend_entension` from its original location to this new spot.
+> In many ways, keeping the extension and settings together can be very useful for quickly locating all related parts.
+
 ```
 [xdebug]
 zend_extension=xdebug
@@ -89,10 +99,22 @@ xdebug.mode=coverage
 extension=php_mongodb.dll
 ```
 
+When you have done this, you should stop and start Apache, if you are using Laragon.
 
 ### Create Laravel App
+
+Before we create the shell of the application, let's do a check if the laravel installer or any of the required packages need updating:
+
 ```shell
 composer global require laravel/installer
+```
+
+Now you may run the installer.
+
+When you do, you may either replace `APPLICATION_NAME` with the name of the app, or leave it blank and be prompted for the details.
+
+
+```shell
 laravel new APPLICATION_NAME
 ```
 

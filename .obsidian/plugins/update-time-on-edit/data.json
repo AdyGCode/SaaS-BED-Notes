@@ -25,7 +25,7 @@
     "Session-09/ReadMe.md": "654bba321e318f905754e72d029b71d30423ec1b410da962f6a8c4d149d71b64",
     "Session-07/S07-Exercises-and-Journal-Entry.md": "9fff9a902debee8c4c555e523080ba650900bfc1c4263ec48de443e964dd0550",
     "Session-09/S09-Exercises-and-Journal-Entry.md": "5c36ab91ba4685918f03a4935d8fa86cc7584ec7f762b674dab6dbac4f238ae1",
-    "Session-10/ReadMe.md": "d9dddb20594fdd289c9f039eab3b45e9d919f64a2a5b36d3898d2d8a6f444947",
+    "Session-10/ReadMe.md": "388095b537bb3ab580c2eb5d6cf4ad0eb28101b4e58c9d4ad5c3cd92d38a45a3",
     "Delivery-Specific.md": "d480536c1e386186b17500f62b3c1562989a719805a0eb6961e62ec6a6dfbaf1",
     "templates/sessions.md": "36d8335e7d8a88e5d9abf573656588359c7bc7f8d4e4c06245e1bbec51c64bc0",
     "Session-08/ReadMe.md": "91c38cb96134fb579e072f49393456338d361528afc51b2acc5a738bcf8d7e3d",
@@ -33,9 +33,9 @@
     "Session-01/ReadMe.md": "8524b8b6b267b2fda239b0796b738b2cd0283a4c965febfd1a5d2c7f3c58c717",
     "templates/Exercises-and-Journal-Entry.md": "faebc085d94b4df47b2c2ec4ec2be2955e3defbeedd8719f78651f02d2d6a45a",
     "templates/slides.md": "caae8849056aa6cb4198a01e2739f76d372545180d6a3b56179b33e9225eabd9",
-    "Session-10/S10-Exercises-and-Journal-Entry.md": "3328fdc75d261a61e759f13316741e4048652cd58e92c234c4445d40ede11514",
-    "Session-11/S11-MongoDB-4.md": "7478f5118c64628038542b1c5b2fa3b715cc2b857e5056b71243fef868b864f9",
-    "Session-10/S10-MongoDB-3.md": "130f0149acdd8fe15a6878c2abcfd5def57b93d5d74be2364bc6a2054d13bfdd",
+    "Session-10/S10-Exercises-and-Journal-Entry.md": "aaf66316b058169ba78e4bd0980e3cefc71fb524b276f27f96311bb06509f501",
+    "Session-11/S11-MongoDB-4.md": "ac47e22162c4b71e762fc136f05a2ecba392a5902c76320eaafa8ee4d28e4e3e",
+    "Session-10/S10-MongoDB-3.md": "fae842ce15fa78a8e12c745d7d5e74c78a5df1b99ab66aa3f5d1d5f48b7dfbe2",
     "Session-11/S11-Exercises-and-Journal-Entry.md": "599aa18450215f3ae9c0e0c30104f5e55e881356485b64c8c49b7c2878d877ef",
     "Session-11/ReadMe.md": "ce3cdff27b2eccf7530510e9d2056cb56524959c4fe441f35f779f5aaae0bb13",
     "Session-06/ReadMe.md": "76c17116c5964a7de8d0270956fe8e8b466e6b126cd0cedd6f23c0fbed3b92e4",
@@ -47,6 +47,7 @@
     "Session-06/S06-Review.md": "1a4322d2c263deae2e1765b4eac0a921e46c9ccb4c65870be09856462f1fce52",
     "Session-07/S07-PEST-and-APIs.md": "5a1e638056c1624fe42fcf68207fa0093fad240ba71da684ad232a8caba13a24",
     "Session-05/ReadMe.md": "17ee77461446e91814604d3cf5869d62087ab419891622757c07eefdffbe3fd5",
-    "Session-07/S07-Image-Uploads-and-APIs.md": "4654059d04838c3acb7abb621b3b073ddf1b4db486cb3c27bd92395637c857cd"
+    "Session-07/S07-Image-Uploads-and-APIs.md": "4654059d04838c3acb7abb621b3b073ddf1b4db486cb3c27bd92395637c857cd",
+    "Session-10/S10-MongoDB-3A.md": "acb05fb30262156e4f3ed3cf3fe4fa858a2c103e8b9d56b2c967b61d0a437a55"
   }
 }
