@@ -17,10 +17,8 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-date created: 03 July 2024
-date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-11-25T09:20
+updated: 2024-11-25T09:27
 ---
 
 # NoSQL 5
