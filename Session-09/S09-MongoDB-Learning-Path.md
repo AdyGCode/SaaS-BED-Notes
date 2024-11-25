@@ -1,9 +1,4 @@
 ---
-banner: "![[Black-Red-Banner.svg]]"
-created: 2024-10-04T08:58
-updated: 2024-10-22T08:16
----
----
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -21,10 +16,8 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-date created: 03 July 2024
-date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-10-03T15:02
+updated: 2024-11-25T09:30
 ---
 
 # Learning path for NoSQL using MongoDB
