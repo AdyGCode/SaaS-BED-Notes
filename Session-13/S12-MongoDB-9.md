@@ -1,9 +1,4 @@
 ---
-banner: "![[Black-Red-Banner.svg]]"
-created: 2024-10-10T09:33
-updated: 2024-10-18T15:47
----
----
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -16,17 +11,14 @@ size: 1920x1080
 color: "#ccc"
 backgroundColor: "#060606"
 tags:
-
-- SaaS
-- APIs
-- Back-End
-- Overview
-- MongoDB
-- NoSQL
-
-  created: 2024-07-31T07:52
-  updated: 2024-10-10T09:34
-
+  - SaaS
+  - APIs
+  - Back-End
+  - Overview
+  - MongoDB
+  - NoSQL
+created: 2024-07-31T07:52
+updated: 2024-11-25T09:20
 ---
 
 # NoSQL 9: MongoDB Replica Sets

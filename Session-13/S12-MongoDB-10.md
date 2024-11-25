@@ -1,9 +1,4 @@
 ---
-banner: "![[Black-Red-Banner.svg]]"
-created: 2024-10-10T09:33
-updated: 2024-10-18T15:57
----
----
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -16,18 +11,14 @@ size: 1920x1080
 color: "#ccc"
 backgroundColor: "#060606"
 tags:
-
-- SaaS
-- APIs
-- Back-End
-- Overview
-- MongoDB
-- NoSQL
-  date created: 03 July 2024
-  date modified: 08 July 2024
-  created: 2024-07-31T07:52
-  updated: 2024-10-10T09:34
-
+  - SaaS
+  - APIs
+  - Back-End
+  - Overview
+  - MongoDB
+  - NoSQL
+created: 2024-07-31T07:52
+updated: 2024-11-25T09:24
 ---
 
 # NoSQL 10: MongoDB Replica Sets
@@ -108,13 +99,21 @@ Use the following commands to create the structure:
 mkdir -p /c/ProgramData/MongoDB/mongodb{0,1,2}/{data,logs,config}
 ```
 
+College:
+
+```shell
+mkdir -p /C/ProgramData/Laragon/data/MongoCluster/mongodb{0,1,2}/{data,logs,config}
+```
+
+
+
 ## Step 2: Create Configuration Files for Each Node
 
 1. Create three configuration files for the MongoDB instances.
 
 - For `mongodb0` (primary):
 
-   Save the following as `mongodb0.cfg` inside `/c/ProgramData/MongoDB/mongodb0/config`:
+   Save the following as `mongodb0.cfg` inside the config folder:
    
    ```yaml
    systemLog:
@@ -130,9 +129,13 @@ mkdir -p /c/ProgramData/MongoDB/mongodb{0,1,2}/{data,logs,config}
      replSetName: rs0
    ```
 
+> Remember to use the correct path, for our examples:
+> `/c/ProgramData/MongoDB/mongodb0/config`, or
+> `/C/ProgramData/Laragon/data/MongoCluster/mongodb0/config`
+
 - For `mongodb1` (secondary):
 
-   Save the following as `mongodb1.cfg` inside `/c/ProgramData/MongoDB/mongodb1/config`:
+   Save the following as `mongodb1.cfg` inside `mongodb1/config`:
    
    ```yaml
    systemLog:
@@ -150,7 +153,7 @@ mkdir -p /c/ProgramData/MongoDB/mongodb{0,1,2}/{data,logs,config}
 
 - For `mongodb2` (secondary):
 
-   Save the following as `mongodb2.cfg` inside `/c/ProgramData/MongoDB/mongodb2/config`:
+   Save the following as `mongodb2.cfg` inside `mongodb2/config`:
    
    ```yaml
    systemLog:
