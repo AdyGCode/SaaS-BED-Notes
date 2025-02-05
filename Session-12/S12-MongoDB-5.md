@@ -1,9 +1,4 @@
 ---
-banner: "![[Black-Red-Banner.svg]]"
-created: 2024-10-10T09:33
-updated: 2024-10-10T12:18
----
----
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -22,10 +17,8 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-date created: 03 July 2024
-date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-10-10T09:34
+updated: 2024-11-25T09:27
 ---
 
 # NoSQL 5

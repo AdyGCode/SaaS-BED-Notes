@@ -1,10 +1,4 @@
 ---
-banner: "![[Black-Red-Banner.svg]]"
-created: 2024-10-10T09:33
-updated: 2024-10-10T12:17
----
-
----
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -17,18 +11,14 @@ size: 1920x1080
 color: "#ccc"
 backgroundColor: "#060606"
 tags:
-
-- SaaS
-- APIs
-- Back-End
-- Overview
-- MongoDB
-- NoSQL
-  date created: 03 July 2024
-  date modified: 08 July 2024
-  created: 2024-07-31T07:52
-  updated: 2024-10-10T09:34
-
+  - SaaS
+  - APIs
+  - Back-End
+  - Overview
+  - MongoDB
+  - NoSQL
+created: 2024-07-31T07:52
+updated: 2024-11-25T09:27
 ---
 
 # NoSQL 6

@@ -1,9 +1,4 @@
 ---
-banner: "![[Black-Red-Banner.svg]]"
-created: 2024-10-10T09:33
-updated: 2024-10-17T13:56
----
----
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -22,17 +17,15 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-date created: 03 July 2024
-date modified: 08 July 2024
-created: 2024-07-31T07:52
-updated: 2024-10-10T09:34
+created: 2024-10-18T14:59
+updated: 2024-11-25T09:18
 ---
 
 # NoSQL 7
 
 ## Software as a Service - Back-End Development
 
-### Diploma of Information Technology (Advanced Programming)  
+### Diploma of Information Technology (Advanced Programming)
 
 ### Diploma of Information Technology (Back-End Development)
 
@@ -41,6 +34,7 @@ updated: 2024-10-10T09:34
 Developed by Adrian Gould
 
 ---
+
 ```table-of-contents
 title: # Contents
 style: nestedList
@@ -51,491 +45,155 @@ includeLinks: true
 
 ---
 
+# Session 13 - Neeeeeigh, Trigger!
 
-# Session 13
+This set of notes covers the creation of triggers via the MongoDB Shell.
 
-During this session you will continue with the MongoDB Learning Path.
+Note that as you are using the shell, there are fundamental issues with this method:
+- the while loop is blocking
+- multiple shells would need to be employed for multiple monitoring
 
-Also we will be conducting demonstrations of the first portfolio item.
+It is possible to accomplish the capability using MongoDB Atlas' GUI.
 
-Refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
+Within `mongosh` (MongoDB shell) we will use **Change Streams** to create audit logs when orders are inserted or products are added to orders. 
 
-# MongoDB University Target Lessons
+However, MongoDB shell does not provide full-fledged event listeners like a programming environment, but you can still use Change Streams to manually poll for changes and log them.
 
-By this week you shold have completed all the MongoDB University chapters.
+### Key Considerations for `mongosh`:
 
-# Using MongoDB with Laravel
+- **Manual Execution**: 
+	- The MongoDB shell does not support background tasks or services like Node.js, so these scripts run in an interactive loop. 
+	- You'll need to keep the shell open for them to continue working.
+- **Blocking Loop**: 
+	- The `while (changeStream.hasNext())` loop will continuously poll for changes. 
+	- If you'd like to run other commands in `mongosh`, you would need to stop this loop first.
+- **Error Handling**: 
+	- For production systems, it is better to use more robust error handling and logging mechanisms in an application environment, such as with Node.js or Python.
 
-- Install MongoDB PHP Driver
+Given these factors, here's how you can achieve the logging of changes to a collection using `mongosh`:
 
-Windows PHP 8.3 Thread Safe MongoDB Drivers (plus xdebug)
-![](../assets/php-8.3-ext-mongodb-xdebug.zip)
+> **Note:** You may use MongoDB Compass and execute the commands and code in the GUI's `mongosh` area at the bottom of the GUI:
 
-Uncompress and then move the DLLs to the `laragon/bin/php/php-xxxx/ext` folder
+![Animated GIF showing the opening of the MongoDB Shell in Compass](assets/MongoDBCompass_FrvTsSpvDS.gif)
 
+### Step 1: Ensure a Replica Set is Running
 
-### Edit the PHP.INI 
+Before you proceed, ensure that your MongoDB instance is running as a replica set. If it's not set up yet, follow the steps from my previous response to initialize the replica set.
 
-
-This has to happen for any version of PHP you are using.
-```
-[xdebug]
-zend_extension=xdebug
-xdebug.profiler_enable = 1
-xdebug.profiler_output_dir = "C:\\ProgramData\laragon\\www\\xdebug"
-xdebug.mode=coverage
-
-[mongodb]
-extension=php_mongodb.dll
-```
-
-
-### Create Laravel App
-```shell
-composer global require laravel/installer
-laravel new APPLICATION_NAME
-```
+If you are using the MongoDB Atlas free services then this is true!
 
 
-### Install MongoDB packages
+>**Note:** The database in the examples below will be `mydb`. 
+>
+>Change `mydb` to the relevant database name. 
+>
+>Likewise change the collection name from `orders` to the one you wish to watch.
 
-```shell
+### Step 2: Watch for Insert Events (Order Creation) in `mongosh`
 
-composer require mongodb/mongodb mongodb/laravel-mongodb
+You can use `db.orders.watch()` to monitor inserts into the `orders` collection and log the event into the `audit_log` collection when a new order is created.
 
-```
+#### Script for Watching Order Creation:
 
-### Update `database.php` configuration
+1. Open the MongoDB shell by typing:
 
-Locate the `database.php` in the config folder. Edit the file. Add the following to the connections .
+   ```bash
+   mongosh
+   ```
 
-```php
-'mongodb' => [  
-	'driver' => 'mongodb',  
-	'host' => env('MONGODB_HOST', '127.0.0.1'),  
-	'port' => env('MONGODB_PORT', 27017),  
-	'database' => env('MONGODB_DATABASE', 'your_database_name'),  
-	'username' => env('MONGODB_USERNAME', ''),  
-	'password' => env('MONGODB_PASSWORD', ''),  
-	'options' => [  
-		'database' => 'admin', // Default database for user authentication (if not needed, comment out)  
-	],  
-],
-```
+2. In the MongoDB shell, you can run a script like this to monitor for new orders and log them into the `audit_log` collection:
 
-### Update `.env`
+```javascript
+// Connect to the database
+use mydb;
 
-```ini
+// Start watching the orders collection for insert events
+const changeStream = db.orders.watch([{ $match: { operationType: "insert" } }]);
 
-MONGODB_CONNECTION=mongodb  
-MONGODB_HOST=127.0.0.1  
-MONGODB_PORT=27017  
-MONGODB_DATABASE=your_database_name  
-MONGODB_USERNAME=your_username  
-MONGODB_PASSWORD=your_password
+print("Watching for new orders...");
 
-DB_CONNECTION=mongodb
+// Poll the change stream for new order events
+while (changeStream.hasNext()) {
+  const change = changeStream.next();
 
-```
+  // Get the order information
+  const newOrder = change.fullDocument;
 
-To any model you wish to have on MongoDB add:
+  // Insert an audit log entry into audit_log collection
+  db.audit_log.insertOne({
+    eventType: "Order Created",
+    orderId: newOrder._id,
+    customer: newOrder.customer,
+    timestamp: new Date(),
+  });
 
-```php
-protected $connection = 'mongodb';  
-```
-
-
-> TODO: Check on `mongodb+srv` connections
-
-You may also give the collection name using:
-
-```php
- protected $collection = 'COLLECTION_NAME';  
-```
-
-## A Blog Quick Demo
-
-### Create a Migration
-
-Now, we will create a migration for the **posts** table using the Laravel PHP Artisan command.
-
-```php
-php artisan make:migration create_posts_table --create=posts
-```
-
-Update the migration schema to include:
-
-```php
-    Schema::create('posts', function (Blueprint $table) {   
-            $table->bigIncrements('id');  
-			$table->string('title');  
-			$table->longText('body')->nullable();  
-			$table->string('slug')->nullable();
-            $table->timestamps();  
-        });  
-    }  
-```
-
-Execute the migration:
-
-```shell
-php artisan migrate
-```
-
-> **IMPORTANT:**
-> There could be a problem with creating and using seeder classes.
-> If you encounter this, please use alternative ways to seed your database.
-
-
-### Create the Web Route
-
-Add a resourceful route to the `routes/web.php` file:
-
-```php
-Route::resource('posts', PostController::class);
-```
-
-
-### Create Post Controller and Model
-
-
-Create a new controller and the Post model stubs using:
-
-```shell
-php artisan make:controller PostController --resource --model=Post
-```
-
-### Update the Post Model
-
-```php
-namespace App\Models;  
-  
-use Illuminate\Database\Eloquent\Factories\HasFactory;  
-use Illuminate\Database\Eloquent\Model;  
-use MongoDB\Laravel\Eloquent\Model;
-  
-class Post extends Model  
-{  
-	use HasFactory;  
-    protected $connection = 'mongodb';  
-    protected $collection = 'posts';  
-  
-    protected $fillable = [  
-        'id', 
-        'title', 
-        'body', 
-        'slug',  
-    ];  
+  print(`Logged new order from ${newOrder.customer}`);
 }
-
-```  
-
-
-### Update Post Controller
-
-Edit the post controller, and add this code to each of the indicated methods:
-
-#### index
-
-```php
-$posts = Post::latest()->paginate(5);  
-return view('posts.index',compact('posts'))
-	->with('i', (request()->input('page', 1) - 1) * 5);  
-
 ```
 
-#### create
+This will continuously watch the `orders` collection for new documents (inserts) and log them into the `audit_log` collection.
 
-```php
-return view('posts.create');  
+### Step 3: Watch for Product Additions in `mongosh`
+
+You can also watch for updates to the `products` field in the `orders` collection and log those changes in the `audit_log` collection.
+
+#### Script for Watching Product Additions:
+
+```javascript
+// Connect to the database
+use mydb;
+
+// Start watching the orders collection for updates to the products array
+const changeStream = db.orders.watch([{ $match: { operationType: "update" } }]);
+
+print("Watching for product additions...");
+
+// Poll the change stream for update events
+while (changeStream.hasNext()) {
+  const change = changeStream.next();
+  const updateDescription = change.updateDescription;
+
+  // Check if the products field was updated
+  if (updateDescription.updatedFields && updateDescription.updatedFields["products"]) {
+    const orderId = change.documentKey._id;
+
+    // Fetch the order's customer name
+    const order = db.orders.findOne({ _id: orderId });
+    const customer = order.customer;
+    const productsAdded = updateDescription.updatedFields["products"];
+
+    // Insert an audit log entry into the audit_log collection
+    db.audit_log.insertOne({
+      eventType: "Product Added",
+      orderId: orderId,
+      customer: customer,
+      products: productsAdded,
+      timestamp: new Date(),
+    });
+
+    print(`Logged product addition for order by ${customer}`);
+  }
+}
 ```
 
-#### store
+This script will monitor for changes (specifically `update` operations) in the `products` array in the `orders` collection and log any updates into the `audit_log` collection.
 
-```php 
-$validated = validate([  
-    'title'=>['required', 'string',],  
-    'body'=>['sometimes','nullable','string',],  
-    'slug'=>['sometimes','nullable','string',],  
-]);  
-  
-$post = Post::create($validated);
+### Step 4: Running the Scripts
 
-return redirect()
-	->route('posts.index')
-	->with('success','Post created successfully.');  
+Both scripts will run indefinitely and monitor the `orders` collection in real-time.
 
-```
-
-#### show
-
-```php
-return view('posts.show',compact('post'));  
-```
-
-#### edit
-
-```php
-return view('posts.edit',compact('post'));  
-```
-
-#### update
-
-```php
-    
-$request->validate([  
-	'name' => 'required',  
-	'detail' => 'required',  
-]);  
-
-$post->update($request->all());  
-
-return redirect()
-	->route('posts.index')
-	->with('success','Post updated successfully');  
-
-```
-
-#### destroy
-
-```php
-        $post->delete();  
-    
-        return redirect()
-	        ->route('posts.index')
-	        ->with('success','Post deleted successfully');  
-
-```  
+When an insert or update occurs, they will create an audit log in the `audit_log` collection.
 
 
-## Views for Post
 
-Create
-1. Navigate to the `resources/views` directory in your Laravel project.
-2. Inside the `views` directory, create a folder named after your resource (e.g., "posts").
-3. Inside the resource-specific folder, create the following Blade view files:
+### Wrapping Up:
 
-- `index.blade.php`: This file will display a list of all resource items.
-- `create.blade.php`: Create a new resource item form.
-- `edit.blade.php`: Edit an existing resource item form.
-- `show.blade.php`: Display details of a specific resource item.
+Although the MongoDB shell (`mongosh`) can be used for watching changes and logging events, it’s more limited compared to using MongoDB drivers in a full programming environment. 
 
-These Blade view files will be used to render the user interface for your CRUD operations.
+The shell can continuously monitor change streams, but running scripts this way is more suited for testing or short-term monitoring rather than production use. 
 
-**resources/views/posts/layout.blade.php**
-
-<!DOCTYPE html>  
-<html>  
-<head>  
-    <title>How to Create Laravel 11 MongoDB CRUD Operation - Techsolutionstuff</title>  
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css" rel="stylesheet">  
-</head>  
-<body>  
-    
-<div class="container" style="margin-top: 15px;">  
-    @yield('content')  
-</div>  
-     
-</body>  
-</html>
-
-**resources/views/posts/index.blade.php**
-
-@extends('post.layout')  
-   
-@section('content')  
-    <div class="row">  
-        <div class="col-lg-12 margin-tb">  
-            <div class="pull-left">  
-                <h2>How to Create Laravel 11 MongoDB CRUD Operation - Techsolutionstuff</h2>  
-            </div>  
-            <div class="pull-right">  
-                <a class="btn btn-success" href="{{ route('posts.create') }}"> Create New Post</a>  
-            </div>  
-        </div>  
-    </div>  
-     
-    @if ($message = Session::get('success'))  
-        <div class="alert alert-success">  
-            <p>{{ $message }}</p>  
-        </div>  
-    @endif  
-     
-    <table class="table table-bordered">  
-        <tr>  
-            <th>No</th>  
-            <th>Name</th>  
-            <th>Details</th>  
-            <th width="280px">Action</th>  
-        </tr>  
-        @foreach ($posts as $post)  
-        <tr>  
-            <td>{{ ++$i }}</td>  
-            <td>{{ $post->name }}</td>  
-            <td>{{ $post->detail }}</td>  
-            <td>  
-                <form action="{{ route('posts.destroy',$post->id) }}" method="POST">  
-     
-                    <a class="btn btn-info" href="{{ route('posts.show',$post->id) }}">Show</a>  
-      
-                    <a class="btn btn-primary" href="{{ route('posts.edit',$post->id) }}">Edit</a>  
-     
-                    @csrf  
-                    @method('DELETE')  
-        
-                    <button type="submit" class="btn btn-danger">Delete</button>  
-                </form>  
-            </td>  
-        </tr>  
-        @endforeach  
-    </table>  
-    
-    {!! $posts->links() !!}  
-        
-@endsection
-
-**resources/views/posts/create.blade.php**
-
-@extends('post.layout')  
-    
-@section('content')  
-<div class="row">  
-    <div class="col-lg-12 margin-tb">  
-        <div class="pull-left">  
-            <h2>Add New Post</h2>  
-        </div>  
-        <div class="pull-right">  
-            <a class="btn btn-primary" href="{{ route('posts.index') }}"> Back</a>  
-        </div>  
-    </div>  
-</div>  
-     
-@if ($errors->any())  
-    <div class="alert alert-danger">  
-        <strong>Error!</strong> <br>  
-        <ul>  
-            @foreach ($errors->all() as $error)  
-                <li>{{ $error }}</li>  
-            @endforeach  
-        </ul>  
-    </div>  
-@endif  
-     
-<form action="{{ route('posts.store') }}" method="POST">  
-    @csrf  
-    
-     <div class="row">  
-        <div class="col-xs-12 col-sm-12 col-md-12">  
-            <div class="form-group">  
-                <strong>Name:</strong>  
-                <input type="text" name="name" class="form-control" placeholder="Name">  
-            </div>  
-        </div>  
-        <div class="col-xs-12 col-sm-12 col-md-12">  
-            <div class="form-group">  
-                <strong>Detail:</strong>  
-                <textarea class="form-control" style="height:150px" name="detail" placeholder="Detail"></textarea>  
-            </div>  
-        </div>  
-        <div class="col-xs-12 col-sm-12 col-md-12 text-center">  
-                <button type="submit" class="btn btn-primary">Submit</button>  
-        </div>  
-    </div>  
-     
-</form>  
-@endsection
-
-**resources/views/posts/edit.blade.php**
-
-@extends('post.layout')  
-     
-@section('content')  
-    <div class="row">  
-        <div class="col-lg-12 margin-tb">  
-            <div class="pull-left">  
-                <h2>Edit Post</h2>  
-            </div>  
-            <div class="pull-right">  
-                <a class="btn btn-primary" href="{{ route('posts.index') }}"> Back</a>  
-            </div>  
-        </div>  
-    </div>  
-     
-    @if ($errors->any())  
-        <div class="alert alert-danger">  
-            <strong>Error!</strong> <br>  
-            <ul>  
-                @foreach ($errors->all() as $error)  
-                    <li>{{ $error }}</li>  
-                @endforeach  
-            </ul>  
-        </div>  
-    @endif  
-    
-    <form action="{{ route('posts.update',$post->id) }}" method="POST">  
-        @csrf  
-        @method('PUT')  
-     
-         <div class="row">  
-            <div class="col-xs-12 col-sm-12 col-md-12">  
-                <div class="form-group">  
-                    <strong>Name:</strong>  
-                    <input type="text" name="name" value="{{ $post->name }}" class="form-control" placeholder="Name">  
-                </div>  
-            </div>  
-            <div class="col-xs-12 col-sm-12 col-md-12">  
-                <div class="form-group">  
-                    <strong>Detail:</strong>  
-                    <textarea class="form-control" style="height:150px" name="detail" placeholder="Detail">{{ $post->detail }}</textarea>  
-                </div>  
-            </div>  
-            <div class="col-xs-12 col-sm-12 col-md-12 text-center">  
-              <button type="submit" class="btn btn-primary">Submit</button>  
-            </div>  
-        </div>  
-     
-    </form>  
-@endsection
-
-**resources/views/posts/show.blade.php**
-
-@extends('post.layout')  
-@section('content')  
-    <div class="row">  
-        <div class="col-lg-12 margin-tb">  
-            <div class="pull-left">  
-                <h2> Show Post</h2>  
-            </div>  
-            <div class="pull-right">  
-                <a class="btn btn-primary" href="{{ route('posts.index') }}"> Back</a>  
-            </div>  
-        </div>  
-    </div>  
-     
-    <div class="row">  
-        <div class="col-xs-12 col-sm-12 col-md-12">  
-            <div class="form-group">  
-                <strong>Name:</strong>  
-                {{ $post->name }}  
-            </div>  
-        </div>  
-        <div class="col-xs-12 col-sm-12 col-md-12">  
-            <div class="form-group">  
-                <strong>Details:</strong>  
-                {{ $post->detail }}  
-            </div>  
-        </div>  
-    </div>  
-@endsection
-
-**Step 8: Run Laravel 11 MongoDB CRUD Operations**
-
-Now, we will run the laravel 11 application using the following command.
-
-https://medium.com/@noumcpe0007/how-to-create-laravel-11-mongodb-crud-operation-5eb05a11f9fc
-
-https://medium.com/@noumcpe0007/how-to-install-and-setup-mongodb-in-laravel-10-10a65f03a07b
+For long-running triggers, it's recommended to use a more sophisticated setup (e.g., in a Node.js application) or within the MongoDB Atlas GUI.
 
 # END
 
-Next up - [S13 MongoDB 6 Practice Exercises](Session-13/S13-MongoDB-6.md)
+Next up - [LINK TEXT](#)
