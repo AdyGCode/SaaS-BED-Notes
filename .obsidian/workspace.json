@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee16f4b42af09c17",
+        "id": "1c709bfcdba6c8c4",
         "type": "tabs",
         "children": [
           {
-            "id": "2ac6ecbf6ba9b2d8",
+            "id": "314939109d34163f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session-12/S12-Answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S12-Answers"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scribe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 446.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session-12/S12-Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for S12-Answers"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session-12/S12-Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from S12-Answers"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session-12/S12-Answers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of S12-Answers"
             }
           },
           {
@@ -127,8 +151,12 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -141,6 +169,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "marp-slides:Show Slide Preview": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "daily-notes:Open today's daily note": false,
@@ -148,60 +181,56 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "marp-slides:Show Slide Preview": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2ac6ecbf6ba9b2d8",
+  "active": "bdde981e8065700e",
   "lastOpenFiles": [
-    "Session-13/S13-MongoDB-7.md",
-    "assets/php-8.3-ext-mongodb-xdebug.zip",
-    "assets/php_mongodb_xdebug.zip",
-    "Session-12/S12-Exercises-and-Journal-Entry.md",
-    "Session-13/S13-MongoDB-7.md~",
-    "Session-13/ReadMe.md~",
+    "Session-12/009A3932.CR2",
+    "Session-12/009A3938.JPG",
+    "Session-12/009A3944.CR2",
+    "Session-12/009A3945.CR2",
+    "Session-12/009A3955.CR2",
+    "Session-12/009A3957.CR2",
+    "Session-12/009A3957.JPG",
+    "Session-12/009A3962.JPG",
+    "Session-12/009A3968.JPG",
+    "Session-12/009A3990.JPG",
+    "Session-12/009A3990.CR2",
+    "Session-12/009A3991.JPG",
+    "Session-12/009A3991.CR2",
+    "Session-12/009A3992.CR2",
+    "Session-12/009A3992.JPG",
+    "Session-12/009A3993.JPG",
+    "Session-12/009A3993.CR2",
+    "Session-12/009A3994.JPG",
+    "Session-12/009A3994.CR2",
+    "Session-12/009A3995.CR2",
+    "Session-12/009A3995.JPG",
+    "Session-12/S12-Answers.md",
     "Session-13/S13-Exercises-and-Journal-Entry.md",
-    "Session-13/S12-Exercises-and-Journal-Entry.md",
-    "Session-13/S12-MongoDB-6.md",
-    "Session-13/S12-MongoDB-5.md",
-    "Session-13/ReadMe.md",
-    "Session-13",
-    "Session-09/S09-MongoDB-Learning-Path.md",
-    "Session-09/S09-MongoDB-1-Introduction.md",
-    "Session-09/S09-Exercises-and-Journal-Entry.md",
-    "Session-09/ReadMe.md",
-    "Session-08/S08-Adding-API-Roles-Permissions.md",
-    "Session-08/S08-Portfolio-Presentations.md",
-    "Session-08/S08-Ten-Common-HTTP-Responses.md",
-    "Session-08/S08-Terminology.md",
-    "templates/Exercises-and-Journal-Entry.md",
-    "Session-12/S12-MongoDB-5.md",
+    "Session-13/S13-MongoDB-7.md",
     "Session-12/S12-MongoDB-6.md",
-    "Session-10/S10-MongoDB-3.md",
+    "Session-12/S12-MongoDB-5.md",
+    "Session-12/S12-Exercises-and-Journal-Entry.md",
     "Session-11/S11-MongoDB-4.md",
-    "Session-12/S11-Exercises-and-Journal-Entry.md",
-    "Session-12/S11-MongoDB-4.md",
-    "Session-12/ReadMe.md",
-    "Session-12",
     "Session-11/S11-Exercises-and-Journal-Entry.md",
+    "Session-10/S10-MongoDB-3.md",
+    "Session-10/S10-Exercises-and-Journal-Entry.md",
+    "Session-04/S04-GitHub-Project-Management.md",
+    "Session-13/ReadMe.md",
+    "Session-12/ReadMe.md",
+    "Session-04/ReadMe.md",
+    "Session-09/S09-MongoDB-Learning-Path.md",
     "Session-11/ReadMe.md",
-    "MongoDB-University",
-    "Session-03/ReadMe.pdf",
-    "assets/Black-Red-Banner.svg",
-    "Session-11",
-    "Session-10",
-    "assets/S09-MongoDB-1-Introduction-20240912100047077.png",
-    "assets/S09-MongoDB-1-Introduction-20240912105316113.png",
-    "assets/S09-MongoDB-1-Introduction-20240912102155996.png",
-    "assets/S09-MongoDB-1-Introduction-20240912100751933.png",
-    "assets/S09-MongoDB-1-Introduction-20240912100740662.png",
-    "Session-09/S09-MOngoDB-1-Introduction-20240912102155996.png",
-    "Session-09/S09-MOngoDB-1-Introduction-20240912100751933.png",
-    "Session-09/S09-MOngoDB-1-Introduction-20240912100740662.png",
-    "Session-09/S09-MOngoDB-1-Introduction-20240912100047077.png"
+    "ReadMe.md",
+    "Session-10/ReadMe.md",
+    "Session-09/ReadMe.md",
+    "Session-09/S09-Exercises-and-Journal-Entry.md",
+    "Session-09/S09-NoSQL-Introduction.md",
+    "Session-11/S10-MongoDB-4.md",
+    "Session-11/S10-MongoDB-2.md",
+    "Session-11/S10-Exercises-and-Journal-Entry.md",
+    "Session-09/MongoDB-Learning-Path.md"
   ]
 }
