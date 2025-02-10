@@ -9,7 +9,7 @@ tags: SaaS, APIs, Back-End
 date created: 03 July 2024
 date modified: 09 July 2024
 created: 2024-07-31T08:45
-updated: 2024-08-08T14:54
+updated: 2025-02-10T15:08
 ---
 
 # Laravel and APIs
@@ -1199,18 +1199,8 @@ To quickly assist you locate the correct icons in the test runner toolbar, here 
 <div class="page-break" style="page-break-before: always;"></div>
 
 
-# Questions to Investigate
 
-**You DO NOT need to provide formal answers to these questions.** They are a combination of research, review, and thought provoking ideas that may or may not be relevant to the development of an API.
-
-**Question:** Generalised Response Class - Could we add a "success" field set to false? In either case why?
-
-**Question**: API Code Reuse - Consider how you may be able to use the API codebase to help develop a web application so that code would not be duplicated.
-
-**Question**: How could you use GitHub workflows to automatically generate the Scribe documentation on push/pull request?
-
-**Question:** How could you write the code in your controller methods so that if nothing was retrieved, you returned a `404` not found response? (ties in with previous question)
 
 # END
 
-Next up: [Our First API](S02-Our-First-API.md)
+Next up: [From Session 02 - Our First API](S02-Our-First-API.md)

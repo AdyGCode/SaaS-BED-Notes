@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-08T15:40
+updated: 2025-02-10T13:13
 ---
 
 # Session 02 Exercises & Journal Entry
@@ -47,7 +47,7 @@ For this week's journal we would like you to do the following...
 
 Be honest with yourself as to what you did and did not understand. 
 
-### Reflection Questions for Journal Entry
+## Reflection Questions for Journal Entry
 
 Here are some questions to reflect upon.
 

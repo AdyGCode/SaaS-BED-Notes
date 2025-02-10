@@ -9,18 +9,17 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "Session-02/What-is-an-API.md": "c04868292a9b950f72d9b2e675d99d3e573b574fc02933ff77ade138c5e8cdee",
-    "Session-02/S02-Exercises-and-Journal-Entry.md": "f06172fa2aae08a262232feb61c8eecdcd1a224c121736c2b7e1d3772ddeaf82",
-    "Session-02/S02-Our-First-API.md": "1d1d51128e72b3eeef51a478760d2e8b3fe8e20ed80ddf5ac5f7cb1b746457ae",
+    "Session-02/S02-Our-First-API.md": "bfc10c838879e9c9be3f10ae45852b19e7ed5ec79411f07a9067021b9cc7a2af",
     "Session-03/ReadMe.md": "edc3d2f74a9a85e9ff85341a6018c96f2abc4b1b3801e34cf696b6729d840a02",
     "Session-03/S03-Designing-an-API.md": "b6c4a0fc5416135f4d385102261c0dd7c86115a6d1776972411bd41a0b298551",
-    "Session-03/S03-Exercises-and-Journal-Entry.md": "c51ed7bd50719422bdc87c8f9866a126a0e49fcc2a25f7ceb3c14ecd474c64a3",
+    "Session-03/S03-Exercises-and-Journal-Entry.md": "344163831c22d21fe73e6b31a69dfaa11f3ae065859b4e0bf55249e477762219",
     "research.md": "f8253eebb2300a37a3b5036d4775e251e3c2cca0fab409e9b9ed7a994b8fe847",
     "Session-05/S05-Portfolio-Work.md": "8ae9e0d936bfe95a947131c78b894ab64480a75af07eebbc49eecc8e4f25dd22",
-    "Session-03/S03-Test-Driven-Development-User-Feature.md": "c2d98d988075b2c1165a3c41121c175ed7f79b4faada1538914d04e360ec8865",
+    "Session-03/S03-Test-Driven-Development-User-Feature.md": "8308de4948a626de5f682fcabd5f717e0a2f46913192cc9083cf50e6d324020b",
     "Session-04/ReadMe.md": "b173965fe170fb5fbef27a15f202c49482aeb39783b71741d6c55a90d1c43c29",
     "Session-04/S04-Portfolio-Work.md": "aa2542ccc1f434410c0d966b0002e3ab82ca2c7561a062996ca75b34340a241f",
     "Session-04/S04-GitHub-Project-Management.md": "99df4ed33e9f325cc77ec4c7387d9fb98134880f3331c3a8f30b948888e4f9a0",
-    "Session-02/ReadMe.md": "a68b5ea8b5415b3e027ab3359777e4199f899d8f2daa2c096724474c15a945b1",
+    "Session-02/ReadMe.md": "7c9e9ef3c4f4757172a0468b05d9f85977f09c130c168fdbb8e43894e769a270",
     "Session-09/S09-MongoDB-1-Introduction.md": "13aaaaa4876a4d67353b9e1121694c05d295be13ad30a97d630b1297d82dac2d",
     "Session-09/ReadMe.md": "654bba321e318f905754e72d029b71d30423ec1b410da962f6a8c4d149d71b64",
     "Session-07/S07-Exercises-and-Journal-Entry.md": "9fff9a902debee8c4c555e523080ba650900bfc1c4263ec48de443e964dd0550",
@@ -54,6 +53,13 @@
     "Session-13/S13-MongoDB-8.md": "ef04359fe43d499484a7c8ce373520a9e8c780b2858d004f8f262053f4243012",
     "Session-13/S13-Exercises-and-Journal-Entry.md": "c893cad7e97b724beca3333dab3313455feb4ade67a6e8e1e8b311afb164e40b",
     "Session-12/S12-MongoDB-6.md": "7c16d1c2b93119ab4acd8f5a9cc72e7c0eb9c265facfa210d9b290252ff604a7",
-    "Session-12/ReadMe.md": "b2f674b442e43447818abe805963c34007e9439da600fdc2d6991f661245c4c1"
+    "Session-12/ReadMe.md": "b2f674b442e43447818abe805963c34007e9439da600fdc2d6991f661245c4c1",
+    "Session-01/S01-Journals.md": "fd419c4b93481840a3e6d0fa6c5f80bb88a3185bb02213c883ecc626df59d138",
+    "Session-01/S01-CLI-Commands.md": "4b033a05d91d7090941eb926210afd3dd0800088c2d13beeeb45aeae3c4555a4",
+    "Session-02/S02-Reflection-Exercises.md": "a57128ace7aaa9f7975729773ac121d6c15a08812d1b1837933da602a50f73c8",
+    "Session-02/S02-What-is-an-API.md": "5a6f73cefa563b156eba8d48984a2ec8b7f5a7e2f0ccb6572b3fbba7ab1d637e",
+    "Session-01/S01-Development-Environments.md": "dfd5117e1d8aaf1ac4f20127abdc6e8f7b818ea9848e8c72a393713bb0d86ef4",
+    "Session-01/S01-Exercises-and-Journal-Entry.md": "52afabe79fea3c887c7494b4bd517ffda441830bb2f59a31676293985573de47",
+    "Session-01/S01-Laravel-and-APIs.md": "9838fbaa64bd77bcdd45a071afce25001797242aa3d8ad2a0874b5bfc9a34a47"
   }
 }

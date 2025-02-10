@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-13/S13-MongoDB-8.md",
+                "file": "Session-01/S01-WITS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S13-MongoDB-8"
+              "title": "S01-WITS"
             }
           },
           {
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 431.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -200,6 +200,27 @@
   },
   "active": "2ac6ecbf6ba9b2d8",
   "lastOpenFiles": [
+    "Session-03/S03-Test-Driven-Development-User-Feature.md",
+    "Session-01/S01-WITS.md",
+    "Session-03/S03-Exercises-and-Journal-Entry.md",
+    "Session-02/S02-Reflection-Exercises.md",
+    "Session-02/S02-API-Development-and-Testing.md",
+    "Session-03/S03-Designing-an-API.pdf",
+    "Session-03/ReadMe.pdf",
+    "Session-01/S01-Laravel-and-APIs.md",
+    "Session-02/S02-What-is-an-API.md",
+    "Session-01/S01-Exercises-and-Journal-Entry.md",
+    "Session-01/S01-Journals.md",
+    "Session-01/S01-Development-Environments.md",
+    "Session-01/S01-CLI-Commands.md",
+    "Session-02/S02-Our-First-API.md",
+    "_backup/S02-Exercises-and-Journal-Entry 1.md",
+    "_backup",
+    "Session-02/Untitled",
+    "Session-13/S13-MongoDB-8.md",
+    "Session-01/S01-Development-Environments.pdf",
+    "Session-01/S01-Laravel-and-APIs.pdf",
+    "Session-01/S01-Journals.pdf",
     "Session-13/S12-MongoDB-10.md",
     "Session-13/S13-MongoDB-10.md",
     "Session-13/S12-MongoDB-9.md",
@@ -207,7 +228,6 @@
     "Session-13/S12-MongoDB-7.md",
     "Session-13/S13-MongoDB-7.md",
     "Session-11/S11-Exercises-and-Journal-Entry.md~",
-    "Session-13/S13-MongoDB-8.md",
     "Session-11/S11-MongoDB-4.md",
     "Session-10/S10-MongoDB-3.md",
     "Session-10/S10-MongoDB-3A.md",
@@ -224,27 +244,7 @@
     "Session-10/ReadMe.md",
     "Session-10/S10-Exercises-and-Journal-Entry.md",
     "Session-12/S12-MongoDB-6.md",
-    "Session-13/S13-Exercises-and-Journal-Entry.md",
-    "Session-12/S12-MongoDB-5.md",
-    "Session-11/S11-Exercises-and-Journal-Entry.md",
-    "Session-09/S09-Exercises-and-Journal-Entry.md",
-    "Session-09/S09-MongoDB-Learning-Path.md",
     "assets/php-8.3-ext-mongodb-xdebug.zip",
-    "assets/php_mongodb_xdebug.zip",
-    "Session-12/S12-Exercises-and-Journal-Entry.md",
-    "Session-13/S13-MongoDB-7.md~",
-    "Session-13/ReadMe.md~",
-    "Session-13/S12-Exercises-and-Journal-Entry.md",
-    "Session-13/S12-MongoDB-6.md",
-    "Session-13/S12-MongoDB-5.md",
-    "Session-13/ReadMe.md",
-    "Session-13",
-    "Session-09/S09-MongoDB-1-Introduction.md",
-    "Session-09/ReadMe.md",
-    "Session-08/S08-Adding-API-Roles-Permissions.md",
-    "Session-12",
-    "MongoDB-University",
-    "Session-03/ReadMe.pdf",
-    "Session-11"
+    "assets/php_mongodb_xdebug.zip"
   ]
 }
