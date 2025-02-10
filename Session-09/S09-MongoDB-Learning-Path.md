@@ -17,7 +17,7 @@ tags:
   - MongoDB
   - NoSQL
 created: 2024-07-31T07:52
-updated: 2024-11-25T09:30
+updated: 2025-02-05T21:27
 ---
 
 # Learning path for NoSQL using MongoDB
