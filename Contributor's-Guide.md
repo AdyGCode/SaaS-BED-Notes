@@ -5,7 +5,7 @@ Welcome to our project! We appreciate your interest in contributing. Below is a 
 ## 1. Fork the Main Repository to Your Personal Account: 
 - If you have already forked the repository, you can skip this step. Forking creates a personal copy where you can make changes without affecting the original codebase.
 
-## 2. Keep Your Fork Synchronized with the Main Repository:
+## 2. Keep Your Fork Synchronised with the Main Repository:
 - Regularly sync your forked with the main repository to avoid conflicts. This ensures that your pull request is based on the latest code.
 
 ## 3. Clone or Pull Updates to Your Local Machine:
