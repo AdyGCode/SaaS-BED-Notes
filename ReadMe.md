@@ -36,6 +36,8 @@ Full credit and acknowledgement **must** be included when reusing all or any ind
 
 Our developers encourage the students studying this cluster to contribute to this project by submitting issues and issue resolutions (via pull requests).
 
+- [Contributor's Guide](Contributor's-Guide.md)
+
 ## Development Environment
 
 Please make sure you check the required [development environment](S01-Development-Environments.md) details.
