@@ -10,9 +10,8 @@
   "fileHashMap": {
     "Session-02/What-is-an-API.md": "c04868292a9b950f72d9b2e675d99d3e573b574fc02933ff77ade138c5e8cdee",
     "Session-02/S02-Our-First-API.md": "bfc10c838879e9c9be3f10ae45852b19e7ed5ec79411f07a9067021b9cc7a2af",
-    "Session-03/ReadMe.md": "edc3d2f74a9a85e9ff85341a6018c96f2abc4b1b3801e34cf696b6729d840a02",
+    "Session-03/ReadMe.md": "92caba16097adf9c01a17040535c7485dd986e2652c5af94f21fe875372ccdd8",
     "Session-03/S03-Designing-an-API.md": "b6c4a0fc5416135f4d385102261c0dd7c86115a6d1776972411bd41a0b298551",
-    "Session-03/S03-Exercises-and-Journal-Entry.md": "344163831c22d21fe73e6b31a69dfaa11f3ae065859b4e0bf55249e477762219",
     "research.md": "f8253eebb2300a37a3b5036d4775e251e3c2cca0fab409e9b9ed7a994b8fe847",
     "Session-05/S05-Portfolio-Work.md": "8ae9e0d936bfe95a947131c78b894ab64480a75af07eebbc49eecc8e4f25dd22",
     "Session-03/S03-Test-Driven-Development-User-Feature.md": "8308de4948a626de5f682fcabd5f717e0a2f46913192cc9083cf50e6d324020b",
@@ -60,6 +59,10 @@
     "Session-02/S02-What-is-an-API.md": "5a6f73cefa563b156eba8d48984a2ec8b7f5a7e2f0ccb6572b3fbba7ab1d637e",
     "Session-01/S01-Development-Environments.md": "dfd5117e1d8aaf1ac4f20127abdc6e8f7b818ea9848e8c72a393713bb0d86ef4",
     "Session-01/S01-Exercises-and-Journal-Entry.md": "52afabe79fea3c887c7494b4bd517ffda441830bb2f59a31676293985573de47",
-    "Session-01/S01-Laravel-and-APIs.md": "9838fbaa64bd77bcdd45a071afce25001797242aa3d8ad2a0874b5bfc9a34a47"
+    "Session-01/S01-Laravel-and-APIs.md": "9838fbaa64bd77bcdd45a071afce25001797242aa3d8ad2a0874b5bfc9a34a47",
+    "Session-02/S02-Adding-XDebug.md": "e17f7abeb0a7f40620074447708d46775ef7e6c810b1fdc72518014e82ea6299",
+    "Session-03/S03-Test-Driven-Development-Example.md": "9eb614512fed994f03be11551bc4bf59779b8e264e8f21180f48f5faae5f6bf3",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md": "d80b32b29ecc193364aec9ef08f47672c09a8ebe2867570e34f9ddbae6e8bfb3",
+    "Session-03/S03-Reflection-Exercises.md": "f15e4e1d6a0db07c102145f66663d5d61cc8a51fd18ed4f7691e79ac9b8c0907"
   }
 }

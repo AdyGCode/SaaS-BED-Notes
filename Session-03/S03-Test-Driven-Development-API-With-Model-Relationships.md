@@ -6,7 +6,7 @@ header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 created: 2024-08-01T14:33
-updated: 2024-08-08T15:33
+updated: 2025-02-17T11:01
 ---
 
 # Laravel REST API With Model Relationships
@@ -271,5 +271,5 @@ Run the tests using PEST:
 
 # Exercises
 
-The [S03-Exercises-and-Journal-Entry](S03-Exercises-and-Journal-Entry.md) contains further development exercises for you to complete.
+The [S03-Reflection-Exercises](Session-03/S03-Reflection-Exercises.md) contains further development exercises for you to complete.
 
