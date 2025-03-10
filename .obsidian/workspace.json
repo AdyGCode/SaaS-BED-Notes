@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-03/S03-Reflection-Exercises.md",
+                "file": "Session-06/S06-Using-Scramble-to-Document-an-API.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "S03-Reflection-Exercises"
+              "title": "S06-Using-Scramble-to-Document-an-API"
             }
           },
           {
@@ -33,6 +33,26 @@
               },
               "icon": "lucide-file",
               "title": "S10-MongoDB-3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ae75b87ebde6148d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7388d9f421f1d681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session-06/S06-Using-Scramble-to-Document-an-API.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "S06-Using-Scramble-to-Document-an-API"
             }
           }
         ]
@@ -154,10 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session-13/S12-MongoDB-10.md"
+                "file": "Session-06/S06-Using-Scramble-to-Document-an-API.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S12-MongoDB-10"
+              "title": "Outline of S06-Using-Scramble-to-Document-an-API"
             }
           },
           {
@@ -201,9 +224,13 @@
   },
   "active": "bdde981e8065700e",
   "lastOpenFiles": [
-    "_backup/S03-Exercises-and-Journal-Entry 1.md",
-    "Session-03/S03-Reflection-Exercises.md",
+    "assets/S06-Using-Scramble-to-Document-an-API-20250310172604676.png",
+    "assets/S06-Using-Scramble-to-Document-an-API-20250310172017067.png",
+    "Session-06/S06-Using-Scramble-to-Document-an-API.md",
     "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
+    "Session-06/S06-Exercises-and-Journal-Entry.md",
+    "Session-03/S03-Reflection-Exercises.md",
+    "_backup/S03-Exercises-and-Journal-Entry 1.md",
     "Session-03/S03-Test-Driven-Development-Example.md",
     "Session-02/S02-Adding-XDebug.md",
     "Session-02/S02-What-is-an-API.md",
@@ -231,10 +258,7 @@
     "Session-13/S12-MongoDB-9.md",
     "Session-13/S13-MongoDB-9.md",
     "Session-13/S12-MongoDB-7.md",
-    "Session-13/S13-MongoDB-7.md",
     "Session-11/S11-Exercises-and-Journal-Entry.md~",
-    "Session-11/S11-MongoDB-4.md",
-    "Session-10/S10-MongoDB-3.md",
     "assets/S10-MongoDB-3-20241025122400861.png",
     "assets/laragon_Vzbm7sWqwy.gif",
     "assets/laragon_EXh7UtOevo.gif",
@@ -244,7 +268,6 @@
     "assets/7zFM_dDraJmxry8.gif",
     "assets/S10-MongoDB-3-20241025112620017.png",
     "assets/S10-MongoDB-3-20241025112610996.png",
-    "assets/S10-MongoDB-3-20241025112230667.png",
     "assets/php-8.3-ext-mongodb-xdebug.zip",
     "assets/php_mongodb_xdebug.zip"
   ]
