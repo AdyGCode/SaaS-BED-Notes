@@ -8,7 +8,7 @@ size: 4k
 date created: 10 July 2024
 date modified: 10 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-08T15:26
+updated: 2025-03-04T09:52
 ---
 
 # Designing an API
@@ -115,4 +115,3 @@ In general the development process is summarised as:
   - Collect feedback from API consumers to identify areas for improvement.
 - **Iterative Development**:
   - Continuously improve and iterate on your API based on feedback and changing requirements.
-

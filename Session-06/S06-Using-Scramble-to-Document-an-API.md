@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-03-10T17:28
+updated: 2025-03-11T10:53
 ---
 
 # Session 06 Using Scramble to Document an API
@@ -46,7 +46,7 @@ Follow the steps to set a demo up.
 
 Update the Laravel installer: 
 ```shell
-composer require laravel
+composer global require laravel/installer
 ```
 
 Create a new Laravel 12 project: 
@@ -55,7 +55,7 @@ laravel new SaaS-L12-API-Demo
 ```
 
 Answer the prompts with:
-- No
+- None
 - SQLite
 - Yes
 
@@ -141,9 +141,8 @@ $users = [
         'name' => 'Ad Ministrator',  
         'email' => 'admin@example.com',  
         'email_verified_at' => now(),  
-        'password' => Hash::make('Password1'),  
+        'password' => Hash::make('Password1'),
         'remember_token' => Str::random(10),  
-        'email_verified_at' => now(),  
     ],  
 ];  
   
@@ -180,6 +179,50 @@ Add to the UP method the two fields:
 ```php
 $table->string('name',64)->required();  
 $table->string('description')->nullable();
+```
+
+### Update Model
+
+```php
+<?php  
+  
+namespace App\Models;  
+  
+use Illuminate\Database\Eloquent\Factories\HasFactory;  
+use Illuminate\Database\Eloquent\Model;  
+use Illuminate\Notifications\Notifiable;  
+  
+class Category extends Model  
+{  
+  
+    /** @use HasFactory<\Database\Factories\UserFactory> */  
+    use HasFactory, Notifiable;  
+  
+    /**  
+     * The attributes that are mass assignable.     *     * @var list<string>  
+     */  
+    protected $fillable = [  
+        'name',  
+        'description',  
+    ];  
+  
+    /**  
+     * The attributes that should be hidden for serialization.     *     * @var list<string>  
+     */  
+    protected $hidden = [  
+  
+    ];  
+  
+    /**  
+     * Get the attributes that should be cast.     *     * @return array<string, string>  
+     */  
+    protected function casts(): array  
+    {  
+        return [  
+  
+        ];  
+    }  
+}
 ```
 
 
@@ -230,7 +273,20 @@ Refresh the API Documentation preview.
 
 ![](assets/S06-Using-Scramble-to-Document-an-API-20250310172604676.png)
 
+### Add ApiResponse Class
 
+Create the class
+
+```shell
+
+```
+
+In the new `App\Classes\ApiResponse.php` class add:
+
+```php
+
+
+```
 
 # References
 
