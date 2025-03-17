@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-03-11T10:53
+updated: 2025-03-11T13:21
 ---
 
 # Session 06 Using Scramble to Document an API

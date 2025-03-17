@@ -8,7 +8,7 @@ size: 4k
 date created: 10 July 2024
 date modified: 10 July 2024
 created: 2024-07-31T07:52
-updated: 2025-03-04T09:52
+updated: 2025-03-11T13:21
 ---
 
 # Designing an API
