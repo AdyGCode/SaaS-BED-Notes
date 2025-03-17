@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-auto-split",
+    "name": "Auto Split",
+    "version": "1.2",
+    "minAppVersion": "0.12.19",
+    "description": "Open notes with side-by-side editor & preview",
+    "author": "James Sartelle",
+    "authorUrl": "https://github.com/jsartelle",
+    "isDesktopOnly": false
+}
