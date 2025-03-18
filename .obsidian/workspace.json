@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd0549e3d5ead784",
+            "id": "bc8e1ce41477f31a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Session-06/S06-Using-Scramble-to-Document-an-API.md",
-                "mode": "source",
-                "source": false
+                "file": "Session-05/S05-APIS-and-Security.pdf"
               },
-              "icon": "lucide-file",
-              "title": "S06-Using-Scramble-to-Document-an-API"
+              "icon": "lucide-file-text",
+              "title": "S05-APIS-and-Security"
             }
           }
         ]
@@ -188,14 +186,8 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd0549e3d5ead784",
+  "active": "bc8e1ce41477f31a",
   "lastOpenFiles": [
-    "Session-05/S05-APIS-and-Security.pdf",
-    "Session-04/S04-Portfolio-Work.pdf",
-    "Session-01/S01-Laravel-and-APIs.md",
-    "Session-01/S01-Journals.md",
-    "Session-01/S01-Exercises-and-Journal-Entry.md",
-    "Session-01/S01-Development-Environments.md",
     "Session-07/S07-PEST-and-APIs.md",
     "Session-06/S06-Using-Scramble-to-Document-an-API.md",
     "Session-01/S00-Laravel-Storage-Fix-from-Clone.md",
@@ -211,11 +203,15 @@
     "Session-02/S02-What-is-an-API.md",
     "Session-02/S02-Reflection-Exercises.md",
     "Session-02/S02-Our-First-API.md",
+    "Session-01/S01-Development-Environments.md",
     "Session-01/S01-WITS.md",
     "Session-03/S03-Test-Driven-Development-User-Feature.md",
     "Session-02/S02-API-Development-and-Testing.md",
     "Session-03/S03-Designing-an-API.pdf",
     "Session-03/ReadMe.pdf",
+    "Session-01/S01-Laravel-and-APIs.md",
+    "Session-01/S01-Exercises-and-Journal-Entry.md",
+    "Session-01/S01-Journals.md",
     "Session-01/S01-CLI-Commands.md",
     "_backup/S02-Exercises-and-Journal-Entry 1.md",
     "_backup",
@@ -226,6 +222,7 @@
     "Session-01/S01-Journals.pdf",
     "Session-13/S12-MongoDB-10.md",
     "Session-13/S13-MongoDB-10.md",
+    "Session-13/S12-MongoDB-9.md",
     "Session-11/S11-Exercises-and-Journal-Entry.md~",
     "assets/S10-MongoDB-3-20241025122400861.png",
     "assets/laragon_Vzbm7sWqwy.gif",
@@ -234,6 +231,8 @@
     "assets/explorer_1ZCY8cGLF1.gif",
     "assets/explorer_SFjEiHmmEQ.gif",
     "assets/7zFM_dDraJmxry8.gif",
-    "assets/S10-MongoDB-3-20241025112620017.png"
+    "assets/S10-MongoDB-3-20241025112620017.png",
+    "assets/php-8.3-ext-mongodb-xdebug.zip",
+    "assets/php_mongodb_xdebug.zip"
   ]
 }
