@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-03-17T17:26
+updated: 2025-03-18T09:44
 ---
 
 # Session 06 Using Scramble to Document an API
@@ -478,20 +478,20 @@ public static function error($result, $message,  $code = 500)
 
 Other appropriate response codes include:
 
-| Code | Meaning               | Common use situations                                                                                                                                                                                                         |     |
-| ---- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 200  | OK                    | when an action succeeds successfully, unless one of 201, 202 or 204 are more appropriate                                                                                                                                      |     |
-| 201  | Created               | Use when you add new data to the system (a new resource).   This happens AFTER the resource is created. If the system cannot create the resource immediately, then 202.                                                       |     |
-| 202  | Accepted              | If a process takes a while to complete, then 202 is appropriate. The request may or may not get acted upon (as it it may succeed, fail or be disallowed) when finally processed. This is idea for batch processing responses. |     |
-| 204  | No Content            | Usually the response to a PUT, PATCH or DELETE request, when the API does not want to send any form of response body back to the consuming application                                                                        |     |
-| 400  | Bad request           | when you need to tell the consuming application they have sent a header or request in general that is badly conbstructed.                                                                                                     |     |
-| 401  | Unauthorised          | When the credentials used to log-in are not correct, or missing. Also used when access to a resource is not permitted due to insufficient privileges.                                                                         |     |
-| 403  | Forbidden             | When you need to tell the client that is authenticated (logged in) they do not have permission to access the requested resource                                                                                               |     |
-| 404  | Not Found             | When a search gives zero results, a resource (record) does not exist, or there are no records in the resource collection                                                                                                      |     |
-| 412  | Precondition failed   | When you need to provide response for conditions in the request header fields that shows a problem (i.e. false)                                                                                                               |     |
-| 429  | Too many requests     | When a single application instance makes too many requests and 'floods' the API                                                                                                                                               |     |
-| 500  | Internal server error | A problem with the server. For example a configuration issue.                                                                                                                                                                 |     |
-| 503  | Service not available | The server is not able to service the request due to high load, it being down for maintenance etc.                                                                                                                            |     |
+| Code | Meaning               | Common use situations                                                                                                                                                                                                         |
+| ---- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 200  | OK                    | when an action succeeds successfully, unless one of 201, 202 or 204 are more appropriate                                                                                                                                      |
+| 201  | Created               | Use when you add new data to the system (a new resource).   This happens AFTER the resource is created. If the system cannot create the resource immediately, then 202.                                                       |
+| 202  | Accepted              | If a process takes a while to complete, then 202 is appropriate. The request may or may not get acted upon (as it it may succeed, fail or be disallowed) when finally processed. This is idea for batch processing responses. |
+| 204  | No Content            | Usually the response to a PUT, PATCH or DELETE request, when the API does not want to send any form of response body back to the consuming application                                                                        |
+| 400  | Bad request           | when you need to tell the consuming application they have sent a header or request in general that is badly constructed.                                                                                                     |
+| 401  | Unauthorised          | When the credentials used to log-in are not correct, or missing. Also used when access to a resource is not permitted due to insufficient privileges.                                                                         |
+| 403  | Forbidden             | When you need to tell the client that is authenticated (logged in) they do not have permission to access the requested resource                                                                                               |
+| 404  | Not Found             | When a search gives zero results, a resource (record) does not exist, or there are no records in the resource collection                                                                                                      |
+| 412  | Precondition failed   | When you need to provide response for conditions in the request header fields that shows a problem (i.e. false)                                                                                                               |
+| 429  | Too many requests     | When a single application instance makes too many requests and 'floods' the API                                                                                                                                               |
+| 500  | Internal server error | A problem with the server. For example a configuration issue.                                                                                                                                                                 |
+| 503  | Service not available | The server is not able to service the request due to high load, it being down for maintenance etc.                                                                                                                            |
 
 We have a number of references for you listed at the end of this tutorial.
 
@@ -501,7 +501,7 @@ We do recommend that you read this one:
 
 ## Custom Error Responses
 
-There are different ways of formulating a suitable way for JSON responses that are given by Laravel as default over the commonly created HTML based respionses.
+There are different ways of formulating a suitable way for JSON responses that are given by Laravel as default over the commonly created HTML based responses.
 
 This is important for an API as the consumer (the client application) should only be given JSON responses.
 
@@ -659,7 +659,7 @@ The index method will read:
 {  
 
     $category = Category::create($request->all());  
-    return ApiResponse::success($category, "Category Added");  
+    return ApiResponse::success($category, "Category Added", 201);  
 }
 ```
 
@@ -709,7 +709,7 @@ Whilst you were doing this an email will have been sent to your student account 
 
 Once complete you will get a nice verification completed screen.
 
-![[assets/postman-sign-up-4.png]]
+![../assets/postman-sign-up-4.png](../assets/postman-sign-up-4.png)
 
 ## Download and Install the Desktop Client
 
@@ -717,7 +717,7 @@ The easiest way to work is to use the Desktop based Postman client.
 
 On your own machines you may download it from the [Postman Downloads](https://postman.com/downloads) pages, and then install the application wherever you wish.
 
-> Alternatively we will provide a version in the Laravel 6 project available from the [NMTAFE Laragon V6](https://github.com/AdyGCode/NMTAFE-Laragon-v6) GitHub repository. This may NOT be the most up to date version of the software.
+> Alternatively we will provide a version in the Laragon 6 project available from the [NMTAFE Laragon V6](https://github.com/AdyGCode/NMTAFE-Laragon-v6) GitHub repository. This may NOT be the most up to date version of the software.
 
 Once installed open Postman.
 
@@ -734,7 +734,7 @@ Workspaces are where you can work on a project.
 
 They usually contain one or more collections, depending on how the team wishes to construct the testing.
 
-![assets/postman-workspace-1.png](../assets/assets/postman-workspace-1.png)
+![../assets/postman-workspace-1.png](../assets/postman-workspace-1.png)
 
 
 ### Collections
@@ -747,7 +747,7 @@ We will use this way to organise our collections for the projects.
 
 ### Requests
 
-A request is a singe endpoint test that will be sent to your API to obtain a response.
+A request is a single endpoint test that will be sent to your API to obtain a response.
 
 ## Create a Workspace
 
@@ -811,7 +811,7 @@ To add a variable names `url`, click in a cell under "Variable", and enter `url`
 
 Leave the type as default.
 
-Enter the initial variable as `http://localhost:8000/api`
+Enter the initial value as `http://localhost:8000/api`
 
 ![postman-variables-missing-api.png](assets/postman-variables-missing-api.png)
 ***The image shows the URL missing the `/api` - ensure you add it to the end!***
@@ -830,7 +830,7 @@ Click on the Create Collection button, or use the `+` to create a new collection
 ![postman-collection-create.png](assets/postman-collection-create.png)
 
 When prompted (the text New Selection will be shown and selected) enter the collection name. 
-![assets/poistman-collection-2.png](assets/postman-collection-2.png)
+![assets/postman-collection-2.png](assets/postman-collection-2.png)
 
 In our case `Categories`.
 
@@ -852,7 +852,7 @@ For example, click on the ellipsis (`...`) next to the name of the collection (C
 
 Here are the two folders:
 
-
+TODO: Add image of folders!
 
 
 ## Create a request
@@ -954,7 +954,7 @@ If you forgot to add the `api` to the environment variable, then you will get an
 
 Make sure you navigate back to the Environments, and update the URL value.
 
-*If you do change a value in the environment variables, make sure you save and then click rest all and save once more.*
+*If you do change a value in the environment variables, make sure you save and then click reset all and save once more.*
 
 Once this is completed retry the request.
 
@@ -994,7 +994,7 @@ The remaining details for the Routes (before we add authentication) are shown be
 
 The create endpoint call requires the same basic settings as the GET, but it also needs a body.
 
-Click on the **Body* heading.
+Click on the **Body** heading.
 
 Then select **Raw** and the type will be **JSON**.
 
