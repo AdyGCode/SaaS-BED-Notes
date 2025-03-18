@@ -75,6 +75,7 @@ You may clone the current source code for the API by completing the following st
 9. Execute `npm run build`
 10. Execute the application's key generation, migrations and seeders using:
 ```shell
+touch database/database.sqlite
 php artisan key:generate
 php artisan migrate
 php artisan db:seed
