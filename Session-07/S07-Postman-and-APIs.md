@@ -121,7 +121,7 @@ My thanks to Povilas Korop at [Laravel Daily](https://laraveldaily.com) for this
 
 - Korop, P. (2019). _Laravel API Errors and Exceptions: How to Return Responses_. Laravel Daily. https://laraveldaily.com/post/laravel-api-errors-and-exceptions-how-to-return-responses
 
-‌
+ 
 We will look at more error handling within this tutorial.
 
 
@@ -523,9 +523,9 @@ See [S06-Exercises-and-Additional-Learning](Session-06/S06-Exercises-and-Additio
 - Umbraco. (2019, May 3). _What are HTTP status codes?_ Umbraco.com; Umbraco. https://umbraco.com/knowledge-base/http-status-codes/
 - _Getting started - Scramble_. (2025). Dedoc.co. https://scramble.dedoc.co/usage/getting-started
 
-‌
+ 
 
-‌
+ 
 
 - https://scramble.dedoc.co/usage/getting-started
 - https://www.binaryboxtuts.com/php-tutorials/laravel-tutorials/how-to-make-laravel-12-rest-api/
