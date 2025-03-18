@@ -102,7 +102,7 @@ Security of any application is on the top of the requirements list.
 
 So what difference does the `APP_DEBUG` setting make?
 
-> If you turn it on as _true_, then all your errors will be shown with all the details, including names of the classes, DB tables etc. This is a huge security issue, so in production environment it's strictly advised to set this to _false_.
+> If you turn it on as _true_, then all your errors will be shown with all the details, including names of the classes, DB tables etc. This is a huge security issue, so in production environment it's strictly advised to set this to _false_.
 >
 > ![assets/JSON-error-app-debug-true.png](../assets/JSON-error-app-debug-true.png)
 
@@ -114,12 +114,12 @@ Another *excellent* reason for using this even when developing...
 
 Possibly a more important factor of this is the following:
 
-> By turning off actual errors, you will be **forced** to think like API consumer who would receive just _"Server error"_ and no more information. In other words, you will be forced to think how to handle errors and provide useful messages from the API.
+> By turning off actual errors, you will be **forced** to think like API consumer who would receive just _"Server error"_ and no more information. In other words, you will be forced to think how to handle errors and provide useful messages from the API.
 
 
 My thanks to Povilas Korop at [Laravel Daily](https://laraveldaily.com) for this tip.
 
-- Korop, P. (2019). _Laravel API Errors and Exceptions: How to Return Responses_. Laravel Daily. https://laraveldaily.com/post/laravel-api-errors-and-exceptions-how-to-return-responses
+- Korop, P. (2019). _Laravel API Errors and Exceptions: How to Return Responses_. Laravel Daily. https://laraveldaily.com/post/laravel-api-errors-and-exceptions-how-to-return-responses
 
 ‌
 We will look at more error handling within this tutorial.
@@ -148,7 +148,7 @@ We have a number of references for you listed at the end of this tutorial.
 
 We do recommend that you read this one:
 
-- Gupta, L. (2018, May 30). _HTTP Status Codes_. REST API Tutorial. https://restfulapi.net/http-status-codes/ **Please read**
+- Gupta, L. (2018, May 30). _HTTP Status Codes_. REST API Tutorial. https://restfulapi.net/http-status-codes/ **Please read**
 
 
 # Testing Using Postman
@@ -480,9 +480,9 @@ Then select **Raw** and the type will be **JSON**.
 In the editor area now add:
 ```json
 {
-    "id": 200,
-    "name": "Dummy",
-    "description": "Just a Dummy Category for Testing"
+    "id": 200,
+    "name": "Dummy",
+    "description": "Just a Dummy Category for Testing"
 }
 ```
 
@@ -512,15 +512,15 @@ See [S06-Exercises-and-Additional-Learning](Session-06/S06-Exercises-and-Additio
 
 # References
 
-- Albano, J. (2019, October 25). _Baeldung_. Baeldung. https://www.baeldung.com/rest-api-error-handling-best-practices
-- Bello, G. (2024, February 8). _Best Practices for API Error Handling | Postman Blog_. Postman Blog. https://blog.postman.com/best-practices-for-api-error-handling/
+- Albano, J. (2019, October 25). _Baeldung_. Baeldung. https://www.baeldung.com/rest-api-error-handling-best-practices
+- Bello, G. (2024, February 8). _Best Practices for API Error Handling | Postman Blog_. Postman Blog. https://blog.postman.com/best-practices-for-api-error-handling/
 - Gitlin, J. (2024, June 12). _API response codes: examples and error-handling strategies_. Merge.dev; Merge. https://www.merge.dev/blog/api-response-codes
 - Gitlin, J. (2024, June 12). _API response codes: examples and error-handling strategies_. Merge.dev; Merge. https://www.merge.dev/blog/api-response-codes
-- Gupta, L. (2018, May 30). _HTTP Status Codes_. REST API Tutorial. https://restfulapi.net/http-status-codes/
-- Korop, P. (2019). _Laravel API Errors and Exceptions: How to Return Responses_. Laravel Daily. https://laraveldaily.com/post/laravel-api-errors-and-exceptions-how-to-return-responses
-- Ploesser, K. (2022, July 8). _10 Error Status Codes When Building APIs For The First Time And How To Fix Them_. 10 Error Status Codes When Building APIs for the First Time and How to Fix Them | Moesif Blog. https://www.moesif.com/blog/technical/monitoring/10-Error-Status-Codes-When-Building-APIs-For-The-First-Time-And-How-To-Fix-Them/
+- Gupta, L. (2018, May 30). _HTTP Status Codes_. REST API Tutorial. https://restfulapi.net/http-status-codes/
+- Korop, P. (2019). _Laravel API Errors and Exceptions: How to Return Responses_. Laravel Daily. https://laraveldaily.com/post/laravel-api-errors-and-exceptions-how-to-return-responses
+- Ploesser, K. (2022, July 8). _10 Error Status Codes When Building APIs For The First Time And How To Fix Them_. 10 Error Status Codes When Building APIs for the First Time and How to Fix Them | Moesif Blog. https://www.moesif.com/blog/technical/monitoring/10-Error-Status-Codes-When-Building-APIs-For-The-First-Time-And-How-To-Fix-Them/
 - The Postman Team. (2023, September 20). _What Are HTTP Status Codes? | Postman Blog_. Postman Blog. https://blog.postman.com/what-are-http-status-codes/
-- Umbraco. (2019, May 3). _What are HTTP status codes?_ Umbraco.com; Umbraco. https://umbraco.com/knowledge-base/http-status-codes/
+- Umbraco. (2019, May 3). _What are HTTP status codes?_ Umbraco.com; Umbraco. https://umbraco.com/knowledge-base/http-status-codes/
 - _Getting started - Scramble_. (2025). Dedoc.co. https://scramble.dedoc.co/usage/getting-started
 
 ‌
