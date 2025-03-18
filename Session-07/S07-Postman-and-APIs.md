@@ -65,14 +65,38 @@ You will require:
 You may clone the current source code for the API by completing the following steps:
 
 1) Open Terminal
-2) Go to your Source Repos folder using `cd ~/Source/Repos`
-3) Execute `git clone https://github.com/AdyGCode/SaaS-BED-L12-API-Demo-2025-S1`
-4) Execute `cd SaaS-BED-L12-API-Demo-2025-S1`
-5) Execute `composer install`
-6) Execute `composer update --dry-run` and check for any major version updates. If there are you should check if there any breaking changes.
-7) Execute `composer update`
-8) Execute `npm install`
-9) Execute `npm run build`
+2) Go to your Source Repos folder
+```shell
+cd ~/Source/Repos
+```
+3) Execute 
+```shell
+git clone https://github.com/AdyGCode/SaaS-BED-L12-API-Demo-2025-S1
+```
+4) Execute 
+```shell
+cd SaaS-BED-L12-API-Demo-2025-S1
+```
+5) Execute 
+```shell
+composer install
+```
+6) Execute a dry run update to the composer packages and check for any major version updates. If there are you should check if there any breaking changes.
+```shell
+composer update --dry-run
+```
+7) Execute 
+```shell
+composer update
+```
+8) Execute 
+```shell
+npm install
+```
+9) Execute 
+```shell
+npm run build
+```
 10) Execute the application's key generation, migrations and seeders using:
 ```shell
 touch database/database.sqlite
@@ -80,9 +104,15 @@ php artisan key:generate
 php artisan migrate
 php artisan db:seed
 ```
-11) Execute `composer run dev` to expose the Application API on `http://localhost:8000`
+11) Execute the development server to expose the Application API on `http://localhost:8000`
+```shell
+composer run dev
+```
 12) In MS Terminal split the terminal into two sessions (<kbd>ALT</kbd>+<kbd>SHIFT</kbd>+<kbd>MINUS</kbd>).
-13) In the lower section, execute `cd SaaS-BED-L12-API-Demo-2025-S1` to place the CLI in the folder ready for any further commands to be executed (eg creating a new model).
+13) In the lower section,get the current working folder to be the cloned project ready for any further commands to be executed (eg creating a new model).
+```shell
+cd ~/Source/Repos/SaaS-BED-L12-API-Demo-2025-S1
+```
 
 # Reminder: Debug Mode
 
@@ -92,7 +122,7 @@ Open your `.env` file, and change `APP_DEBUG` from `true` to `false`.
 
 During development, you may want to re-enable or disable this setting.
 
-**For production it MUST be false.**
+**For production, it MUST be false.**
 
 Why?
 
