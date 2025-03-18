@@ -64,25 +64,25 @@ You will require:
 
 You may clone the current source code for the API by completing the following steps:
 
-1. Open Terminal
-2. Go to your Source Repos folder using `cd ~/Source/Repos`
-3. Execute `git clone https://github.com/AdyGCode/SaaS-BED-L12-API-Demo-2025-S1`
-4. Execute `cd SaaS-BED-L12-API-Demo-2025-S1`
-5. Execute `composer install`
-6. Execute `composer update --dry-run` and check for any major version updates. If there are you should check if there any breaking changes.
-7. Execute `composer update`
-8. Execute `npm install`
-9. Execute `npm run build`
-10. Execute the application's key generation, migrations and seeders using:
+1) Open Terminal
+2) Go to your Source Repos folder using `cd ~/Source/Repos`
+3) Execute `git clone https://github.com/AdyGCode/SaaS-BED-L12-API-Demo-2025-S1`
+4) Execute `cd SaaS-BED-L12-API-Demo-2025-S1`
+5) Execute `composer install`
+6) Execute `composer update --dry-run` and check for any major version updates. If there are you should check if there any breaking changes.
+7) Execute `composer update`
+8) Execute `npm install`
+9) Execute `npm run build`
+10) Execute the application's key generation, migrations and seeders using:
 ```shell
 touch database/database.sqlite
 php artisan key:generate
 php artisan migrate
 php artisan db:seed
 ```
-11. Execute `composer run dev` to expose the Application API on `http://localhost:8000`
-12. In MS Terminal split the terminal into two sessions (<kbd>ALT</kbd>+<kbd>SHIFT</kbd>+<kbd>MINUS</kbd>).
-13. In the lower section, execute `cd SaaS-BED-L12-API-Demo-2025-S1` to place the CLI in the folder ready for any further commands to be executed (eg creating a new model).
+11) Execute `composer run dev` to expose the Application API on `http://localhost:8000`
+12) In MS Terminal split the terminal into two sessions (<kbd>ALT</kbd>+<kbd>SHIFT</kbd>+<kbd>MINUS</kbd>).
+13) In the lower section, execute `cd SaaS-BED-L12-API-Demo-2025-S1` to place the CLI in the folder ready for any further commands to be executed (eg creating a new model).
 
 # Reminder: Debug Mode
 
@@ -158,6 +158,7 @@ Postman is the most commonly used RESTful API testing application around.
 It is free to use, unless you go beyond the free account limits.
 
 ![postman-homepage.png](../assets/postman-homepage.png)
+
 *Postman Home page*
 
 ## Create a Postman Account
@@ -177,6 +178,7 @@ The steps below use the last option.
 
 2) On the next page, Enter your name and then click on the drop down and select STUDENT.
    ![assets/postman-sign-up-2.png](../assets/postman-sign-up-2.png)
+
 3) Click Continue and Postman's Web UI will open.
 
 Whilst you were doing this an email will have been sent to your student account for you to verify the email address. Open your Outlook email and find the new message. Open this and click on the Verify Email button (The email will come from notifications@getpostman.com)
