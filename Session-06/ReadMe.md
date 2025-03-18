@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-10-03T09:16
+updated: 2025-03-18T10:12
 ---
 
 # Session 06 Overview
@@ -26,7 +26,7 @@ updated: 2024-10-03T09:16
 - [Portfolio Part 3](S06-Portfolio-Work.md)
 	- Overview of the portfolio part 3 for the cluster
 	- Secured API with Roles and Permissions
-- [S06-Exercises-and-Journal-Entry](S06-Exercises-and-Journal-Entry.md)
+- [S06-Exercises-and-Additional-Learning](Session-06/S06-Exercises-and-Additional-Learning.md)
 	- ...
 - [S06-Review](S06-Review.md)
 	- ...

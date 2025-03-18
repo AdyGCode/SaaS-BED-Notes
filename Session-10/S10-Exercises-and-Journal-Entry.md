@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-02-10T15:16
+updated: 2025-03-18T10:30
 ---
 
 # Session 10 Exercises & Journal Entry
@@ -68,7 +68,7 @@ Complete the Portfolio Part 1 work.
 
 ## Tutorial
 
-Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path).
+Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md).
 
 
 | Session          | Chapter                                               | Link                                                                                   | Duration (Mins) |

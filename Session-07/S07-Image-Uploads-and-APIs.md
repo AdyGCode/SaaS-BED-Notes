@@ -1,4 +1,9 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2025-03-04T08:33
+updated: 2025-03-18T11:00
+---
+---
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE

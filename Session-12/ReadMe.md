@@ -16,13 +16,13 @@ tags:
   - Back-End
   - Overview
 created: 2024-07-31T07:52
-updated: 2025-02-10T15:16
+updated: 2025-03-18T10:30
 ---
 
 # Session 12 Overview
 
 - [S12 MongoDB 4 - ...](../Session-10/S10-MongoDB-3)
-	- [MongoDB Learning Path](../Session-09/S09-MongoDB-Learning-Path)
+	- [MongoDB Learning Path](Session-10/S09-MongoDB-Learning-Path.md)
 - [S12 Exercises and Journal Entry](Session-12/S12-Exercises-and-Journal-Entry.md)
 
 

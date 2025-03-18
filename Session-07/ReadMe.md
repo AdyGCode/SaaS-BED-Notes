@@ -1,9 +1,11 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2024-07-31T07:52
+updated: 2025-03-18T10:36
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: ICT50220 - Adv Prog - SaaS 2 - BED
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -15,10 +17,6 @@ tags:
   - APIs
   - Back-End
   - Overview
-date created: 03 July 2024
-date modified: 08 July 2024
-created: 2024-07-31T07:52
-updated: 2024-10-03T09:16
 ---
 
 # Session 07 Overview

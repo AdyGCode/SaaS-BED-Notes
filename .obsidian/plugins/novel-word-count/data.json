@@ -443,8 +443,8 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1741048406662,
-      "modifiedDate": 1741048406662,
-      "sizeInBytes": 14304,
+      "modifiedDate": 1742265056594,
+      "sizeInBytes": 14284,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.6066666666666665,
@@ -473,7 +473,7 @@
           "NoSQL"
         ],
         "created": "2024-07-31T07:52",
-        "updated": "2024-11-25T09:27"
+        "updated": "2025-03-18T10:30"
       }
     },
     "Session-13/S13-MongoDB-10.md": {
@@ -731,8 +731,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406660,
-      "modifiedDate": 1741048406660,
-      "sizeInBytes": 3625,
+      "modifiedDate": 1742265056322,
+      "sizeInBytes": 3605,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.9333333333333333,
@@ -761,7 +761,7 @@
           "NoSQL"
         ],
         "created": "2024-07-31T07:52",
-        "updated": "2025-02-10T15:16"
+        "updated": "2025-03-18T10:30"
       }
     },
     "Session-12/ReadMe.md": {
@@ -909,8 +909,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406657,
-      "modifiedDate": 1741048406657,
-      "sizeInBytes": 4319,
+      "modifiedDate": 1742265056051,
+      "sizeInBytes": 4302,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.8866666666666667,
@@ -936,26 +936,26 @@
         "date created": "03 July 2024",
         "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
-        "updated": "2025-02-10T15:16"
+        "updated": "2025-03-18T10:30"
       }
     },
     "Session-10/ReadMe.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 238,
+      "wordCount": 249,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7933333333333333,
-      "characterCount": 2558,
-      "nonWhitespaceCharacterCount": 1921,
-      "readingTimeInMinutes": 0.8981132075471698,
-      "linkCount": 5,
+      "pageCount": 0.83,
+      "characterCount": 2848,
+      "nonWhitespaceCharacterCount": 2237,
+      "readingTimeInMinutes": 0.939622641509434,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406657,
-      "modifiedDate": 1741048406657,
-      "sizeInBytes": 2947,
+      "modifiedDate": 1742265334422,
+      "sizeInBytes": 3216,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7933333333333333,
@@ -964,13 +964,15 @@
         "nonWhitespaceCharacterCount": 1921
       },
       "frontmatter": {
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-18T10:35",
+        "banner": "![[Black-Red-Banner.svg]]",
         "theme": "default",
         "paginate": true,
         "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
         "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
         "banner_x": 1,
-        "banner_y": "0",
+        "banner_y": 1,
         "auto-scaling": true,
         "size": "1920x1080",
         "color": "#ccc",
@@ -980,9 +982,7 @@
           "APIs",
           "Back-End",
           "Overview"
-        ],
-        "created": "2024-07-31T07:52",
-        "updated": "2025-02-10T15:16"
+        ]
       }
     },
     "Session-11/S11-MongoDB-4.md": {
@@ -1137,21 +1137,25 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.7466666666666666,
-      "characterCount": 4964,
+      "characterCount": 4698,
       "nonWhitespaceCharacterCount": 3980,
       "readingTimeInMinutes": 1.9773584905660377,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406655,
-      "modifiedDate": 1741048406655,
-      "sizeInBytes": 4964,
+      "modifiedDate": 1742264827748,
+      "sizeInBytes": 4757,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.7466666666666666,
         "wordCount": 524,
         "characterCount": 4964,
         "nonWhitespaceCharacterCount": 3980
+      },
+      "frontmatter": {
+        "created": "2025-03-04T08:33",
+        "updated": "2025-03-18T10:27"
       }
     },
     "Session-08/S08-Terminology.md": {
@@ -1162,65 +1166,44 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.76,
-      "characterCount": 6751,
+      "characterCount": 6546,
       "nonWhitespaceCharacterCount": 5545,
       "readingTimeInMinutes": 3.1245283018867926,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406655,
-      "modifiedDate": 1741048406655,
-      "sizeInBytes": 6753,
+      "modifiedDate": 1742264858351,
+      "sizeInBytes": 6607,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.76,
         "wordCount": 828,
         "characterCount": 6751,
         "nonWhitespaceCharacterCount": 5545
-      }
-    },
-    "Session-08/S08-Portfolio-Presentations.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406654,
-      "modifiedDate": 1741048406654,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "created": "2025-03-04T08:33",
+        "updated": "2025-03-18T10:27"
       }
     },
     "Session-08/S08-Adding-API-Roles-Permissions.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1426,
+      "wordCount": 1375,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.753333333333333,
-      "characterCount": 18813,
-      "nonWhitespaceCharacterCount": 14562,
-      "readingTimeInMinutes": 5.381132075471698,
+      "pageCount": 4.583333333333333,
+      "characterCount": 17746,
+      "nonWhitespaceCharacterCount": 14207,
+      "readingTimeInMinutes": 5.188679245283019,
       "linkCount": 0,
-      "embedCount": 1,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406654,
-      "modifiedDate": 1741048406654,
-      "sizeInBytes": 18913,
+      "modifiedDate": 1742264949000,
+      "sizeInBytes": 18116,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.753333333333333,
@@ -1230,8 +1213,24 @@
       },
       "frontmatter": {
         "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2024-09-05T09:41",
-        "updated": "2024-10-22T08:16"
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-18T10:28",
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ]
       }
     },
     "Session-08/S07-KBA-Details.md": {
@@ -1263,19 +1262,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 148,
+      "wordCount": 110,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.49333333333333335,
-      "characterCount": 1215,
-      "nonWhitespaceCharacterCount": 1006,
-      "readingTimeInMinutes": 0.5584905660377358,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 893,
+      "nonWhitespaceCharacterCount": 761,
+      "readingTimeInMinutes": 0.41509433962264153,
       "linkCount": 0,
-      "embedCount": 1,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406653,
-      "modifiedDate": 1741048406653,
-      "sizeInBytes": 1661,
+      "modifiedDate": 1742264813913,
+      "sizeInBytes": 1263,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.49333333333333335,
@@ -1284,11 +1283,13 @@
         "nonWhitespaceCharacterCount": 1006
       },
       "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-18T10:26",
         "theme": "default",
         "paginate": true,
         "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
         "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
         "banner_x": 1,
         "banner_y": "0",
         "auto-scaling": true,
@@ -1300,180 +1301,7 @@
           "APIs",
           "Back-End",
           "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:15"
-      }
-    },
-    "Session-09/S09-NoSQL-Introduction.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 909,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.03,
-      "characterCount": 7288,
-      "nonWhitespaceCharacterCount": 6013,
-      "readingTimeInMinutes": 3.430188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406657,
-      "modifiedDate": 1741048406657,
-      "sizeInBytes": 7355,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.03,
-        "wordCount": 909,
-        "characterCount": 7288,
-        "nonWhitespaceCharacterCount": 6013
-      },
-      "frontmatter": {
-        "created": "2024-09-05T10:54",
-        "updated": "2024-09-05T18:08"
-      }
-    },
-    "Session-09/S09-MongoDB-Learning-Path.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 277,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9233333333333333,
-      "characterCount": 4595,
-      "nonWhitespaceCharacterCount": 3202,
-      "readingTimeInMinutes": 1.0452830188679245,
-      "linkCount": 2,
-      "embedCount": 9,
-      "aliases": null,
-      "createdDate": 1741048406656,
-      "modifiedDate": 1741048406656,
-      "sizeInBytes": 4998,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9233333333333333,
-        "wordCount": 277,
-        "characterCount": 4595,
-        "nonWhitespaceCharacterCount": 3202
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "Back-End",
-          "Overview",
-          "MongoDB",
-          "NoSQL"
-        ],
-        "created": "2024-07-31T07:52",
-        "updated": "2025-02-10T15:16"
-      }
-    },
-    "Session-09/S09-MongoDB-2-Installing-Windows.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 967,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.223333333333333,
-      "characterCount": 7684,
-      "nonWhitespaceCharacterCount": 6287,
-      "readingTimeInMinutes": 3.6490566037735848,
-      "linkCount": 1,
-      "embedCount": 20,
-      "aliases": null,
-      "createdDate": 1741048406656,
-      "modifiedDate": 1741048406656,
-      "sizeInBytes": 8095,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.223333333333333,
-        "wordCount": 967,
-        "characterCount": 7684,
-        "nonWhitespaceCharacterCount": 6287
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE Banner](../assets/Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": null,
-        "backgroundColor": null,
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "NoSQL",
-          "MongoDB",
-          "Laravel",
-          "PHP"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "10 July 2024",
-        "created": "2024-07-18T09:24",
-        "updated": "2024-09-12T15:55"
-      }
-    },
-    "Session-09/S09-MongoDB-1-Introduction.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 834,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.78,
-      "characterCount": 11021,
-      "nonWhitespaceCharacterCount": 6897,
-      "readingTimeInMinutes": 3.147169811320755,
-      "linkCount": 2,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1741048406656,
-      "modifiedDate": 1741048406656,
-      "sizeInBytes": 11431,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.78,
-        "wordCount": 834,
-        "characterCount": 11021,
-        "nonWhitespaceCharacterCount": 6897
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../images/Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "Back-End",
-          "MongoDB",
-          "NoSQL"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "10 July 2024",
-        "created": "2024-09-12T09:59",
-        "updated": "2024-10-22T08:16"
+        ]
       }
     },
     "Session-09/S09-Exercises-and-Journal-Entry.md": {
@@ -1527,19 +1355,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 149,
+      "wordCount": 77,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.49666666666666665,
-      "characterCount": 1348,
-      "nonWhitespaceCharacterCount": 1113,
-      "readingTimeInMinutes": 0.5622641509433962,
-      "linkCount": 5,
-      "embedCount": 1,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 460,
+      "nonWhitespaceCharacterCount": 371,
+      "readingTimeInMinutes": 0.29056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406655,
-      "modifiedDate": 1741048406655,
-      "sizeInBytes": 1448,
+      "modifiedDate": 1742265126586,
+      "sizeInBytes": 852,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.49666666666666665,
@@ -1549,8 +1377,26 @@
       },
       "frontmatter": {
         "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2024-09-05T10:55",
-        "updated": "2024-10-22T08:16"
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-18T10:31",
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview",
+          "MongoDB",
+          "NoSQL"
+        ]
       }
     },
     "Session-06/S06-Portfolio-Work.md": {
@@ -1605,19 +1451,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3987,
+      "wordCount": 2493,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.29,
-      "characterCount": 34956,
-      "nonWhitespaceCharacterCount": 27322,
-      "readingTimeInMinutes": 15.045283018867925,
-      "linkCount": 0,
-      "embedCount": 37,
+      "pageCount": 8.31,
+      "characterCount": 23127,
+      "nonWhitespaceCharacterCount": 17487,
+      "readingTimeInMinutes": 9.407547169811322,
+      "linkCount": 2,
+      "embedCount": 5,
       "aliases": null,
       "createdDate": 1741653850851,
-      "modifiedDate": 1742262275656,
-      "sizeInBytes": 35367,
+      "modifiedDate": 1742267316922,
+      "sizeInBytes": 23474,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 13.273333333333333,
@@ -1629,7 +1475,9 @@
         "theme": "default",
         "paginate": true,
         "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](/assets//Black-Red-Banner.svg)",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
         "auto-scaling": true,
         "size": "1920x1080",
         "color": "#ccc",
@@ -1640,10 +1488,8 @@
           "Back-End",
           "Journal"
         ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
-        "updated": "2025-03-17T17:26"
+        "updated": "2025-03-18T10:54"
       }
     },
     "Session-06/S06-Review.md": {
@@ -1694,51 +1540,6 @@
         "updated": "2024-10-03T09:15"
       }
     },
-    "Session-06/S06-Exercises-and-Journal-Entry.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 119,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.39666666666666667,
-      "characterCount": 924,
-      "nonWhitespaceCharacterCount": 696,
-      "readingTimeInMinutes": 0.4490566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406646,
-      "modifiedDate": 1741048406646,
-      "sizeInBytes": 1312,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.39666666666666667,
-        "wordCount": 119,
-        "characterCount": 924,
-        "nonWhitespaceCharacterCount": 696
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](/assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Journal"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-08-01T15:44"
-      }
-    },
     "Session-06/ReadMe.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1747,15 +1548,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.33666666666666667,
-      "characterCount": 771,
-      "nonWhitespaceCharacterCount": 625,
+      "characterCount": 794,
+      "nonWhitespaceCharacterCount": 648,
       "readingTimeInMinutes": 0.38113207547169814,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406646,
-      "modifiedDate": 1741048406646,
-      "sizeInBytes": 1217,
+      "modifiedDate": 1742263953091,
+      "sizeInBytes": 1220,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.33666666666666667,
@@ -1784,7 +1585,7 @@
         "date created": "03 July 2024",
         "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:16"
+        "updated": "2025-03-18T10:12"
       }
     },
     "Session-07/S07-Portfolio-Work.md": {
@@ -1866,19 +1667,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2715,
+      "wordCount": 2766,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 9.05,
-      "characterCount": 25012,
-      "nonWhitespaceCharacterCount": 18897,
-      "readingTimeInMinutes": 10.245283018867925,
+      "pageCount": 9.22,
+      "characterCount": 24543,
+      "nonWhitespaceCharacterCount": 19245,
+      "readingTimeInMinutes": 10.437735849056605,
       "linkCount": 1,
-      "embedCount": 19,
+      "embedCount": 20,
       "aliases": null,
       "createdDate": 1741048406648,
-      "modifiedDate": 1741048406648,
-      "sizeInBytes": 25455,
+      "modifiedDate": 1742266833470,
+      "sizeInBytes": 24643,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 9.05,
@@ -1887,27 +1688,9 @@
         "nonWhitespaceCharacterCount": 18897
       },
       "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
         "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:15"
+        "created": "2025-03-04T08:33",
+        "updated": "2025-03-18T11:00"
       }
     },
     "Session-07/ReadMe.md": {
@@ -1918,15 +1701,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1,
-      "characterCount": 4314,
+      "characterCount": 4248,
       "nonWhitespaceCharacterCount": 3862,
       "readingTimeInMinutes": 1.1320754716981132,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406647,
-      "modifiedDate": 1741048406647,
-      "sizeInBytes": 4783,
+      "modifiedDate": 1742265404294,
+      "sizeInBytes": 4641,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1,
@@ -1935,11 +1718,13 @@
         "nonWhitespaceCharacterCount": 3862
       },
       "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-18T10:36",
         "theme": "default",
         "paginate": true,
         "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
         "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
         "banner_x": 1,
         "banner_y": "0",
         "auto-scaling": true,
@@ -1951,30 +1736,26 @@
           "APIs",
           "Back-End",
           "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:16"
+        ]
       }
     },
     "Session-07/S07-Exercises-and-Journal-Entry.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 249,
+      "wordCount": 215,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.83,
-      "characterCount": 1747,
-      "nonWhitespaceCharacterCount": 1352,
-      "readingTimeInMinutes": 0.939622641509434,
+      "pageCount": 0.7166666666666667,
+      "characterCount": 1566,
+      "nonWhitespaceCharacterCount": 1289,
+      "readingTimeInMinutes": 0.8113207547169812,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406647,
-      "modifiedDate": 1741048406647,
-      "sizeInBytes": 2135,
+      "modifiedDate": 1742264743473,
+      "sizeInBytes": 1922,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.83,
@@ -1995,12 +1776,13 @@
           "SaaS",
           "APIs",
           "Back-End",
-          "Journal"
+          "Postman",
+          "Security",
+          "Authentication",
+          "REST"
         ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
-        "updated": "2024-09-12T11:32"
+        "updated": "2024-08-01T15:44"
       }
     },
     "Session-07/external/Secure-RESTful-API-Passport.md": {
@@ -3743,15 +3525,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.72,
-      "characterCount": 14003,
-      "nonWhitespaceCharacterCount": 6558,
+      "characterCount": 14014,
+      "nonWhitespaceCharacterCount": 6569,
       "readingTimeInMinutes": 1.9471698113207547,
       "linkCount": 41,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741048406632,
-      "modifiedDate": 1741048406632,
-      "sizeInBytes": 14408,
+      "modifiedDate": 1742264763840,
+      "sizeInBytes": 14401,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.72,
@@ -3778,7 +3560,7 @@
         "date created": "08 July 2024",
         "date modified": "08 July 2024",
         "created": "2024-07-26T10:44",
-        "updated": "2024-10-03T08:48"
+        "updated": "2025-03-18T10:26"
       }
     },
     "assets/What-is-an-API-20240719140725141.png": {
@@ -7654,6 +7436,268 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-06/S06-Exercises-and-Additional-Learning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 151,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5033333333333333,
+      "characterCount": 1164,
+      "nonWhitespaceCharacterCount": 961,
+      "readingTimeInMinutes": 0.569811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406646,
+      "modifiedDate": 1742264469686,
+      "sizeInBytes": 1534,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](/assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Journal"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2024-08-01T15:44"
+      }
+    },
+    "Session-10/S08-Portfolio-Presentations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406654,
+      "modifiedDate": 1741048406654,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-08/S08-Exercises-and-Journal-Entry.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 215,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7166666666666667,
+      "characterCount": 1566,
+      "nonWhitespaceCharacterCount": 1289,
+      "readingTimeInMinutes": 0.8113207547169812,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742264864027,
+      "modifiedDate": 1742264882169,
+      "sizeInBytes": 1922,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](/assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Postman",
+          "Security",
+          "Authentication",
+          "REST"
+        ],
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-18T10:25"
+      }
+    },
+    "Session-10/S09-NoSQL-Introduction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 913,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.0433333333333334,
+      "characterCount": 7350,
+      "nonWhitespaceCharacterCount": 6067,
+      "readingTimeInMinutes": 3.4452830188679244,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406657,
+      "modifiedDate": 1741048406657,
+      "sizeInBytes": 7355,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-10/S09-MongoDB-1-Introduction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 874,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.9133333333333336,
+      "characterCount": 11403,
+      "nonWhitespaceCharacterCount": 7206,
+      "readingTimeInMinutes": 3.29811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406656,
+      "modifiedDate": 1741048406656,
+      "sizeInBytes": 11431,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-10/S09-MongoDB-2-Installing-Windows.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1009,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.3633333333333333,
+      "characterCount": 8090,
+      "nonWhitespaceCharacterCount": 6604,
+      "readingTimeInMinutes": 3.8075471698113206,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406656,
+      "modifiedDate": 1741048406656,
+      "sizeInBytes": 8095,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-10/S09-MongoDB-Learning-Path.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 319,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0633333333333332,
+      "characterCount": 4997,
+      "nonWhitespaceCharacterCount": 3521,
+      "readingTimeInMinutes": 1.2037735849056603,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406656,
+      "modifiedDate": 1741048406656,
+      "sizeInBytes": 4998,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-07/S07-Postman-and-APIs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2655,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.85,
+      "characterCount": 22565,
+      "nonWhitespaceCharacterCount": 17710,
+      "readingTimeInMinutes": 10.018867924528301,
+      "linkCount": 1,
+      "embedCount": 33,
+      "aliases": null,
+      "createdDate": 1742265353276,
+      "modifiedDate": 1742266987169,
+      "sizeInBytes": 22976,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-18T10:56",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0"
       }
     }
   }

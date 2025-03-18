@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-09-12T09:59
-updated: 2024-10-22T08:16
+updated: 2025-03-18T10:31
 ---
 
 # NoSQL 1
@@ -327,7 +327,7 @@ https://www.deviantart.com/arseniic/art/What-did-the-buffalo-say-to-his-son-when
 
 # Exercises
 
-Refer to the notes in  [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path) for details on signing upo for MongoDB University and the Course(s) that are to be undertaken for free.
+Refer to the notes in  [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md) for details on signing upo for MongoDB University and the Course(s) that are to be undertaken for free.
 
 
 # END

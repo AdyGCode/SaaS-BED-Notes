@@ -16,7 +16,7 @@ color: "#333333"
 date created: 08 July 2024
 date modified: 08 July 2024
 created: 2024-07-26T10:44
-updated: 2024-10-03T08:48
+updated: 2025-03-18T10:26
 ---
 
 ```table-of-contents
@@ -38,7 +38,7 @@ option2: value2
 | 05      | 12/8                   | - Portfolio Work<br>- Journal                                                         | <br><br>Assessment Activity:<br>- Create journal entry                                                                                                                        | - [Session 05 Portfolio Work](S05-Portfolio-Work.md)                                                                                                                                                                                                                     |
 | 06      | 19/8                   | - Review<br>- Portfolio Work<br>- Journal                                             | <br><br>Assessment Activity:<br>- Create journal entry                                                                                                                        | - [Session 06 Portfolio Work](S06-Portfolio-Work.md)<br>- [Session 06 Review](S06-Review.md)                                                                                                                                                           |
 | 07      | 26/8                   | - KBA<br>- Portfolio work<br>- Work on API for LiveWorks Project<br>- Journal         | <br><br>Assessment Activity:<br>- Create journal entry                                                                                                                        | - [Session 07 Portfolio Work](S07-Portfolio-Work.md)<br>- [Session 07 KBA Details](S07-KBA-Details.md)                                                                                                                                                 |
-| 08      | 2/9                    | - Presentations for API Portfolio<br>- Work on API for LiveWorks Project<br>- Journal | <br><br>Assessment Activity:<br>- Create journal entry                                                                                                                        | - [Session 08 Presentations](S08-Portfolio-Presentations.md)                                                                                                                                                                                                  |
+| 08      | 2/9                    | - Presentations for API Portfolio<br>- Work on API for LiveWorks Project<br>- Journal | <br><br>Assessment Activity:<br>- Create journal entry                                                                                                                        | - [Session 08 Presentations](Session-10/S08-Portfolio-Presentations.md)                                                                                                                                                                                                  |
 
 ## Part II - NoSQL
 

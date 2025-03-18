@@ -18,7 +18,7 @@ tags:
   - MongoDB
   - NoSQL
 created: 2024-07-31T07:52
-updated: 2025-02-10T15:16
+updated: 2025-03-18T10:30
 ---
 
 # NoSQL 6
@@ -51,7 +51,7 @@ During this session you will continue with the MongoDB Learning Path.
 
 Also we will be conducting demonstrations of the first portfolio item.
 
-Refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path) for
+Refer to the notes in [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md) for
 details on signing up for MongoDB University and the Course(s) that are to be undertaken for
 free.
 

@@ -15,14 +15,14 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-01T15:44
+updated: 2025-03-18T10:21
 ---
 
-# Session 06 Exercises & Journal Entry
+# Session 06 Exercises & Additional Learning
 
 ## Software as a Service - Back-End Development
 
-Session 06 Assessment Activity 
+Session 06 In Class and Out of Class Structured Learning Activities
 
 Developed by Adrian Gould
 
@@ -38,30 +38,32 @@ includeLinks: true
 
 ---
 
-# Session 06 Exercises & Journals 
+# Required Learning
+
+As part of your structured learning, you should complete the following activities.
+
+You will require:
+
+- Student eMail account
+- Postman account
+- Postman Desktop Application
+- Internet Access
+
+Complete the following courses (free) during Sessions 6, 7 and 8:
+
+- Postman. (2024). _Postman API Fundamentals Student Expert_. Postman. https://academy.postman.com/path/postman-api-fundamentals-student-expert
+- ...
 
 
----
-## Journal Entry: Summarise the Session's Content
+# Reflection Questions
 
-No Journal Entry
+No reflection questions.
 
----
-## Reflection Questions
 
-No Questions this week
+# Work on the Portfolio
 
-## Exercises
+Continue to work on the portfolio / project.
 
-No Exercises this week
-
-## Work on the Portfolio
-
-Continue to work on the portfolio.
-
-## Tutorial
-
-No additional tutorials
 
 
 ---

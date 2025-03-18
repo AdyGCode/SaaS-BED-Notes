@@ -1,3 +1,7 @@
+---
+created: 2025-03-04T08:33
+updated: 2025-03-18T10:27
+---
 # Terminology Review
 
 This set of notes is based on a conversation with "Mistral": https://chat.mistral.ai/chat/ed13236c-5c7e-4104-ab17-f90c30e22e8b

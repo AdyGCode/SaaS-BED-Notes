@@ -18,13 +18,13 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-10-03T09:18
+updated: 2025-03-18T10:30
 ---
 
 # Session 11 Overview
 
 - [S11 MongoDB 4 - ...](../Session-10/S10-MongoDB-3)
-	- [MongoDB Learning Path](../Session-09/S09-MongoDB-Learning-Path)
+	- [MongoDB Learning Path](Session-10/S09-MongoDB-Learning-Path.md)
 - [S11 Exercises and Journal Entry](Session-11/S11-Exercises-and-Journal-Entry.md)
 
 

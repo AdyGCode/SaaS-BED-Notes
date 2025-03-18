@@ -1,3 +1,7 @@
+---
+created: 2025-03-04T08:33
+updated: 2025-03-18T10:27
+---
 Notes based on conversation with Mistral: https://chat.mistral.ai/chat/ed13236c-5c7e-4104-ab17-f90c30e22e8b
 
 Ten of the most commonly obtained HTTP response codes along with examples of their use when accessing an API via endpoints beginning with `api/v1/products`:

@@ -18,7 +18,7 @@ tags:
   - MongoDB
   - NoSQL
 created: 2024-07-31T07:52
-updated: 2025-02-10T15:16
+updated: 2025-03-18T10:30
 ---
 
 # Session 13 Exercises & Journal Entry
@@ -73,7 +73,7 @@ N/A
 ## Tutorial
 
 Complete the MongoDB University course content if yiou have not done so.
-See [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path).
+See [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md).
 
 ## MongoDB and Event triggers
 

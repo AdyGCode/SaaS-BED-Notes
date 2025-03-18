@@ -16,14 +16,14 @@ tags:
   - Authentication
   - REST
 created: 2024-07-31T07:52
-updated: 2025-03-18T10:25
+updated: 2025-03-18T10:28
 ---
 
-# Session 07 Exercises & Additional Learning
+# Session 08 Exercises & Additional Learning
 
 ## Software as a Service - Back-End Development
 
-Session 07 In Class and Out of Class Structured Learning Activities
+Session 08 In Class and Out of Class Structured Learning Activities
 
 Developed by Adrian Gould
 
