@@ -20,7 +20,6 @@
     "Session-04/S04-GitHub-Project-Management.md": "99df4ed33e9f325cc77ec4c7387d9fb98134880f3331c3a8f30b948888e4f9a0",
     "Session-02/ReadMe.md": "7c9e9ef3c4f4757172a0468b05d9f85977f09c130c168fdbb8e43894e769a270",
     "Session-09/ReadMe.md": "4573fad23c08ed1934fd1ac1f169e4098057b788817436da15305e1ce3d7429c",
-    "Session-07/S07-Exercises-and-Journal-Entry.md": "e81ac21b530a6d6320d5d979f4bb2761ad087862ead041d1696a241dc3a8b13e",
     "Session-09/S09-Exercises-and-Journal-Entry.md": "5c36ab91ba4685918f03a4935d8fa86cc7584ec7f762b674dab6dbac4f238ae1",
     "Session-10/ReadMe.md": "b877c1c5a1fd7761b7aa034603cfbdcb1ea56e3d2dfc017cf149de7b40503dac",
     "Delivery-Specific.md": "f7befd99486fc0d17b0d02f91b17152936266294e5c26ba706c11e34a35c006b",
@@ -62,7 +61,7 @@
     "Session-03/S03-Test-Driven-Development-Example.md": "9eb614512fed994f03be11551bc4bf59779b8e264e8f21180f48f5faae5f6bf3",
     "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md": "5c91a2fe5d25c211f591cb80817270817128b4667274f3a09f83f082535213b6",
     "Session-03/S03-Reflection-Exercises.md": "f15e4e1d6a0db07c102145f66663d5d61cc8a51fd18ed4f7691e79ac9b8c0907",
-    "Session-06/S06-Using-Scramble-to-Document-an-API.md": "5183bbdffb6bbbe585910c01fcda7fc20246889b1ac73373f19ff12be8eacddc",
+    "Session-06/S06-Using-Scramble-to-Document-an-API.md": "446ff8e9abdefbd24462cb893b7bd58f261a76e638c70127f51a69b62a4366c9",
     "Session-03/S03-Test-Driven-Development-Overview.md": "f4be00f596c024ae91ea3bcd085cb98113a3138cf297469cf613261ec85d7d5b",
     "Session-03/S03-Test-Driven-Development-Refactoring.md": "1109b9cc907e2d7a4e091a490e72da075bfca728862ed7af1bd7736ec5bf6caf",
     "_sort/Laravel-and-APIs 1.md": "e2793cda95d2bc037ffec211164760930e984953c0a04b9dc56d0eedc0f38556",
@@ -74,6 +73,7 @@
     "Session-10/S09-MongoDB-1-Introduction.md": "70e00e8bdb9bc90c017b860752a446aa6823a2f02b34c8ac19311c9d7ac70447",
     "Session-10/S09-MongoDB-Learning-Path.md": "5430f17453f65a7323df5542f10304ae9c3f663e198dbd76b24cf0649256ddd0",
     "Session-13/ReadMe.md": "fa2706e61014fca2084d42539ac985ef6fb0059231addbd374f7b83e1c24b9bf",
-    "Session-07/S07-Postman-and-APIs.md": "d8cbf53682490d7e25beeae06b453e712e2e325feddd753ff863ef7414702608"
+    "Session-07/S07-Postman-and-APIs.md": "d8cbf53682490d7e25beeae06b453e712e2e325feddd753ff863ef7414702608",
+    "Session-07/S07-Using-Scramble-to-Document-an-API-2.md": "79b5ba33b8e5873a723e7a2de1206f0892a3289401f1de44667c1ed5e496afab"
   }
 }
