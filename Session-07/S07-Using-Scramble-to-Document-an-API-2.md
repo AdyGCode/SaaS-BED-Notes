@@ -606,10 +606,11 @@ Hint: duplicate the version 1 code, and edit to suit.
 At this point you should be able to view the documentation using URIs similar to this:
 
 - Version 0.5: http://saas-l12-api-scramble-demoi.test/docs/api
-    - This endpoint should give a 404. Try commenting out the `Scramble::ignoreDefaultRoutes();`
+    - This endpoint should give a 404. 
+    - Try commenting out the `Scramble::ignoreDefaultRoutes();`
       and see what happens.
 - Version 1: http://saas-l12-api-scramble-demoi.test/docs/v1
-- Version 2: http://saas-l12-api-scramble-demoi.test/docs/v2#/
+- Version 2: http://saas-l12-api-scramble-demoi.test/docs/v2
 
 ## Source Code
 
@@ -628,8 +629,8 @@ See [S07-Exercises-and-Additional-Learning](../Session-07/S07-Exercises-and-Addi
   Baeldung. https://www.baeldung.com/rest-api-error-handling-best-practices
 - Bello, G. (2024, February 8). _Best Practices for API Error Handling | Postman Blog_. Postman
   Blog. https://blog.postman.com/best-practices-for-api-error-handling/
-- Gitlin, J. (2024, June 12). _API response codes: examples and error-handling strategies_.
-  Merge.dev; Merge. https://www.merge.dev/blog/api-response-codes
+- _Getting started - Scramble_. (2025).
+  Dedoc.co. https://scramble.dedoc.co/usage/getting-started
 - Gitlin, J. (2024, June 12). _API response codes: examples and error-handling strategies_.
   Merge.dev; Merge. https://www.merge.dev/blog/api-response-codes
 - Gupta, L. (2018, May 30). _HTTP Status Codes_. REST API
@@ -644,8 +645,7 @@ See [S07-Exercises-and-Additional-Learning](../Session-07/S07-Exercises-and-Addi
   Blog. https://blog.postman.com/what-are-http-status-codes/
 - Umbraco. (2019, May 3). _What are HTTP status codes?_ Umbraco.com;
   Umbraco. https://umbraco.com/knowledge-base/http-status-codes/
-- _Getting started - Scramble_. (2025).
-  Dedoc.co. https://scramble.dedoc.co/usage/getting-started
+
 
 
 - https://www.binaryboxtuts.com/php-tutorials/laravel-tutorials/how-to-make-laravel-12-rest-api/
