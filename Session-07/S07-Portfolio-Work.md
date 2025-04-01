@@ -1,3 +1,7 @@
+---
+created: 2025-03-24T09:08
+updated: 2025-04-01T15:10
+---
 
 
 An example of how to add search to the index method of a Users Controller.
