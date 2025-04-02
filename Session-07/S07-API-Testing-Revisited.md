@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2025-03-27T16:20
-updated: 2025-04-01T16:41
+updated: 2025-04-02T12:46
 ---
 ---
 theme: default
@@ -538,6 +538,10 @@ uses(
 test('API creates new category (full details)', function () {  
     $user = User::factory()->create();  
     $token = $user->createToken('TestToken')->plainTextToken;  
+```
+
+
+```php
   
     $category = Category::factory()->make()->toArray();  
     $name = $category['name'];  
@@ -545,6 +549,10 @@ test('API creates new category (full details)', function () {
   
     $response = $this->withHeaders(['Authorization' => 'Bearer ' . $token,])  
         ->postJson(route('categories.store', $category)); // call '/api/v2/categories'  
+```
+
+
+```php
   
     $response->assertStatus(201)  
         ->assertJsonStructure([  
@@ -552,6 +560,10 @@ test('API creates new category (full details)', function () {
             'message',  
             'data' => ['id', 'name', 'description', 'created_at', 'updated_at']  
         ])  
+```
+
+
+```php
         ->assertJson([  
             'success' => true,  
             'message' => 'Category created',  
@@ -560,6 +572,10 @@ test('API creates new category (full details)', function () {
                 'description' => $description,  
             ]  
         ]);  
+```
+
+
+```php
   
     $category = Category::whereName($name)->first();  
     $this->assertNotNull($category);  
@@ -567,6 +583,10 @@ test('API creates new category (full details)', function () {
     $this->assertTrue(Carbon::parse($category->updated_at)->diffInSeconds(now()) <= 5);  
   
 });  
+```
+
+
+```php
   
 test('API creates new category (name only)', function () {  
     $user = User::factory()->create();  
@@ -575,9 +595,17 @@ test('API creates new category (name only)', function () {
     $category = Category::factory()->make(['description' => null])->toArray();  
     $name = $category['name'];  
     $description = $category['description'];  
-  
+  ```
+
+
+```php
+
     $response = $this->withHeaders(['Authorization' => 'Bearer ' . $token,])  
         ->postJson(route('categories.store', $category)); // call '/api/v2/categories'  
+```
+
+
+```php
   
     $response->assertStatus(201)  
         ->assertJsonStructure([  
@@ -585,6 +613,10 @@ test('API creates new category (name only)', function () {
             'message',  
             'data' => ['id', 'name', 'created_at', 'updated_at']  
         ])  
+```
+
+
+```php
         ->assertJson([  
             'success' => true,  
             'message' => 'Category created',  
@@ -592,6 +624,10 @@ test('API creates new category (name only)', function () {
                 'name' => $name,  
             ]  
         ]);  
+```
+
+
+```php
   
     $category = Category::whereName($name)->first();  
     $this->assertNotNull($category);  
@@ -600,15 +636,31 @@ test('API creates new category (name only)', function () {
   
 });  
   
+```
+
+
+```php
   
 test('an error is returned when name is not provided', function () {  
     $user = User::factory()->create();  
     $token = $user->createToken('TestToken')->plainTextToken;  
+```
+
+
+```php
   
     $data = ['description' => 'A category without a name'];  
+```
+
+
+```php
   
     $response = $this->withHeader('Authorization', 'Bearer ' . $token)  
         ->postJson(route('categories.store'), $data);  
+```
+
+
+```php
   
     $response->assertStatus(422)  
         ->assertJsonValidationErrors(['name']);  
@@ -636,13 +688,25 @@ uses(
 it('can delete a category', function () {  
     $user = User::factory()->create();  
     $token = $user->createToken('TestToken')->plainTextToken;  
+```
+
+
+```php
   
     $category = Category::factory()->create();  
     $name = $category->name;  
 	$description = $category->description;
+```
+
+
+```php
 
     $response = $this->withHeader('Authorization', 'Bearer ' . $token)  
         ->deleteJson(route('categories.destroy', $category->id));  
+```
+
+
+```php
   
     $response->assertStatus(200)  
         ->assertJsonStructure([  
@@ -650,6 +714,10 @@ it('can delete a category', function () {
             'message',  
             'data' => ['id', 'name', 'description', 'created_at', 'updated_at']  
         ])  
+```
+
+
+```php
         ->assertJson([  
             'success' => true,  
             'message' => 'Category deleted',  
@@ -658,21 +726,41 @@ it('can delete a category', function () {
 			    'description' => $description,  
 			] 
         ]);  
+```
+
+
+```php
         
     expect(Category::find($category->id))->toBeNull();  
 });  
   
+```
+
+
+```php
   
 it('returns error when trying to delete a non-existent category', function () {  
     $user = User::factory()->create();  
     $token = $user->createToken('TestToken')->plainTextToken;  
   
     $category = Category::factory()->create();  
+```
+
+
+```php
   
     $nonExistentId = 9999;  
+```
+
+
+```php
   
     $response = $this->withHeader('Authorization', 'Bearer ' . $token)  
         ->deleteJson(route('categories.destroy', $nonExistentId));  
+```
+
+
+```php
   
     $response->assertStatus(404)  
         ->assertJsonStructure([  
@@ -680,6 +768,10 @@ it('returns error when trying to delete a non-existent category', function () {
             'message',  
             'data' => []  
         ])  
+```
+
+
+```php
         ->assertJson([  
             'success' => false,  
             'message' => 'Category not found',  
