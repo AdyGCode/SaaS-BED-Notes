@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-07/S07-API-Testing-Revisited.md",
+                "file": "Session-01/S01-Documenting-Code-Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S07-API-Testing-Revisited"
+              "title": "S01-Documenting-Code-Revision"
             }
           }
         ],
@@ -203,51 +203,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "d46ef33f67fb63e0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fa646b9108bd3894",
-        "type": "window",
-        "children": [
-          {
-            "id": "c64008c857426fab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1c1b9bf158815c5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session-07/S07-API-Testing-Revisited.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "S07-API-Testing-Revisited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2023,
-        "y": 130,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f1c1b9bf158815c5",
+  "active": "5df85111615c2f77",
   "lastOpenFiles": [
+    "Session-07/S07-Using-Scramble-to-Document-an-API-3.md",
+    "Session-07/S07-API-Testing-Revisited.md",
+    "Session-01/S01-Documenting-Code-Revision.md",
+    "Session-01/S01-Laravel-and-APIs.md",
     "assets/phpstorm-test-folder-structure.png",
     "Session-07/S07-Portfolio-Work.md",
     "Session-07/S07-Using-Scramble-to-Document-an-API-2.md",
-    "Session-07/S07-API-Testing-Revisited.md",
     "Session-07/S07-Postman-and-APIs.md",
     "Session-06/S06-Using-Scramble-to-Document-an-API.md",
     "Session-07/img.png",
@@ -260,7 +224,6 @@
     "assets/api-v2-php-source-code-1.png",
     "assets/api-v1-php-source-code.png",
     "assets/api-php-reduced-source-code.png",
-    "assets/animation-refactoring-file-locations-1.gif",
     "Session-07/S07-Exercises-and-Additional-Learning.md",
     "Session-06/S07-Using-Scramble-to-Document-an-API-2.md",
     "Session-07/S07-Image-Uploads-and-APIs.md",
@@ -279,8 +242,6 @@
     "_sort/Laravel-and-APIs 1.md",
     "_backup/S02-Exercises-and-Journal-Entry 1.md",
     "Session-10/S10-MongoDB-3.md",
-    "Session-01/S00-Laravel-Storage-Fix-from-Clone.md",
-    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md",
     "Session-03/S03-Designing-an-API.pdf",
     "Session-03/ReadMe.pdf",
     "_backup",
