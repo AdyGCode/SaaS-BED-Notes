@@ -1,9 +1,6 @@
 ---
-banner: "![[Black-Red-Banner.svg]]"
 created: 2025-03-24T09:08
-updated: 2025-04-01T15:08
----
----
+updated: 2025-04-03T15:49
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -17,8 +14,6 @@ tags:
   - APIs
   - Back-End
   - Overview
-created: 2024-07-31T07:52
-updated: 2025-03-18T11:03
 banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
@@ -114,7 +109,7 @@ php artisan db:seed
 composer run dev
 ```
 12) In MS Terminal split the terminal into two sessions (<kbd>ALT</kbd>+<kbd>SHIFT</kbd>+<kbd>MINUS</kbd>).
-13) In the lower section,get the current working folder to be the cloned project ready for any further commands to be executed (eg creating a new model).
+13) In the lower section, change into the working folder for the cloned project ready for any further commands to be executed (e.g. creating a new model).
 ```shell
 cd ~/Source/Repos/SaaS-BED-L12-API-Demo-2025-S1
 ```
@@ -127,7 +122,7 @@ Open your `.env` file, and change `APP_DEBUG` from `true` to `false`.
 
 During development, you may want to re-enable or disable this setting.
 
-**For production, it MUST be false.**
+> ⚠️ **For production, it MUST be false.**
 
 Why?
 

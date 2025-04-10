@@ -2267,19 +2267,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2716,
+      "wordCount": 2676,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 9.053333333333333,
-      "characterCount": 23175,
-      "nonWhitespaceCharacterCount": 18216,
-      "readingTimeInMinutes": 10.249056603773585,
+      "pageCount": 8.92,
+      "characterCount": 22811,
+      "nonWhitespaceCharacterCount": 17910,
+      "readingTimeInMinutes": 10.09811320754717,
       "linkCount": 1,
-      "embedCount": 34,
+      "embedCount": 33,
       "aliases": null,
       "createdDate": 1742778496730,
-      "modifiedDate": 1743491285140,
-      "sizeInBytes": 23271,
+      "modifiedDate": 1743666563344,
+      "sizeInBytes": 23185,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 8.916666666666666,
@@ -2288,9 +2288,25 @@
         "nonWhitespaceCharacterCount": 17906
       },
       "frontmatter": {
-        "banner": "![[Black-Red-Banner.svg]]",
         "created": "2025-03-24T09:08",
-        "updated": "2025-04-01T15:06"
+        "updated": "2025-04-03T15:46",
+        "theme": "default",
+        "paginate": true,
+        "banner": "![[Black-Red-Banner.svg]]",
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "banner_x": 1,
+        "banner_y": "0"
       }
     },
     "Session-07/S07-Exercises-and-Additional-Learning.md": {
@@ -8095,14 +8111,14 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 541,
+      "wordCount": 507,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.8033333333333332,
-      "characterCount": 5660,
-      "nonWhitespaceCharacterCount": 4607,
-      "readingTimeInMinutes": 2.0415094339622644,
-      "linkCount": 0,
+      "pageCount": 1.69,
+      "characterCount": 5317,
+      "nonWhitespaceCharacterCount": 4331,
+      "readingTimeInMinutes": 1.9132075471698113,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743658102671,
@@ -8114,6 +8130,26 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Journal"
+        ],
+        "created": "2024-07-31T07:52",
+        "updated": "2025-03-27T18:46"
       }
     }
   }
