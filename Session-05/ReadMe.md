@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-10-03T09:15
+updated: 2025-04-28T16:00
 ---
 
 # Session 05 Overview
@@ -29,7 +29,7 @@ updated: 2024-10-03T09:15
 	- User Registration, Login and Logout via API calls
 - [S05-APIS-and-Security](S05-APIS-and-Security.md)
 	- ... notes are 1/3 complete
-- [S05-Exercises-and-Journal-Entry](S05-Exercises-and-Journal-Entry.md)
+- [S05-Reflection-Exercises](../Session-05/S05-Reflection-Exercises.md)
 	- Journal entry
 	- Reflection Questions
 	- Exercises

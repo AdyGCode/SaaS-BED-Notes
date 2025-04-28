@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-02-10T15:13
+updated: 2025-04-28T11:36
 ---
 
 # Session 03 Exercises & Journal Entry
@@ -38,7 +38,7 @@ includeLinks: true
 
 ---
 
-# Session 03 Exercises & Journals 
+# Session 03 Reflection Exercises 
 
 ## Complete the in class exercises
 

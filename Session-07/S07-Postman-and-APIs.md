@@ -1,6 +1,6 @@
 ---
 created: 2025-03-24T09:08
-updated: 2025-04-03T15:49
+updated: 2025-04-28T16:00
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -589,7 +589,7 @@ You will create the Requests for the following:
 
 # Additional Learning
 
-See [S06-Exercises-and-Additional-Learning](Session-06/S06-Exercises-and-Additional-Learning.md).
+See [S06-Reflection-Exercises](../Session-06/S06-Reflection-Exercises.md).
 
 # References
 

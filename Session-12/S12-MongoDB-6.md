@@ -1,8 +1,10 @@
 ---
+created: 2025-03-24T09:08
+updated: 2025-04-28T16:00
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+footer: © Copyright 2024, Adrian Gould & NM TAFE
 theme: default
 paginate: true
-footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ICT50220 - Adv Prog - SaaS 2 - BED
 banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
@@ -17,8 +19,6 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-created: 2024-07-31T07:52
-updated: 2025-03-18T10:30
 ---
 
 # NoSQL 6
@@ -51,25 +51,11 @@ During this session you will continue with the MongoDB Learning Path.
 
 Also we will be conducting demonstrations of the first portfolio item.
 
-Refer to the notes in [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md) for
-details on signing up for MongoDB University and the Course(s) that are to be undertaken for
-free.
-
-# MongoDB University Target Lessons
-
-Your target lessons for this session (also listed are the 'non-contact week' lessons) are:
-
-| Session          | Chapter                                          | Link                                                                              | Duration (Mins) |
-|------------------|--------------------------------------------------|-----------------------------------------------------------------------------------|-----------------|
-| Non Contact Week | MongoDB CRUD Operations: Modifying Query Results | https://learn.mongodb.com/courses/mongodb-crud-operations-modifying-query-results | 85              |
-| Non Contact Week | MongoDB Aggregation                              | https://learn.mongodb.com/courses/mongodb-aggregation                             | 105             |
-| 11               | MongoDB Indexes                                  | https://learn.mongodb.com/courses/mongodb-indexes                                 | 105             |
-| 11               | MongoDB Atlas Search                             | https://learn.mongodb.com/courses/mongodb-atlas-search                            | 90              |
+Refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
 
 ## MongoDB Practice Exercises 2
 
-Use either `mongodbsh`, MongoDB Atlas, or MongoDB Compass (or equivalent) to practice using
-MongoDB.
+Use either `mongodbsh`, MongoDB Atlas, or MongoDB Compass (or equivalent) to practice using MongoDB.
 
 All exercises **MUST** be completed using the MongoDB Shell CLI **ONLY**.
 

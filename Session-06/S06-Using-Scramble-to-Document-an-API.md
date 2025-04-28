@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2025-03-24T09:08
-updated: 2025-04-01T15:05
+updated: 2025-04-28T16:00
 ---
 ---
 theme: default
@@ -850,12 +850,12 @@ Remember that you may list the routes the applicaiton has using the `php artisan
 
 # Testing Using Postman
 
-This section has been moved to: [S07-Postman-and-APIs](Session-07/S07-Postman-and-APIs.md)
+This section has been moved to: [S07-Postman-and-APIs](../Session-07/S07-Postman-and-APIs.md)
 
 
 # Additional Learning
 
-See [S06-Exercises-and-Additional-Learning](Session-06/S06-Exercises-and-Additional-Learning.md).
+See [S06-Reflection-Exercises](../Session-06/S06-Reflection-Exercises.md).
 
 # References
 

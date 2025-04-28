@@ -12,17 +12,19 @@ tags:
   - APIs
   - Back-End
   - Journal
+  - MongoDB
+  - NoSQL
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-03-18T10:21
+updated: 2025-04-28T15:53
 ---
 
-# Session 06 Exercises & Additional Learning
+# Session 09 Reflection Exercises
 
 ## Software as a Service - Back-End Development
 
-Session 06 In Class and Out of Class Structured Learning Activities
+Session 09 In-class, Out-of-Class, and Assessment Activities 
 
 Developed by Adrian Gould
 
@@ -38,31 +40,26 @@ includeLinks: true
 
 ---
 
-# Required Learning
+# Session 09 Reflection Exercises 
 
-As part of your structured learning, you should complete the following activities.
+---
 
-You will require:
-
-- Student eMail account
-- Postman account
-- Postman Desktop Application
-- Internet Access
-
-Complete the following courses (free) during Sessions 6, 7 and 8:
-
-- Postman. (2024). _Postman API Fundamentals Student Expert_. Postman. https://academy.postman.com/path/postman-api-fundamentals-student-expert
-- ...
-
-
-# Reflection Questions
+## Reflection Questions
 
 No reflection questions.
 
+## Exercises
 
-# Work on the Portfolio
+No Exercises this session.
 
-Continue to work on the portfolio / project.
+
+## Work on the Portfolio
+
+Complete the Portfolio Part 1 work.
+
+## Tutorial
+
+Start the MongoDB University course content as outlined in [MongoDB-Learning-Path](../Session-09/MongoDB-Learning-Path.md).
 
 
 

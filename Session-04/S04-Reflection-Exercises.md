@@ -15,10 +15,10 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2024-08-01T15:44
+updated: 2025-04-28T11:38
 ---
 
-# Session 04 Exercises & Journal Entry
+# Session 04 Reflection Exercises
 
 ## Software as a Service - Back-End Development
 
@@ -38,7 +38,7 @@ includeLinks: true
 
 ---
 
-# Session 03 Exercises & Journals 
+# Session 03 Reflection Exercises 
 
 ## Complete the in class exercises
 

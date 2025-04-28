@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2024-08-22T17:47
-updated: 2024-10-22T08:16
+updated: 2025-04-28T11:36
 ---
 ---
 theme: default
@@ -48,7 +48,7 @@ includeLinks: true
 
 ---
 
-# Session XX Exercises & Journals 
+# Session XX Reflection Exercises 
 
 ---
 ## Journal Entry: Summarise the Session's Content

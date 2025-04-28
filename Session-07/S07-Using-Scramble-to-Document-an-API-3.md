@@ -15,7 +15,7 @@ tags:
   - Back-End
   - Journal
 created: 2024-07-31T07:52
-updated: 2025-03-27T18:46
+updated: 2025-04-28T16:00
 ---
 
 # Session 07 Using Scramble to Document an API Part 3
@@ -156,7 +156,7 @@ https://github.com/AdyGCode/SaaS-L12-API-Scramble-Demoi
 
 # Additional Learning
 
-See [S07-Exercises-and-Additional-Learning](../Session-07/S07-Exercises-and-Additional-Learning.md).
+See [S07-Reflection-Exercises-and-Additional-Learning](../Session-07/S07-Reflection-Exercises-and-Additional-Learning.md).
 
 # References
 

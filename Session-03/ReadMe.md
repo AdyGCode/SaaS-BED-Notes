@@ -18,7 +18,7 @@ tags:
 date created: 07 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-02-17T11:01
+updated: 2025-04-28T16:00
 ---
 
 # Session 03 Overview
@@ -60,7 +60,7 @@ updated: 2025-02-17T11:01
 	- Create Unit tests
 - [S03-Test-Driven-Development-API-With-Model-Relationships](S03-Test-Driven-Development-API-With-Model-Relationships.md)
 	- Region model
-- [S03-Reflection-Exercises](Session-03/S03-Reflection-Exercises.md)
+- [S03-Reflection-Exercises](../Session-03/S03-Reflection-Exercises.md)
 	- Complete tutorial
 	- Practical exercises (countries, sub-regions, states, cities)
 	- Summarise learning 

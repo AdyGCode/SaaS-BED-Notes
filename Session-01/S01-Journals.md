@@ -11,7 +11,7 @@ tags: SaaS, APIs, Back-End
 date created: 03 July 2024
 date modified: 07 July 2024
 created: 2024-07-31T08:45
-updated: 2025-02-10T15:03
+updated: 2025-04-28T16:00
 ---
 
 # Course Journals
@@ -98,4 +98,4 @@ All entries should:
 
 # END
 
-Next up - [Session 01 Journal Activity](S01-Exercises-and-Journal-Entry.md)
+Next up - [Session 01 Journal Activity](../Session-01/S01-Reflection-Exercises.md)

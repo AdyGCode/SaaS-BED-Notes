@@ -18,7 +18,7 @@ tags:
   - MongoDB
   - NoSQL
 created: 2024-07-31T07:52
-updated: 2025-03-18T10:30
+updated: 2025-04-28T16:00
 ---
 
 # NoSQL 8
@@ -54,7 +54,7 @@ This session demonstrates the Laravel and MongoDB integration.
 
 By this week you should have completed all the MongoDB University chapters.
 
-If you have not done so, refer to the notes in [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
+If you have not done so, refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
 
 
 # Using MongoDB with Laravel
@@ -548,4 +548,4 @@ https://medium.com/@noumcpe0007/how-to-install-and-setup-mongodb-in-laravel-10-1
 
 # END
 
-Next up - [S13 MongoDB 6 Practice Exercises](Session-13/S13-MongoDB-6.md)
+Next up - [S13 MongoDB 6 Practice Exercises](../Session-13/S13-MongoDB-6.md)

@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2025-03-27T16:20
-updated: 2025-04-02T12:46
+updated: 2025-04-28T16:00
 ---
 ---
 theme: default
@@ -45,7 +45,7 @@ includeLinks: true
 # Session 07 Testing Revisited: Organisation
 
 
-So far we have created and documented a Categories API in [S06-Using-Scramble-to-Document-an-API](Session-06/S06-Using-Scramble-to-Document-an-API.md) and [S07-Using-Scramble-to-Document-an-API-2](Session-07/S07-Using-Scramble-to-Document-an-API-2.md).
+So far we have created and documented a Categories API in [S06-Using-Scramble-to-Document-an-API](../Session-06/S06-Using-Scramble-to-Document-an-API.md) and [S07-Using-Scramble-to-Document-an-API-2](../Session-07/S07-Using-Scramble-to-Document-an-API-2.md).
 
 Whilst doing this we omitted the testing part of development, to make the process a little smother to understand and complete.
 
@@ -790,7 +790,7 @@ https://github.com/AdyGCode/SaaS-L12-API-Scramble-Demoi
 
 # Additional Learning
 
-See [S07-Exercises-and-Additional-Learning](../Session-07/S07-Exercises-and-Additional-Learning.md).
+See [S07-Reflection-Exercises-and-Additional-Learning](../Session-07/S07-Reflection-Exercises-and-Additional-Learning.md).
 
 # References
 

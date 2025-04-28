@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-09-12T09:59
-updated: 2025-03-18T10:31
+updated: 2025-04-28T16:00
 ---
 
 # NoSQL 1
@@ -71,6 +71,7 @@ includeLinks: true
 # SQL 
 
 - Relational Databases  
+- **S**tructured **Q**uery **L**anguage
 - Tables with relationships  
 - Very Structural  
 - Key concepts such as ACID  
@@ -89,7 +90,7 @@ includeLinks: true
 
 # NoSQL
 
-- Not Only SQL
+- **N**ot **O**nly **SQL**
 - Large Volumes of Data
 - Persistence
 - Based on CAP theory  
@@ -169,22 +170,21 @@ https://geekandpoke.typepad.com/geekandpoke/2011/01/nosql.html
 
 # RDBMS/SQL Terms 
 
-| Term           | Meaning                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------- |
-| SQL            | Structured Query Language                                                                                     |
-| SQL            | Structured Query Language<br>Two general components DDL & DML                                                 |
-| DDL            | Data Definition Language<br>Definition of Databases and Tables                                                |
-| DML            | Data Manipulation Language<br>Data operations: Create, Edit, Retrieve and Delete                              |
-| Normalisation  | The formal process of designing a relational database<br>Reduces redundancy, errors and other inconsistencies |
-| Schema         | Another name for database<br>Databases are made up of tables                                                  |
-| Table          | A collection of columns and rows<br>Blueprint for items that contain similarly structured data                |
-| Column / Field | A single property of an ‘object’                                                                              |
-| Row / Record   | All row data relates directly to the same item<br>One datum per column in the table                           |
-| Relationship   | When two or more tables are ‘joined’ using primary and foreign keys                                           |
-| Candidate Key  | A field that could be used as a primary key<br>Each item of data in this field is unique                      |
-| Primary Key    | An identifier that is unique for each record in the table                                                     |
-| Foreign Key    | A field that is the primary key in another table<br>Used to create ‘relationships’ between tables             |
-|                |                                                                                                               |
+| Term           | Meaning                                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| SQL            | Structured Query Language<br>May be seen as two general components DDL & DML<br>These may be split into smaller sections. |
+| DDL            | Data Definition Language<br>Definition of Databases and Tables                                                            |
+| DML            | Data Manipulation Language<br>Data operations: Create, Edit, Retrieve and Delete                                          |
+| Normalisation  | The formal process of designing a relational database<br>Reduces redundancy, errors and other inconsistencies             |
+| Schema         | Another name for database<br>Databases are made up of tables                                                              |
+| Table          | A collection of columns and rows<br>Blueprint for items that contain similarly structured data                            |
+| Column / Field | A single property of an ‘object’                                                                                          |
+| Row / Record   | All row data relates directly to the same item<br>One datum per column in the table                                       |
+| Relationship   | When two or more tables are ‘joined’ using primary and foreign keys                                                       |
+| Candidate Key  | A field that could be used as a primary key<br>Each item of data in this field is unique                                  |
+| Primary Key    | An identifier that is unique for each record in the table                                                                 |
+| Foreign Key    | A field that is the primary key in another table<br>Used to create ‘relationships’ between tables                         |
+|                |                                                                                                                           |
 
 <div class="page-break" style="page-break-before: always;"></div>
 
@@ -246,11 +246,12 @@ https://geekandpoke.typepad.com/geekandpoke/2011/01/nosql.html
 - Must not be blank or null
 
 **Recommendation:**  
-- Use standard A-Z, a-z, 0-9, underscore (_)  
-- Other UTF-8 characters may be hard to enter  
-- (examples:  Über, ålpha, Français, … and so on)
+- Use standard `A`-`Z`, `a`-`z`, `0`-`9`, underscore (`_`)  
+- Other UTF-8 characters may be hard or impossible to enter  
+	- Examples:  `Über`, `ålpha`, `Français`, … and so on
 
 # MongoDB: Data Types & Documents
+
 
 ## Documents
 
@@ -327,7 +328,7 @@ https://www.deviantart.com/arseniic/art/What-did-the-buffalo-say-to-his-son-when
 
 # Exercises
 
-Refer to the notes in  [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md) for details on signing upo for MongoDB University and the Course(s) that are to be undertaken for free.
+Refer to the notes in  [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
 
 
 # END

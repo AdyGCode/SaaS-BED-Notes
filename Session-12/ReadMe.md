@@ -1,4 +1,9 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2025-03-24T09:08
+updated: 2025-04-28T16:00
+---
+---
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -16,14 +21,14 @@ tags:
   - Back-End
   - Overview
 created: 2024-07-31T07:52
-updated: 2025-03-18T10:30
+updated: 2025-04-28T11:40
 ---
 
 # Session 12 Overview
 
 - [S12 MongoDB 4 - ...](../Session-10/S10-MongoDB-3)
-	- [MongoDB Learning Path](Session-10/S09-MongoDB-Learning-Path.md)
-- [S12 Exercises and Journal Entry](Session-12/S12-Exercises-and-Journal-Entry.md)
+	- [MongoDB Learning Path](../Session-09/S09-MongoDB-Learning-Path.md)
+- [S12 Exercises and Journal Entry](../Session-12/S12-Reflection-Exercises.md)
 
 
 ## Note
@@ -31,7 +36,3 @@ updated: 2025-03-18T10:30
 Remember that AI Generated Code is not 100% reliable, and as such you should check all code that is generated.
 
 We **extremely strongly** advise that you write your test cases and your code by hand until such time as you are familiar with and able to explain your code without assistance from any AI or system such as Grammarly.
-
-This session's notes were developed with the assistance of Mistral AI, and other resources. These include:
-
-Mistral Conversation: 

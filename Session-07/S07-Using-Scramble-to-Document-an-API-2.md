@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2025-03-27T16:20
-updated: 2025-04-01T15:08
+updated: 2025-04-28T16:00
 ---
 ---
 theme: default
@@ -626,7 +626,7 @@ https://github.com/AdyGCode/SaaS-L12-API-Scramble-Demoi
 
 # Additional Learning
 
-See [S07-Exercises-and-Additional-Learning](../Session-07/S07-Exercises-and-Additional-Learning.md).
+See [S07-Reflection-Exercises-and-Additional-Learning](../Session-07/S07-Reflection-Exercises-and-Additional-Learning.md).
 
 # References
 

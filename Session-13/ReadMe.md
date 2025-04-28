@@ -18,14 +18,14 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-03-18T10:30
+updated: 2025-04-28T16:00
 ---
 
 # Session 13 Overview
 
-- [S13 MongoDB 7 - ...](Session-13/S13-MongoDB-8.md)
-	- [MongoDB Learning Path](Session-10/S09-MongoDB-Learning-Path.md)
-- [S13 Exercises and Journal Entry](Session-13/S13-Exercises-and-Journal-Entry.md)
+- [S13 MongoDB 7 - ...](../Session-13/S13-MongoDB-8.md)
+	- [MongoDB Learning Path](../Session-09/S09-MongoDB-Learning-Path.md)
+- [S13 Exercises and Journal Entry](../Session-13/S13-Reflection-Exercises.md)
 
 
 ## Note

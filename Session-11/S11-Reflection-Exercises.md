@@ -1,8 +1,10 @@
 ---
+created: 2025-03-24T09:08
+updated: 2025-04-28T16:00
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+footer: © Copyright 2024, Adrian Gould & NM TAFE
 theme: default
 paginate: true
-footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ICT50220 - Adv Prog - SaaS 2 - BED
 banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
@@ -17,11 +19,9 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-created: 2024-07-31T07:52
-updated: 2025-03-18T10:30
 ---
 
-# Session 11 Exercises & Journal Entry
+# Session 11 Reflection Exercises
 
 ## Software as a Service - Back-End Development
 
@@ -41,22 +41,7 @@ includeLinks: true
 
 ---
 
-# Session 11 Exercises & Journals 
-
----
-## Journal Entry: Summarise the Session's Content
-
-**For general details on Journal Content see Session 01.**
-
-For this week's journal we would like you to do the following...
-
-1. Summarise the learning and exercises from this session
-2. Complete the exercises below and add to your Journal
-
-Remember you MUST include references using MyBib APA6/APA7 format to any references used.
-
----
-## Reflection Questions & Exercises
+# Session 11 Reflection Questions & Exercises
 
 The following questions and exercises are to be used as revision... some may not be answered this session, but by the end of the following session the knowledge should be there to complete these.
 
@@ -64,7 +49,7 @@ Questions require code that would be run in the MongoDB CLI.
 
 You are not given sample data, but you are provided with the following details to work from:
 
-Presume you have opened a MongoDB CLI connection and want to interact with a database named 'example' that has three collections, 'users', 'jokes' and 'ratings'.
+Presume you have opened a MongoDB Shell CLI connection and want to interact with a database named 'example' that has three collections, '`users`', '`jokes`' and '`ratings`'.
 
 | **<span style="color:#4f81bd">Collection</span>** | **<span style="color:#4f81bd">Field</span>** | **<span style="color:#4f81bd">Collection</span>** | **<span style="color:#4f81bd">Field</span>** | **<span style="color:#4f81bd">Collection</span>** | **<span style="color:#4f81bd">Field</span>** |
 | ------------------------------------------------- | -------------------------------------------- | ------------------------------------------------- | -------------------------------------------- | ------------------------------------------------- | -------------------------------------------- |
@@ -102,24 +87,9 @@ Presume you have opened a MongoDB CLI connection and want to interact with a dat
 11. How do you find all the jokes with a category of 'pun', 'knock-knock', or 'librarian'?
 12. How do you find the jokes with both 'Irish' and 'Scots'?
 
-## Work on the Portfolio
-
-N/A
-
 ## Tutorial
 
-Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md).
-
-
-| Session          | Chapter                                               | Link                                                                                   | Duration (Mins) |
-| ---------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------- |
-| Non Contact Week | MongoDB CRUD Operations: Modifying Query Results      | https://learn.mongodb.com/courses/mongodb-crud-operations-modifying-query-results      | 85              |
-| Non Contact Week | MongoDB Aggregation                                   | https://learn.mongodb.com/courses/mongodb-aggregation                                  | 105             |
-| 11               | MongoDB Indexes                                       | https://learn.mongodb.com/courses/mongodb-indexes                                      | 105             |
-| 11               | MongoDB Atlas Search                                  | https://learn.mongodb.com/courses/mongodb-atlas-search                                 | 90              |
-| 12               | MongoDB Data Modeling Intro                           | https://learn.mongodb.com/courses/introduction-to-mongodb-data-modeling                | 45              |
-| 12               | MongoDB Transactions                                  | https://learn.mongodb.com/courses/mongodb-transactions                                 | 60              |
-
+Complete the MongoDB University course content as outlined in [Session 10's MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md).
 
 
 

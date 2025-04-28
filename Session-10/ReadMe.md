@@ -1,6 +1,6 @@
 ---
 created: 2024-07-31T07:52
-updated: 2025-03-18T10:35
+updated: 2025-04-28T16:00
 banner: "![[Black-Red-Banner.svg]]"
 theme: default
 paginate: true
@@ -22,20 +22,20 @@ tags:
 
 # Session 10 Overview
 
-- [NoSQL Introduction](Session-10/S09-NoSQL-Introduction.md)
-- [S09 MongoDB 1 Introduction](Session-10/S09-MongoDB-1-Introduction.md)
-- [S09-MongoDB-2-Installing-Windows](Session-10/S09-MongoDB-2-Installing-Windows.md)
-- [MongoDB Learning Path](Session-10/S09-MongoDB-Learning-Path.md)
-- [S09 Exercises and Journal Entry](Session-09/S09-Exercises-and-Journal-Entry.md)
+- [NoSQL Introduction](../Session-09/S09-NoSQL-Introduction.md)
+- [S09 MongoDB 1 Introduction](../Session-09/S09-MongoDB-1-Introduction.md)
+- [S09-MongoDB-2-Installing-Windows](../Session-09/S09-MongoDB-2-Installing-Windows.md)
+- [MongoDB Learning Path](../Session-09/S09-MongoDB-Learning-Path.md)
+- [S09 Exercises and Journal Entry](../Session-09/S09-Reflection-Exercises.md)
 - [S10 MongoDB 3 - ...](../Session-10/S10-MongoDB-3)
 - [MongoDB Learning Path](./Session-09/MongoDB-Learning-Path.md)
-- [S10 Exercises and Journal Entry](Session-10/S10-Exercises-and-Journal-Entry.md)
+- [S10 Exercises and Journal Entry](../Session-10/S10-Reflection-Exercises.md)
 
 During this session you will continue with the MongoDB Learning Path.
 
 Also we will be conducting demonstrations of the first portfolio item.
 
-Refer to the notes in  [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
+Refer to the notes in  [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
 
 You will also find notes on how to set up a local MongoDB Replication Cluster on a Windows PC using Windows native executables.
 
@@ -51,7 +51,7 @@ The following table shows the targeted lessons from MongoDB University for this 
 | Non Contact Week | MongoDB Aggregation                                   | https://learn.mongodb.com/courses/mongodb-aggregation                                  | 105             |
 
 
-For the next session's target learning you may see here: [S11 MongoDB 4](Session-11/S11-MongoDB-4.md).
+For the next session's target learning you may see here: [S11 MongoDB 4](../Session-11/S11-MongoDB-4.md).
 
 ## Note
 

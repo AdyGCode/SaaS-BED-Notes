@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T08:45
-updated: 2024-10-03T15:01
+updated: 2025-04-28T16:00
 ---
 # Session 01 Overview
 
@@ -41,7 +41,7 @@ updated: 2024-10-03T15:01
 	- Routes, Controllers, Requests
 	- PEST testing (Test Driven Development)
 	- Documenting Endpoints
-- [S01-Exercises-and-Journal-Entry](S01-Exercises-and-Journal-Entry.md)
+- [S01-Reflection-Exercises](../Session-01/S01-Reflection-Exercises.md)
 	- Exercises for revision
 	- Create summary of learning
 	- Laravel PEST from Scratch video series

@@ -15,7 +15,7 @@ tags:
 date created: 07 July 2024
 date modified: 08 Aug 2024
 created: 2024-07-25T15:27
-updated: 2025-02-10T15:00
+updated: 2025-04-28T16:00
 ---
 
 # Session 02 Overview
@@ -41,7 +41,7 @@ updated: 2025-02-10T15:00
     - Feature stories
     - Step by Step implementation (Write test, Fail test, Write code, Pass test, Refactor)
     - Reflection Questions
-- [S02 Exercises and Journal Entry](Session-02/S02-Reflection-Exercises.md)
+- [S02 Exercises and Journal Entry](../Session-02/S02-Reflection-Exercises.md)
     - Summary of learning
     - Research
     - Out of Class learning (Pest From Scratch video tutorial)

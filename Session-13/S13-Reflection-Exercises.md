@@ -1,8 +1,10 @@
 ---
+created: 2024-07-31T07:52
+updated: 2025-04-28T16:00
+header: ICT50220 - Adv Prog - SaaS 2 - BED
+footer: © Copyright 2024, Adrian Gould & NM TAFE
 theme: default
 paginate: true
-footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: ICT50220 - Adv Prog - SaaS 2 - BED
 banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
@@ -17,11 +19,9 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-created: 2024-07-31T07:52
-updated: 2025-03-18T10:30
 ---
 
-# Session 13 Exercises & Journal Entry
+# Session 13 Reflection Exercises
 
 ## Software as a Service - Back-End Development
 
@@ -41,28 +41,13 @@ includeLinks: true
 
 ---
 
-# Session 13 Exercises & Journals 
-
----
-## Journal Entry: Summarise the Session's Content
-
-**For general details on Journal Content see Session 01.**
-
-For this week's journal we would like you to do the following...
-
-1. Summarise the learning and exercises from this session
-2. Complete the exercises below and add to your Journal
-
-Remember you MUST include references using MyBib APA6/APA7 format to any references used.
-
----
-## Reflection Questions & Exercises
+# Session 13 Reflection Questions & Exercises
 
 The following questions and exercises are to be used as revision... some may not be answered this session, but by the end of the following session the knowledge should be there to complete these.
 
 Questions require code that would be run in the MongoDB CLI.
 
-You will find a series of exercises in [S13 MongoDB 5 - Exercises](Session-13/S13-MongoDB-5.md) for you to work through.
+You will find a series of exercises in [S12 MongoDB 5 - Exercises](../Session-12/S12-MongoDB-Exercises.md) and [S12 MongoDB 6 - Exercises](../Session-12/S12-MongoDB-6.md) for you to work through.
 
 These are essential practice for MongoDB.
 
@@ -72,8 +57,8 @@ N/A
 
 ## Tutorial
 
-Complete the MongoDB University course content if yiou have not done so.
-See [MongoDB-Learning-Path](Session-10/S09-MongoDB-Learning-Path.md).
+Complete the MongoDB University course content if you have not done so.
+See [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md).
 
 ## MongoDB and Event triggers
 

@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-07-18T09:24
-updated: 2024-09-12T15:55
+updated: 2025-04-28T11:30
 ---
 
 # MongoDB: Installing within Laragon
@@ -51,6 +51,27 @@ includeLinks: true
 - Activate MongoDB
 - Update the Laragon paths
 - Start MongoDB
+
+## MongoDB on local Computer
+
+It should be noted that MongoDB when run on the local machine will not have data replication or other features that are provided by MongoDB Atlas.
+
+To provide these features we would have to configure multiple copies of the MongoDB system.
+
+These notes take you through a **single** MongoDB instance.
+
+## Laragon & MongoDB
+
+Laragon comes with MongoDB installable via the Menu->Tools->Quick Add menu sequence.
+
+In Laragon version 6, MongoDB 4 or 5 may be available
+In Laragon version 7+, at least MongoDB 6, and usually MongoDB 7 or later is available.
+
+The easiest way to begin is to install MongoDB using this method.
+
+Then we can update it to a later version after the installation is complete.
+
+Alternatively you install without this step and follow the "install/upgrade" details that follow.
 
 # Downloads
 
@@ -110,6 +131,34 @@ Once the downloads are complete you will want to uncompress the ZIPs into folder
 ![](../assets/explorer_9maIfR0ARx.gif)
 
 # Move to Correct Location
+
+First we need a new MongoDB folder inside the Laragon binaries folder, and then move the files to the correct location.
+
+### Via CLI
+
+Presuming you are in your `/c/Users/USERNAME/ folder` ... if not use `cd /c/Users/USERNAME` to get to the correct folder...
+
+Then at home (using BASH) use:
+
+```shell
+cd Downloads
+mkdir /c/Laragon/bin/MongoDB
+mv mongodb-windows-x86_64-7.0.14 /c/Laragon/bin/MongoDB/
+```
+
+At TAFE (using Bash) use:
+
+```shell
+cd Downloads
+mkdir /c/ProgramData/Laragon/bin/MongoDB
+mv mongodb-windows-x86_64-7.0.14 /c/ProgramData/Laragon/bin/MongoDB
+```
+
+> **Note:** At TAFE in room 306 use the same as for home.
+
+
+
+### Via Windows File Explorer
 
 We need to move the files to a new folder `MongoDB` inside the `Laragon\bin` folder.
 
@@ -212,7 +261,7 @@ Once uncompressed move the new MongoDB-Compass folder into the `Laragon\bin\Mong
 
 ## Running Compass from Extracted Zip
 
-At college we need to add the Compass executable to the start menu. This is done by:
+At college, we need to add the Compass executable to the start menu. This is done by:
 
 - Opening the `Laragon\bin\MongoDB\MongoDB-Compass\` folder
 - Locate the `MongoDBCompass.exe` file
@@ -267,8 +316,8 @@ Navigate through the steps:
 - Add Laragon to Path
 
 ![](../assets/Obsidian_07VVnnyMq6.gif)
-You may now open the Windows Terminal and use the CLI tools...
 
+You may now open the Windows Terminal and use the CLI tools...
 
 ![](../assets/vivaldi_wnXznqslo1.gif)
 

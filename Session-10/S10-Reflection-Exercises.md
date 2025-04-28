@@ -14,15 +14,15 @@ tags:
   - Journal
 date created: 03 July 2024
 date modified: 08 July 2024
-created: 2024-07-31T08:45
-updated: 2025-02-10T15:04
+created: 2024-07-31T07:52
+updated: 2025-04-28T16:00
 ---
 
-# Session 01 Exercises & Journal Entry
+# Session 10 Reflection Exercises
 
 ## Software as a Service - Back-End Development
 
-Session 01 Assessment Activity 
+Session 09 In-class, Out-of-Class, and Assessment Activities 
 
 Developed by Adrian Gould
 
@@ -38,11 +38,30 @@ includeLinks: true
 
 ---
 
-# Session 01 Reflection Exercises
+# Session 10 Reflection Exercises 
 
-There are NO Reflection Questions for this session.
+## Reflection Questions
 
-### Found a Problem?
+No reflection questions.
+
+## Exercises
+
+No Exercises this session.
+
+
+## Work on the Portfolio
+
+Complete the Portfolio Part 1 work.
+
+## Tutorial
+
+Complete the MongoDB University course content as outlined in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md).
+
+
+
+
+---
+# Found a Problem?
  
 If you spotted any problems (including missing details) in notes or other materials, then make sure you note that, and as a big help to your lecturer, you could fork the notes repository, create an issue, create a fix to the issue, and submit a pull request.
 
