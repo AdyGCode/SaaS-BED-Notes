@@ -1,4 +1,9 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2025-03-24T09:09
+updated: 2025-04-28T16:06
+---
+---
 created: 2024-07-31T07:52
 updated: 2025-04-28T16:00
 banner: "![[Black-Red-Banner.svg]]"
@@ -60,3 +65,22 @@ Remember that AI Generated Code is not 100% reliable, and as such you should che
 We **extremely strongly** advise that you write your test cases and your code by hand until such time as you are familiar with and able to explain your code without assistance from any AI or system such as Grammarly.
 
 This session's notes were developed with the assistance of Mistral AI, and other resources. 
+
+
+## References
+
+Team, M. D. (2025). _Deploy a Self-Managed Replica Set_. Mongodb.com. https://www.mongodb.com/docs/manual/tutorial/deploy-replica-set/
+
+‌_Dragonfly - The Fastest In-Memory Data Store_. (2025). Dragonfly. https://www.dragonflydb.io/faq/mongodb-local-replica-set-setup
+
+‌Team, M. D. (2025). _Convert a Standalone Self-Managed mongod to a Replica Set_. Mongodb.com. https://www.mongodb.com/docs/manual/tutorial/convert-standalone-to-replica-set/?msockid=243903606b226cff329116d96ab16d26
+
+‌Team, M. D. (2025). _Remove Members from a Self-Managed Replica Set_. Mongodb.com. https://www.mongodb.com/docs/manual/tutorial/remove-replica-set-member/
+
+‌Nikolay Mihaylov. (2023, June 16). _Setting up a local MongoDB replica set with a single node_. Medium. https://nmihaylov.medium.com/setting-up-a-local-mongodb-replica-set-with-a-single-node-e04fb3213123
+
+‌in. (2013, March 4). _How to shut down replica set in mongodb?_ Stack Overflow. https://stackoverflow.com/questions/15194342/how-to-shut-down-replica-set-in-mongodb
+
+‌
+
+

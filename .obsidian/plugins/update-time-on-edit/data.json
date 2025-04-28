@@ -19,8 +19,8 @@
     "Session-04/S04-Portfolio-Work.md": "aa2542ccc1f434410c0d966b0002e3ab82ca2c7561a062996ca75b34340a241f",
     "Session-04/S04-GitHub-Project-Management.md": "99df4ed33e9f325cc77ec4c7387d9fb98134880f3331c3a8f30b948888e4f9a0",
     "Session-02/ReadMe.md": "5f43c0b386cd218879d9c481fe11592a6e95779690063710299c00b1ccf3bea7",
-    "Session-09/ReadMe.md": "4573fad23c08ed1934fd1ac1f169e4098057b788817436da15305e1ce3d7429c",
-    "Session-10/ReadMe.md": "3186035f77a6d3b5d0574c78109c8ecc528d2c33aa86a22f0cf7ac346aeac25a",
+    "Session-09/ReadMe.md": "92c70631034b4c6a4c92ff8d0ed8bddff6a5cdd3426dfa5b834881430362957a",
+    "Session-10/ReadMe.md": "663ad8635b450e18bda0dab210b5d14996c7b1e415f86dc1f0100202bb35abf7",
     "Delivery-Specific.md": "9759f8affaca884edb48ad18fffabd112981f0700ab574a849773c9f774fc2a1",
     "templates/sessions.md": "36d8335e7d8a88e5d9abf573656588359c7bc7f8d4e4c06245e1bbec51c64bc0",
     "Session-08/ReadMe.md": "dd17664e27d33d594179164f7849a95030724bf11ba0795de01aef69c21f8b6e",
@@ -47,13 +47,13 @@
     "Session-12/ReadMe.md": "96cd41524d71ef2dae7d93f64b95d9ca3bf51b4c912d40d12a1928386c594e06",
     "Session-01/S01-Journals.md": "effcbb00a628b1c121199e44c284c205b2f619265c104a7b9de19a7f12c46b6b",
     "Session-01/S01-CLI-Commands.md": "4b033a05d91d7090941eb926210afd3dd0800088c2d13beeeb45aeae3c4555a4",
-    "Session-02/S02-Reflection-Exercises.md": "a57128ace7aaa9f7975729773ac121d6c15a08812d1b1837933da602a50f73c8",
+    "Session-02/S02-Reflection-Exercises.md": "ed2afca5f05a1256899f4ccae615601ae97a98b52fdd5adc0ac1cb3ae994d621",
     "Session-02/S02-What-is-an-API.md": "5a6f73cefa563b156eba8d48984a2ec8b7f5a7e2f0ccb6572b3fbba7ab1d637e",
     "Session-01/S01-Development-Environments.md": "dfd5117e1d8aaf1ac4f20127abdc6e8f7b818ea9848e8c72a393713bb0d86ef4",
     "Session-01/S01-Laravel-and-APIs.md": "9838fbaa64bd77bcdd45a071afce25001797242aa3d8ad2a0874b5bfc9a34a47",
     "Session-02/S02-Adding-XDebug.md": "e17f7abeb0a7f40620074447708d46775ef7e6c810b1fdc72518014e82ea6299",
     "Session-03/S03-Test-Driven-Development-Example.md": "9eb614512fed994f03be11551bc4bf59779b8e264e8f21180f48f5faae5f6bf3",
-    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md": "5c91a2fe5d25c211f591cb80817270817128b4667274f3a09f83f082535213b6",
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md": "e3400745cc3ca6c2fe20190ec654712eb7ca45d29111ec61661f99c293df14a2",
     "Session-03/S03-Reflection-Exercises.md": "f15e4e1d6a0db07c102145f66663d5d61cc8a51fd18ed4f7691e79ac9b8c0907",
     "Session-06/S06-Using-Scramble-to-Document-an-API.md": "0d9e9f321fe0f1e5df8d823ca5b7061e5893ed3ae4230a2cc49ee25e187591b9",
     "Session-03/S03-Test-Driven-Development-Overview.md": "f4be00f596c024ae91ea3bcd085cb98113a3138cf297469cf613261ec85d7d5b",
@@ -84,6 +84,7 @@
     "Session-13/S13-Reflection-Exercises.md": "c0016c3da6c3fe938dcb67b25ea1a2615c99981a2406279620df9475617d3d81",
     "Session-09/S09-MongoDB-1-Introduction.md": "161ef15450429c2b814db6bac30bef6479fa9102d3f09ea84d1996e7b7447119",
     "Session-09/S09-MongoDB-2-Installing-Windows.md": "cc5c62c17c8d1a626b19c2bfed11af2b54fb6a44d440660238eb6676629a7f15",
-    "Session-09/S09-MongoDB-Learning-Path.md": "28f96c658dce294f1538cc221d9124356bad6bdbe01e5566a4933c4419be2785"
+    "Session-09/S09-MongoDB-Learning-Path.md": "28f96c658dce294f1538cc221d9124356bad6bdbe01e5566a4933c4419be2785",
+    "Session-09/S09-NoSQL-Introduction.md": "7256cc50826e8ae9c1e233f0c0d780a91b3e69f0ffcbcdc7eb62582291c48b63"
   }
 }

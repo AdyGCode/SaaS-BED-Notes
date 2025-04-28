@@ -6,7 +6,7 @@ header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 created: 2024-08-01T14:33
-updated: 2025-03-11T13:21
+updated: 2025-04-28T16:03
 ---
 
 # Laravel REST API With Model Relationships

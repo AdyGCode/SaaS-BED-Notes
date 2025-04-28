@@ -15,7 +15,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T07:52
-updated: 2025-02-10T15:10
+updated: 2025-04-28T16:03
 ---
 
 # Session 02 Reflection Exercises
@@ -54,17 +54,7 @@ Total video time is approximately 1hr 45min.
 
 ### Reflection Questions
 
-#### Create a new journal entry.
-Give it the title: 01 MVC, PHP and more
-
-#### Reflection Questions
-
 Reflect on what you have learned previously and what you understand now, answering each question in turn.
-
-Provide at least one reference using APAP v6 or later format for each question.
-The Use of AI is permitted, but you must include the name of the AI system AND the FULL transcript of the conversation you have with it.
-
-Copy the following questions into the journal, and answer each one in turn:
 
 - What does Validation mean to a SaaS developer?
 - What are the two primary types of validation?
