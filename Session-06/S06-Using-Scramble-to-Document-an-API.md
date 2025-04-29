@@ -670,7 +670,7 @@ The update will look very similar to the store.
 
 ### Delete Request
 
-The delete will look very similar to the previous requests, but simpler.
+Delete will look very similar to the previous requests, but simpler.
 
 Create the new request using:
 
@@ -848,7 +848,7 @@ Route::group(['prefix' => 'v1'], function () {
 
 ### Check the Routes Out
 
-Remember that you may list the routes the applicaiton has using the `php artisan route:list` on the CLI.
+Remember that you may list the routes the application has using the `php artisan route:list` on the CLI.
 
 ![assets/artisan-route-list-1.png](../assets/artisan-route-list-1.png)
 
