@@ -1,4 +1,9 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2025-03-18T10:35
+updated: 2025-04-29T10:28
+---
+---
 created: 2025-03-24T09:08
 updated: 2025-04-28T16:00
 theme: default

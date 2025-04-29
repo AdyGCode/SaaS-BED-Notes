@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 10 July 2024
 created: 2024-07-18T09:24
-updated: 2025-04-28T11:30
+updated: 2025-04-29T10:51
 ---
 
 # MongoDB: Installing within Laragon
