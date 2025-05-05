@@ -124,13 +124,13 @@ You will also be expected to complete some learning during our non-contact week.
 - [S09-MongoDB-1-Introduction](../Session-09/S09-MongoDB-1-Introduction.md)
 - [S09-MongoDB-2-Installing-Windows](../Session-09/S09-MongoDB-2-Installing-Windows.md)
 - [S10-MongoDB-3](../Session-10/S10-MongoDB-3.md)
-- [S10-MongoDB-3A](../Session-10/S10-MongoDB-3A.md)
+- [S10-MongoDB-3A](../Session-13/S10-MongoDB-3A.md)
 - [S10 Exercises and Journal Entry](../Session-10/S10-Reflection-Exercises.md)
 
 ### Session 11
 - [Sessi0n 11 ReadMe](../Session-11/ReadMe.md)
 - [S11-MongoDB-4](../Session-11/S11-MongoDB-4.md)
-- [S11 Exercises and Journal Entry](../Session-11/S11-Reflection-Exercises.md)
+- [S11 Exercises and Journal Entry](../Session-11/S11-Reflection-Exercises-20250101.md)
 
 ### Session 12
 - [Session 12 ReadMe](../Session-12/ReadMe.md)

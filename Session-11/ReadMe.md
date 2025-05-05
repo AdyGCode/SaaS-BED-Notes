@@ -30,7 +30,7 @@ updated: 2025-04-28T11:40
 
 - [S11 MongoDB 4 - ...](../Session-10/S10-MongoDB-3)
 	- [MongoDB Learning Path](../Session-09/S09-MongoDB-Learning-Path.md)
-- [S11 Exercises and Journal Entry](../Session-11/S11-Reflection-Exercises.md)
+- [S11 Exercises and Journal Entry](S11-Reflection-Exercises-20250101.md)
 
 
 ## Note

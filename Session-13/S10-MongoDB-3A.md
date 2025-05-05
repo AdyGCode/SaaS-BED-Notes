@@ -45,7 +45,7 @@ This set of notes covers the creation of a local MongoDB Replication cluster wit
 
 # MongoDB Replica Sets
 
-In the [previous notes](./S10-MongoDB-3.md) we discovered how to install MongoDB.
+In the [previous notes](../Session-10/S10-MongoDB-3.md) we discovered how to install MongoDB.
 
 In this set of notes we look at creating a replica set with failover capabilities.
 
