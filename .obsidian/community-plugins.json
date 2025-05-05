@@ -26,5 +26,7 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "update-time-on-edit",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-sort-and-permute-lines",
+  "obsidian-auto-split"
 ]

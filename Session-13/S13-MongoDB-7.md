@@ -18,7 +18,7 @@ tags:
   - MongoDB
   - NoSQL
 created: 2024-10-18T14:59
-updated: 2024-11-25T09:18
+updated: 2025-02-10T15:16
 ---
 
 # NoSQL 7

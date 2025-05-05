@@ -1,6 +1,6 @@
 ---
 created: 2024-09-05T10:54
-updated: 2024-09-05T18:08
+updated: 2025-04-28T16:26
 ---
 # Introduction to NoSQL
 
@@ -151,23 +151,22 @@ There are systems that offer Multiple models of data storage, and they include (
 # Resources
 
 Further Reading:
-- [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
-- [NoSQL Databases - Types of NoSQL Databases and How to Use Them | DataCamp](https://www.datacamp.com/blog/nosql-databases-what-every-data-scientist-needs-to-know)
+- Wikipedia. (2009, August 13). class of databases for storage and retrieval of modeled data other than relational databases. Wikipedia.org; Wikimedia Foundation, Inc. https://en.wikipedia.org/wiki/NoSQL
+- Keita, Z. (2022, June 24). _NoSQL Databases: What Every Data Scientist Needs to Know_. Datacamp.com; DataCamp. https://www.datacamp.com/blog/nosql-databases-what-every-data-scientist-needs-to-know
 
 Selected System Homepages:
-- [Neo4j Graph Database & Analytics | Graph Database Management System](https://neo4j.com/)
-- [Home | OrientDB Community Edition](https://orientdb.org/)
-- [Apache HBase – Apache HBase® Home](https://hbase.apache.org/)
-- [Apache Cassandra | Apache Cassandra Documentation](https://cassandra.apache.org/_/index.html)
-- [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch)
-- [Life is an Adventure — Your Database Shouldn't Be - RavenDB NoSQL Database](https://ravendb.net/)
-- [MongoDB: The Developer Data Platform | MongoDB](https://www.mongodb.com/)
-- [Perst Open Source Object Oriented Database System - McObject LLC](https://www.mcobject.com/perst/)
-- [memcached - a distributed memory object caching system](https://memcached.org/)
-- [Redis - The Real-time Data Platform](https://redis.io/)
-- [Free Couchbase: Best NoSQL Cloud Database Service](https://www.couchbase.com/)
-- [ArangoDB: Multi-Model Database for Your Modern Apps](https://arangodb.com/)
-- 
+- ArangoDB. (2025, April 10). _Home_. ArangoDB. https://arangodb.com/
+- _Apache Cassandra | Apache Cassandra Documentation_. (2016). Apache Cassandra. https://cassandra.apache.org/_/index.html
+- _Apache HBase – Apache HBase® Home_. (2019). Apache.org. https://hbase.apache.org/
+- _Couchbase: Best Free NoSQL Cloud Database Platform_. (2025, April 10). Couchbase. https://www.couchbase.com/
+- _Dragonfly - The Fastest In-Memory Data Store_. (2024). Dragonfly. https://www.dragonflydb.io/
+- _Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic_. (2025). Elastic. https://www.elastic.co/elasticsearch
+- _Life is an Adventure — Your Database Shouldn’t Be_. (2025, April 21). RavenDB NoSQL Database. https://ravendb.net/
+- _MongoDB: The World’s Leading Modern Database_. (2024). MongoDB. https://www.mongodb.com/
+- _Neo4j Graph Database & Analytics – The Leader in Graph Databases_. (2024, July 31). Graph Database & Analytics. https://neo4j.com/
+- _Redis - The Real-time Data Platform_. (2025, April 25). Redis. https://redis.io/
+- _memcached - a distributed memory object caching system_. (2025). Memcached.org. https://memcached.org/
+
 
 
 

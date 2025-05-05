@@ -11,7 +11,7 @@ tags: SaaS, APIs, Back-End
 date created: 03 July 2024
 date modified: 07 July 2024
 created: 2024-07-31T08:45
-updated: 2024-08-08T15:02
+updated: 2025-04-28T16:00
 ---
 
 # Course Journals
@@ -65,22 +65,19 @@ We are using the journals as a way to:
 
 You are required to:
 
-- Check the Check the Session Exercises & Journal requirements and follow these instructions.
-- As required, create at least one new journal entry for each session, unless otherwise indicated.
-- Ensure that all content is meaningful and of benefit to you when you need to recap.
-
-There are no length requirements, but a blank or very short journal may be looked at negatively.
+- Check each session's Reflection Exercises and complete the content.
+- There are no length requirements, but a blank or very short journal may be looked at negatively.
 
 ---
 
 # How to Create a Journal Entry
 
-Open Blackboard
-Go to the cluster shell
-Click on the "journal" link on the side, or on the welcome page
-Click create new entry
-Type your journal entry into the page
-Save the journal
+- Open Blackboard
+- Go to the cluster shell
+- Click on the "journal" link on the side, or on the welcome page
+- Click create new entry
+- Type your journal entry into the page
+- Save the journal
 
 ---
 
@@ -92,8 +89,8 @@ Most sessions will indicate what is needed.
 
 All entries should:
 
-- Summarise your learning
-- Be meaningful in their content
+- Answer the reflection questions when posed
+- Contain meaningful in their content
 - Use MyBib ([https://mybib.com]) to create Bibliographic entries for Books, Web Sites, Videos, and other references
 
 
@@ -101,4 +98,4 @@ All entries should:
 
 # END
 
-Next up - [Session 01 Journal Activity](S01-Exercises-and-Journal-Entry.md)
+Next up - [Session 01 Journal Activity](../Session-01/S01-Reflection-Exercises.md)

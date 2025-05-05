@@ -1,8 +1,10 @@
 ---
-theme: default
-paginate: true
+created: 2024-07-31T07:52
+updated: 2025-04-28T16:00
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: ICT50220 - Adv Prog - SaaS 2 - BED
+theme: default
+paginate: true
 banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
@@ -17,8 +19,6 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-created: 2024-07-31T07:52
-updated: 2024-11-25T09:27
 ---
 
 # NoSQL 5
@@ -51,7 +51,7 @@ During this session you will continue with the MongoDB Learning Path.
 
 Also we will be conducting demonstrations of the first portfolio item.
 
-Refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
+Refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
 
 # MongoDB University Target Lessons
 
@@ -434,43 +434,43 @@ Where `[post_obj_id]` is the `ObjectId`  of the `posts` document: "Reports a bug
 
 Create a MongoDB query that:
 
--. find all users
+- Finds all **users**
 
 ### Exercise 25 - Query Related Collections II
 
 Create a MongoDB query that:
 
-- Finds all posts
+- Finds all **posts**
 
 ### Exercise 26 - Query Related Collections III
 
 Create a MongoDB query that:
 
-- Finds all posts that was authored by "Jeddi"
+- Finds all **posts** that was authored by "**Jeddi**"
 
 ### Exercise 27 - Query Related Collections IV
 
 Create a MongoDB query that:
 
-- Finds all posts that was authored by "JoKerr"
+- Finds all **posts** that was authored by "**JoKerr**"
 
 ### Exercise 28 - Query Related Collections V
 
 Create a MongoDB query that:
 
-- Finds all comments
+- Finds all **comments**
 
 ### Exercise 29 - Query Related Collections VI
 
 Create a MongoDB query that:
 
-- Finds all comments that was authored by "Jeddi"
+- Finds all **comments** that was authored by "**Jeddi**"
 
 ### Exercise 30 - Query Related Collections VII
 
 Create a MongoDB query that:
 
-- Finds all comments that was authored by "JoKerr"
+- Finds all **comments** that was authored by "**JoKerr**"
 
 ### Exercise 31 - Query Related Collections VIII
 
@@ -502,4 +502,4 @@ Create a MongoDB query that:
 
 # END
 
-Next up - [S12 MongoDB 6 Practice Exercises](Session-12/S12-MongoDB-6.md)
+Next up - [S12 MongoDB 6 Practice Exercises](../Session-12/S12-MongoDB-6.md)

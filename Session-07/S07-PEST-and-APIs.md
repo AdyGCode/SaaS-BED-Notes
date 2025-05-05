@@ -20,7 +20,7 @@ date modified: 08 July 2024
 created: 2024-09-05T13:45:23 (UTC +08:00)
 source: https://abu-sayed.medium.com/laravel-testing-with-pest-the-complete-guide-for-beginners-a0b6680cfd71
 author: Abu Sayed
-updated: 2024-10-03T09:16
+updated: 2025-04-28T16:00
 ---
 
 # Laravel Testing with Pest: The Complete Guide for Beginners
@@ -268,7 +268,7 @@ You can write custom assertions by extending Pest’s `Assert` class:
 use Pest\Assert;
 
 Assert::extend('hasSession', function ($name) {
-  return $this->assertTrue(session()->has($name)); 
+  return $this->assertTrue(../Session()->has($name)); 
 });
 
 public function test_session()

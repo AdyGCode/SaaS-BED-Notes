@@ -1,14 +1,11 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
-created: 2024-09-05T09:41
-updated: 2024-10-22T08:16
----
----
+created: 2024-07-31T07:52
+updated: 2025-03-18T10:29
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: ICT50220 - Adv Prog - SaaS 2 - BED
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -20,10 +17,6 @@ tags:
   - APIs
   - Back-End
   - Overview
-date created: 03 July 2024
-date modified: 08 July 2024
-created: 2024-07-31T07:52
-updated: 2024-10-03T09:15
 ---
 
 # Adding Roles and Permissions to an API

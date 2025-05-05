@@ -1,14 +1,21 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
-created: 2024-09-05T10:55
-updated: 2024-10-22T08:16
+created: 2025-03-04T08:33
+updated: 2025-04-29T10:28
 ---
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2025-03-24T09:08
+updated: 2025-04-28T16:07
+---
+---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2024-07-31T07:52
+updated: 2025-03-18T10:32
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: ICT50220 - Adv Prog - SaaS 2 - BED
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -22,19 +29,11 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-date created: 03 July 2024
-date modified: 08 July 2024
-created: 2024-07-31T07:52
-updated: 2024-10-03T09:16
 ---
 
 # Session 09 Overview
 
-- [NoSQL Introduction](../Session-09/S09-NoSQL-Introduction)
-- [S09 MongoDB 1 Introduction](../Session-09/S09-MongoDB-1-Introduction.md)
-- [S09-MongoDB-2-Installing-Windows](Session-09/S09-MongoDB-2-Installing-Windows.md)
-- [MongoDB Learning Path](./S09-MongoDB-Learning-Path)
-- [S09 Exercises and Journal Entry](Session-09/S09-Exercises-and-Journal-Entry.md)
+
 
 
 ## Note
@@ -43,6 +42,4 @@ Remember that AI Generated Code is not 100% reliable, and as such you should che
 
 We **extremely strongly** advise that you write your test cases and your code by hand until such time as you are familiar with and able to explain your code without assistance from any AI or system such as Grammarly.
 
-This session's notes were developed with the assistance of Mistral AI, and other resources. These include:
-
-Mistral Conversation: 
+This session's notes were developed with the assistance of Mistral AI, and other resources. 
