@@ -1,9 +1,11 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2024-07-31T07:52
+updated: 2025-05-06T12:21
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: ICT50220 - Adv Prog - SaaS 2 - BED
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -17,8 +19,6 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-created: 2024-07-31T07:52
-updated: 2024-11-25T09:24
 ---
 
 # NoSQL 10: MongoDB Replica Sets

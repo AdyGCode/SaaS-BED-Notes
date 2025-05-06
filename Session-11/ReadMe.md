@@ -1,14 +1,11 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
-created: 2025-03-24T09:08
-updated: 2025-04-28T16:00
----
----
+created: 2024-07-31T07:52
+updated: 2025-05-06T12:20
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: ICT50220 - Adv Prog - SaaS 2 - BED
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -22,8 +19,6 @@ tags:
   - Overview
 date created: 03 July 2024
 date modified: 08 July 2024
-created: 2024-07-31T07:52
-updated: 2025-04-28T11:40
 ---
 
 # Session 11 Overview

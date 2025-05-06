@@ -2,14 +2,14 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
+header: "![NMTAFE](../assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 tags: SaaS, APIs, Back-End
 date created: 03 July 2024
 date modified: 09 July 2024
 created: 2024-07-31T08:45
-updated: 2025-02-10T15:08
+updated: 2025-05-06T12:23
 ---
 
 # Laravel and APIs
@@ -908,7 +908,7 @@ You should now be able to view the documentation at: <http://workopia-api-xxx.te
 
 ###### Example of Grouped API Endpoints
 
-![The documentation for the Scribe documentation's Region group](/assets//scribe-docs-Region.png)
+![The documentation for the Scribe documentation's Region group](../assets//scribe-docs-Region.png)
 
 ---
 

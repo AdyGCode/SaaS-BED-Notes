@@ -12,7 +12,7 @@ tags:
   - APIs
   - Back-End
 created: 2024-09-12T09:59
-updated: 2025-04-29T10:22
+updated: 2025-05-06T12:23
 ---
 
 # NoSQL 3
@@ -68,7 +68,7 @@ https://www.mongodb.com/try/download/community
 
 Version 8.0.3 direct link: https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.0.3.zip
 
-![](assets/S10-MongoDB-3-20241025112230667.png)
+![](../assets/S10-MongoDB-3-20241025112230667.png)
 
 
 ### Extract all files

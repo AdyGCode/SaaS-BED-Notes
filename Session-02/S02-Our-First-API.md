@@ -2,14 +2,14 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
+header: "![NMTAFE](../assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 tags: SaaS, APIs, Back-End
 date created: 03 July 2024
 date modified: 07 July 2024
 created: 2024-07-31T07:52
-updated: 2025-03-11T13:21
+updated: 2025-05-06T12:23
 ---
 
 ![](./assets//Black-Red-Banner.svg)
@@ -36,7 +36,7 @@ includeLinks: true
 
 # Test Driven Development
 
-![Test Driven Development Circle](/assets/TDD-Circle@1x.svg)
+![Test Driven Development Circle](../assets/TDD-Circle@1x.svg)
 
 Test Driven Development is a methodology that works on the principle that you write tests, run the tests to fail, write code to fix the fail, rerun the tests to pass, refactor your code (testing continuously), and repeat.
 

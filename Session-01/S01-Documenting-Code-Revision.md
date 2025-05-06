@@ -2,11 +2,11 @@
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
-header: "![NMTAFE](/assets//Black-Red-Banner.svg)"
+header: "![NMTAFE](../assets//Black-Red-Banner.svg)"
 auto-scaling: true
 size: 4k
 created: 2025-04-03T10:10
-updated: 2025-04-03T13:25
+updated: 2025-05-06T12:23
 ---
 
 # Documenting Code

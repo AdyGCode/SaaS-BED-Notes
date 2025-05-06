@@ -1,11 +1,11 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
 created: 2024-07-31T07:52
-updated: 2025-04-28T16:00
+updated: 2025-05-06T12:23
 header: ICT50220 - Adv Prog - SaaS 2 - BED
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 theme: default
 paginate: true
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -47,7 +47,7 @@ The following questions and exercises are to be used as revision... some may not
 
 Questions require code that would be run in the MongoDB CLI.
 
-You will find a series of exercises in [S12 MongoDB 5 - Exercises](../Session-12/S12-MongoDB-Exercises.md) and [S12 MongoDB 6 - Exercises](../Session-12/S12-MongoDB-6.md) for you to work through.
+You will find a series of exercises in [S12 MongoDB 5 - Exercises](../Session-12/S12-MongoDB-5.md) and [S12 MongoDB 6 - Exercises](../Session-12/S12-MongoDB-6.md) for you to work through.
 
 These are essential practice for MongoDB.
 

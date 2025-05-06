@@ -1,9 +1,11 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
+created: 2024-10-18T14:59
+updated: 2025-05-06T12:20
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 header: ICT50220 - Adv Prog - SaaS 2 - BED
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -17,8 +19,6 @@ tags:
   - Overview
   - MongoDB
   - NoSQL
-created: 2024-10-18T14:59
-updated: 2025-02-10T15:16
 ---
 
 # NoSQL 7

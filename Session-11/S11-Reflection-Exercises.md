@@ -1,11 +1,11 @@
 ---
+banner: "![[Black-Red-Banner.svg]]"
 created: 2025-03-24T09:08
-updated: 2025-04-28T16:00
+updated: 2025-05-06T12:20
 header: ICT50220 - Adv Prog - SaaS 2 - BED
 footer: © Copyright 2024, Adrian Gould & NM TAFE
 theme: default
 paginate: true
-banner: "![[Black-Red-Banner.svg]]"
 banner_x: 1
 banner_y: "0"
 auto-scaling: true
@@ -43,57 +43,71 @@ includeLinks: true
 
 ## General Questions (Non-Code)
 
-MongoDB is a NoSQL database system. What is NoSQL?
+MongoDB is a NoSQL database system. 
 
-NoSQL stands for "Not Only SQL." It refers to a set of database systems that do not follow the traditional relational database model. NoSQL databases are designed for unstructured, semi-structured, or large-scale data storage and can scale horizontally across many servers.
+### What is NoSQL?
 
-What is the Cloud-based version of MongoDB called?
+NoSQL stands for "Not Only SQL." 
+
+It refers to a set of database systems that do not follow the traditional relational database model. NoSQL databases are designed for unstructured, semi-structured, or large-scale data storage and can scale horizontally across many servers.
+
+### What is the Cloud-based version of MongoDB called?
 
 The cloud-based version of MongoDB is called MongoDB Atlas. It provides a fully managed service that takes care of database administration tasks, such as backups, monitoring, and scaling.
 
-What is the name of the CLI tool to interact with a MongoDB system?
+### What is the name of the CLI tool to interact with a MongoDB system?
 
-The CLI tool for MongoDB is called mongo. This command-line interface allows you to interact with your MongoDB databases, collections, and documents.
+The CLI tool for MongoDB is called `mongo` or `mongosh`. This command-line interface allows you to interact with your MongoDB databases, collections, and documents.
 
-What is a connection string?
+#### Which of the commands is used on Linux, MacOS, Windows?
+
+> Answer: ?
+
+
+### What is a connection string?
 
 A connection string is a string that contains information used to connect to a database. It typically includes the database host, port, authentication credentials, and options to configure the connection.
 
-What are the parts of a MongoDB connection string?
+### What are the parts of a MongoDB connection string?
 
 The parts of a MongoDB connection string include:
+- `mongodb://` or` mongodb+srv://` (protocol)
+- Host(s) or Cluster Name (e.g., localhost:27017 or cluster0.mongodb.net)
+- Username and password (if required)
+- Database name (optional, can be included to specify the default database)
+- Options (e.g., retryWrites=true, ssl=true)
 
-mongodb:// or mongodb+srv:// (protocol)
+### What are the two ways to start a MongoDB connection string?
 
-Host(s) or Cluster Name (e.g., localhost:27017 or cluster0.mongodb.net)
+- `mongodb://` is used for connecting to a standalone or replica set deployment of MongoDB.
+- `mongodb+srv://` is used for connecting to a MongoDB Atlas cluster which manages DNS-based service discovery and has a simplified connection process.
 
-Username and password (if required)
+### Give an example of a complete MongoDB connection string including authentication.
 
-Database name (optional, can be included to specify the default database)
-
-Options (e.g., retryWrites=true, ssl=true)
-
-There are two ways to start a MongoDB connection string, what are they and what is the difference?
-
-mongodb:// is used for connecting to a standalone or replica set deployment of MongoDB.
-
-mongodb+srv:// is used for connecting to a MongoDB Atlas cluster which manages DNS-based service discovery and has a simplified connection process.
-
-Give an example of a complete MongoDB connection string including authentication.
-
-Example connection string:
-
-mongodb+srv://username:password@cluster0.mongodb.net/myDatabase?retryWrites=true&w=majority
+Example connection string: `mongodb+srv://username:password@cluster0.mongodb.net/myDatabase?retryWrites=true&w=majority`
 
 
+## Exercises with Code Examples
+
+Use these exercises as a way to revise your understanding of MongoDB.
+
+These exercises are worked examples, so the solutions are shown.
+
+In Session 12, there are practice exercises without the solutions!
+- [S12-MongoDB-5](Session-12/S12-MongoDB-5.md)
+- [S12-MongoDB-6](Session-12/S12-MongoDB-6.md)
 
 
 ### 1. Connect to MongoDB
+
+Local connection (e.g. running MongoDB from Laragon):
 
 ```bash
 # Local MongoDB
 mongosh
 ```
+
+Connection to remote MongoDB server (e.g. Atlas):
 
 ```shell
 # MongoDB Atlas
@@ -145,22 +159,23 @@ db.users.insertMany([
 ])
 ```
 
-Exercise: Add the following users:
+### Exercise: Add the following users:
 
-```text
-Eileen Dover
-Jacques d'Carre
-Duane Pipe
-Al Dente
-Tim Burr
-Liv Long
-Trish Panda
-Anita Bath
-Bill Board
-Sue Flay
-Barb Dwyer
-Skip Dover
-```
+| given name | family name | email               | password                   |
+| ---------- | ----------- | ------------------- | -------------------------- |
+| Hazel      | Nutt        | hazel@example.com   | Nothing                    |
+| Jacques    | d'Carre     | jacques@example.com | ChangeMe                   |
+| Duane      | Pipe        | duane@example.com   | DoubleClick                |
+| Al         | Dente       | al@example.com      | MyOnlyPassword             |
+| Tim        | Burr        | tim@example.com     | ForgetMe!                  |
+| Liv        | Long        | liv@example.com     | IllBeBack                  |
+| Trish      | Panda       | trish@example.com   | LifeIsLikeABoxOfChocolates |
+| Anita      | Bath        | anita@example.com   | BeamMeUpScotty             |
+| Bill       | Board       | bill@example.com    | NotAPassword               |
+| Sue        | Flay        | sue@example.com     | SkyNet                     |
+| Barb       | Dwyer       | barb@example.com    | DontEventryIt              |
+| Skip       | Dover       | skip@example.com    | PeekABoo                   |
+
 
 ### 7. Show All Users
 
@@ -203,7 +218,7 @@ db.users.find({
 db.users.updateOne(
     { email: "dummy1@example.com" },
     { $set: { 
-            family_name: "Yewser" 
+            family_name: "Yewzuh" 
         }
     }
 )
@@ -279,10 +294,10 @@ db.createCollection("jokes")
 ```js
 // Example: One user and their jokes
 const user = db.users.insertOne({
-    given_name: "Tim",
-    family_name: "Burr",
-    email: "tim@example.com",
-    password: "Simple1",
+    given_name: "Dee",
+    family_name: "End",
+    email: "dee@example.com",
+    password: "DeadEndTurnBack",
     created_at: ISODate("2025-01-03T00:00:00Z"),
     updated_at: ISODate("2025-01-03T00:00:00Z")
 }).insertedId
@@ -305,14 +320,14 @@ db.jokes.insertMany([
 ])
 ```
 
-#### Add  Chris P. Bacon and their jokes
+#### Add Barry Monday and their jokes
 
 ```js
 db.users.insertOne({
-  given_name: "Chris",
-  family_name: "Bacon",
-  email: "chris@example.com",
-  password: "APassword",
+  given_name: "Barry",
+  family_name: "Monday",
+  email: "barry@example.com",
+  password: "GoneFishing",
   created_at: new ISODate("2025-01-03T00:00:00Z"),
   updated_at: new ISODate("2025-01-03T00:00:00Z")
 });
@@ -372,7 +387,7 @@ db.users.insertOne({
   given_name: "Paige",
   family_name: "Turner",
   email: "paige@example.com",
-  password: "Password123",
+  password: "PleaseRTFM",
   created_at: new ISODate("2025-01-05T00:00:00Z"),
   updated_at: new ISODate("2025-01-05T00:00:00Z")
 });
@@ -384,10 +399,10 @@ And finally...
 
 ```js
 db.users.insertOne({
-  given_name: "Cliff",
-  family_name: "Hanger",
-  email: "cliff@example.com",
-  password: "ASecret123",
+  given_name: "Theresa",
+  family_name: "Green",
+  email: "theresa@example.com",
+  password: "AutumnLeaves",
   created_at: new ISODate("2025-01-06T00:00:00Z"),
   updated_at: new ISODate("2025-01-06T00:00:00Z")
 });
@@ -427,12 +442,12 @@ db.jokes.insertMany([
 
 ## ASIDE: Using Javascript to do a random joke insertion for the users
 
-Steps:
+### Steps:
 
 1. Identify the Remaining Jokes: First, we need to identify the jokes that have not yet been assigned to any users.
 2. Randomly Assign Jokes: For each remaining joke, we’ll randomly pick one of the existing users and insert the joke into the jokes collection, ensuring each user gets a random number of jokes (from 0 to 3).
 
-Remaining Jokes:
+### Remaining Jokes:
 
 Here are the remaining jokes that have not been assigned to a user. These will be randomly added to the users.
 
@@ -441,9 +456,9 @@ Here are the remaining jokes that have not been assigned to a user. These will b
 const remainingJokes = [
   { joke: "Why couldn’t the tree get on his computer? Because he could not log on.", categories: ["Dad", "Computer"] },
   { joke: "What’s a dog’s favorite superhero? Labra-Thor.", categories: ["Dad", "Dog"] },
-  { joke: "Why was the duck put into the basketball game? A: To make a fowl shot!", categories: ["Duck", "Sport"] },
+  { joke: "Why was the duck put into the basketball game? A: To make a fowl shot!", categories: ["Duck", "Sport", "Birds"] },
   { joke: "Why did the computer go to the doctor? Because he had a virus.", categories: ["Dad", "Computer"] },
-  { joke: "How do you catch a unique rabbit? A: Unique up on it.", categories: ["Rabbit", "Pun"] },
+  { joke: "How do you catch a unique rabbit? A: Unique up on it.", categories: ["Rabbit", "Pun", "Sneeky"] },
   { joke: "What do you call a rabbit who is angry over getting burnt? A: A hot cross bunny.", categories: ["Rabbit", "Animal"] },
   { joke: "Why are rabbits so lucky? A: They have four rabbit's feet?", categories: ["Rabbit", "Luck"] },
   { joke: "How much does a chimney cost? Nothing, it’s on the house.", categories: ["Dad", "House"] }
@@ -451,32 +466,48 @@ const remainingJokes = [
 
 ```
 
-Randomly Assign the Remaining Jokes
+### Randomly Assign the Remaining Jokes
 
-Now let’s write a script to randomly assign the remaining jokes to any of the existing users. Each user should end up with 3 or fewer jokes.
+Now let’s write a script to randomly assign the remaining jokes to any of the existing users. 
 
-Random Joke Assignment Script:
+Each user should end up with 3 or fewer jokes.
+
+#### Random Joke Assignment Script:
 
 ```js
-// Function to get a random user from the 'users' collection
+/**
+ * Function to get a random user from the 'users' collection
+ * Process:
+ * - Get all the users
+ * - Select a random user from the list of users
+ * - Return the user to the caller
+ */
 function getRandomUser() {
-  const users = db.users.find().toArray(); // Retrieve all users
-  const randomIndex = Math.floor(Math.random() * users.length); // Random index
-  return users[randomIndex]; // Return a random user
+  const users = db.users.find().toArray();
+  const randomIndex = Math.floor(Math.random() * users.length); 
+  return users[randomIndex];
 }
+```
 
-// Loop through the remaining jokes and insert them randomly
+Now to process the jokes and add them to random users.
+
+```js
+/**
+ * Process the jokes one by one adding to a random user
+ * Process:
+ * - For each joke in list
+ * -    Select random user
+ * -    Insert joke into collection
+ */
 remainingJokes.forEach(joke => {
-  // Get a random user from the existing users
   const randomUser = getRandomUser();
 
-  // Insert the joke into the 'jokes' collection for the random user
   db.jokes.insertOne({
     joke: joke.joke,
     categories: joke.categories,
     user_id: randomUser._id,
-    created_at: new ISODate(),  // Add a random creation date (for simplicity, use current date)
-    updated_at: new ISODate()   // Same as creation date
+    created_at: new ISODate(),
+    updated_at: new ISODate()
   });
 });
 
@@ -514,20 +545,35 @@ This joins the jokes into a new array field called user_jokes for each user.
 db.users.aggregate([
     {
         $lookup: {
-            from: "jokes",          // Collection to join
-            localField: "_id",      // Field in users
-            foreignField: "user_id",// Field in jokes
-            as: "user_jokes"        // Output array field
+            from: "jokes",  
+            localField: "_id", 
+            foreignField: "user_id",
+            as: "user_jokes"        
         }
     }
 ])
 ```
+
+What key lines mean:
+
+| prefix       | value      | purpose            |
+| ------------ | ---------- | ------------------ |
+| from         | jokes      | Collection to join |
+| localField   | _id        | Field in users     |
+| foreignField | user_id    | Field in jokes     |
+| as           | user_jokes | Output array field |
 
 #### Step 3: Project Only Required Fields
 
-Now we filter the result to show only: First name (`given_name`), Last name (`family_name`)
+Now we filter the result to show only: 
 
-List of joke texts (not entire joke objects)
+- First name (`given_name`), 
+- Last name (`family_name`)
+- Joke text (`joke`)
+
+List of joke texts (not entire joke objects).
+
+The `jokes: "$user_jokes.joke"` line retrieves the `joke` field from the joined documents.
 
 ```js
 db.users.aggregate([
@@ -538,27 +584,6 @@ db.users.aggregate([
             foreignField: "user_id",
             as: "user_jokes"
         }
-    },
-    {
-        $project: {
-            given_name: 1,
-            family_name: 1,
-            jokes: "$user_jokes.joke" // This pulls only the 'joke' field from joined documents
-        }
-    }
-])
-```
-
-
-```js
-db.users.aggregate([
-    {
-        $lookup: {
-            from: "jokes",
-            localField: "_id",
-            foreignField: "user_id",
-            as: "user_jokes"
-            }
     },
     {
         $project: {
@@ -570,25 +595,41 @@ db.users.aggregate([
 ])
 ```
 
+
 ### 24. Show All Lightbulb Jokes
 
 ```js
-db.jokes.find({ categories: "Lightbulb" })
+db.jokes.find({ 
+	categories: "Lightbulb" 
+})
 ```
 
 ### 25. Show All Dad Jokes
 
 ```js
-db.jokes.find({ categories: "Dad" })
+db.jokes.find({ 
+	categories: "Dad" 
+})
 ```
 
-### 26. Show Jokes Sorted by Text
+### 26. Show jokes from multiple categories
 
 ```js
-db.jokes.find().sort({ joke: 1 })
+db.jokes.find({
+	categories: { 
+		$in: ['animal', 'bird', 'lightbulb']
+	}
+})
+```
+### 27. Show Jokes Sorted by Text
+
+```js
+db.jokes.find().sort({ 
+	joke: 1 
+})
 ```
 
-### 27. Show Jokes by a Specific User in Reverse Order
+### 28. Show Jokes by a Specific User in Reverse Order
 
 ```js
 const userId = db.users.findOne({ email: "robyn@example.com" })._id
@@ -596,6 +637,101 @@ const userId = db.users.findOne({ email: "robyn@example.com" })._id
 db.jokes.find({ user_id: userId }).sort({ created_at: -1 })
 ```
 
+
+### 29. Use Aggregation to show maximum 5 jokes 
+
+```js
+db.users.aggregate([
+	{ 
+		$match: { email: "user@example.com" } 
+	},
+	{
+	    $lookup: {
+			from: "jokes",
+		    localField: "_id",
+		    foreignField: "userId",
+		    as: "userJokes"
+	    }
+	},
+	{
+	    $project: {
+		    email: 1,
+		    userJokes: { 
+			    $slice: [ { $reverseArray: "$userJokes" }, 5] 
+			}
+	    }
+	}
+]);
+
+```
+
+
+### 30. As per Previous Query, but Use Created At For Reverse Ordering
+
+```js
+db.users.aggregate([
+  { $match: { email: "user@example.com" } },
+  {
+    $lookup: {
+      from: "jokes",
+      localField: "_id",
+      foreignField: "userId",
+      as: "userJokes"
+    }
+  },
+  { $unwind: "$userJokes" }, 
+  { $sort: { "userJokes.createdAt": -1 } },  
+  {
+    $group: {
+      _id: "$_id",
+      email: { $first: "$email" },
+      jokes: { $push: "$userJokes" }  
+    }
+  }
+]);
+```
+
+This is the most complex of the queries we have shown.
+
+Basic process:
+
+1. **`$match`**: Finds the user by email.
+2. **`$lookup`**: Performs a join with the `jokes` collection, where `userId` from `jokes` matches the `_id` from `users`. It adds the jokes to the `userJokes` array.
+3. **`$unwind`**: Flattens the `userJokes` array, creating a separate document for each joke.
+4. **`$sort`**: Sorts the jokes by the `createdAt` field in **descending** order (most recent jokes first).
+5. **`$group`**: Re-groups the jokes back into an array and keeps only the relevant fields (`_id`, `email`, and `jokes`).
+
+
+### 31. Show all users created Between 1 month ago and 1 week ago
+
+```js
+db.users.aggregate([
+  {
+    $match: {
+      createdAt: {
+        $gte: new Date(new Date().setMonth(new Date().getMonth() - 1)),
+        $lte: new Date(new Date().setDate(new Date().getDate() - 7))
+      }
+    }
+  }
+]);
+```
+
+
+### 32. Jokes created between 01/01 of the current year and before 1st of the current month
+
+```js
+db.jokes.aggregate([
+  {
+    $match: {
+      createdAt: {
+        $gte: new Date(new Date().getFullYear(), 0, 1),
+        $lt: new Date(new Date().getFullYear(), new Date().getMonth(), 1) 
+      }
+    }
+  }
+]);
+```
 
 
 ## Tutorial
