@@ -133,7 +133,7 @@ includeLinks: true
 
 <div class="page-break" style="page-break-before: always;"></div>
 
-![](assets/S09-MongoDB-1-Introduction-20240912102155996.png)
+![](../assets/S09-MongoDB-1-Introduction-20240912102155996.png)
 https://geekandpoke.typepad.com/geekandpoke/2011/01/nosql.html  
 
 <div class="page-break" style="page-break-before: always;"></div>
@@ -261,7 +261,7 @@ https://geekandpoke.typepad.com/geekandpoke/2011/01/nosql.html
 	- Aka BSON  
 	- Pronounced BiSON
 
-![](assets/S09-MongoDB-1-Introduction-20240912105316113.png)
+![](../assets/S09-MongoDB-1-Introduction-20240912105316113.png)
 https://www.deviantart.com/arseniic/art/What-did-the-buffalo-say-to-his-son-when-he-left-287766727style.visibilitystyle.visibility  
 
 

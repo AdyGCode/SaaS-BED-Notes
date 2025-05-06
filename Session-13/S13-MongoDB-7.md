@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2024-10-18T14:59
-updated: 2025-05-06T12:20
+updated: 2025-05-06T12:25
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -74,7 +74,7 @@ Given these factors, here's how you can achieve the logging of changes to a coll
 
 > **Note:** You may use MongoDB Compass and execute the commands and code in the GUI's `mongosh` area at the bottom of the GUI:
 
-![Animated GIF showing the opening of the MongoDB Shell in Compass](assets/MongoDBCompass_FrvTsSpvDS.gif)
+![Animated GIF showing the opening of the MongoDB Shell in Compass](../assets/MongoDBCompass_FrvTsSpvDS.gif)
 
 ### Step 1: Ensure a Replica Set is Running
 

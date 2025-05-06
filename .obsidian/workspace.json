@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7869334eb4a8a79",
+        "id": "c4e8ec591917efb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f6effbcf9b81b2f6",
+            "id": "bda0b31493289f0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session-13/S13-MongoDB-8.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "S13-MongoDB-8"
+              "title": "New tab"
             }
           }
         ]
@@ -188,15 +184,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f6effbcf9b81b2f6",
+  "active": "bda0b31493289f0a",
   "lastOpenFiles": [
+    "Session-13/S13-MongoDB-7.md",
+    "Session-13/S10-MongoDB-3A.md",
+    "Session-13/S13-MongoDB-8.md",
     "Session-01/S01-Reflection-Exercises.md~",
     "Session-13/S13-MongoDB-9.md",
     "Session-13/S13-MongoDB-10.md",
     "Session-13/S13-Reflection-Exercises.md",
-    "Session-13/S13-MongoDB-8.md",
-    "Session-13/S13-MongoDB-7.md",
-    "Session-13/S10-MongoDB-3A.md",
     "Session-13/ReadMe.md",
     "Session-12/ReadMe.md",
     "Session-12/S12-MongoDB-5.md",
@@ -234,7 +230,6 @@
     "Session-01/S01-Laravel-and-APIs.pdf",
     "Session-01/S01-Journals.pdf",
     "Session-11/S11-Exercises-and-Journal-Entry.md~",
-    "assets/php-8.3-ext-mongodb-xdebug.zip",
-    "assets/php_mongodb_xdebug.zip"
+    "assets/php-8.3-ext-mongodb-xdebug.zip"
   ]
 }

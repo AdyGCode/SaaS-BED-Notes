@@ -335,7 +335,7 @@ These Blade view files will be used to render the user interface for your CRUD o
 **resources/views/posts/layout.blade.php**
 
 <!DOCTYPE html>  
-<html>  
+<html lang="en_au">  
 <head>  
     <title>How to Create Laravel 11 MongoDB CRUD Operation - Techsolutionstuff</title>  
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css" rel="stylesheet">  

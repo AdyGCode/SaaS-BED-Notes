@@ -79,15 +79,15 @@ Locate download in the Downloads folder:
 - WIN <-- to move the file explorer to the left side of the screen
 - Locate the downloaded file
 
-![](assets/S10-MongoDB-3-20241025112610996.png)
+![](../assets/S10-MongoDB-3-20241025112610996.png)
 
 - Double click to open the file (We use 7-Zip for our compression tool).
 
-![](assets/S10-MongoDB-3-20241025112620017.png)
+![](../assets/S10-MongoDB-3-20241025112620017.png)
 
 - Drag and drop the MongoDB folder from the compressed file into the downloads
 
-![](assets/7zFM_dDraJmxry8.gif)
+![](../assets/7zFM_dDraJmxry8.gif)
 
 
 ### Move folder to the Laragon/Bin 
@@ -114,7 +114,7 @@ Open the (new) MongoDB folder:
 
 Drag the expanded files from the downloads folder to the MongoDB Folder
 
-![](assets/explorer_SFjEiHmmEQ.gif)
+![](../assets/explorer_SFjEiHmmEQ.gif)
 
 Rename the folder:
 - click once on the folder
@@ -122,7 +122,7 @@ Rename the folder:
 - Enter `mongodb-nn.nn.nn` 
   *(use the version number you have downloaded, `8.0.3` in this case, replacing the `nn` with each number as needed)*
   
-![](assets/explorer_1ZCY8cGLF1.gif)
+![](../assets/explorer_1ZCY8cGLF1.gif)
 Close your file explorer Windows.
 
 ### Set Laragon to Auto-start MongoDB
@@ -137,7 +137,7 @@ In the dialog
 - Tick the MongoDB option
 - Click the X to close the dialog
 
-![](assets/laragon_6nQyamKois.gif)
+![](../assets/laragon_6nQyamKois.gif)
 
 ### Start the service
 
@@ -148,7 +148,7 @@ or...
 - Hover over MongoDB
 - Hover over and click Start MongoDB
 
-![](assets/laragon_EXh7UtOevo.gif)
+![](../assets/laragon_EXh7UtOevo.gif)
 
 
 ## Changing Versions of MongoDB
@@ -165,7 +165,7 @@ Now you can restart the MongoDB service.
 
 Once you have done this, we **strongly** recommend that you follow the steps in changing the MongoDB configuration so that you keep your data organised.
 
-![](assets/laragon_Vzbm7sWqwy.gif)
+![](../assets/laragon_Vzbm7sWqwy.gif)
 
 
 ## Changing MongoDB Configurations

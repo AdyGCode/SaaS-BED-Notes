@@ -3820,7 +3820,7 @@
         "theme": "default",
         "paginate": true,
         "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NM TAFE Banner](assets/Black-Red-Banner.svg)",
+        "header": "![NM TAFE Banner](../assets/Black-Red-Banner.svg)",
         "auto-scaling": true,
         "size": "4k",
         "tags": [
