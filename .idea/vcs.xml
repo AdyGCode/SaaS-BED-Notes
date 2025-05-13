@@ -7,6 +7,7 @@
     </profile>
   </component>
   <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Source/Repos/SaaS-BED-Notes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
