@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2024-10-18T14:59
-updated: 2025-05-06T12:25
+updated: 2025-05-13T10:02
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -104,31 +104,7 @@ You can use `db.orders.watch()` to monitor inserts into the `orders` collection 
 2. In the MongoDB shell, you can run a script like this to monitor for new orders and log them into the `audit_log` collection:
 
 ```javascript
-// Connect to the database
-use mydb;
-
-// Start watching the orders collection for insert events
-const changeStream = db.orders.watch([{ $match: { operationType: "insert" } }]);
-
-print("Watching for new orders...");
-
-// Poll the change stream for new order events
-while (changeStream.hasNext()) {
-  const change = changeStream.next();
-
-  // Get the order information
-  const newOrder = change.fullDocument;
-
-  // Insert an audit log entry into audit_log collection
-  db.audit_log.insertOne({
-    eventType: "Order Created",
-    orderId: newOrder._id,
-    customer: newOrder.customer,
-    timestamp: new Date(),
-  });
-
-  print(`Logged new order from ${newOrder.customer}`);
-}
+ote
 ```
 
 This will continuously watch the `orders` collection for new documents (inserts) and log them into the `audit_log` collection.

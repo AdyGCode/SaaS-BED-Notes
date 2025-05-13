@@ -12,7 +12,7 @@ tags:
   - APIs
   - Back-End
 created: 2024-09-12T09:59
-updated: 2025-05-06T12:20
+updated: 2025-05-13T11:09
 ---
 
 # NoSQL 3A - Running a Local Replica Set
@@ -132,7 +132,7 @@ This step will be repeated for each cluster node that will be part of the replic
 We will be doing the following:
 - Stopping the server
 - Creating a folder for the cluster node
-- Adding log, data and config folder within the cluster folder
+- Adding log & data folders within the cluster folder
 - Creating a config file
 - Adding the node to the cluster
 - Starting the node
@@ -154,10 +154,10 @@ Change into the Laragon Data folder:
 
 At TAFE:
 ```shell
-cd /c/ProgramFiles/Laragon/Data
+cd /c/ProgramData/Laragon/Data
 ```
 
-BYOD:
+BYOD/Rm 3-06:
 ```shell
 cd /c/Laragon/Data
 ```
@@ -183,7 +183,9 @@ Here is an example:
 > 
 > For example:
 > 
->     `mkdir -p mongodb-vX-rs-{00,01,02,03}/{data,logs}`
+>```shell
+ mkdir -p mongodb-vX-rs-{00,01,02,03}/{data,logs}
+ > ```
 
 ### Copy base config into node data folder
 
@@ -212,18 +214,19 @@ We need to do 2 things with the MongoDB Config files:
 To do so we will:
 
 1. Open each of the `mongod-rs-XX.conf` files.
-2. Change the port for the 00, 01 and 02 configuration files to 27100, 27101 and 27102 respectively. Also, it makes it easier to match replica server configuration to port.
+2. Change the port for the `00`, `01` and `02` configuration files to `27100`, `27101` and `27102` respectively. Also, it makes it easier to match replica server configuration to port.
 3. Make the configuration identify the replica set's name.
 
 > **Important:**
 > 
-> We are configuring the replica set to start at port 27100 to make it possible to restart the non-replicated copy of MongoDB.
+> We are configuring the replica set to start at port `27100` to make it possible to restart the non-replicated copy of MongoDB.
 > 
 > Alternatively you can make it part of the replica set, by applying the changes indicated at the end of this section.
 
 #### Config 00
 
 Open the file `mongod-rs-00.conf`.
+The notes show `v8`, replace with `v7` if using version 7 of MongoDB.
 
 > **Remember** that at home you will not need the `ProgramData\` section of the file path above.
 
@@ -231,7 +234,7 @@ Edit the `storage` section to point to the replica set data folder:
 
 ```ini
 storage:
-  dbPath: C:\ProgramData\Laragon\data\mongodb-v8-rs-00
+  dbPath: C:\ProgramData\Laragon\data\mongodb-v8-rs-00\data
 ```
 
 Edit the `systemLog` section:
@@ -239,7 +242,7 @@ Edit the `systemLog` section:
 ```ini
 systemLog:
   destination: file
-  path: C:\ProgramData\Laragon\data\mongodb-v8-rs-00\mongod.log
+  path: C:\ProgramData\Laragon\data\mongodb-v8-rs-00\logs\mongod.log
   logAppend: true
 
 ```
@@ -422,7 +425,7 @@ In the shell you now execute the following command:
 
 ```js
 rs.initiate( {
-	_id : "v8-rs0",
+	_id : "v8-rs00",
 	members: [
 		{ _id: 1, host: "localhost:27100" },
 		{ _id: 2, host: "localhost:27101" },
