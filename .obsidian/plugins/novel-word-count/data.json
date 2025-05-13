@@ -112,51 +112,6 @@
         "updated": "2025-05-06T12:23"
       }
     },
-    "_backup/S02-Exercises-and-Journal-Entry 1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 252,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.84,
-      "characterCount": 1856,
-      "nonWhitespaceCharacterCount": 1470,
-      "readingTimeInMinutes": 0.9509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406662,
-      "modifiedDate": 1746505400304,
-      "sizeInBytes": 2229,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.84,
-        "wordCount": 252,
-        "characterCount": 1856,
-        "nonWhitespaceCharacterCount": 1470
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Journal"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-05-06T12:23"
-      }
-    },
     "_backup/S03-Exercises-and-Journal-Entry 1.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -202,29 +157,74 @@
         "updated": "2025-05-06T12:23"
       }
     },
-    "templates/sessions.md": {
+    "_backup/S02-Exercises-and-Journal-Entry 1.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 36,
+      "wordCount": 252,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12,
-      "characterCount": 354,
-      "nonWhitespaceCharacterCount": 259,
-      "readingTimeInMinutes": 0.13584905660377358,
+      "pageCount": 0.84,
+      "characterCount": 1856,
+      "nonWhitespaceCharacterCount": 1470,
+      "readingTimeInMinutes": 0.9509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406662,
+      "modifiedDate": 1746505400304,
+      "sizeInBytes": 2229,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.84,
+        "wordCount": 252,
+        "characterCount": 1856,
+        "nonWhitespaceCharacterCount": 1470
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Journal"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "templates/slides.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 46,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 434,
+      "nonWhitespaceCharacterCount": 317,
+      "readingTimeInMinutes": 0.17358490566037735,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1741048407140,
-      "modifiedDate": 1741048407140,
-      "sizeInBytes": 826,
+      "createdDate": 1741048407141,
+      "modifiedDate": 1741048407141,
+      "sizeInBytes": 906,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.12,
-        "wordCount": 36,
-        "characterCount": 354,
-        "nonWhitespaceCharacterCount": 259
+        "pageCount": 0.15333333333333332,
+        "wordCount": 46,
+        "characterCount": 434,
+        "nonWhitespaceCharacterCount": 317
       },
       "frontmatter": {
         "theme": "default",
@@ -252,29 +252,29 @@
         "updated": "2024-10-03T09:18"
       }
     },
-    "templates/slides.md": {
+    "templates/sessions.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 46,
+      "wordCount": 36,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15333333333333332,
-      "characterCount": 434,
-      "nonWhitespaceCharacterCount": 317,
-      "readingTimeInMinutes": 0.17358490566037735,
+      "pageCount": 0.12,
+      "characterCount": 354,
+      "nonWhitespaceCharacterCount": 259,
+      "readingTimeInMinutes": 0.13584905660377358,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1741048407141,
-      "modifiedDate": 1741048407141,
-      "sizeInBytes": 906,
+      "createdDate": 1741048407140,
+      "modifiedDate": 1741048407140,
+      "sizeInBytes": 826,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.15333333333333332,
-        "wordCount": 46,
-        "characterCount": 434,
-        "nonWhitespaceCharacterCount": 317
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 354,
+        "nonWhitespaceCharacterCount": 259
       },
       "frontmatter": {
         "theme": "default",
@@ -330,48 +330,6 @@
         "banner": "![[Black-Red-Banner.svg]]",
         "created": "2024-08-22T17:47",
         "updated": "2025-04-28T11:36"
-      }
-    },
-    "Session-13/S10-MongoDB-3A.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1879,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.263333333333334,
-      "characterCount": 13725,
-      "nonWhitespaceCharacterCount": 11236,
-      "readingTimeInMinutes": 7.090566037735849,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746491548211,
-      "modifiedDate": 1747099703350,
-      "sizeInBytes": 14059,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.223333333333334,
-        "wordCount": 1867,
-        "characterCount": 13652,
-        "nonWhitespaceCharacterCount": 11176
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../images/Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End"
-        ],
-        "created": "2024-09-12T09:59",
-        "updated": "2025-05-06T12:20"
       }
     },
     "Session-13/S13-Reflection-Exercises.md": {
@@ -470,71 +428,23 @@
         ]
       }
     },
-    "Session-13/S13-MongoDB-7.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 741,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.47,
-      "characterCount": 5418,
-      "nonWhitespaceCharacterCount": 4459,
-      "readingTimeInMinutes": 2.7962264150943397,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1741048406661,
-      "modifiedDate": 1747101764329,
-      "sizeInBytes": 5812,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.6933333333333334,
-        "wordCount": 808,
-        "characterCount": 6088,
-        "nonWhitespaceCharacterCount": 5012
-      },
-      "frontmatter": {
-        "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2024-10-18T14:59",
-        "updated": "2025-05-06T12:25",
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview",
-          "MongoDB",
-          "NoSQL"
-        ]
-      }
-    },
     "Session-13/S13-MongoDB-8.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1083,
+      "wordCount": 1143,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.61,
-      "characterCount": 13374,
-      "nonWhitespaceCharacterCount": 9762,
-      "readingTimeInMinutes": 4.086792452830188,
+      "pageCount": 3.81,
+      "characterCount": 13992,
+      "nonWhitespaceCharacterCount": 10298,
+      "readingTimeInMinutes": 4.313207547169811,
       "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1741048406662,
-      "modifiedDate": 1746505614663,
-      "sizeInBytes": 13772,
+      "modifiedDate": 1747110371940,
+      "sizeInBytes": 14394,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.61,
@@ -564,6 +474,96 @@
           "MongoDB",
           "NoSQL"
         ]
+      }
+    },
+    "Session-13/S13-MongoDB-7.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 741,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.47,
+      "characterCount": 5418,
+      "nonWhitespaceCharacterCount": 4459,
+      "readingTimeInMinutes": 2.7962264150943397,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1741048406661,
+      "modifiedDate": 1747101764329,
+      "sizeInBytes": 5812,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.47,
+        "wordCount": 741,
+        "characterCount": 5418,
+        "nonWhitespaceCharacterCount": 4459
+      },
+      "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2024-10-18T14:59",
+        "updated": "2025-05-06T12:25",
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview",
+          "MongoDB",
+          "NoSQL"
+        ]
+      }
+    },
+    "Session-13/S10-MongoDB-3A.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1880,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.266666666666667,
+      "characterCount": 13755,
+      "nonWhitespaceCharacterCount": 11266,
+      "readingTimeInMinutes": 7.09433962264151,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746491548211,
+      "modifiedDate": 1747105746952,
+      "sizeInBytes": 14089,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.266666666666667,
+        "wordCount": 1880,
+        "characterCount": 13755,
+        "nonWhitespaceCharacterCount": 11266
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../images/Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End"
+        ],
+        "created": "2024-09-12T09:59",
+        "updated": "2025-05-13T09:28"
       }
     },
     "Session-13/S13-MongoDB-10.md": {
@@ -834,6 +834,148 @@
         ]
       }
     },
+    "Session-10/S10-Reflection-Exercises.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 118,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3933333333333333,
+      "characterCount": 930,
+      "nonWhitespaceCharacterCount": 766,
+      "readingTimeInMinutes": 0.44528301886792454,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745893442513,
+      "modifiedDate": 1746505400252,
+      "sizeInBytes": 1302,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3933333333333333,
+        "wordCount": 118,
+        "characterCount": 930,
+        "nonWhitespaceCharacterCount": 766
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Journal"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-10/S10-MongoDB-3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 875,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.9166666666666665,
+      "characterCount": 6645,
+      "nonWhitespaceCharacterCount": 5515,
+      "readingTimeInMinutes": 3.30188679245283,
+      "linkCount": 1,
+      "embedCount": 9,
+      "aliases": null,
+      "createdDate": 1741048406658,
+      "modifiedDate": 1746505601184,
+      "sizeInBytes": 6967,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.9166666666666665,
+        "wordCount": 875,
+        "characterCount": 6645,
+        "nonWhitespaceCharacterCount": 5515
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../images/Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End"
+        ],
+        "created": "2024-09-12T09:59",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-10/S08-Portfolio-Presentations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406654,
+      "modifiedDate": 1741048406654,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-10/ReadMe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 373,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2433333333333334,
+      "characterCount": 4344,
+      "nonWhitespaceCharacterCount": 3495,
+      "readingTimeInMinutes": 1.4075471698113207,
+      "linkCount": 10,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1741048406657,
+      "modifiedDate": 1745893442512,
+      "sizeInBytes": 4462,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2433333333333334,
+        "wordCount": 373,
+        "characterCount": 4344,
+        "nonWhitespaceCharacterCount": 3495
+      },
+      "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2025-03-24T09:09",
+        "updated": "2025-04-28T16:06"
+      }
+    },
     "Session-11/S11-Reflection-Exercises.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -880,54 +1022,6 @@
           "MongoDB",
           "NoSQL"
         ]
-      }
-    },
-    "Session-11/ReadMe.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 93,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.31,
-      "characterCount": 695,
-      "nonWhitespaceCharacterCount": 585,
-      "readingTimeInMinutes": 0.35094339622641507,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406658,
-      "modifiedDate": 1746505223759,
-      "sizeInBytes": 1120,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.31,
-        "wordCount": 93,
-        "characterCount": 695,
-        "nonWhitespaceCharacterCount": 585
-      },
-      "frontmatter": {
-        "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-05-06T12:20",
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024"
       }
     },
     "Session-11/S11-Reflection-Exercises-20250101.md": {
@@ -1026,52 +1120,52 @@
         ]
       }
     },
-    "Session-09/S09-MongoDB-2-Installing-Windows.md": {
+    "Session-11/ReadMe.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1184,
+      "wordCount": 93,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.9466666666666668,
-      "characterCount": 8914,
-      "nonWhitespaceCharacterCount": 7527,
-      "readingTimeInMinutes": 4.467924528301887,
-      "linkCount": 1,
-      "embedCount": 20,
+      "pageCount": 0.31,
+      "characterCount": 695,
+      "nonWhitespaceCharacterCount": 585,
+      "readingTimeInMinutes": 0.35094339622641507,
+      "linkCount": 3,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745893442511,
-      "modifiedDate": 1745895072710,
-      "sizeInBytes": 9304,
+      "createdDate": 1741048406658,
+      "modifiedDate": 1746505223759,
+      "sizeInBytes": 1120,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.9466666666666668,
-        "wordCount": 1184,
-        "characterCount": 8914,
-        "nonWhitespaceCharacterCount": 7527
+        "pageCount": 0.31,
+        "wordCount": 93,
+        "characterCount": 695,
+        "nonWhitespaceCharacterCount": 585
       },
       "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-05-06T12:20",
         "theme": "default",
         "paginate": true,
         "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE Banner](../assets/Black-Red-Banner.svg)",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner_x": 1,
+        "banner_y": "0",
         "auto-scaling": true,
-        "size": "4k",
-        "color": null,
-        "backgroundColor": null,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
         "tags": [
           "SaaS",
           "APIs",
           "Back-End",
-          "NoSQL",
-          "MongoDB",
-          "Laravel",
-          "PHP"
+          "Overview"
         ],
         "date created": "03 July 2024",
-        "date modified": "10 July 2024",
-        "created": "2024-07-18T09:24",
-        "updated": "2025-04-28T11:30"
+        "date modified": "08 July 2024"
       }
     },
     "Session-09/S09-Reflection-Exercises.md": {
@@ -1197,6 +1291,99 @@
         ]
       }
     },
+    "Session-09/S09-MongoDB-2-Installing-Windows.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1184,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.9466666666666668,
+      "characterCount": 8914,
+      "nonWhitespaceCharacterCount": 7527,
+      "readingTimeInMinutes": 4.467924528301887,
+      "linkCount": 1,
+      "embedCount": 20,
+      "aliases": null,
+      "createdDate": 1745893442511,
+      "modifiedDate": 1745895072710,
+      "sizeInBytes": 9304,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.9466666666666668,
+        "wordCount": 1184,
+        "characterCount": 8914,
+        "nonWhitespaceCharacterCount": 7527
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE Banner](../assets/Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": null,
+        "backgroundColor": null,
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "NoSQL",
+          "MongoDB",
+          "Laravel",
+          "PHP"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "10 July 2024",
+        "created": "2024-07-18T09:24",
+        "updated": "2025-04-28T11:30"
+      }
+    },
+    "Session-09/S09-MongoDB-1-Introduction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 845,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.816666666666667,
+      "characterCount": 10847,
+      "nonWhitespaceCharacterCount": 7016,
+      "readingTimeInMinutes": 3.188679245283019,
+      "linkCount": 2,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1745893442510,
+      "modifiedDate": 1746505601178,
+      "sizeInBytes": 11239,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.816666666666667,
+        "wordCount": 845,
+        "characterCount": 10847,
+        "nonWhitespaceCharacterCount": 7016
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../images/Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "Back-End",
+          "MongoDB",
+          "NoSQL"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "10 July 2024",
+        "created": "2024-09-12T09:59",
+        "updated": "2025-04-29T10:28"
+      }
+    },
     "Session-09/ReadMe.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1227,171 +1414,33 @@
         "updated": "2025-04-29T10:28"
       }
     },
-    "Session-09/S09-MongoDB-1-Introduction.md": {
+    "Session-08/S08-Ten-Common-HTTP-Responses.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 885,
+      "wordCount": 524,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.95,
-      "characterCount": 11211,
-      "nonWhitespaceCharacterCount": 7325,
-      "readingTimeInMinutes": 3.339622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745893442510,
-      "modifiedDate": 1746505601178,
-      "sizeInBytes": 11239,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.95,
-        "wordCount": 885,
-        "characterCount": 11211,
-        "nonWhitespaceCharacterCount": 7325
-      }
-    },
-    "Session-10/S10-Reflection-Exercises.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 118,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3933333333333333,
-      "characterCount": 930,
-      "nonWhitespaceCharacterCount": 766,
-      "readingTimeInMinutes": 0.44528301886792454,
+      "pageCount": 1.7466666666666666,
+      "characterCount": 4698,
+      "nonWhitespaceCharacterCount": 3980,
+      "readingTimeInMinutes": 1.9773584905660377,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745893442513,
-      "modifiedDate": 1746505400252,
-      "sizeInBytes": 1302,
+      "createdDate": 1741048406655,
+      "modifiedDate": 1742264827748,
+      "sizeInBytes": 4757,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.3933333333333333,
-        "wordCount": 118,
-        "characterCount": 930,
-        "nonWhitespaceCharacterCount": 766
+        "pageCount": 1.7466666666666666,
+        "wordCount": 524,
+        "characterCount": 4698,
+        "nonWhitespaceCharacterCount": 3980
       },
       "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Journal"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-05-06T12:23"
-      }
-    },
-    "Session-10/S10-MongoDB-3.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 875,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.9166666666666665,
-      "characterCount": 6645,
-      "nonWhitespaceCharacterCount": 5515,
-      "readingTimeInMinutes": 3.30188679245283,
-      "linkCount": 1,
-      "embedCount": 9,
-      "aliases": null,
-      "createdDate": 1741048406658,
-      "modifiedDate": 1746505601184,
-      "sizeInBytes": 6967,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.9166666666666665,
-        "wordCount": 875,
-        "characterCount": 6645,
-        "nonWhitespaceCharacterCount": 5515
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../images/Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End"
-        ],
-        "created": "2024-09-12T09:59",
-        "updated": "2025-05-06T12:23"
-      }
-    },
-    "Session-10/ReadMe.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 373,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2433333333333334,
-      "characterCount": 4344,
-      "nonWhitespaceCharacterCount": 3495,
-      "readingTimeInMinutes": 1.4075471698113207,
-      "linkCount": 10,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1741048406657,
-      "modifiedDate": 1745893442512,
-      "sizeInBytes": 4462,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2433333333333334,
-        "wordCount": 373,
-        "characterCount": 4344,
-        "nonWhitespaceCharacterCount": 3495
-      },
-      "frontmatter": {
-        "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2025-03-24T09:09",
-        "updated": "2025-04-28T16:06"
-      }
-    },
-    "Session-10/S08-Portfolio-Presentations.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406654,
-      "modifiedDate": 1741048406654,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "created": "2025-03-04T08:33",
+        "updated": "2025-03-18T10:27"
       }
     },
     "Session-08/S08-Terminology.md": {
@@ -1417,35 +1466,6 @@
         "wordCount": 828,
         "characterCount": 6546,
         "nonWhitespaceCharacterCount": 5545
-      },
-      "frontmatter": {
-        "created": "2025-03-04T08:33",
-        "updated": "2025-03-18T10:27"
-      }
-    },
-    "Session-08/S08-Ten-Common-HTTP-Responses.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 524,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7466666666666666,
-      "characterCount": 4698,
-      "nonWhitespaceCharacterCount": 3980,
-      "readingTimeInMinutes": 1.9773584905660377,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406655,
-      "modifiedDate": 1742264827748,
-      "sizeInBytes": 4757,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.7466666666666666,
-        "wordCount": 524,
-        "characterCount": 4698,
-        "nonWhitespaceCharacterCount": 3980
       },
       "frontmatter": {
         "created": "2025-03-04T08:33",
@@ -1619,6 +1639,81 @@
         ]
       }
     },
+    "Session-07/S07-Using-Scramble-to-Document-an-API-3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 507,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.69,
+      "characterCount": 5339,
+      "nonWhitespaceCharacterCount": 4353,
+      "readingTimeInMinutes": 1.9132075471698113,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745893442510,
+      "modifiedDate": 1745893442510,
+      "sizeInBytes": 5683,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.69,
+        "wordCount": 507,
+        "characterCount": 5339,
+        "nonWhitespaceCharacterCount": 4353
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Journal"
+        ],
+        "created": "2024-07-31T07:52",
+        "updated": "2025-04-28T16:00"
+      }
+    },
+    "Session-07/S07-Using-Scramble-to-Document-an-API-2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2393,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.976666666666667,
+      "characterCount": 22325,
+      "nonWhitespaceCharacterCount": 17287,
+      "readingTimeInMinutes": 9.030188679245283,
+      "linkCount": 1,
+      "embedCount": 10,
+      "aliases": null,
+      "createdDate": 1745893442508,
+      "modifiedDate": 1745893442510,
+      "sizeInBytes": 22433,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.976666666666667,
+        "wordCount": 2393,
+        "characterCount": 22325,
+        "nonWhitespaceCharacterCount": 17287
+      },
+      "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2025-03-27T16:20",
+        "updated": "2025-04-28T16:00"
+      }
+    },
     "Session-07/S07-Reflection-Exercises-and-Additional-Learning.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1695,81 +1790,6 @@
         "updated": "2025-04-29T10:28"
       }
     },
-    "Session-07/S07-Using-Scramble-to-Document-an-API-3.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 507,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.69,
-      "characterCount": 5339,
-      "nonWhitespaceCharacterCount": 4353,
-      "readingTimeInMinutes": 1.9132075471698113,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745893442510,
-      "modifiedDate": 1745893442510,
-      "sizeInBytes": 5683,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.69,
-        "wordCount": 507,
-        "characterCount": 5339,
-        "nonWhitespaceCharacterCount": 4353
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Journal"
-        ],
-        "created": "2024-07-31T07:52",
-        "updated": "2025-04-28T16:00"
-      }
-    },
-    "Session-07/S07-Using-Scramble-to-Document-an-API-2.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2393,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.976666666666667,
-      "characterCount": 22325,
-      "nonWhitespaceCharacterCount": 17287,
-      "readingTimeInMinutes": 9.030188679245283,
-      "linkCount": 1,
-      "embedCount": 10,
-      "aliases": null,
-      "createdDate": 1745893442508,
-      "modifiedDate": 1745893442510,
-      "sizeInBytes": 22433,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.976666666666667,
-        "wordCount": 2393,
-        "characterCount": 22325,
-        "nonWhitespaceCharacterCount": 17287
-      },
-      "frontmatter": {
-        "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2025-03-27T16:20",
-        "updated": "2025-04-28T16:00"
-      }
-    },
     "Session-07/S07-Portfolio-Work.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1797,36 +1817,6 @@
       "frontmatter": {
         "created": "2025-03-24T09:08",
         "updated": "2025-04-01T15:10"
-      }
-    },
-    "Session-07/S07-Image-Uploads-and-APIs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2766,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 9.22,
-      "characterCount": 24543,
-      "nonWhitespaceCharacterCount": 19245,
-      "readingTimeInMinutes": 10.437735849056605,
-      "linkCount": 1,
-      "embedCount": 20,
-      "aliases": null,
-      "createdDate": 1741048406648,
-      "modifiedDate": 1742266833470,
-      "sizeInBytes": 24643,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 9.22,
-        "wordCount": 2766,
-        "characterCount": 24543,
-        "nonWhitespaceCharacterCount": 19245
-      },
-      "frontmatter": {
-        "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2025-03-04T08:33",
-        "updated": "2025-03-18T11:00"
       }
     },
     "Session-07/S07-PEST-and-APIs.md": {
@@ -1877,6 +1867,36 @@
         "source": "https://abu-sayed.medium.com/laravel-testing-with-pest-the-complete-guide-for-beginners-a0b6680cfd71",
         "author": "Abu Sayed",
         "updated": "2025-04-28T16:00"
+      }
+    },
+    "Session-07/S07-Image-Uploads-and-APIs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2766,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.22,
+      "characterCount": 24543,
+      "nonWhitespaceCharacterCount": 19245,
+      "readingTimeInMinutes": 10.437735849056605,
+      "linkCount": 1,
+      "embedCount": 20,
+      "aliases": null,
+      "createdDate": 1741048406648,
+      "modifiedDate": 1742266833470,
+      "sizeInBytes": 24643,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 9.22,
+        "wordCount": 2766,
+        "characterCount": 24543,
+        "nonWhitespaceCharacterCount": 19245
+      },
+      "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2025-03-04T08:33",
+        "updated": "2025-03-18T11:00"
       }
     },
     "Session-07/S07-API-Testing-Revisited.md": {
@@ -2080,56 +2100,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Session-07/external/assets/1_KLMyYq-8jJA7SgW3NDto7Q.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406651,
-      "modifiedDate": 1741048406651,
-      "sizeInBytes": 12816,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Session-07/external/assets/1_MeWY60TPP0NBVxJbWsjclA.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406651,
-      "modifiedDate": 1741048406651,
-      "sizeInBytes": 20976,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Session-07/external/assets/1_nPJaZajic89XGYM8TBB2RA.webp": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2155,7 +2125,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Session-07/external/assets/1_HgURMMGtzhsJOfadk0G9RQ.webp": {
+    "Session-07/external/assets/1_KLMyYq-8jJA7SgW3NDto7Q.webp": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2171,7 +2141,7 @@
       "aliases": [],
       "createdDate": 1741048406651,
       "modifiedDate": 1741048406651,
-      "sizeInBytes": 14840,
+      "sizeInBytes": 12816,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2205,7 +2175,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Session-07/external/assets/1_CIQ40WmCpU5ib9XEdQmGJA.webp": {
+    "Session-07/external/assets/1_MeWY60TPP0NBVxJbWsjclA.webp": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2219,9 +2189,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048406650,
-      "modifiedDate": 1741048406650,
-      "sizeInBytes": 17078,
+      "createdDate": 1741048406651,
+      "modifiedDate": 1741048406651,
+      "sizeInBytes": 20976,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2230,7 +2200,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Session-07/external/assets/1_BwUa0papXvt4aC5UjMIFaw.webp": {
+    "Session-07/external/assets/1_HgURMMGtzhsJOfadk0G9RQ.webp": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2244,9 +2214,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048406650,
-      "modifiedDate": 1741048406650,
-      "sizeInBytes": 24876,
+      "createdDate": 1741048406651,
+      "modifiedDate": 1741048406651,
+      "sizeInBytes": 14840,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2280,130 +2250,54 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Session-06/S06-Portfolio-Work.md": {
-      "isCountable": true,
+    "Session-07/external/assets/1_BwUa0papXvt4aC5UjMIFaw.webp": {
+      "isCountable": false,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 300,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1,
-      "characterCount": 3779,
-      "nonWhitespaceCharacterCount": 1925,
-      "readingTimeInMinutes": 1.1320754716981132,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406647,
-      "modifiedDate": 1741048406647,
-      "sizeInBytes": 4218,
+      "aliases": [],
+      "createdDate": 1741048406650,
+      "modifiedDate": 1741048406650,
+      "sizeInBytes": 24876,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1,
-        "wordCount": 300,
-        "characterCount": 3779,
-        "nonWhitespaceCharacterCount": 1925
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:16"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
-    "Session-06/S06-Using-Scramble-to-Document-an-API.md": {
-      "isCountable": true,
+    "Session-07/external/assets/1_CIQ40WmCpU5ib9XEdQmGJA.webp": {
+      "isCountable": false,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2819,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 9.396666666666667,
-      "characterCount": 26600,
-      "nonWhitespaceCharacterCount": 20095,
-      "readingTimeInMinutes": 10.637735849056604,
-      "linkCount": 2,
-      "embedCount": 7,
-      "aliases": null,
-      "createdDate": 1741653850851,
-      "modifiedDate": 1745900697470,
-      "sizeInBytes": 26704,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 9.396666666666667,
-        "wordCount": 2819,
-        "characterCount": 26600,
-        "nonWhitespaceCharacterCount": 20095
-      },
-      "frontmatter": {
-        "banner": "![[Black-Red-Banner.svg]]",
-        "created": "2025-03-11T08:44",
-        "updated": "2025-04-29T10:28"
-      }
-    },
-    "Session-06/ReadMe.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 101,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 771,
-      "nonWhitespaceCharacterCount": 625,
-      "readingTimeInMinutes": 0.38113207547169814,
-      "linkCount": 3,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406646,
-      "modifiedDate": 1745893442506,
-      "sizeInBytes": 1217,
+      "aliases": [],
+      "createdDate": 1741048406650,
+      "modifiedDate": 1741048406650,
+      "sizeInBytes": 17078,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.33666666666666667,
-        "wordCount": 101,
-        "characterCount": 771,
-        "nonWhitespaceCharacterCount": 625
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-04-28T16:00"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Session-06/S06-Reflection-Exercises.md": {
@@ -2449,6 +2343,36 @@
         "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
         "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-06/S06-Using-Scramble-to-Document-an-API.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2819,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.396666666666667,
+      "characterCount": 26600,
+      "nonWhitespaceCharacterCount": 20095,
+      "readingTimeInMinutes": 10.637735849056604,
+      "linkCount": 2,
+      "embedCount": 7,
+      "aliases": null,
+      "createdDate": 1741653850851,
+      "modifiedDate": 1745900697470,
+      "sizeInBytes": 26704,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 9.396666666666667,
+        "wordCount": 2819,
+        "characterCount": 26600,
+        "nonWhitespaceCharacterCount": 20095
+      },
+      "frontmatter": {
+        "banner": "![[Black-Red-Banner.svg]]",
+        "created": "2025-03-11T08:44",
+        "updated": "2025-04-29T10:28"
       }
     },
     "Session-06/S06-Review.md": {
@@ -2499,33 +2423,362 @@
         "updated": "2024-10-03T09:15"
       }
     },
-    "research.md": {
+    "Session-06/S06-Portfolio-Work.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 195,
+      "wordCount": 300,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.65,
-      "characterCount": 6202,
-      "nonWhitespaceCharacterCount": 5768,
-      "readingTimeInMinutes": 0.7358490566037735,
+      "pageCount": 1,
+      "characterCount": 3779,
+      "nonWhitespaceCharacterCount": 1925,
+      "readingTimeInMinutes": 1.1320754716981132,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1741048407140,
-      "modifiedDate": 1741048407140,
-      "sizeInBytes": 6266,
+      "createdDate": 1741048406647,
+      "modifiedDate": 1741048406647,
+      "sizeInBytes": 4218,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.65,
-        "wordCount": 195,
-        "characterCount": 6202,
-        "nonWhitespaceCharacterCount": 5768
+        "pageCount": 1,
+        "wordCount": 300,
+        "characterCount": 3779,
+        "nonWhitespaceCharacterCount": 1925
       },
       "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
-        "updated": "2024-08-08T17:07"
+        "updated": "2024-10-03T09:16"
+      }
+    },
+    "Session-06/ReadMe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 101,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 771,
+      "nonWhitespaceCharacterCount": 625,
+      "readingTimeInMinutes": 0.38113207547169814,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406646,
+      "modifiedDate": 1745893442506,
+      "sizeInBytes": 1217,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.33666666666666667,
+        "wordCount": 101,
+        "characterCount": 771,
+        "nonWhitespaceCharacterCount": 625
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-04-28T16:00"
+      }
+    },
+    "Session-05/S05-Research.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 177,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.59,
+      "characterCount": 3510,
+      "nonWhitespaceCharacterCount": 3217,
+      "readingTimeInMinutes": 0.6679245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406643,
+      "modifiedDate": 1741048406643,
+      "sizeInBytes": 3949,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.59,
+        "wordCount": 177,
+        "characterCount": 3510,
+        "nonWhitespaceCharacterCount": 3217
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2024-10-03T09:16"
+      }
+    },
+    "Session-05/S05-Reflection-Exercises.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 339,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.13,
+      "characterCount": 2456,
+      "nonWhitespaceCharacterCount": 1964,
+      "readingTimeInMinutes": 1.2792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745893442505,
+      "modifiedDate": 1746505400320,
+      "sizeInBytes": 2829,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.13,
+        "wordCount": 339,
+        "characterCount": 2456,
+        "nonWhitespaceCharacterCount": 1964
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Journal"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-05/S05-Portfolio-Work.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 236,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7866666666666666,
+      "characterCount": 1457,
+      "nonWhitespaceCharacterCount": 1152,
+      "readingTimeInMinutes": 0.8905660377358491,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406643,
+      "modifiedDate": 1741048406643,
+      "sizeInBytes": 1896,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7866666666666666,
+        "wordCount": 236,
+        "characterCount": 1457,
+        "nonWhitespaceCharacterCount": 1152
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2024-10-03T09:15"
+      }
+    },
+    "Session-05/S05-APIS-and-Security.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2284,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.613333333333333,
+      "characterCount": 24494,
+      "nonWhitespaceCharacterCount": 17500,
+      "readingTimeInMinutes": 8.618867924528303,
+      "linkCount": 0,
+      "embedCount": 4,
+      "aliases": null,
+      "createdDate": 1741048406641,
+      "modifiedDate": 1741048406641,
+      "sizeInBytes": 26773,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.613333333333333,
+        "wordCount": 2284,
+        "characterCount": 24494,
+        "nonWhitespaceCharacterCount": 17500
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2024-10-03T09:15"
+      }
+    },
+    "Session-05/S05-APIS-and-Security.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742257989763,
+      "modifiedDate": 1742257989763,
+      "sizeInBytes": 161365,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-05/ReadMe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 100,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3333333333333333,
+      "characterCount": 793,
+      "nonWhitespaceCharacterCount": 638,
+      "readingTimeInMinutes": 0.37735849056603776,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406641,
+      "modifiedDate": 1745893442505,
+      "sizeInBytes": 1239,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3333333333333333,
+        "wordCount": 100,
+        "characterCount": 793,
+        "nonWhitespaceCharacterCount": 638
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
+        "banner": "![[Black-Red-Banner.svg]]",
+        "banner_x": 1,
+        "banner_y": "0",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Overview"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-04-28T16:00"
       }
     },
     "Session-04/S04-Reflection-Exercises.md": {
@@ -2571,6 +2824,114 @@
         "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
         "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-04/S04-Portfolio-Work.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1157,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.8566666666666665,
+      "characterCount": 8725,
+      "nonWhitespaceCharacterCount": 6645,
+      "readingTimeInMinutes": 4.366037735849057,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406639,
+      "modifiedDate": 1741048406640,
+      "sizeInBytes": 8787,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.8566666666666665,
+        "wordCount": 1157,
+        "characterCount": 8725,
+        "nonWhitespaceCharacterCount": 6645
+      },
+      "frontmatter": {
+        "created": "2024-07-31T08:45",
+        "updated": "2024-08-09T09:04"
+      }
+    },
+    "Session-04/S04-Portfolio-Work.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742257989761,
+      "modifiedDate": 1742257989762,
+      "sizeInBytes": 104995,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Session-04/S04-GitHub-Project-Management.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 1522,
+      "nonWhitespaceCharacterCount": 1308,
+      "readingTimeInMinutes": 0.5056603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406639,
+      "modifiedDate": 1741048406639,
+      "sizeInBytes": 1584,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.44666666666666666,
+        "wordCount": 134,
+        "characterCount": 1522,
+        "nonWhitespaceCharacterCount": 1308
+      },
+      "frontmatter": {
+        "created": "2024-08-08T11:30",
+        "updated": "2024-08-08T15:10"
+      }
+    },
+    "Session-04/S04-Conventaional-Commits.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 156,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.52,
+      "characterCount": 1788,
+      "nonWhitespaceCharacterCount": 1149,
+      "readingTimeInMinutes": 0.5886792452830188,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406639,
+      "modifiedDate": 1741048406639,
+      "sizeInBytes": 1788,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.52,
+        "wordCount": 156,
+        "characterCount": 1788,
+        "nonWhitespaceCharacterCount": 1149
       }
     },
     "Session-04/S04-APIs-and-Pagination.md": {
@@ -2666,458 +3027,6 @@
         "updated": "2024-10-03T09:16"
       }
     },
-    "Session-04/S04-Portfolio-Work.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742257989761,
-      "modifiedDate": 1742257989762,
-      "sizeInBytes": 104995,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Session-04/S04-Portfolio-Work.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1157,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.8566666666666665,
-      "characterCount": 8725,
-      "nonWhitespaceCharacterCount": 6645,
-      "readingTimeInMinutes": 4.366037735849057,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406639,
-      "modifiedDate": 1741048406640,
-      "sizeInBytes": 8787,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.8566666666666665,
-        "wordCount": 1157,
-        "characterCount": 8725,
-        "nonWhitespaceCharacterCount": 6645
-      },
-      "frontmatter": {
-        "created": "2024-07-31T08:45",
-        "updated": "2024-08-09T09:04"
-      }
-    },
-    "Session-04/S04-GitHub-Project-Management.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 134,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.44666666666666666,
-      "characterCount": 1522,
-      "nonWhitespaceCharacterCount": 1308,
-      "readingTimeInMinutes": 0.5056603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406639,
-      "modifiedDate": 1741048406639,
-      "sizeInBytes": 1584,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.44666666666666666,
-        "wordCount": 134,
-        "characterCount": 1522,
-        "nonWhitespaceCharacterCount": 1308
-      },
-      "frontmatter": {
-        "created": "2024-08-08T11:30",
-        "updated": "2024-08-08T15:10"
-      }
-    },
-    "Session-04/S04-Conventaional-Commits.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 156,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.52,
-      "characterCount": 1788,
-      "nonWhitespaceCharacterCount": 1149,
-      "readingTimeInMinutes": 0.5886792452830188,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406639,
-      "modifiedDate": 1741048406639,
-      "sizeInBytes": 1788,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.52,
-        "wordCount": 156,
-        "characterCount": 1788,
-        "nonWhitespaceCharacterCount": 1149
-      }
-    },
-    "Session-05/S05-Reflection-Exercises.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 339,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.13,
-      "characterCount": 2456,
-      "nonWhitespaceCharacterCount": 1964,
-      "readingTimeInMinutes": 1.2792452830188679,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745893442505,
-      "modifiedDate": 1746505400320,
-      "sizeInBytes": 2829,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.13,
-        "wordCount": 339,
-        "characterCount": 2456,
-        "nonWhitespaceCharacterCount": 1964
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Journal"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-05-06T12:23"
-      }
-    },
-    "Session-05/S05-Research.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 177,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.59,
-      "characterCount": 3510,
-      "nonWhitespaceCharacterCount": 3217,
-      "readingTimeInMinutes": 0.6679245283018868,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406643,
-      "modifiedDate": 1741048406643,
-      "sizeInBytes": 3949,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.59,
-        "wordCount": 177,
-        "characterCount": 3510,
-        "nonWhitespaceCharacterCount": 3217
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:16"
-      }
-    },
-    "Session-05/S05-Portfolio-Work.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 236,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7866666666666666,
-      "characterCount": 1457,
-      "nonWhitespaceCharacterCount": 1152,
-      "readingTimeInMinutes": 0.8905660377358491,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406643,
-      "modifiedDate": 1741048406643,
-      "sizeInBytes": 1896,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7866666666666666,
-        "wordCount": 236,
-        "characterCount": 1457,
-        "nonWhitespaceCharacterCount": 1152
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:15"
-      }
-    },
-    "Session-05/S05-APIS-and-Security.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742257989763,
-      "modifiedDate": 1742257989763,
-      "sizeInBytes": 161365,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Session-05/S05-APIS-and-Security.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2284,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.613333333333333,
-      "characterCount": 24494,
-      "nonWhitespaceCharacterCount": 17500,
-      "readingTimeInMinutes": 8.618867924528303,
-      "linkCount": 0,
-      "embedCount": 4,
-      "aliases": null,
-      "createdDate": 1741048406641,
-      "modifiedDate": 1741048406641,
-      "sizeInBytes": 26773,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.613333333333333,
-        "wordCount": 2284,
-        "characterCount": 24494,
-        "nonWhitespaceCharacterCount": 17500
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2024-10-03T09:15"
-      }
-    },
-    "Session-05/ReadMe.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 100,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3333333333333333,
-      "characterCount": 793,
-      "nonWhitespaceCharacterCount": 638,
-      "readingTimeInMinutes": 0.37735849056603776,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406641,
-      "modifiedDate": 1745893442505,
-      "sizeInBytes": 1239,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3333333333333333,
-        "wordCount": 100,
-        "characterCount": 793,
-        "nonWhitespaceCharacterCount": 638
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "ICT50220 - Adv Prog - SaaS 2 - BED",
-        "banner": "![[Black-Red-Banner.svg]]",
-        "banner_x": 1,
-        "banner_y": "0",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Overview"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-04-28T16:00"
-      }
-    },
-    "Session-03/S03-Reflection-Exercises.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 438,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.46,
-      "characterCount": 3111,
-      "nonWhitespaceCharacterCount": 2457,
-      "readingTimeInMinutes": 1.6528301886792454,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741653850851,
-      "modifiedDate": 1746505400226,
-      "sizeInBytes": 3484,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.46,
-        "wordCount": 438,
-        "characterCount": 3111,
-        "nonWhitespaceCharacterCount": 2457
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "1920x1080",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "Journal"
-        ],
-        "date created": "03 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-05-06T12:23"
-      }
-    },
-    "Session-03/S03-Designing-an-API.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 552,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.84,
-      "characterCount": 4625,
-      "nonWhitespaceCharacterCount": 3800,
-      "readingTimeInMinutes": 2.0830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406637,
-      "modifiedDate": 1746505400291,
-      "sizeInBytes": 4903,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.84,
-        "wordCount": 552,
-        "characterCount": 4625,
-        "nonWhitespaceCharacterCount": 3800
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "date created": "10 July 2024",
-        "date modified": "10 July 2024",
-        "created": "2024-07-31T07:52",
-        "updated": "2025-05-06T12:23"
-      }
-    },
     "Session-03/S03-Test-Driven-Development-User-Feature.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3188,6 +3097,41 @@
         "updated": "2025-05-06T12:23"
       }
     },
+    "Session-03/S03-Test-Driven-Development-Example.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 464,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5466666666666666,
+      "characterCount": 4734,
+      "nonWhitespaceCharacterCount": 3455,
+      "readingTimeInMinutes": 1.7509433962264151,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1741048406637,
+      "modifiedDate": 1746505400343,
+      "sizeInBytes": 4955,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5466666666666666,
+        "wordCount": 464,
+        "characterCount": 4734,
+        "nonWhitespaceCharacterCount": 3455
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "created": "2024-07-31T08:45",
+        "updated": "2025-05-06T12:23"
+      }
+    },
     "Session-03/S03-Test-Driven-Development-Overview.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3220,6 +3164,123 @@
         "auto-scaling": true,
         "size": "4k",
         "created": "2024-07-31T08:45",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-03/S03-Reflection-Exercises.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 438,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.46,
+      "characterCount": 3111,
+      "nonWhitespaceCharacterCount": 2457,
+      "readingTimeInMinutes": 1.6528301886792454,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741653850851,
+      "modifiedDate": 1746505400226,
+      "sizeInBytes": 3484,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.46,
+        "wordCount": 438,
+        "characterCount": 3111,
+        "nonWhitespaceCharacterCount": 2457
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "1920x1080",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "Journal"
+        ],
+        "date created": "03 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 408,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.36,
+      "characterCount": 5294,
+      "nonWhitespaceCharacterCount": 3831,
+      "readingTimeInMinutes": 1.539622641509434,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406637,
+      "modifiedDate": 1746505400223,
+      "sizeInBytes": 5515,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.36,
+        "wordCount": 408,
+        "characterCount": 5294,
+        "nonWhitespaceCharacterCount": 3831
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "created": "2024-08-01T14:33",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-03/S03-Designing-an-API.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 552,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.84,
+      "characterCount": 4625,
+      "nonWhitespaceCharacterCount": 3800,
+      "readingTimeInMinutes": 2.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406637,
+      "modifiedDate": 1746505400291,
+      "sizeInBytes": 4903,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.84,
+        "wordCount": 552,
+        "characterCount": 4625,
+        "nonWhitespaceCharacterCount": 3800
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "date created": "10 July 2024",
+        "date modified": "10 July 2024",
+        "created": "2024-07-31T07:52",
         "updated": "2025-05-06T12:23"
       }
     },
@@ -3269,116 +3330,6 @@
         "date modified": "08 July 2024",
         "created": "2024-07-31T07:52",
         "updated": "2025-04-28T16:00"
-      }
-    },
-    "Session-03/S03-Test-Driven-Development-Example.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 464,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5466666666666666,
-      "characterCount": 4734,
-      "nonWhitespaceCharacterCount": 3455,
-      "readingTimeInMinutes": 1.7509433962264151,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1741048406637,
-      "modifiedDate": 1746505400343,
-      "sizeInBytes": 4955,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.5466666666666666,
-        "wordCount": 464,
-        "characterCount": 4734,
-        "nonWhitespaceCharacterCount": 3455
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "created": "2024-07-31T08:45",
-        "updated": "2025-05-06T12:23"
-      }
-    },
-    "Session-03/S03-Test-Driven-Development-API-With-Model-Relationships.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 408,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.36,
-      "characterCount": 5294,
-      "nonWhitespaceCharacterCount": 3831,
-      "readingTimeInMinutes": 1.539622641509434,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406637,
-      "modifiedDate": 1746505400223,
-      "sizeInBytes": 5515,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.36,
-        "wordCount": 408,
-        "characterCount": 5294,
-        "nonWhitespaceCharacterCount": 3831
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "created": "2024-08-01T14:33",
-        "updated": "2025-05-06T12:23"
-      }
-    },
-    "Session-02/S02-Adding-XDebug.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 717,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.39,
-      "characterCount": 6686,
-      "nonWhitespaceCharacterCount": 5461,
-      "readingTimeInMinutes": 2.7056603773584906,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1741048406635,
-      "modifiedDate": 1746505400308,
-      "sizeInBytes": 7044,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.39,
-        "wordCount": 717,
-        "characterCount": 6686,
-        "nonWhitespaceCharacterCount": 5461
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "color": "#ccc",
-        "backgroundColor": "#060606",
-        "tags": "SaaS, APIs, Back-End",
-        "date created": "03 July 2024",
-        "date modified": "07 July 2024",
-        "created": "2024-07-31T08:45",
-        "updated": "2025-05-06T12:23"
       }
     },
     "Session-02/S02-What-is-an-API.md": {
@@ -3468,6 +3419,84 @@
         "updated": "2025-05-06T12:23"
       }
     },
+    "Session-02/S02-Our-First-API.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2008,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.693333333333333,
+      "characterCount": 15144,
+      "nonWhitespaceCharacterCount": 11599,
+      "readingTimeInMinutes": 7.577358490566038,
+      "linkCount": 0,
+      "embedCount": 6,
+      "aliases": null,
+      "createdDate": 1741048406635,
+      "modifiedDate": 1746505400262,
+      "sizeInBytes": 15481,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.693333333333333,
+        "wordCount": 2008,
+        "characterCount": 15144,
+        "nonWhitespaceCharacterCount": 11599
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "tags": "SaaS, APIs, Back-End",
+        "date created": "03 July 2024",
+        "date modified": "07 July 2024",
+        "created": "2024-07-31T07:52",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-02/S02-Adding-XDebug.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 717,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.39,
+      "characterCount": 6686,
+      "nonWhitespaceCharacterCount": 5461,
+      "readingTimeInMinutes": 2.7056603773584906,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1741048406635,
+      "modifiedDate": 1746505400308,
+      "sizeInBytes": 7044,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.39,
+        "wordCount": 717,
+        "characterCount": 6686,
+        "nonWhitespaceCharacterCount": 5461
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "color": "#ccc",
+        "backgroundColor": "#060606",
+        "tags": "SaaS, APIs, Back-End",
+        "date created": "03 July 2024",
+        "date modified": "07 July 2024",
+        "created": "2024-07-31T08:45",
+        "updated": "2025-05-06T12:23"
+      }
+    },
     "Session-02/ReadMe.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3513,151 +3542,58 @@
         "updated": "2025-05-06T12:23"
       }
     },
-    "Session-02/S02-Our-First-API.md": {
+    "research.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2008,
+      "wordCount": 195,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.693333333333333,
-      "characterCount": 15144,
-      "nonWhitespaceCharacterCount": 11599,
-      "readingTimeInMinutes": 7.577358490566038,
+      "pageCount": 0.65,
+      "characterCount": 6202,
+      "nonWhitespaceCharacterCount": 5768,
+      "readingTimeInMinutes": 0.7358490566037735,
       "linkCount": 0,
-      "embedCount": 6,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1741048406635,
-      "modifiedDate": 1746505400262,
-      "sizeInBytes": 15481,
+      "createdDate": 1741048407140,
+      "modifiedDate": 1741048407140,
+      "sizeInBytes": 6266,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 6.693333333333333,
-        "wordCount": 2008,
-        "characterCount": 15144,
-        "nonWhitespaceCharacterCount": 11599
+        "pageCount": 0.65,
+        "wordCount": 195,
+        "characterCount": 6202,
+        "nonWhitespaceCharacterCount": 5768
       },
       "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "tags": "SaaS, APIs, Back-End",
-        "date created": "03 July 2024",
-        "date modified": "07 July 2024",
         "created": "2024-07-31T07:52",
-        "updated": "2025-05-06T12:23"
+        "updated": "2024-08-08T17:07"
       }
     },
-    "Delivery-Specific.md": {
+    "Session-01/S01-WITS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 516,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.72,
-      "characterCount": 14018,
-      "nonWhitespaceCharacterCount": 6573,
-      "readingTimeInMinutes": 1.9471698113207547,
-      "linkCount": 41,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406632,
-      "modifiedDate": 1746505601190,
-      "sizeInBytes": 14426,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.72,
-        "wordCount": 516,
-        "characterCount": 14018,
-        "nonWhitespaceCharacterCount": 6573
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NM TAFE Banner](../assets/Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "tags": [
-          "SaaS",
-          "APIs",
-          "Back-End",
-          "MongoDB",
-          "NoSQL"
-        ],
-        "backgroundColor": "#ffffff",
-        "color": "#333333",
-        "date created": "08 July 2024",
-        "date modified": "08 July 2024",
-        "created": "2024-07-26T10:44",
-        "updated": "2025-04-28T11:38"
-      }
-    },
-    "ReadMe.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 260,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8666666666666667,
-      "characterCount": 8262,
-      "nonWhitespaceCharacterCount": 5054,
-      "readingTimeInMinutes": 0.9811320754716981,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406632,
-      "modifiedDate": 1746505400257,
-      "sizeInBytes": 8264,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8666666666666667,
-        "wordCount": 260,
-        "characterCount": 8262,
-        "nonWhitespaceCharacterCount": 5054
-      }
-    },
-    "Session-01/S01-Laravel-and-APIs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4215,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.05,
-      "characterCount": 36213,
-      "nonWhitespaceCharacterCount": 27389,
-      "readingTimeInMinutes": 15.90566037735849,
-      "linkCount": 1,
-      "embedCount": 13,
       "aliases": null,
       "createdDate": 1741048406634,
-      "modifiedDate": 1746505400218,
-      "sizeInBytes": 37144,
+      "modifiedDate": 1741048406634,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 14.05,
-        "wordCount": 4215,
-        "characterCount": 36213,
-        "nonWhitespaceCharacterCount": 27389
-      },
-      "frontmatter": {
-        "theme": "default",
-        "paginate": true,
-        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
-        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
-        "auto-scaling": true,
-        "size": "4k",
-        "tags": "SaaS, APIs, Back-End",
-        "date created": "03 July 2024",
-        "date modified": "09 July 2024",
-        "created": "2024-07-31T08:45",
-        "updated": "2025-05-06T12:23"
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Session-01/S01-Reflection-Exercises.md": {
@@ -3705,29 +3641,29 @@
         "updated": "2025-05-06T12:23"
       }
     },
-    "Session-01/S01-Documenting-Code-Revision.md": {
+    "Session-01/S01-Laravel-and-APIs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 665,
+      "wordCount": 4215,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.216666666666667,
-      "characterCount": 5980,
-      "nonWhitespaceCharacterCount": 4571,
-      "readingTimeInMinutes": 2.509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
+      "pageCount": 14.05,
+      "characterCount": 36213,
+      "nonWhitespaceCharacterCount": 27389,
+      "readingTimeInMinutes": 15.90566037735849,
+      "linkCount": 1,
+      "embedCount": 13,
       "aliases": null,
-      "createdDate": 1745893442501,
-      "modifiedDate": 1746505400267,
-      "sizeInBytes": 6439,
+      "createdDate": 1741048406634,
+      "modifiedDate": 1746505400218,
+      "sizeInBytes": 37144,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.216666666666667,
-        "wordCount": 665,
-        "characterCount": 5980,
-        "nonWhitespaceCharacterCount": 4571
+        "pageCount": 14.05,
+        "wordCount": 4215,
+        "characterCount": 36213,
+        "nonWhitespaceCharacterCount": 27389
       },
       "frontmatter": {
         "theme": "default",
@@ -3736,33 +3672,11 @@
         "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
         "auto-scaling": true,
         "size": "4k",
-        "created": "2025-04-03T10:10",
+        "tags": "SaaS, APIs, Back-End",
+        "date created": "03 July 2024",
+        "date modified": "09 July 2024",
+        "created": "2024-07-31T08:45",
         "updated": "2025-05-06T12:23"
-      }
-    },
-    "Session-01/S01-WITS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741048406634,
-      "modifiedDate": 1741048406634,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Session-01/S01-Journals.md": {
@@ -3802,6 +3716,41 @@
         "date created": "03 July 2024",
         "date modified": "07 July 2024",
         "created": "2024-07-31T08:45",
+        "updated": "2025-05-06T12:23"
+      }
+    },
+    "Session-01/S01-Documenting-Code-Revision.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 665,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.216666666666667,
+      "characterCount": 5980,
+      "nonWhitespaceCharacterCount": 4571,
+      "readingTimeInMinutes": 2.509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745893442501,
+      "modifiedDate": 1746505400267,
+      "sizeInBytes": 6439,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.216666666666667,
+        "wordCount": 665,
+        "characterCount": 5980,
+        "nonWhitespaceCharacterCount": 4571
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NMTAFE](../assets//Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "created": "2025-04-03T10:10",
         "updated": "2025-05-06T12:23"
       }
     },
@@ -3962,6 +3911,31 @@
         "updated": "2025-04-28T16:00"
       }
     },
+    "ReadMe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 260,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8666666666666667,
+      "characterCount": 8262,
+      "nonWhitespaceCharacterCount": 5054,
+      "readingTimeInMinutes": 0.9811320754716981,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741048406632,
+      "modifiedDate": 1746505400257,
+      "sizeInBytes": 8264,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8666666666666667,
+        "wordCount": 260,
+        "characterCount": 8262,
+        "nonWhitespaceCharacterCount": 5054
+      }
+    },
     "Contributor's-Guide.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3987,29 +3961,50 @@
         "nonWhitespaceCharacterCount": 2042
       }
     },
-    "assets/TDD-Circle@1x.svg": {
-      "isCountable": false,
+    "Delivery-Specific.md": {
+      "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 516,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.72,
+      "characterCount": 14018,
+      "nonWhitespaceCharacterCount": 6573,
+      "readingTimeInMinutes": 1.9471698113207547,
+      "linkCount": 41,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407035,
-      "modifiedDate": 1741048407035,
-      "sizeInBytes": 13640,
+      "aliases": null,
+      "createdDate": 1741048406632,
+      "modifiedDate": 1746505601190,
+      "sizeInBytes": 14426,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "noteCount": 1,
+        "pageCount": 1.72,
+        "wordCount": 516,
+        "characterCount": 14018,
+        "nonWhitespaceCharacterCount": 6573
+      },
+      "frontmatter": {
+        "theme": "default",
+        "paginate": true,
+        "footer": "© Copyright 2024, Adrian Gould & NM TAFE",
+        "header": "![NM TAFE Banner](../assets/Black-Red-Banner.svg)",
+        "auto-scaling": true,
+        "size": "4k",
+        "tags": [
+          "SaaS",
+          "APIs",
+          "Back-End",
+          "MongoDB",
+          "NoSQL"
+        ],
+        "backgroundColor": "#ffffff",
+        "color": "#333333",
+        "date created": "08 July 2024",
+        "date modified": "08 July 2024",
+        "created": "2024-07-26T10:44",
+        "updated": "2025-04-28T11:38"
       }
     },
     "assets/What-is-an-API-20240719140725141.png": {
@@ -4062,31 +4057,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/TDD-Circle@2x.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407036,
-      "modifiedDate": 1741048407036,
-      "sizeInBytes": 84308,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/vivaldi_BsQXA41Nje.gif": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4112,6 +4082,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/TDD-Circle@2x.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407036,
+      "modifiedDate": 1741048407036,
+      "sizeInBytes": 84308,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/TDD-Circle@1x.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407035,
+      "modifiedDate": 1741048407035,
+      "sizeInBytes": 13640,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/TDD-Circle@1x.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4129,56 +4149,6 @@
       "createdDate": 1741048407034,
       "modifiedDate": 1741048407035,
       "sizeInBytes": 38492,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/scribe-docs-home.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407129,
-      "modifiedDate": 1741048407129,
-      "sizeInBytes": 550600,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/SaaS-BED.jpeg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407034,
-      "modifiedDate": 1741048407034,
-      "sizeInBytes": 132068,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4262,7 +4232,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/SaaS-BED.jpg": {
+    "assets/scribe-docs-home.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4276,9 +4246,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407034,
-      "modifiedDate": 1741048407034,
-      "sizeInBytes": 25267,
+      "createdDate": 1741048407129,
+      "modifiedDate": 1741048407129,
+      "sizeInBytes": 550600,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4304,6 +4274,81 @@
       "createdDate": 1741048407126,
       "modifiedDate": 1741048407126,
       "sizeInBytes": 816158,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/SaaS-BED.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407034,
+      "modifiedDate": 1741048407034,
+      "sizeInBytes": 25267,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/SaaS-BED.jpeg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407034,
+      "modifiedDate": 1741048407034,
+      "sizeInBytes": 132068,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/saas-addiction.webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407116,
+      "modifiedDate": 1741048407117,
+      "sizeInBytes": 65128,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4362,56 +4407,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/saas-addiction.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407116,
-      "modifiedDate": 1741048407117,
-      "sizeInBytes": 65128,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/S10-MongoDB-3-20241025112230667.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407029,
-      "modifiedDate": 1741048407029,
-      "sizeInBytes": 23261,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/S10-MongoDB-3-20241025112620017.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4462,6 +4457,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/S10-MongoDB-3-20241025112230667.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407029,
+      "modifiedDate": 1741048407029,
+      "sizeInBytes": 23261,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/S09-MongoDB-2-Installing-Windows-20240912134242968.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4479,6 +4499,31 @@
       "createdDate": 1741048407029,
       "modifiedDate": 1741048407029,
       "sizeInBytes": 15955,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/S09-MongoDB-2-Installing-Windows-20240912134101143.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407028,
+      "modifiedDate": 1741048407029,
+      "sizeInBytes": 44318,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4537,31 +4582,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/S09-MongoDB-2-Installing-Windows-20240912134101143.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407028,
-      "modifiedDate": 1741048407029,
-      "sizeInBytes": 44318,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/S09-MongoDB-2-Installing-Windows-20240912133513760.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4579,56 +4599,6 @@
       "createdDate": 1741048407027,
       "modifiedDate": 1741048407027,
       "sizeInBytes": 89266,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/S07-Image-Uploads-and-APIs-20240830131527381.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407023,
-      "modifiedDate": 1741048407023,
-      "sizeInBytes": 23338,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/S09-MongoDB-1-Introduction-20240912102155996.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407025,
-      "modifiedDate": 1741048407025,
-      "sizeInBytes": 319212,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4662,7 +4632,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/S07-Image-Uploads-and-APIs-20240830120823987.png": {
+    "assets/S09-MongoDB-1-Introduction-20240912102155996.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4676,34 +4646,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407020,
-      "modifiedDate": 1741048407020,
-      "sizeInBytes": 354764,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/S07-Image-Uploads-and-APIs-20240830124919188.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407021,
-      "modifiedDate": 1741048407021,
-      "sizeInBytes": 37167,
+      "createdDate": 1741048407025,
+      "modifiedDate": 1741048407025,
+      "sizeInBytes": 319212,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4729,6 +4674,31 @@
       "createdDate": 1741048407023,
       "modifiedDate": 1741048407023,
       "sizeInBytes": 34461,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/S07-Image-Uploads-and-APIs-20240830131527381.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407023,
+      "modifiedDate": 1741048407023,
+      "sizeInBytes": 23338,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4787,6 +4757,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/S07-Image-Uploads-and-APIs-20240830124919188.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407021,
+      "modifiedDate": 1741048407021,
+      "sizeInBytes": 37167,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/S07-Image-Uploads-and-APIs-20240830124424171.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4829,6 +4824,31 @@
       "createdDate": 1741048407020,
       "modifiedDate": 1741048407020,
       "sizeInBytes": 11808,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/S07-Image-Uploads-and-APIs-20240830120823987.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407020,
+      "modifiedDate": 1741048407020,
+      "sizeInBytes": 354764,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4937,31 +4957,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/S07-Image-Uploads-and-APIs-20240830115102083.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406997,
-      "modifiedDate": 1741048406997,
-      "sizeInBytes": 26083,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/S07-Image-Uploads-and-APIs-20240830115311068.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4979,6 +4974,31 @@
       "createdDate": 1741048406997,
       "modifiedDate": 1741048406997,
       "sizeInBytes": 16153,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/S07-Image-Uploads-and-APIs-20240830115102083.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406997,
+      "modifiedDate": 1741048406997,
+      "sizeInBytes": 26083,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5037,31 +5057,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/S07-Image-Uploads-and-APIs-20240830114647653.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406996,
-      "modifiedDate": 1741048406996,
-      "sizeInBytes": 9087,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/S07-Image-Uploads-and-APIs-20240830114659031.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5087,7 +5082,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/S06-Using-Scramble-to-Document-an-API-20250310172604676.png": {
+    "assets/S07-Image-Uploads-and-APIs-20240830114647653.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5101,9 +5096,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741653850867,
-      "modifiedDate": 1741653850867,
-      "sizeInBytes": 40568,
+      "createdDate": 1741048406996,
+      "modifiedDate": 1741048406996,
+      "sizeInBytes": 9087,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5162,7 +5157,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/S06-Using-Scramble-to-Document-an-API-20250310172017067.png": {
+    "assets/S07-Image-Uploads-and-APIs-20240830114206076.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5176,9 +5171,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741653850851,
-      "modifiedDate": 1741653850851,
-      "sizeInBytes": 23508,
+      "createdDate": 1741048406995,
+      "modifiedDate": 1741048406995,
+      "sizeInBytes": 1900,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5212,31 +5207,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/S07-Image-Uploads-and-APIs-20240830114206076.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406995,
-      "modifiedDate": 1741048406995,
-      "sizeInBytes": 1900,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/S07-Image-Uploads-and-APIs-20240830114057267.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5262,6 +5232,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/S06-Using-Scramble-to-Document-an-API-20250310172604676.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741653850867,
+      "modifiedDate": 1741653850867,
+      "sizeInBytes": 40568,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/S07-Image-Uploads-and-APIs-20240830110630063.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5279,6 +5274,31 @@
       "createdDate": 1741048406994,
       "modifiedDate": 1741048406994,
       "sizeInBytes": 39124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/S06-Using-Scramble-to-Document-an-API-20250310172017067.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741653850851,
+      "modifiedDate": 1741653850851,
+      "sizeInBytes": 23508,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5387,31 +5407,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/rubber-duck-debugging.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407115,
-      "modifiedDate": 1741048407115,
-      "sizeInBytes": 111074,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/rubber-duck-debugging.webp": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5437,6 +5432,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/rubber-duck-debugging.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407115,
+      "modifiedDate": 1741048407115,
+      "sizeInBytes": 111074,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/Rest-API-Logo@1x.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5454,6 +5474,31 @@
       "createdDate": 1741048406992,
       "modifiedDate": 1741048406992,
       "sizeInBytes": 4438,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/Postman_xkeegoQQYO.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416050,
+      "modifiedDate": 1742258416050,
+      "sizeInBytes": 150750,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5512,31 +5557,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/postman-workspace-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416063,
-      "modifiedDate": 1742258416064,
-      "sizeInBytes": 88382,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/postman-workspace-2.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5562,7 +5582,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/Postman_xkeegoQQYO.png": {
+    "assets/postman-workspace-1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5576,9 +5596,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742258416050,
-      "modifiedDate": 1742258416050,
-      "sizeInBytes": 150750,
+      "createdDate": 1742258416063,
+      "modifiedDate": 1742258416064,
+      "sizeInBytes": 88382,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5612,31 +5632,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/postman-sign-up-4.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416062,
-      "modifiedDate": 1742258416062,
-      "sizeInBytes": 15180,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/postman-user-register-v1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5654,56 +5649,6 @@
       "createdDate": 1745893442533,
       "modifiedDate": 1745893442533,
       "sizeInBytes": 18812,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/postman-user-profile-request-v1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1745893442532,
-      "modifiedDate": 1745893442533,
-      "sizeInBytes": 29363,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/postman-send.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416061,
-      "modifiedDate": 1742258416061,
-      "sizeInBytes": 2895,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5737,6 +5682,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/postman-user-profile-request-v1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1745893442532,
+      "modifiedDate": 1745893442533,
+      "sizeInBytes": 29363,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/postman-user-login-v1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5754,6 +5724,31 @@
       "createdDate": 1745893442532,
       "modifiedDate": 1745893442532,
       "sizeInBytes": 14620,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-sign-up-4.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416062,
+      "modifiedDate": 1742258416062,
+      "sizeInBytes": 15180,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5804,6 +5799,31 @@
       "createdDate": 1742258416062,
       "modifiedDate": 1742258416062,
       "sizeInBytes": 13456,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-send.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416061,
+      "modifiedDate": 1742258416061,
+      "sizeInBytes": 2895,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5887,31 +5907,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/postman-request-success-4.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416060,
-      "modifiedDate": 1742258416060,
-      "sizeInBytes": 15545,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/postman-requests-2.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5929,6 +5924,31 @@
       "createdDate": 1742258416060,
       "modifiedDate": 1742258416060,
       "sizeInBytes": 32747,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-request-success-4.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416060,
+      "modifiedDate": 1742258416060,
+      "sizeInBytes": 15545,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5962,31 +5982,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/postman-request-success-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416059,
-      "modifiedDate": 1742258416059,
-      "sizeInBytes": 41554,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/postman-request-success-2.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6004,6 +5999,31 @@
       "createdDate": 1742258416059,
       "modifiedDate": 1742258416059,
       "sizeInBytes": 35178,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-request-success-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416059,
+      "modifiedDate": 1742258416059,
+      "sizeInBytes": 41554,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6062,31 +6082,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/postman-folders-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416055,
-      "modifiedDate": 1742258416055,
-      "sizeInBytes": 9652,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/postman-request-3a.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6104,56 +6099,6 @@
       "createdDate": 1742258416057,
       "modifiedDate": 1742258416058,
       "sizeInBytes": 6312,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/postman-headers-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416056,
-      "modifiedDate": 1742258416056,
-      "sizeInBytes": 1238,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/postman-headers-2.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416056,
-      "modifiedDate": 1742258416056,
-      "sizeInBytes": 1607,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6237,7 +6182,57 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/postman-create-account-1.png": {
+    "assets/postman-headers-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416056,
+      "modifiedDate": 1742258416056,
+      "sizeInBytes": 1238,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-headers-2.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416056,
+      "modifiedDate": 1742258416056,
+      "sizeInBytes": 1607,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-folders-1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6253,7 +6248,7 @@
       "aliases": [],
       "createdDate": 1742258416055,
       "modifiedDate": 1742258416055,
-      "sizeInBytes": 28341,
+      "sizeInBytes": 9652,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6312,7 +6307,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/postman-collection-2.png": {
+    "assets/postman-create-account-1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6326,34 +6321,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742258416054,
-      "modifiedDate": 1742258416054,
-      "sizeInBytes": 12697,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/postman-collection-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416053,
-      "modifiedDate": 1742258416054,
-      "sizeInBytes": 36363,
+      "createdDate": 1742258416055,
+      "modifiedDate": 1742258416055,
+      "sizeInBytes": 28341,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6404,6 +6374,56 @@
       "createdDate": 1742258416054,
       "modifiedDate": 1742258416054,
       "sizeInBytes": 7513,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-collection-2.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416054,
+      "modifiedDate": 1742258416054,
+      "sizeInBytes": 12697,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/postman-collection-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416053,
+      "modifiedDate": 1742258416054,
+      "sizeInBytes": 36363,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6512,31 +6532,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/phpstorm-test-green.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407108,
-      "modifiedDate": 1741048407109,
-      "sizeInBytes": 188144,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/phpstorm-test-runner-autorerun.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6587,7 +6582,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/Obsidian_h9i3Nw984c.gif": {
+    "assets/phpstorm-test-green.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6601,34 +6596,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048406984,
-      "modifiedDate": 1741048406984,
-      "sizeInBytes": 195812,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/Obsidian_xVuFmRnXbW.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406985,
-      "modifiedDate": 1741048406986,
-      "sizeInBytes": 211570,
+      "createdDate": 1741048407108,
+      "modifiedDate": 1741048407109,
+      "sizeInBytes": 188144,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6712,6 +6682,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/Obsidian_xVuFmRnXbW.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406985,
+      "modifiedDate": 1741048406986,
+      "sizeInBytes": 211570,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/Obsidian_h9i3Nw984c.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406984,
+      "modifiedDate": 1741048406984,
+      "sizeInBytes": 195812,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/Obsidian_07VVnnyMq6.gif": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6729,6 +6749,56 @@
       "createdDate": 1741048406982,
       "modifiedDate": 1741048406982,
       "sizeInBytes": 275274,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/not-writing-unit-tests.webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407093,
+      "modifiedDate": 1741048407093,
+      "sizeInBytes": 160132,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/not-writing-unit-tests.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407092,
+      "modifiedDate": 1741048407093,
+      "sizeInBytes": 123174,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6787,7 +6857,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/not-writing-unit-tests.webp": {
+    "assets/MongoDB-Learning-Path-20240905152357471.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6801,9 +6871,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407093,
-      "modifiedDate": 1741048407093,
-      "sizeInBytes": 160132,
+      "createdDate": 1741048406979,
+      "modifiedDate": 1741048406980,
+      "sizeInBytes": 4307,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6837,7 +6907,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/not-writing-unit-tests.jpg": {
+    "assets/MongoDB-Learning-Path-20240905145827298.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6851,84 +6921,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407092,
-      "modifiedDate": 1741048407093,
-      "sizeInBytes": 123174,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/MongoDB-Learning-Path-20240905152357471.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406979,
-      "modifiedDate": 1741048406980,
-      "sizeInBytes": 4307,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/MongoDB-Learning-Path-20240905145817076.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406977,
-      "modifiedDate": 1741048406977,
-      "sizeInBytes": 7143,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/MongoDB-Learning-Path-20240905145823108.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406977,
+      "createdDate": 1741048406978,
       "modifiedDate": 1741048406978,
-      "sizeInBytes": 4927,
+      "sizeInBytes": 7143,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6962,7 +6957,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/MongoDB-Learning-Path-20240905145827298.png": {
+    "assets/MongoDB-Learning-Path-20240905145823108.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6976,9 +6971,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048406978,
+      "createdDate": 1741048406977,
       "modifiedDate": 1741048406978,
-      "sizeInBytes": 7143,
+      "sizeInBytes": 4927,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6987,7 +6982,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/MongoDB-Learning-Path-20240905145800687.png": {
+    "assets/MongoDB-Learning-Path-20240905145817076.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7001,9 +6996,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048406976,
-      "modifiedDate": 1741048406976,
-      "sizeInBytes": 1684,
+      "createdDate": 1741048406977,
+      "modifiedDate": 1741048406977,
+      "sizeInBytes": 7143,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7037,6 +7032,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/MongoDB-Learning-Path-20240905145800687.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406976,
+      "modifiedDate": 1741048406976,
+      "sizeInBytes": 1684,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/MongoDB-Learning-Path-20240905145745631.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7054,6 +7074,56 @@
       "createdDate": 1741048406976,
       "modifiedDate": 1741048406976,
       "sizeInBytes": 60275,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/MongoDB-Learning-Path-20240905145723563.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406956,
+      "modifiedDate": 1741048406975,
+      "sizeInBytes": 40389,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/MongoDB-Learning-Path-20240905145654430.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406956,
+      "modifiedDate": 1741048406956,
+      "sizeInBytes": 18461,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7112,81 +7182,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/MongoDB-Learning-Path-20240905145654430.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406956,
-      "modifiedDate": 1741048406956,
-      "sizeInBytes": 18461,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/MongoDB-Learning-Path-20240905145723563.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406956,
-      "modifiedDate": 1741048406975,
-      "sizeInBytes": 40389,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/laragon_6nQyamKois.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407090,
-      "modifiedDate": 1741048407090,
-      "sizeInBytes": 186684,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/Laravel-and-APIs-20240718115929653.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7204,31 +7199,6 @@
       "createdDate": 1741048406680,
       "modifiedDate": 1741048406681,
       "sizeInBytes": 191544,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/laragon_EXh7UtOevo.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407090,
-      "modifiedDate": 1741048407090,
-      "sizeInBytes": 82343,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7262,7 +7232,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/GraphQL-Logo@1x.svg": {
+    "assets/laragon_EXh7UtOevo.gif": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7276,9 +7246,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048406679,
-      "modifiedDate": 1741048406679,
-      "sizeInBytes": 9688,
+      "createdDate": 1741048407090,
+      "modifiedDate": 1741048407090,
+      "sizeInBytes": 82343,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7287,7 +7257,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/gRPC-Logo@1x.svg": {
+    "assets/laragon_6nQyamKois.gif": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7301,9 +7271,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407089,
-      "modifiedDate": 1741048407089,
-      "sizeInBytes": 5841,
+      "createdDate": 1741048407090,
+      "modifiedDate": 1741048407090,
+      "sizeInBytes": 186684,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7337,7 +7307,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/explorer_K3iOL5JiC6.gif": {
+    "assets/gRPC-Logo@1x.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7351,9 +7321,34 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407068,
-      "modifiedDate": 1741048407069,
-      "sizeInBytes": 186584,
+      "createdDate": 1741048407089,
+      "modifiedDate": 1741048407089,
+      "sizeInBytes": 5841,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/GraphQL-Logo@1x.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406679,
+      "modifiedDate": 1741048406679,
+      "sizeInBytes": 9688,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7379,56 +7374,6 @@
       "createdDate": 1741048407077,
       "modifiedDate": 1741048407077,
       "sizeInBytes": 1004460,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/explorer_Pci0tdH4n2.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1745893442531,
-      "modifiedDate": 1745893442531,
-      "sizeInBytes": 443216,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/explorer_oo0JfYFIxZ.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407088,
-      "modifiedDate": 1741048407088,
-      "sizeInBytes": 2097661,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7487,7 +7432,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/explorer_AwmGkSETPE.gif": {
+    "assets/explorer_Pci0tdH4n2.gif": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7501,9 +7446,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407067,
-      "modifiedDate": 1741048407067,
-      "sizeInBytes": 69959,
+      "createdDate": 1745893442531,
+      "modifiedDate": 1745893442531,
+      "sizeInBytes": 443216,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7512,7 +7457,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/explorer_9maIfR0ARx 1.gif": {
+    "assets/explorer_oo0JfYFIxZ.gif": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7526,9 +7471,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407055,
-      "modifiedDate": 1741048407055,
-      "sizeInBytes": 2323605,
+      "createdDate": 1741048407088,
+      "modifiedDate": 1741048407088,
+      "sizeInBytes": 2097661,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7537,7 +7482,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/explorer_9maIfR0ARx.gif": {
+    "assets/explorer_K3iOL5JiC6.gif": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7551,9 +7496,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048407065,
-      "modifiedDate": 1741048407066,
-      "sizeInBytes": 2323605,
+      "createdDate": 1741048407068,
+      "modifiedDate": 1741048407069,
+      "sizeInBytes": 186584,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7587,6 +7532,81 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/explorer_AwmGkSETPE.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407067,
+      "modifiedDate": 1741048407067,
+      "sizeInBytes": 69959,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/explorer_9maIfR0ARx.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407065,
+      "modifiedDate": 1741048407066,
+      "sizeInBytes": 2323605,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/explorer_9maIfR0ARx 1.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407055,
+      "modifiedDate": 1741048407055,
+      "sizeInBytes": 2323605,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/explorer_3MCbYqmxVh.gif": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7604,31 +7624,6 @@
       "createdDate": 1741048407044,
       "modifiedDate": 1741048407044,
       "sizeInBytes": 604605,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/explorer_1ZCY8cGLF1.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407040,
-      "modifiedDate": 1741048407040,
-      "sizeInBytes": 27938,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7687,6 +7682,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "assets/explorer_1ZCY8cGLF1.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407040,
+      "modifiedDate": 1741048407040,
+      "sizeInBytes": 27938,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "assets/draft-testing.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7712,31 +7732,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/cli-pest-green.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048407038,
-      "modifiedDate": 1741048407038,
-      "sizeInBytes": 263795,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/CleanShot 2024-07-06 at 21.10.45.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7754,6 +7749,31 @@
       "createdDate": 1741048406679,
       "modifiedDate": 1741048406679,
       "sizeInBytes": 196010,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/cli-pest-green.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048407038,
+      "modifiedDate": 1741048407038,
+      "sizeInBytes": 263795,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7812,31 +7832,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/CleanShot 2024-07-06 at 13.49.25.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741048406674,
-      "modifiedDate": 1741048406675,
-      "sizeInBytes": 128682,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/CleanShot 2024-07-06 at 18.25.08.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7854,6 +7849,31 @@
       "createdDate": 1741048406676,
       "modifiedDate": 1741048406676,
       "sizeInBytes": 205889,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/CleanShot 2024-07-06 at 13.49.25.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406674,
+      "modifiedDate": 1741048406675,
+      "sizeInBytes": 128682,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7887,31 +7907,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/artisan-route-list-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742258416052,
-      "modifiedDate": 1742258416052,
-      "sizeInBytes": 330582,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/CleanShot 2024-07-06 at 13.35.40.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7929,31 +7924,6 @@
       "createdDate": 1741048406673,
       "modifiedDate": 1741048406673,
       "sizeInBytes": 331195,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "assets/api-v2-php-source-code-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1745893442528,
-      "modifiedDate": 1745893442528,
-      "sizeInBytes": 90494,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7987,31 +7957,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/api-v1-php-source-code.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1745893442527,
-      "modifiedDate": 1745893442527,
-      "sizeInBytes": 98000,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "assets/api-v2-php-source-code-3.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -8037,7 +7982,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/animation-refactoring-file-locations-1.gif": {
+    "assets/api-v2-php-source-code-1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8051,9 +7996,59 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1745893442526,
-      "modifiedDate": 1745893442526,
-      "sizeInBytes": 1479927,
+      "createdDate": 1745893442528,
+      "modifiedDate": 1745893442528,
+      "sizeInBytes": 90494,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/artisan-route-list-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742258416052,
+      "modifiedDate": 1742258416052,
+      "sizeInBytes": 330582,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/api-v1-php-source-code.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1745893442527,
+      "modifiedDate": 1745893442527,
+      "sizeInBytes": 98000,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8087,7 +8082,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "assets/7zFM_dDraJmxry8.gif": {
+    "assets/animation-refactoring-file-locations-1.gif": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8101,9 +8096,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741048406668,
-      "modifiedDate": 1741048406668,
-      "sizeInBytes": 977909,
+      "createdDate": 1745893442526,
+      "modifiedDate": 1745893442526,
+      "sizeInBytes": 1479927,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8129,6 +8124,31 @@
       "createdDate": 1741048406670,
       "modifiedDate": 1741048406671,
       "sizeInBytes": 359974,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "assets/7zFM_dDraJmxry8.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741048406668,
+      "modifiedDate": 1741048406668,
+      "sizeInBytes": 977909,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

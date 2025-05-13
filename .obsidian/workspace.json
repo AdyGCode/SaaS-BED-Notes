@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-13/S10-MongoDB-3A.md",
+                "file": "Session-13/S13-MongoDB-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S10-MongoDB-3A"
+              "title": "S13-MongoDB-8"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "bda0b31493289f0a",
   "lastOpenFiles": [
+    "Session-13/S10-MongoDB-3A.md",
     "Session-13/S13-MongoDB-8.md",
     "Session-13/S13-MongoDB-7.md",
-    "Session-13/S10-MongoDB-3A.md",
     "Session-01/S01-Reflection-Exercises.md~",
     "Session-13/S13-MongoDB-9.md",
     "Session-13/S13-MongoDB-10.md",

@@ -1,7 +1,7 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
 created: 2024-07-31T07:52
-updated: 2025-05-06T12:20
+updated: 2025-05-13T12:26
 theme: default
 paginate: true
 footer: © Copyright 2024, Adrian Gould & NM TAFE
@@ -56,6 +56,8 @@ By this week you should have completed all the MongoDB University chapters.
 
 If you have not done so, refer to the notes in [MongoDB-Learning-Path](../Session-09/S09-MongoDB-Learning-Path.md) for details on signing up for MongoDB University and the Course(s) that are to be undertaken for free.
 
+> It is STRONGLY suggested that you update composer on a regular schedule using `composer self-update`
+
 
 # Using MongoDB with Laravel
 
@@ -67,6 +69,14 @@ Windows PHP 8.3 Thread Safe MongoDB Drivers (plus xdebug)
 Uncompress and then move the DLLs to the `laragon/bin/php/php-xxxx/ext` folder.
 
 
+> Other versions of the MongoDB drivers and xDebug:
+> - [MongoDB PHP Drivers](https://www.mongodb.com/docs/drivers/php-drivers/) / https://github.com/mongodb/mongo-php-driver/releases/
+> - [xDebug Downloads](https://xdebug.org/download)
+>
+> MongoDB installation details:
+> - https://www.php.net/manual/en/mongodb.installation.php
+
+
 ### Edit the PHP.INI 
 
 This has to happen for any version of PHP you are using.
@@ -74,6 +84,7 @@ This has to happen for any version of PHP you are using.
 Move to the end of the `.ini` file and add teh lines below:
 
 > NOte: If you have installed xDebug previously, you may want to move the `zend_entension` from its original location to this new spot.
+> 
 > In many ways, keeping the extension and settings together can be very useful for quickly locating all related parts.
 
 ```
@@ -89,9 +100,15 @@ extension=php_mongodb.dll
 
 When you have done this, you should stop and start Apache, if you are using Laragon.
 
+> You MUST rename the xDebug and MongoDB extensions. For example: > `extension=php_mongodb`
+
+> ## ⚠️ Make sure you have the CORRECT version of the files for YOUR version of PHP!
+
+
+
 ### Create Laravel App
 
-Before we create the shell of the application, let's do a check if the laravel installer or any of the required packages need updating:
+Before we create the shell of the application, let's do a check if the Laravel installer or any of the required packages need updating:
 
 ```shell
 composer global require laravel/installer
@@ -110,9 +127,7 @@ laravel new APPLICATION_NAME
 ### Install MongoDB packages
 
 ```shell
-
 composer require mongodb/mongodb mongodb/laravel-mongodb
-
 ```
 
 ### Update `database.php` configuration
