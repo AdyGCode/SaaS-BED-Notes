@@ -15,7 +15,7 @@
               "state": {
                 "file": "Session-13/S13-MongoDB-8.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "S13-MongoDB-8"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 204.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -190,6 +190,8 @@
   },
   "active": "bda0b31493289f0a",
   "lastOpenFiles": [
+    "assets/ftmZq1dJwC.gif",
+    "assets/Obsidian_urW6fZphBB.gif",
     "Session-13/S10-MongoDB-3A.md",
     "Session-13/S13-MongoDB-8.md",
     "Session-13/S13-MongoDB-7.md",
@@ -225,7 +227,6 @@
     "assets/postman-headers-1.png",
     "assets/artisan-route-list-1.png",
     "assets/phpstorm-routes-api-1.png",
-    "assets/postman-request-error.png",
     "Session-03/S03-Designing-an-API.pdf",
     "Session-03/ReadMe.pdf",
     "_backup",
