@@ -11,14 +11,10 @@
             "id": "bda0b31493289f0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session-13/S13-MongoDB-8.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "S13-MongoDB-8"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 387.5
   },
   "right": {
     "id": "4927f750af14caa4",
@@ -192,9 +188,9 @@
   "lastOpenFiles": [
     "assets/ftmZq1dJwC.gif",
     "assets/Obsidian_urW6fZphBB.gif",
+    "Session-13/S13-MongoDB-7.md",
     "Session-13/S10-MongoDB-3A.md",
     "Session-13/S13-MongoDB-8.md",
-    "Session-13/S13-MongoDB-7.md",
     "Session-01/S01-Reflection-Exercises.md~",
     "Session-13/S13-MongoDB-9.md",
     "Session-13/S13-MongoDB-10.md",
