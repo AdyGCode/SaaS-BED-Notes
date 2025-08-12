@@ -3,13 +3,13 @@
 Commit messages **must** use the conventional commit style. This is outlined below:
 
 | Type of commit          | Prefix    | Example                                 | Notes         |
-| ----------------------- | --------- | --------------------------------------- | ------------- |
+|-------------------------|-----------|-----------------------------------------|---------------|
 | Start of project        | init      | init: Start of Project                  |               |
 | Feature work            | feat      | feat: Add User create method            |               |
 | Feature with identifier | feat(...) | feat(user): Add create method           | **preferred** |
 | Bug fix                 | fix(...)  | fix(user): Fix issue #1234              |               |
 | Documentation           | docs(...) | docs(user): Update Scribe documentation | **preferred** |
-|                         |           |                                         |               |
+| Tests                   | test(...) | test(API/v2/category): Start of tests   | **preferred** |
 |                         |           |                                         |               |
 
 Other conventional commit message types are available, and you are directed to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more guidance and examples.
