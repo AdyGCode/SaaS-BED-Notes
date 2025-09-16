@@ -11,10 +11,14 @@
             "id": "bda0b31493289f0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session-09/S09-MongoDB-Learning-Path.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "S09-MongoDB-Learning-Path"
             }
           }
         ]
@@ -169,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "daily-notes:Open today's daily note": false,
@@ -186,6 +191,8 @@
   },
   "active": "bda0b31493289f0a",
   "lastOpenFiles": [
+    "Session-09/S09-MongoDB-1-Introduction.md",
+    "Session-09/S09-NoSQL-Introduction.md",
     "assets/ftmZq1dJwC.gif",
     "assets/Obsidian_urW6fZphBB.gif",
     "Session-13/S13-MongoDB-7.md",
@@ -208,7 +215,6 @@
     "Session-12/S12-MongoDB-6.md",
     "Session-12/S12-Reflection-Exercises.md",
     "Session-09/S09-MongoDB-2-Installing-Windows.md",
-    "Session-09/S09-MongoDB-1-Introduction.md",
     "Session-07/S07-Postman-and-APIs.md",
     "Session-06/S06-Using-Scramble-to-Document-an-API.md",
     "Session-09/ReadMe.md",
@@ -222,7 +228,6 @@
     "assets/postman-headers-2.png",
     "assets/postman-headers-1.png",
     "assets/artisan-route-list-1.png",
-    "assets/phpstorm-routes-api-1.png",
     "Session-03/S03-Designing-an-API.pdf",
     "Session-03/ReadMe.pdf",
     "_backup",
