@@ -1,5 +1,10 @@
 ---
 banner: "![[Black-Red-Banner.svg]]"
+created: 2025-08-05T11:49
+updated: 2025-09-16T11:22
+---
+---
+banner: "![[Black-Red-Banner.svg]]"
 created: 2024-07-31T07:52
 updated: 2025-05-06T08:32
 theme: default
@@ -99,16 +104,16 @@ You will also be expected to complete some learning during our non-contact week.
 
 | Session | Chapter                                               | Link                                                                                   | Duration (Mins) |
 | ------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------- |
-| 10-11      | Intro to MongoDB                                      | https://learn.mongodb.com/courses/start-here-introduction-to-mongodb                   | 15              |
-| 10-11      | Getting Started with MongoDB Atlas                    | https://learn.mongodb.com/courses/getting-started-with-mongodb-atlas                   | 60              |
-| 10-11      | MongoDB and the Document Model                        | https://learn.mongodb.com/courses/overview-of-mongodb-and-the-document-model           | 75              |
+| 10-11   | Intro to MongoDB                                      | https://learn.mongodb.com/courses/start-here-introduction-to-mongodb                   | 15              |
+| 10-11   | Getting Started with MongoDB Atlas                    | https://learn.mongodb.com/courses/getting-started-with-mongodb-atlas                   | 60              |
+| 10-11   | MongoDB and the Document Model                        | https://learn.mongodb.com/courses/overview-of-mongodb-and-the-document-model           | 75              |
 | 11-12   | Connecting to a MongoDB Database                      | https://learn.mongodb.com/courses/connecting-to-a-mongodb-database                     | 60              |
 | 11-12   | MongoDB CRUD Operations: Insert and Find Documents    | https://learn.mongodb.com/courses/mongodb-crud-operations-insert-and-find-documents    | 105             |
-| 11-12      | MongoDB CRUD Operations: Replace and Delete Documents | https://learn.mongodb.com/courses/mongodb-crud-operations-replace-and-delete-documents | 105             |
+| 11-12   | MongoDB CRUD Operations: Replace and Delete Documents | https://learn.mongodb.com/courses/mongodb-crud-operations-replace-and-delete-documents | 105             |
 | 12      | MongoDB CRUD Operations: Modifying Query Results      | https://learn.mongodb.com/courses/mongodb-crud-operations-modifying-query-results      | 85              |
-| 12   | MongoDB Aggregation                                   | https://learn.mongodb.com/courses/mongodb-aggregation                                  | 105             |
-| 12-13      | MongoDB Indexes                                       | https://learn.mongodb.com/courses/mongodb-indexes                                      | 105             |
-| 12-13      | MongoDB Atlas Search                                  | https://learn.mongodb.com/courses/mongodb-atlas-search                                 | 90              |
+| 12      | MongoDB Aggregation                                   | https://learn.mongodb.com/courses/mongodb-aggregation                                  | 105             |
+| 12-13   | MongoDB Indexes                                       | https://learn.mongodb.com/courses/mongodb-indexes                                      | 105             |
+| 12-13   | MongoDB Atlas Search                                  | https://learn.mongodb.com/courses/mongodb-atlas-search                                 | 90              |
 | 13      | MongoDB Data Modelling Intro                          | https://learn.mongodb.com/courses/introduction-to-mongodb-data-modeling                | 45              |
 | 13      | MongoDB Transactions                                  | https://learn.mongodb.com/courses/mongodb-transactions                                 | 60              |
 
