@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e8ec591917efb0",
+        "id": "fcb72205be3d77bd",
         "type": "tabs",
         "children": [
           {
-            "id": "bda0b31493289f0a",
+            "id": "f571043329d45ea9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bda0b31493289f0a",
+  "active": "f571043329d45ea9",
   "lastOpenFiles": [
     "assets/ftmZq1dJwC.gif",
     "assets/Obsidian_urW6fZphBB.gif",
