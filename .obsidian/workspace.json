@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "daily-notes:Open today's daily note": false,
