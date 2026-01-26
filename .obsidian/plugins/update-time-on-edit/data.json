@@ -23,7 +23,7 @@
     "Session-07/S07-Exercises-and-Journal-Entry.md": "e81ac21b530a6d6320d5d979f4bb2761ad087862ead041d1696a241dc3a8b13e",
     "Session-09/S09-Exercises-and-Journal-Entry.md": "5c36ab91ba4685918f03a4935d8fa86cc7584ec7f762b674dab6dbac4f238ae1",
     "Session-10/ReadMe.md": "b877c1c5a1fd7761b7aa034603cfbdcb1ea56e3d2dfc017cf149de7b40503dac",
-    "Delivery-Specific.md": "f7befd99486fc0d17b0d02f91b17152936266294e5c26ba706c11e34a35c006b",
+    "Delivery-Specific.md": "f5c33e5d8fee61984b4bb1f73099b1c977397cb54245cfa54957bc0c22f1bfc2",
     "templates/sessions.md": "36d8335e7d8a88e5d9abf573656588359c7bc7f8d4e4c06245e1bbec51c64bc0",
     "Session-08/ReadMe.md": "dd17664e27d33d594179164f7849a95030724bf11ba0795de01aef69c21f8b6e",
     "Session-08/S08-Adding-API-Roles-Permissions.md": "4115bfce1817b0de1a5c42a3ff45a313c4b3939abce5f58f6ab8749a0e9327ed",
@@ -50,7 +50,7 @@
     "Session-13/S13-Exercises-and-Journal-Entry.md": "1fba3ec1a668e2165145a106d9bb4c009c92861571c1aac8c48e6808863cb97c",
     "Session-12/S12-MongoDB-6.md": "9341e1e9909c3998886af88a56290e778b4ffc402db9ebb4e879f74bbbb612aa",
     "Session-12/ReadMe.md": "4742733cf439afb2922eb2f9b8284cf0df167bb7cc9294770bd43e5b52db7a1c",
-    "Session-01/S01-Journals.md": "ac3d8b7fcd46f3a57b1e36df3c4444fabe4a8458889fe9086cd248f74e776cc1",
+    "Session-01/S01-Journals.md": "c40f5f53f5a8f98ca2fde24b84999257b3de868948a5d541a7a15a567a2c8184",
     "Session-01/S01-CLI-Commands.md": "48c58e4f4565855e23b71020de8a8995b5071702425ba5d6076e10c00c24cc0b",
     "Session-02/S02-Reflection-Exercises.md": "e4e62bbd78370f2f13000d77486bddaf6dac30a5d048603c49072efbad0e6e98",
     "Session-02/S02-What-is-an-API.md": "cb6fb2c828a6c2c3286568d34bbf7ac9c2e8ac92934635ecb71799f07db7f7a2",
@@ -76,7 +76,7 @@
     "Session-07/S07-Postman-and-APIs.md": "11ab664e3f0102abb1147ce278f70200298878e0d71768ffb14d598ac27ef37a",
     "Session-09/S09-MongoDB-1-Introduction.md": "3569b3fbbc6a9a78215cdbfc3f31199a3572750e5f5d83dc95c22af652fda9c5",
     "Session-09/S09-MongoDB-2-Installing-Windows.md": "c98d3ae98e4305c4545c7b14255a0d7b3a4a1c7ba45944e38a3437cb1860c8f0",
-    "Session-09/S09-MongoDB-Learning-Path.md": "ddf4f32c528339443ccdc56e3949e332d7244e8e8c93da63157075e47d427e97",
+    "Session-09/S09-MongoDB-Learning-Path.md": "f3d531803291fd2f86a48cdfbfcbef5f7045eb36eb37d08059b82dc973804969",
     "Session-11/S11-Reflection-Exercises.md": "aa12d719dac43d50d4a6548c0c20329bcfaf0fcc168a7b01beafb0bfe7b64ce4",
     "Session-13/S13-MongoDB-10.md": "c0f3aeabc1c741bb0e7404c36703ff35145a1a0c5308fd9e78ac92a546b7930a",
     "Session-12/S12-Reflection-Exercises.md": "64edba5595430634801b12dde1eb562c6de839822847d17d286c3a7629454cd7",
@@ -97,6 +97,11 @@
     "Session-05/S05-Reflection-Exercises.md": "3f7973e3d3f0200ad4dd81e885bf5b94e1a6d7b265fad9fc38bd58ab328df661",
     "Session-04/S04-Reflection-Exercises.md": "41adccf7dfd658a419c1e6ff3e132e9ba4dd9e64bce08bf76b00dbc7acbfc583",
     "Session-09/S09-Reflection-Exercises.md": "4486cf5bbeef99a03805efe641776d11bc8203af43281a3dffaee96da6e85120",
-    "Session-09/S09-NoSQL-Introduction.md": "d55334d9756ef2cd0ea09ac856e0f168a2e3f20fb806d813552b89718dfa79ca"
+    "Session-09/S09-NoSQL-Introduction.md": "d55334d9756ef2cd0ea09ac856e0f168a2e3f20fb806d813552b89718dfa79ca",
+    "templates/Daily-Journal.md": "ef16614fd7383b4af60f34754992457b0ccd583c9945b732b0a974a63df85841",
+    "templates/Weekly-Journal.md": "d83ffdfcc5c9e72126ea0e22eb2a292fe7d211a5b1b9c2b3bebc7cde0a0d817f",
+    "templates/Monthly-Journal.md": "296a6024aa7c589cdf412233c71d38da6d4af943734d07dee7111c13a7b21fc0",
+    "templates/Quarterly-Journal.md": "a765c37d058e641bdb4aa7c4ee3f033065f142ab2d1169fc88fd87596dc4a016",
+    "templates/Yearly-Journal.md": "7d0421c45ebfca024c96cacd81d4fc67a2c1c13ad92d93d511fd3d0d5f3c18cd"
   }
 }

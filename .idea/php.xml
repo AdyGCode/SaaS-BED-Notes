@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="LaravelPint">
+    <laravel_pint_settings>
+      <laravel_pint_by_interpreter asDefaultInterpreter="true" interpreter_id="10ba7942-3478-4d09-a9c6-623b9454aa50">
+        <option name="timeout" value="30000" />
+      </laravel_pint_by_interpreter>
+    </laravel_pint_settings>
+  </component>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <phpmd_by_interpreter asDefaultInterpreter="true" interpreter_id="10ba7942-3478-4d09-a9c6-623b9454aa50" timeout="30000" />
+    </phpmd_settings>
+  </component>
   <component name="MessDetectorOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>
@@ -10,15 +22,20 @@
     <option name="highlightLevel" value="WARNING" />
     <option name="transferred" value="true" />
   </component>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter asDefaultInterpreter="true" interpreter_id="10ba7942-3478-4d09-a9c6-623b9454aa50" timeout="30000" />
+    </phpcsfixer_settings>
+  </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <phpcs_by_interpreter asDefaultInterpreter="true" interpreter_id="0b10ea34-f04b-4ba6-8cb1-3f127220b9e7" timeout="30000" />
+      <phpcs_by_interpreter asDefaultInterpreter="true" interpreter_id="10ba7942-3478-4d09-a9c6-623b9454aa50" timeout="30000" />
     </phpcs_settings>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.3" />
   <component name="PhpStan">
     <PhpStan_settings>
-      <phpstan_by_interpreter asDefaultInterpreter="true" interpreter_id="0b10ea34-f04b-4ba6-8cb1-3f127220b9e7" timeout="60000" />
+      <phpstan_by_interpreter asDefaultInterpreter="true" interpreter_id="10ba7942-3478-4d09-a9c6-623b9454aa50" timeout="60000" />
     </PhpStan_settings>
   </component>
   <component name="PhpStanOptionsConfiguration">
@@ -26,7 +43,7 @@
   </component>
   <component name="Psalm">
     <Psalm_settings>
-      <psalm_fixer_by_interpreter asDefaultInterpreter="true" interpreter_id="0b10ea34-f04b-4ba6-8cb1-3f127220b9e7" timeout="60000" />
+      <psalm_fixer_by_interpreter asDefaultInterpreter="true" interpreter_id="10ba7942-3478-4d09-a9c6-623b9454aa50" timeout="60000" />
     </Psalm_settings>
   </component>
   <component name="PsalmOptionsConfiguration">
