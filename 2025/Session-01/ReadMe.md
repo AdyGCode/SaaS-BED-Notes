@@ -18,7 +18,7 @@ tags:
 date created: 03 July 2024
 date modified: 08 July 2024
 created: 2024-07-31T08:45
-updated: 2025-04-28T16:00
+updated: 2025-07-03T09:22
 ---
 # Session 01 Overview
 
@@ -30,7 +30,7 @@ updated: 2025-04-28T16:00
 		- Edge/Chrome/Firefox browsers
 - [S01-CLI-Commands](S01-CLI-Commands.md)
 	- A quick basic cheat sheet of bash CLI commands
-- [S01-Journals](S01-Journals.md)
+- [S01-IDE-and-Editor-Settings-PhpStorm](Session-01/S01-IDE-and-Editor-Settings-PhpStorm.md)
 	- What is required for the Journal component of the assessments
 	- Commitments
 	- How to create an entry
