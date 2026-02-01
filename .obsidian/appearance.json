@@ -1,12 +1,13 @@
 {
-  "accentColor": "#770000",
-  "cssTheme": "Atom",
+  "accentColor": "#d10000",
+  "cssTheme": "Catppuccin",
   "monospaceFontFamily": "FiraCode Nerd Font",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Atkinson Hyperlegible",
-  "baseFontSize": 14,
+  "baseFontSize": 24,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "CustomIcon-AutoGen"
-  ]
+  ],
+  "theme": "obsidian"
 }

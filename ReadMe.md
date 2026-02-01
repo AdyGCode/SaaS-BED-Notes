@@ -38,6 +38,19 @@ Our developers encourage the students studying this cluster to contribute to thi
 
 - [Contributor's Guide](Contributor's-Guide.md)
 
+## Createing a new slide deck
+
+- Ensure PNPM is installed
+
+```shell
+npm i -g pnpm
+```
+- create and then change into folder for new presentation
+- Install Slidev and the required extentions
+- execute the developmnet envirtonment
+
+
+
 ## Development Environment
 
 Please make sure you check the required [development environment](S01-Development-Environments.md) details.
