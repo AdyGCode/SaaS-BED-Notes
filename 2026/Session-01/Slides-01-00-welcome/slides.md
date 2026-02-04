@@ -104,7 +104,7 @@ level: 2
 class: text-left
 ---
 
-# Objectives
+# Objectives, Cluster & Units
 
 ::left::
 
@@ -116,8 +116,6 @@ class: text-left
 - BYOD
 
 ::right::
-
-# Cluster / Units
 
 ## Overview
 
@@ -246,7 +244,7 @@ From your lecturer:
 - Marking to be completed within 7 working days
 - Patience & Respect
 
-- <Announcement type="brainstorm">
+<Announcement type="brainstorm">
 What would <strong>you</strong> like to add from:
 <ul><li>you as students, and/or </li>
 <li>your lecturers?</li>

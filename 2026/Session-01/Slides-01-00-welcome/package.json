@@ -14,18 +14,18 @@
     "@slidev/theme-default": "latest",
     "shiki": "^3.22.0",
     "shiki-magic-move": "^1.2.1",
+    "slidev-addon-announcement": "latest",
     "slidev-theme-academic": "^2.1.0",
     "slidev-theme-meetup": "^3.13.2",
-    "slidev-theme-nmt": "^0.6.5",
-    "vue": "^3.5.27",
-    "slidev-addon-announcement": "latest"
+    "slidev-theme-nmt": "^0.6.6",
+    "vue": "^3.5.27"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.58.1",
-    "vue": "^3.5.27",
-    "@slidev/client": "52.11.5",
     "@slidev/cli": "^52.11.5",
-    "@slidev/theme-default": "latest"
+    "@slidev/client": "52.11.5",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "^1.58.1",
+    "vue": "^3.5.27"
   },
   "slidev": {
     "colorSchema": "dark",
