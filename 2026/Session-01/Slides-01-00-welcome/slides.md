@@ -40,11 +40,12 @@ layout: two-cols
 
 # Welcome
 
+::left::
+
 Kaya Yarrn Noonk.
 
 Wanju nijda, djurapin, nyininy, ni, kaartdijin.
 
-<br>
 <br>
 
 Hello, and how are you?
@@ -54,10 +55,8 @@ knowledge, and learn with us.
 
 ::right::
 
-<br>
-<br>
 
-## Acknowledgement of Country
+### Acknowledgement of Country
 
 North Metropolitan TAFE recognises Australian Aboriginal and Torres Strait Islander Peoples' unique cultural and spiritual relationships to the land, waters and seas and their rich contribution to our society.
 
@@ -106,6 +105,8 @@ class: text-left
 ---
 
 # Objectives
+
+::left::
 
 ## General Details
 
@@ -178,6 +179,8 @@ layout: two-cols
 level: 2
 ---
 
+::left::
+
 ## Evacuation
 
 <Announcement type="info">
@@ -222,16 +225,18 @@ level: 2
 
 # Expectations and Guidelines
 
+::left::
+
+For you as students
+
 - Take notes!
 - Be considerate, respectful & patient
 - Participate
   - Be involved (learning is 2-way) 
   - Ask & Respond to questions
   - Help each other
-- Expect the unexpected
 - **NO** mobile device use during class
-  - Phones away or placed in the designated area
-  - Exceptions *may* apply
+  - Phones away, exceptions *may* apply
 
 ::right::
 
@@ -241,11 +246,7 @@ From your lecturer:
 - Marking to be completed within 7 working days
 - Patience & Respect
 
-<Announcement type="info" title="Adjustments">
-Lecturers may adjust these expectations and guidelines.
-</Announcement>
-
-<Announcement type="brainstorm">
+- <Announcement type="brainstorm">
 What would <strong>you</strong> like to add from:
 <ul><li>you as students, and/or </li>
 <li>your lecturers?</li>
@@ -317,10 +318,11 @@ layout: two-cols
 
 # Equipment & Resources
 
+::left::
+
 Depending on your cluster, you will be using:
 
 - Windows 11 PCs
-- IDE
 - Laragon
 - WSL, Docker & Docker Desktop
 - Git
@@ -330,8 +332,6 @@ Depending on your cluster, you will be using:
 Specific requirements will be indicated in the LAP.
 
 ::right:: 
-
-<br><br>
 
 Some units/clusters may require:
 
