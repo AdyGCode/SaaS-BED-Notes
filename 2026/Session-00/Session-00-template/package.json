@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "session-XX-YY-presentation-title",
   "type": "module",
   "private": true,
   "scripts": {
@@ -8,11 +8,37 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^52.11.4",
+    "@slidev/cli": "^52.11.5",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest",
-    "slidev-addon-announcement": "^0.1.2",
-    "slidev-theme-nmt": "^0.6.4",
+    "@slidev/types": "latest",
+    "slidev-addon-announcement": "latest",
+    "slidev-theme-academic": "^2.1.0",
+    "slidev-theme-nmt": "^0.6.6",
+    "shiki": "^3.22.0",
+    "shiki-magic-move": "^1.2.1",
+    "@iconify-json/fa7-brands": "latest",
+    "@iconify-json/fa7-regular": "latest",
+    "@iconify-json/fa7-solid": "latest",
+    "@unocss/preset-icons": "latest",
     "vue": "^3.5.27"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.58.1"
+  },
+  "slidev": {
+    "colorSchema": "dark",
+    "highlighter": "shiki",
+    "defaults": {
+      "fonts": {
+        "provider": "coollabs",
+        "mono": "Fira Code,consolas",
+        "serif": "Roboto Serif,Georgia",
+        "sans": "Lexend,Avenir Next.Arial",
+        "local": "Lexend,Avenir Next,Arial",
+        "italic": false
+      },
+      "transition": "fade",
+      "aspectRatio": "16/10"
+    }
   }
 }
