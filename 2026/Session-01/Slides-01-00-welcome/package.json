@@ -1,0 +1,48 @@
+{
+  "name": "session-01-00-Welcome",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.11.5",
+    "@slidev/theme-default": "latest",
+    "@slidev/types": "latest",
+    "slidev-addon-announcement": "latest",
+    "slidev-theme-academic": "^2.1.0",
+    "slidev-theme-nmt": "^0.6.6",
+    "shiki": "^3.22.0",
+    "shiki-magic-move": "^1.2.1",
+    "@iconify-json/fa7-brands": "latest",
+    "@iconify-json/fa7-regular": "latest",
+    "@iconify-json/fa7-solid": "latest",
+    "@unocss/preset-icons": "latest",
+    "vue": "^3.5.27"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.11.5",
+    "@slidev/client": "52.11.5",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "^1.58.1",
+    "vue": "^3.5.27"
+  },
+  "slidev": {
+    "colorSchema": "dark",
+    "highlighter": "shiki",
+    "defaults": {
+      "fonts": {
+        "provider": "coollabs",
+        "mono": "Fira Code,consolas",
+        "serif": "Roboto Serif,Georgia",
+        "sans": "Lexend,Avenir Next.Arial",
+        "local": "Lexend,Avenir Next,Arial",
+        "italic": false
+      },
+      "transition": "fade",
+      "aspectRatio": "16/10"
+    }
+  }
+}
