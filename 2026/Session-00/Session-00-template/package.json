@@ -5,26 +5,25 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "show": "slidev --remote SecretOne --port 8080 --open --force"
   },
+
   "dependencies": {
-    "@slidev/cli": "^52.11.5",
-    "@slidev/theme-default": "latest",
-    "@slidev/types": "latest",
-    "slidev-addon-announcement": "latest",
-    "slidev-theme-academic": "^2.1.0",
-    "slidev-theme-nmt": "^0.6.6",
-    "shiki": "^3.22.0",
-    "shiki-magic-move": "^1.2.1",
     "@iconify-json/fa7-brands": "latest",
     "@iconify-json/fa7-regular": "latest",
     "@iconify-json/fa7-solid": "latest",
     "@unocss/preset-icons": "latest",
-    "vue": "^3.5.27"
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/types": "latest",
+    "shiki": "latest",
+    "shiki-magic-move": "latest",
+    "slidev-addon-announcement": "latest",
+    "slidev-theme-nmt": "latest",
+    "vue": "latest"
   },
-  "devDependencies": {
-    "playwright-chromium": "^1.58.1"
-  },
+
   "slidev": {
     "colorSchema": "dark",
     "highlighter": "shiki",
@@ -40,5 +39,9 @@
       "transition": "fade",
       "aspectRatio": "16/10"
     }
+  },
+
+  "devDependencies": {
+    "playwright-chromium": "latest"
   }
 }

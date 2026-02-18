@@ -5,25 +5,25 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "show": ""
   },
   "dependencies": {
-    "@slidev/cli": "^52.11.5",
+    "@slidev/cli": "latest",
     "@slidev/theme-default": "latest",
     "@slidev/types": "latest",
     "slidev-addon-announcement": "latest",
-    "slidev-theme-academic": "^2.1.0",
-    "slidev-theme-nmt": "^0.6.6",
-    "shiki": "^3.22.0",
-    "shiki-magic-move": "^1.2.1",
+    "slidev-theme-nmt": "latest",
+    "shiki": "latest",
+    "shiki-magic-move": "latest",
     "@iconify-json/fa7-brands": "latest",
     "@iconify-json/fa7-regular": "latest",
     "@iconify-json/fa7-solid": "latest",
     "@unocss/preset-icons": "latest",
-    "vue": "^3.5.27"
+    "vue": "latest"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.58.1"
+    "playwright-chromium": "latest"
   },
   "slidev": {
     "colorSchema": "dark",
