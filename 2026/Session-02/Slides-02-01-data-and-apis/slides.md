@@ -1,7 +1,7 @@
 ---
 theme: nmt
 background: https://cover.sli.dev
-title: Session 01 - PHP Fundamentals & Intro MVC
+title: Session 02 - Laravel 12 - Data and APIs
 class: text-left
 drawings:
   persist: false
