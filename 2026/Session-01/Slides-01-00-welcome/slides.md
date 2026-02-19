@@ -371,5 +371,4 @@ level: 2
 - Fu, A. (2020). Slidev. Sli.dev. https://sli.dev/
 - Font Awesome. (2026). Font Awesome. Fontawesome.com; Font Awesome. https://fontawesome.com/
 
-- Slide template
-  - Adrian Gould
+> Slide template by Adrian Gould

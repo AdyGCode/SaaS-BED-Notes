@@ -1091,8 +1091,7 @@ What would help you strengthen that understanding?
 - Font Awesome. (2026). Font Awesome. Fontawesome.com; Font Awesome. https://fontawesome.com/
 - Mermaid Chart. (2026). Mermaid.ai. https://mermaid.ai/
 
-- Slide template
-  - Adrian Gould
+> Slide template by Adrian Gould
 
 <br>
 
