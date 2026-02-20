@@ -14,10 +14,12 @@ duration: 35min
 
 ## SaaS 1 – Cloud Application Development (Front-End Dev)
 
-###  PEST, Postman, and HTTP Correctness
+### PEST, Postman, and HTTP Correctness
 
-<div @click="$slidev.nav.next" class="mt-12 -mx-4 p-4" hover:bg="white op-10">
-<p>Press <kbd>Space</kbd> or <kbd>RIGHT</kbd> for next slide/step <fa7-solid-arrow-right /></p>
+<div @click="$slidev.nav.next" 
+     class="mt-12 -mx-4 p-4" 
+     hover:bg="white op-10">
+  <p>Press <kbd>Space</kbd> or <kbd>RIGHT</kbd> for next slide/step <fa7-solid-arrow-right /></p>
 </div>
 
 <div class="abs-br m-6 text-xl">
@@ -37,7 +39,6 @@ layout: default
 level: 2
 ---
 
-
 # Navigating Slides
 
 Hover over the bottom-left corner to see the navigation's controls panel.
@@ -45,19 +46,17 @@ Hover over the bottom-left corner to see the navigation's controls panel.
 ## Keyboard Shortcuts
 
 |                                                     |                             |
-| --------------------------------------------------- | --------------------------- |
+|-----------------------------------------------------|-----------------------------|
 | <kbd>right</kbd> / <kbd>space</kbd>                 | next animation or slide     |
 | <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
 | <kbd>up</kbd>                                       | previous slide              |
 | <kbd>down</kbd>                                     | next slide                  |
-
 
 ---
 layout: section
 ---
 
 # Objectives
-
 
 ---
 layout: default
@@ -90,7 +89,7 @@ Emphasize - test-first where possible.
 level: 2
 ---
 
-# Contents 
+# Contents
 
 <Toc minDepth="1" maxDepth="1" />
 
@@ -99,9 +98,7 @@ class: text-left
 layout: two-cols
 ---
 
-
-# PEST 
-
+# PEST
 
 ::left::
 
@@ -116,9 +113,11 @@ layout: two-cols
 
 - Added during project creation
 - Ensure added using
+
 ```bash
 composer require pestphp/pest --dev
 ```
+
 ::right::
 
 ## What if...?
@@ -152,12 +151,9 @@ layout: two-cols
 level: 2
 ---
 
-
 # PEST (2)
 
-
 ::left::
-
 
 ## Suggested Folder Structure
 
@@ -187,7 +183,6 @@ flowchart LR
     class F file;
 ```
 
-
 ::right::
 
 ## `.env.testing`
@@ -199,10 +194,11 @@ flowchart LR
 ### Change `.env.testing` settings
 
 - Run tests on an in-memory SQLite database
+
 ```ini
-APP_ENV=testing
-DB_CONNECTION=sqlite
-DB_DATABASE=:memory:
+APP_ENV = testing
+DB_CONNECTION = sqlite
+DB_DATABASE = :memory:
 ```
 
 <!-- Speaker notes:
@@ -240,7 +236,7 @@ layout: two-cols
 
 **Advantages:**
 
-- One file per feature action 
+- One file per feature action
 - `index`, `store`, `update`, `show` and `delete` separated
 - Each file dedicated to action and edge cases
 
@@ -249,7 +245,6 @@ layout: two-cols
 - Tests split up
 - Many smaller files
 - May be hard to find individual tests
-
 
 ---
 layout: section
@@ -272,7 +267,6 @@ php artisan pest:test <FOLDER>/<NAMEOFTEST>
 | FOLDER      | Api              |
 | NAMEOFTEST  | ContactIndexTest |
 
-
 ---
 level: 2
 layout: two-cols
@@ -288,7 +282,7 @@ Filename:
 
 - `tests/Feature/Api/CourseIndexTest.php`
 
-Created using: 
+Created using:
 
 ```shell
 php artisan pest:test Api/CourseIndexTest
@@ -302,12 +296,11 @@ Filename:
 
 - `tests/Feature/Api/CourseTest.php`
 
-Created using: 
+Created using:
 
 ```shell
 php artisan pest:test Api/CourseTest
 ```
-
 
 ---
 level: 2
@@ -402,7 +395,6 @@ it('creates a course and returns 201', function () {
 
 ```
 
-
 ```php [PHP] {1,10|2,6|3-5|all|1,8-10}
 it('creates a course and returns 201', function () {
     $payload = [
@@ -418,7 +410,6 @@ it('creates a course and returns 201', function () {
 // Validation test code here
 ```
 
-
 ```php [PHP] {1-2,8-10|4-7|all|10}
 it('creates a course and returns 201', function () {
     // Payload code here
@@ -431,7 +422,6 @@ it('creates a course and returns 201', function () {
 
 // Validation test code here
 ```
-
 
 ```php [PHP] {1-3,7|4-6|all}
 // Create and 201 status test code
@@ -455,6 +445,17 @@ For validation errors
 - assertJsonValidationErrors listing required fields.
 
 -->
+
+---
+layout: image
+level: 2
+image: public/test-run-example-small.png
+---
+
+# Example Test Run
+
+
+
 ---
 layout: section
 ---
@@ -480,7 +481,6 @@ use App\Models\User;
 
 ```
 
-
 ```php [PHP] {1,3,9|4,7|5-6|all}
 use App\Models\User;
 
@@ -493,8 +493,6 @@ it('requires auth header', function () {
 // data and valid token test
 
 ```
-
-
 
 ```php [PHP] {1-5|6,14|7-8|10-13|all}
 use App\Models\User;
@@ -530,7 +528,7 @@ Always send Accept:
 
 ---
 
-## PEST Test: ETags, Cache, and Pagination
+# PEST Test: ETags, Cache, and Pagination
 
 > The sample code below demonstrated ETag & Caching tests.
 > More detail on ETags and Caching in a separate presentation
@@ -568,13 +566,15 @@ Also assert rate-limit headers when using `throttle:api` middleware and JSON pag
 layout: section
 ---
 
-# Postman: API Testing with Authorisation and Headers
+# Postman: API Testing 
+
+## With Authorisation and Headers
 
 ---
 level: 2
 ---
 
-# Postman: API Testing with Authorisation and Headers
+# Postman: API Testing (2)
 
 ## Creating a Collection
 
@@ -591,23 +591,26 @@ Keep reusable variables at the collection or environment level. Helps switch hos
 level: 2
 ---
 
-## Postman: Example Requests
+# Postman: Example Requests
 
 **GET Courses**
-```
+
+```http
 GET {{base_url}}/api/v1/courses
 Headers: Accept: application/json
 ```
 
 **POST Course**
-```
+
+```http
 POST {{base_url}}/api/v1/courses
 Headers: Accept: application/json; Authorization: Bearer {{token}}
 Body (JSON): {"code":"CPT101","title":"Computing Fundamentals","credits":3}
 ```
 
 **PUT Course**
-```
+
+```http
 PUT {{base_url}}/api/v1/courses/{{id}}
 Headers: Accept: application/json; Authorization: Bearer {{token}}
 Body (JSON): {"title":"Comp Fundamentals","credits":4}
@@ -620,22 +623,27 @@ Mirror your PEST tests in Postman. Keep Accept and Authorization headers consist
 level: 2
 ---
 
-## Postman Tests Tab: Status & Headers
+# Postman Tests - Status & Headers
 
-**Tests (JavaScript) example**
+## Tests (JavaScript) example
+
 ```js
 pm.test('Status is 200', () => pm.response.to.have.status(200));
 pm.test('JSON content-type', () => pm.response.to.have.header('content-type'));
 pm.test('Has data array', () => {
-  const json = pm.response.json();
-  pm.expect(json).to.have.property('data');
+    const json = pm.response.json();
+    pm.expect(json).to.have.property('data');
 });
 ```
 
 **Save as example** for documentation.
 
 <!-- Speaker notes:
-Use the Tests tab to assert status codes, headers, and JSON shape. Save successful responses as Examples for reference docs. This complements server-side PEST tests.
+Use the Tests tab to assert status codes, headers, and JSON shape. 
+
+Save successful responses as Examples for reference docs. 
+
+This complements server-side PEST tests.
 -->
 ---
 level: 2
@@ -646,8 +654,9 @@ level: 2
 **Export collection** → Share with team or CI.
 
 **Run in CLI (Newman)**
+
 ```bash
-npm i -g newman
+pnpm i -g newman
 newman run Laravel_API_V1.postman_collection.json \
   -e local.postman_environment.json \
   --reporters cli,junit --reporter-junit-export newman.xml
@@ -662,16 +671,25 @@ level: 2
 
 ## Ensuring Correct Status Codes
 
-- **200 OK**: Successful GET
-- **201 Created**: Successful POST creating a resource
-- **204 No Content**: Successful DELETE/PUT with no body
-- **400/422**: Bad input / validation failure
-- **401/403**: Unauthenticated / Unauthorized
-- **404**: Not found
+| Code        | Meaning      | Description                         |
+|-------------|--------------|-------------------------------------|
+| `200`       | OK           | Successful GET                      |
+| `201`       | Created      | Successful POST creating a resource |
+| `204`       | No Content   | Successful DELETE/PUT with no body  |
+| `400`/`422` | Bad input    | Bad input / validation failure      |
+| `401`/`403` | Unauthorized | Unauthenticated / Unauthorized      |
+| `404`       | Not found    | Not found                           |
 
 <!-- Speaker notes:
-Choose codes by action semantics. 201 should include Location header (URL of new resource). 204 must have empty body. Prefer 422 for validation errors in APIs.
+Choose codes by action semantics. 
+
+201 should include Location header (URL of new resource). 
+
+204 must have empty body. 
+
+Prefer 422 for validation errors in APIs.
 -->
+
 ---
 level: 2
 ---
@@ -686,7 +704,13 @@ level: 2
 - `X-RateLimit-*` (if throttled)
 
 <!-- Speaker notes:
-APIs are contract-first: headers matter. On resource creation, return Location to canonical URL. If you implement caching, validate ETag/If-None-Match tests. Rate-limit headers help clients handle backoff.
+APIs are contract-first: headers matter. 
+
+On resource creation, return Location to canonical URL. 
+
+If you implement caching, validate ETag/If-None-Match tests. 
+
+Rate-limit headers help clients handle backoff.
 -->
 ---
 level: 2
@@ -712,16 +736,89 @@ return CourseResource::collection(Course::paginate(15))
 Use response helpers for explicit codes. Add Location on create. For resources, prefer API Resources for consistent shapes. Consider global middleware to set Cache-Control defaults for APIs.
 -->
 ---
+layout: section
+---
+
+# Development Workflow
+
+## Test Driven Development
+
+---
 level: 2
 ---
 
-## Quick Workflow: Red–Green–Refactor
+# What is Test Driven Development (TDD)?
+
+<br>
+
+An approach to software development where you:
+
+- First write tests, then 
+- Use those tests to drive the development.
+
+---
+level: 2
+---
+
+# Red, Green, Refactor
+
+> Helps compartmentalise focus into three phases:
+
+- <strong style="background:#990000; padding:0.25rem 1rem;  
+  display:inline-block; width:10rem; text-align: center;">Red</strong> 
+  -  think about   what you  want to  develop
+
+- <strong style="background:#009900; padding:0.25rem 1rem;  
+  display:inline-block; width:10rem; text-align: center;">Green</strong> 
+  - think  about how to make your tests pass
+
+- <strong style="background:#000099; padding:0.25rem 1rem;  
+  display:inline-block; width:10rem; text-align: center;">Refactor</strong> 
+  - think about how to improve your existing implementation
+
+---
+level: 2
+---
+
+# Test Driven Development (TDD) Workflow
+
+## Useful Resources
+
+- Acadea.io. (2026). Test Driven Development (TDD) - Laravel API.
+  Youtube.com. https://www.youtube.com/watch?v=1Ur_znd5SNI
+
+- Dev Tools Made Simple. (2026). Why devs fail at Test Driven Development (
+  TDD). Youtube.com. https://www.youtube.com/watch?v=tL89VP3nuwc
+
+- Laravel Daily. (2026). Bro, Do you even TDD?
+  Youtube.com. https://www.youtube.com/watch?v=9IV91Qr0V7Q
+
+- Laravel Daily. (2026). Laravel TDD in “Live” Mode: Checkout Code Review.
+  Youtube.com. https://www.youtube.com/watch?v=5XywKLjCD3g&t=489s
+
+Watch these videos as part of your out of class learning and practice.
+
+
+---
+layout: image-right
+level: 2
+image: public/TDD-Cycle.png
+---
+
+# Quick Workflow: Red–Green–Refactor
+
+<br>
 
 1. **Write PEST test** (red)
+
 2. **Implement controller** (green)
+
 3. **Add Postman tests**
+
 4. **Check headers/codes**
+
 5. **Refactor & commit**
+
 
 <!-- Speaker notes:
 Keep tight feedback loops: code → test → Postman verification. Commit small. Use CI to run both PHPUnit/PEST and Newman collections for defense-in-depth.
@@ -731,37 +828,52 @@ Keep tight feedback loops: code → test → Postman verification. Commit small.
 layout: two-cols
 ---
 
-# Recap Checklist
+# Recap Checklist (Part 1)
+
 ::left::
 
 - [ ] PEST
-  - Use$this->getJson/postJson
-  - Assert status codes & headers
-  - Validate JSON shape
-  - Test auth flows
-
-- [ ] Postman
-  - Collection variables
-  - Environment files
-  - Tests tab assertions
-  - Save examples
-  - Newman in CI
+    - Use$this->getJson/postJson
+    - Assert status codes & headers
+    - Validate JSON shape
+    - Test auth flows
 
 ::right::
 
 - [ ] HTTP Correctness
-  - 200/201/204 usage
-  - 401 vs 403
-  - 404 for missing
-  - 422 validation errors
-  - Location on 201
+    - 200/201/204 usage
+    - 401 vs 403
+    - 404 for missing
+    - 422 validation errors
+    - Location on 201
+
+<!-- Speaker notes:
+Short, actionable reminders that map to the hands-on steps: write PEST first, mirror in Postman, and verify correct HTTP semantics.
+-->
+
+---
+layout: two-cols
+---
+
+# Recap Checklist (Part 2)
+
+::left::
+
+- [ ] Postman
+    - Collection variables
+    - Environment files
+    - Tests tab assertions
+    - Save examples
+    - Newman in CI
+
+::right::
 
 - [ ] Headers
-  - Content-Type JSON
-  - Accept JSON
-  - Authorization Bearer
-  - Cache-Control/ETag
-  - Rate-limit headers
+    - Content-Type JSON
+    - Accept JSON
+    - Authorization Bearer
+    - Cache-Control/ETag
+    - Rate-limit headers
 
 <!-- Speaker notes:
 Short, actionable reminders that map to the hands-on steps: write PEST first, mirror in Postman, and verify correct HTTP semantics.
@@ -773,27 +885,44 @@ level: 2
 
 # Exit Ticket
 
+<br>
+
 1) **What will you change?**
-- One improvement to your API testing flow (PEST, Postman, headers/codes) and why.
+
+- One improvement to your API testing flow (PEST, Postman, headers/codes) 
+  and why.
+
+<br>
 
 2) **Where is your blind spot?**
-- One area (auth, validation, caching) you’ll explore next to increase API reliability.
+
+- One area (auth, validation, caching) you’ll explore next to increase API
+  reliability.
 
 <!-- Speaker notes:
-Prompt students to internalize changes to their workflow and identify learning priorities. Encourage concrete next actions (e.g., add 201 Location header everywhere; set up Newman in CI).
+Prompt students to internalize changes to their workflow and identify learning priorities. 
+
+Encourage concrete next actions (e.g., add 201 Location header everywhere; set up Newman in CI).
 -->
 
 ---
 
 # Acknowledgements
 
-- Fu, A. (2020). Slidev. Sli.dev. https://sli.dev/
-- Font Awesome. (2026). Font Awesome. Fontawesome.com; Font Awesome. https://fontawesome.com/
-- Mermaid Chart. (2026). Mermaid.ai. https://mermaid.ai/
+- Acadea.io. (2026). Test Driven Development (TDD) - Laravel API.
+  Youtube.com. https://www.youtube.com/watch?v=1Ur_znd5SNI
+
+- Dev Tools Made Simple. (2026). Why devs fail at Test Driven Development (
+  TDD). Youtube.com. https://www.youtube.com/watch?v=tL89VP3nuwc
+
+- Laravel Daily. (2026). Bro, Do you even TDD?
+  Youtube.com. https://www.youtube.com/watch?v=9IV91Qr0V7Q
+
+- Laravel Daily. (2026). Laravel TDD in “Live” Mode: Checkout Code Review.
+  Youtube.com. https://www.youtube.com/watch?v=5XywKLjCD3g&t=489s
 
 > Slide template by Adrian Gould
 
 <br>
 
-> - Mermaid syntax used for some diagrams
-> - Some content was generated with the assistance of Microsoft CoPilot
+> Some content was generated with the assistance of Microsoft Copilot
