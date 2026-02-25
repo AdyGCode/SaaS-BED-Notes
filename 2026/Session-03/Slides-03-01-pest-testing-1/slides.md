@@ -824,8 +824,16 @@ image: public/TDD-Cycle.png
 Keep tight feedback loops: code → test → Postman verification. Commit small. Use CI to run both PHPUnit/PEST and Newman collections for defense-in-depth.
 -->
 
+
+---
+layout: section
+---
+
+# Recap Time!
+
 ---
 layout: two-cols
+level: 2
 ---
 
 # Recap Checklist (Part 1)
@@ -853,6 +861,7 @@ Short, actionable reminders that map to the hands-on steps: write PEST first, mi
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # Recap Checklist (Part 2)
