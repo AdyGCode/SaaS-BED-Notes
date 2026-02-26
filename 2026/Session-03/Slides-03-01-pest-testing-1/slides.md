@@ -60,7 +60,7 @@ layout: section
 
 ---
 layout: default
-level: 1
+level: 2
 class: text-left
 ---
 
@@ -70,7 +70,6 @@ class: text-left
 - Postman collections for endpoints
 - Status codes & headers correctness
 
-::right::
 
 <!-- Speaker notes:
 Intro the toolbox: PEST for fast, fluent PHP tests in Laravel 12;
@@ -95,6 +94,13 @@ level: 2
 
 ---
 class: text-left
+layout: Section
+---
+
+# PEST Testing
+
+---
+class: text-left
 layout: two-cols
 ---
 
@@ -112,7 +118,7 @@ layout: two-cols
 ## Installation
 
 - Added during project creation
-- Ensure added using
+- Ensure added using `--dev` switch
 
 ```bash
 composer require pestphp/pest --dev
@@ -162,15 +168,31 @@ flowchart LR
     A[tests]
     B[Feature]
     C[Api]
-    E@{ shape: doc, label: "ContactTests.php" }
-    F@{ shape: doc, label: "UserTests.php" }
-    D@{ shape: doc, label: "Pest.php" }
+    D[Contact]
+    E[User]
+    F[Unit]
+    
+    ETC1[etc...]
+    ETC2[etc...]
+    
+    W@{ shape: doc, label: "ContactAddTests.php" }
+    X@{ shape: doc, label: "ContactBrowseTests.php" }
+    Y@{ shape: doc, label: "UserCreateTests.php" }
+    Z@{ shape: doc, label: "Pest.php" }
+    ETC1@{ shape: doc, label: "etc." }
+    ETC2@{ shape: doc, label: "etc." }
     
     A --> B
+    A --> F
+    A --> Z
     B --> C
-    A --> D
+    C --> D
     C --> E
-    C --> F
+    C --> ETC1
+    D --> W
+    D --> X
+    E --> Y
+    E --> ETC2
     
     classDef folder fill:#222770,color:#fff
     classDef file fill:#777BB3,color:#fff
@@ -178,9 +200,12 @@ flowchart LR
     class A folder;
     class B folder;
     class C folder;
-    class D file;
-    class E file;
-    class F file;
+    class D folder;
+    class E folder;
+    class W file;
+    class X file;
+    class Y file;
+    class Z file;
 ```
 
 ::right::
@@ -224,6 +249,8 @@ layout: two-cols
 - All tests for a feature in one file
 - `index`, `store`, `update`, `show` and `delete` together
 
+<br>
+
 **Disadvantages:**
 
 - All tests per feature in one file
@@ -262,10 +289,10 @@ level: 2
 php artisan pest:test <FOLDER>/<NAMEOFTEST>
 ```
 
-| Placeholder | Example          |
-|-------------|------------------|
-| FOLDER      | Api              |
-| NAMEOFTEST  | ContactIndexTest |
+| Placeholder | Example(s)                              |
+|-------------|-----------------------------------------|
+| FOLDER      | `Api/Contact`                             |
+| NAMEOFTEST  | `ContactIndexTest` <br> `ContactBrowseTest` |
 
 ---
 level: 2
@@ -280,13 +307,15 @@ layout: two-cols
 
 Filename:
 
-- `tests/Feature/Api/CourseIndexTest.php`
+`tests/Feature/Api/Course/CourseIndexTest.php`
 
 Created using:
 
 ```shell
-php artisan pest:test Api/CourseIndexTest
+php artisan pest:test 
+        Api/Course/CourseIndexTest
 ```
+<Announcement type="info">All on one line</Announcement>
 
 ::right::
 
@@ -294,13 +323,16 @@ php artisan pest:test Api/CourseIndexTest
 
 Filename:
 
-- `tests/Feature/Api/CourseTest.php`
+`tests/Feature/Api/CourseTest.php`
 
 Created using:
 
 ```shell
-php artisan pest:test Api/CourseTest
+php artisan pest:test 
+        Api/CourseTest
 ```
+<Announcement type="info">All on one line</Announcement>
+
 
 ---
 level: 2
@@ -331,7 +363,7 @@ it('lists courses as JSON', function () {
 ```
 
 <!-- Speaker notes:
-Use$this->getJson/postJson/putJson/deleteJson. 
+Use $this->getJson/postJson/putJson/deleteJson. 
 Assert status via
 ->assertOk(), 
 ->assertCreated(), etc. 
@@ -350,8 +382,9 @@ level: 2
 
 ## Option 2
 
-- Call `getJson` with `$this`
-- `assertOK()` === `assertStatus(200)`
+Call `getJson` with `$this`
+<Announcement type="info"> Lecturer preferred option
+</Announcement>
 
 ```php
 use App\Models\Course;
@@ -360,7 +393,7 @@ it('lists courses as JSON', function () {
     Course::factory()->count(3)->create();
 
     $this->getJson('/api/v1/courses')
-        ->assertOk()
+        ->assertOk() // 200, ===> assertStatus(200)
         ->assertHeader('content-type', 'application/json')
         ->assertJsonStructure([
             'data' => [ ['id', 'code', 'title', 'credits'] ],
@@ -447,13 +480,14 @@ For validation errors
 -->
 
 ---
-layout: image
+layout: figure
 level: 2
-caption: Example Pest Run
-imageUrl: http://localhost:3030/test-run-example-small.png
+figureCaption: Example Pest Run
+figureUrl: ./images/test-run-example-small.png
 ---
 
-# test
+# Example Test Run
+
 
 ---
 layout: section
@@ -529,7 +563,7 @@ Always send Accept:
 
 # PEST Test: ETags, Cache, and Pagination
 
-> The sample code below demonstrated ETag & Caching tests.
+> The sample code below demonstrated ETag & Caching tests.<br>
 > More detail on ETags and Caching in a separate presentation
 
 Filename: ` tests/Feature/Api/CourseCacheTest.php`
@@ -594,14 +628,14 @@ level: 2
 
 **GET Courses**
 
-```http
+```http {none|all}
 GET {{base_url}}/api/v1/courses
 Headers: Accept: application/json
 ```
 
 **POST Course**
 
-```http
+```http {none|all}
 POST {{base_url}}/api/v1/courses
 Headers: Accept: application/json; Authorization: Bearer {{token}}
 Body (JSON): {"code":"CPT101","title":"Computing Fundamentals","credits":3}
@@ -609,7 +643,7 @@ Body (JSON): {"code":"CPT101","title":"Computing Fundamentals","credits":3}
 
 **PUT Course**
 
-```http
+```http {none|all}
 PUT {{base_url}}/api/v1/courses/{{id}}
 Headers: Accept: application/json; Authorization: Bearer {{token}}
 Body (JSON): {"title":"Comp Fundamentals","credits":4}
@@ -618,6 +652,7 @@ Body (JSON): {"title":"Comp Fundamentals","credits":4}
 <!-- Speaker notes:
 Mirror your PEST tests in Postman. Keep Accept and Authorization headers consistent. Use path variables and saved examples for regression comparison.
 -->
+
 ---
 level: 2
 ---
@@ -626,7 +661,7 @@ level: 2
 
 ## Tests (JavaScript) example
 
-```js
+```js {none|1|2|3-6|all}
 pm.test('Status is 200', () => pm.response.to.have.status(200));
 pm.test('JSON content-type', () => pm.response.to.have.header('content-type'));
 pm.test('Has data array', () => {
@@ -648,14 +683,18 @@ This complements server-side PEST tests.
 level: 2
 ---
 
-## Exporting & Automating Postman
+# Exporting & Automating Postman
 
 **Export collection** → Share with team or CI.
 
-**Run in CLI (Newman)**
-
+## Install Newman CLI
 ```bash
 pnpm i -g newman
+```
+
+## Run in CLI (Newman)**
+
+```bash
 newman run Laravel_API_V1.postman_collection.json \
   -e local.postman_environment.json \
   --reporters cli,junit --reporter-junit-export newman.xml
@@ -664,11 +703,20 @@ newman run Laravel_API_V1.postman_collection.json \
 <!-- Speaker notes:
 Automate Postman with Newman in CI to catch regressions. Export JUnit to integrate with CI test reports. Keep env files out of source control if they contain secrets.
 -->
+
+
+---
+layout: section
+---
+
+# Ensuring Correct Status Codes & Headers
+
+
 ---
 level: 2
 ---
 
-## Ensuring Correct Status Codes
+# Ensuring Correct Status Codes
 
 | Code        | Meaning      | Description                         |
 |-------------|--------------|-------------------------------------|
@@ -711,13 +759,20 @@ If you implement caching, validate ETag/If-None-Match tests.
 
 Rate-limit headers help clients handle backoff.
 -->
+
+---
+layout: section
+---
+
+# Sample Controller Responses (Laravel 12)
+
 ---
 level: 2
 ---
 
-## Sample Controller Responses (Laravel 12)
+# Sample Controller Responses (Laravel 12)
 
-```php
+```php {1,5,8|1-3|5-6|8-11|all}
 // store()
 return response()->json($course, 201)
     ->header('Location', route('api.v1.courses.show', $course));
@@ -775,35 +830,11 @@ level: 2
   display:inline-block; width:10rem; text-align: center;">Refactor</strong> 
   - think about how to improve your existing implementation
 
+
 ---
+layout: figure-side
 level: 2
----
-
-# Test Driven Development (TDD) Workflow
-
-## Useful Resources
-
-- Acadea.io. (2026). Test Driven Development (TDD) - Laravel API.
-  Youtube.com. https://www.youtube.com/watch?v=1Ur_znd5SNI
-
-- Dev Tools Made Simple. (2026). Why devs fail at Test Driven Development (
-  TDD). Youtube.com. https://www.youtube.com/watch?v=tL89VP3nuwc
-
-- Laravel Daily. (2026). Bro, Do you even TDD?
-  Youtube.com. https://www.youtube.com/watch?v=9IV91Qr0V7Q
-
-- Laravel Daily. (2026). Laravel TDD in “Live” Mode: Checkout Code Review.
-  Youtube.com. https://www.youtube.com/watch?v=5XywKLjCD3g&t=489s
-
-Watch these videos as part of your out of class learning and practice.
-
-
----
-layout: image
-level: 2
-imageCaption: TDD Cycle
-imageFootnoteNumber: 0
-imageUrl: TDD-Cycle.png
+figureUrl: ./images/TDD-Cycle.png
 ---
 
 # Quick Workflow: Red–Green–Refactor
@@ -824,6 +855,32 @@ imageUrl: TDD-Cycle.png
 <!-- Speaker notes:
 Keep tight feedback loops: code → test → Postman verification. Commit small. Use CI to run both PHPUnit/PEST and Newman collections for defense-in-depth.
 -->
+
+---
+level: 2
+---
+
+# Test Driven Development (TDD) Workflow
+
+### Useful resources
+
+<Announcement type="important">
+Watch these videos as part of your out of class learning and practice.
+</Announcement>
+
+- Acadea.io. (2026). Test Driven Development (TDD) - Laravel API.
+  Youtube.com. https://www.youtube.com/watch?v=1Ur_znd5SNI
+
+- Dev Tools Made Simple. (2026). Why devs fail at Test Driven Development (
+  TDD). Youtube.com. https://www.youtube.com/watch?v=tL89VP3nuwc
+
+- Laravel Daily. (2026). Bro, Do you even TDD?
+  Youtube.com. https://www.youtube.com/watch?v=9IV91Qr0V7Q
+
+- Laravel Daily. (2026). Laravel TDD in “Live” Mode: Checkout Code Review.
+  Youtube.com. https://www.youtube.com/watch?v=5XywKLjCD3g&t=489s
+
+
 
 
 ---
@@ -936,3 +993,9 @@ Encourage concrete next actions (e.g., add 201 Location header everywhere; set u
 <br>
 
 > Some content was generated with the assistance of Microsoft Copilot
+
+---
+layout: end
+---
+
+# Thank you! 
