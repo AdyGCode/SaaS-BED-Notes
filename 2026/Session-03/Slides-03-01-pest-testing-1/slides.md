@@ -449,12 +449,11 @@ For validation errors
 ---
 layout: image
 level: 2
-image: public/test-run-example-small.png
+caption: Example Pest Run
+imageUrl: http://localhost:3030/test-run-example-small.png
 ---
 
-# Example Test Run
-
-
+# test
 
 ---
 layout: section
@@ -800,9 +799,11 @@ Watch these videos as part of your out of class learning and practice.
 
 
 ---
-layout: image-right
+layout: image
 level: 2
-image: public/TDD-Cycle.png
+imageCaption: TDD Cycle
+imageFootnoteNumber: 0
+imageUrl: TDD-Cycle.png
 ---
 
 # Quick Workflow: Red–Green–Refactor

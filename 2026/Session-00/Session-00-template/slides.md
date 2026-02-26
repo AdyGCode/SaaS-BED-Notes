@@ -10,9 +10,9 @@ mdc: true
 duration: 35min
 ---
 
-# Session 01: Major Topic
+# Session 00: Major Topic
 
-## SaaS 1 – Cloud Application Development (Front-End Dev)
+## SaaS 2 – REST API Development
 
 ### Sub-topic
 
