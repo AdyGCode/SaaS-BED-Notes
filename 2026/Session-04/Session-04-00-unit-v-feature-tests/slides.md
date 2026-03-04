@@ -24,11 +24,6 @@ duration: 35min
   </a>
 </div>
 
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
-
--->
-
 ---
 layout: default
 level: 2
@@ -63,11 +58,25 @@ level: 2
 
 ::left::
 
-- 
+- Use Laravel Docs to assist your learning and work.
+- Explain **Unit vs Feature** tests and when to use each.
+- Write minimal tests in **PHPUnit** and **Pest**.
+- Test **Web** pages and **API** endpoints (JSON).
 
 ::right::
 
-- 
+- Configure **SQLite** for dev & **in-memory** for tests.
+- Shape JSON with **API Resources** and
+- Hint at **JSON:API** & **Problem Details** for errors.
+
+
+<!--
+Notes:
+- Laravel 12 ships with testing support for Pest & PHPUnit; 
+- Feature/Unit directories exist by default. 
+- https://laravel.com/docs/12.x/testing
+-->
+
 
 ---
 level: 2
@@ -289,13 +298,7 @@ layout: section
 
 # Unit Tests
 
----
-level: 2
----
-
-# Unit Tests
-
-<!-- 
+ <!-- 
 Definition first, no code yet. 
 
 Emphasis: isolation, speed, and the fact the framework may not fully boot. 
@@ -528,7 +531,7 @@ Laravel’s PHPUnit base is compatible with Pest; Pest can co-exist.
 layout: section
 ---
 
-# Feature Testing
+# Feature Tests
 
 <!-- 
 Now we define Feature Tests before any code. 
@@ -539,7 +542,7 @@ Now we define Feature Tests before any code.
 level: 2
 ---
 
-# Section 2 — Feature Testing
+# Section 2 — Feature Tests
 
 ## What is a **Feature Test**?
 
@@ -563,7 +566,7 @@ level: 2
 layout: two-cols
 ---
 
-# Section 2 — Feature Testing
+# Section 2 — Feature Tests
 
 ## When to use Feature Tests
 
@@ -613,7 +616,7 @@ This is where we validate integration and behaviour, not just isolated logic.
 level: 2
 ---
 
-# Feature Testing - Web
+# Feature Tests - Web
 
 ## Test Homepage Loads
 
@@ -630,7 +633,7 @@ Route::view('/', 'welcome')->name('home');
 level: 2
 ---
 
-# Feature Testing - Web
+# Feature Tests - Web
 
 ## Homepage loads (via PHPUnit)
 
@@ -656,7 +659,7 @@ class HomepageTest extends TestCase
 level: 2
 ---
 
-# Feature Testing - Web
+# Feature Tests - Web
 ## Homepage loads (via Pest)
 
 ```php {1,7|2|4|4-5|6-7|all}
@@ -705,7 +708,7 @@ level: 2
 
 **File:** `routes/api.php`
 
-```php
+```php {none|1-2|4|all}
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\API\ContactController;
 
@@ -720,11 +723,11 @@ level: 2
 ## API: Create & List Contacts (Pest)
 
 ### Controller Method(s)
-- Extract of the complete controller class
+- Part of the complete controller class
 
 **File:** `app/Http/Controllers/API/ContactController.php`
 
-```php
+```php {1-2,11|3-6|8-10|all}
 public function store(Request $request)
 {
     $data = $request->validate([
@@ -746,10 +749,12 @@ level: 2
 # Feature Test Example - API
 
 ## API: Create & List Contacts (Pest)
-### Feature Test
 
 **File:** `tests/Feature/API/ContactApiTest.php`
-```php
+
+````md magic-move
+
+```php {1-2|4|6,14|6-7,14|6-11,14|6,13,14|all}
 use App\Models\Contact;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
@@ -765,6 +770,15 @@ it('creates a contact via API', function () {
     expect(Contact::whereEmail('mary@example.com')->exists())->toBeTrue();
 });
 
+// more tests to come
+```
+
+```php {1-4|6,12|6-7,12|6,9-11,12|all}
+use App\Models\Contact;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+
+// Previous code here
+
 it('lists contacts with pagination meta', function () {
     Contact::factory()->count(2)->create();
 
@@ -774,6 +788,7 @@ it('lists contacts with pagination meta', function () {
 });
 ```
 
+````
 <!-- 
 Use JSON helpers `getJson`, `postJson`; assertions for structure and paths.
 Pagination auto-includes `links` and `meta` when using Laravel paginator with resources. citeturn1search31turn1search10 
@@ -783,38 +798,47 @@ Pagination auto-includes `links` and `meta` when using Laravel paginator with re
 level: 2
 ---
 
+# Feature Test Example - API
+
 ## API: Validation & Problem Details (RFC 9457 hint)
 
-Return a standards-based error body for validation failures using `application/problem+json`:
+- Standards-based error body.
+- Use `application/problem+json`
 
-```php
-return response()->json([
-  'type' => url('/probs/validation'),
-  'title' => 'Validation failed',
-  'status' => 422,
-  'detail' => 'Email is required and must be unique',
-], 422)->header('Content-Type','application/problem+json');
+```php {none|1|1-2,7|1-7|8|all}
+return response()
+    ->json([
+        'type' => url('/probs/validation'),
+        'title' => 'Validation failed',
+        'status' => 422,
+        'detail' => 'Email is required and must be unique',
+    ], 422)
+    ->header('Content-Type','application/problem+json');
 ```
 
 **Why**: Machine-readable, standardised error shape per **Problem Details** specification (RFC 9457, superseding RFC 7807). citeturn1search63turn1search59
 
 <!-- 
-Laravel returns 422 with default error JSON. Showing Problem Details hints how to standardise errors for clients. 
+Laravel returns 422 with default error JSON. 
+
+Showing Problem Details hints how to standardise errors for clients. 
 -->
 
 ---
 level: 2
 ---
 
+# Feature Test Example - API
+
 ## API: Authorisation (403) example
 
-```php
+```php {none|all}
 // Policy gate check inside controller
 $this->authorize('create', Contact::class);
 ```
 
 **Feature test (Pest):**
-```php
+```php {none|1,4|2-3|all}
 it('blocks unauthorised creation', function () {
     $this->postJson('/api/contacts', ['name' => 'X', 'email' => 'x@x'])
         ->assertForbidden();
@@ -822,13 +846,46 @@ it('blocks unauthorised creation', function () {
 ```
 
 <!-- 
-Focus is testing behaviour (403) not implementation details. Add policies as needed. 
+Focus is testing behaviour (403) not implementation details. 
+
+Add policies as needed. 
 -->
+
+---
+layout: section
+---
+
+# Activities & Challenges
 
 ---
 level: 2
 ---
 
+# Activity + Challenges
+
+## Base: 
+
+Write a feature test for GET /api/students that asserts pagination 
+meta is present.
+
+## Challenge A:
+
+Add CoursePolicy and test that unauthorized POST /api/courses returns 403 with Problem Details.
+
+## Challenge B: 
+
+Implement a JSON:API-like envelope for students and update 
+tests accordingly.
+
+## Reflect: 
+
+When is a unit test enough vs when do you need a feature test?
+
+---
+layout: section
+---
+
+# Recap Checklist
 
 ---
 level: 2
@@ -836,11 +893,12 @@ level: 2
 
 # Recap Checklist
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Explain Unit vs Feature trade-offs (speed vs realism) [sli.dev]
+- [ ] Pest installed & working (Laravel plugin) [github.com]
+- [ ] API Resources shape clean JSON (+links/meta) [laravel.com]
+- [ ] Feature tests cover endpoints (201/200/404/422/204) [laravel.com]
+- [ ] Unit tests protect core rules (no framework boot) [sli.dev]
+- [ ] SQLite config + Postman collection ready [jsonapi.org], [laravel.com]
 
 ---
 level: 2
@@ -851,18 +909,76 @@ level: 2
 > Pose a question about the content
 
 ---
+layout: section
+---
+
+# Acknowledgements / References
+---
 level: 2
 ---
 
-# Acknowledgements
+# Acknowledgements / References
 
-- Fu, A. (2020). Slidev. Sli.dev. https://sli.dev/
-- Font Awesome. (2026). Font Awesome. Fontawesome.com; Font Awesome. https://fontawesome.com/
-- Mermaid Chart. (2026). Mermaid.ai. https://mermaid.ai/
 
-> Slide template by Adrian Gould
 
-<br>
+## References 
 
-> - Mermaid syntax used for some diagrams
+
+- API Coach. (2026). *RFC 9457 problem details for HTTP APIs*. https://apicoach.io/wiki/http-fundamentals/problem-details/  
+- Bergmann, S. (2026). *PHPUnit manual: Version 12.5*. https://docs.phpunit.de/en/12.5/index.html  
+- Brown, S., Timoney, J., Lysaght, T., & Ye, D. (2011). *Software testing: Principles and practice*. China Machine Press. http://www.softwaretestingbook.org/ed1/SWTPP-Edition1-online.pdf  
+- Dhandala, N. (2026). *How to build API problem details*. OneUptime. https://oneuptime.com/blog/post/2026-01-30-api-problem-details/view  
+
+---
+level: 2
+---
+
+## References 2
+
+- GeeksforGeeks. (2025). *Unit testing best practices*. https://www.geeksforgeeks.org/blogs/unit-testing-best-practices/  
+- IBM. (2026). *Unit testing best practices*. https://www.ibm.com/think/insights/unit-testing-best-practices  
+- JSON:API. (2026). *JSON:API specification*. https://jsonapi.org/
+- Jain, J. (2022). *Learn API testing: Norms, practices, and guidelines for building effective test automation*. Springer. https://link.springer.com/book/10.1007/978-1-4842-8142-0  
+- Kilcommins, F. (2024). *Problem details (RFC 9457): Getting hands‑on with API error handling*. Swagger. https://swagger.io/blog/problem-details-rfc9457-api-error-handling/  
+
+
+---
+level: 2
+---
+
+## References 3
+
+- Laragon. (2026). *Laragon documentation*. https://laragon.org/docs  
+- Laravel. (2026). *Database: Getting started*. https://laravel.com/docs/12.
+x/database
+- Laravel. (2026). *Eloquent API resources*. https://laravel.com/docs/12.
+x/eloquent-resources
+- Laravel. (2026). *HTTP tests*. https://laravel.com/docs/12.x/http-tests  
+- Laravel. (2026). *Testing: Getting started*. https://laravel.com/docs/12.
+x/testing  
+
+
+---
+level: 2
+---
+
+## References 4
+
+
+- Microsoft Azure Architecture Center. (2026). *API design: Best practices*. https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
+- Microsoft. (2025). *Unit testing best practices for .NET*. https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices  
+- Mujtaba, G. (2024). *Introduction to Pest: A PHP testing framework*. DEV Community. https://dev.to/ghulam_mujtaba_247/introduction-to-pest-a-php-testing-framework-39ea  
+- Nottingham, M., Wilde, E., & Dalal, S. (2023). *RFC 9457: Problem details for HTTP APIs*. Internet Engineering Task Force. https://www.ietf.org/rfc/rfc9457.pdf  
+
+---
+level: 2
+---
+
+## References 5
+
+- PestPHP. (2026). *Pest: An elegant PHP testing framework*. https://pestphp.com/  
+- Postman. (2026). *Postman API client*. https://www.postman.com/product/api-client/  
+- SQLite Project. (2026). *SQLite documentation: In‑memory databases*. https://www.sqlite.org/inmemorydb.html  
+- Vonage Developer. (2025). *Control your legacy refactor with PEST architecture testing*. https://developer.vonage.com/en/blog/control-your-legacy-refactor-with-pest-architecture-testing  
+
 > - Some content was generated with the assistance of Microsoft CoPilot
