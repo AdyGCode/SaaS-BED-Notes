@@ -1,6 +1,7 @@
 .trash
 .trash/*
 .trash/**/*
+**/**/*-lock.yaml
 
 /**/node_modules/
 
