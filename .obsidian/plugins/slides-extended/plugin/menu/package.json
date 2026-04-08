@@ -29,7 +29,7 @@
     "babel-plugin-transform-html-import-to-string": "0.0.1",
     "core-js": "^3.6.5",
     "gulp": "^4.0.2",
-    "rollup": "^2.21.0",
+    "rollup": "^4.60.1",
     "rollup-plugin-terser": "^6.1.0"
   }
 }
