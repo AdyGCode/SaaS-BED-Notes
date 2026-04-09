@@ -307,19 +307,26 @@ Emphasis: isolation, speed, and the fact the framework may not fully boot.
 
 ---
 level: 2
+layout: two-cols
 ---
 
 # What is a **Unit Test**?
 
-A **Unit Test**:
+::left::
+
+## A **Unit Test**
+
 - checks a *small, isolated* piece of code
 - e.g. helper function or a single class method
+
+::right::
 
 ## Key Points
 
 - Typically **does not** touch the database
 - Often **does not** boot the full Laravel application
-- Runs **very fast** and is ideal for pure logic and refactoring safety
+- Runs **very fast** 
+- Ideal for pure logic and refactoring safety
 
 <!-- 
 Clarify that while you can technically boot the framework, 
@@ -336,15 +343,15 @@ layout: two-cols
 
 ::left::
 
-### **Helper utilities** 
+### Helper utilities
 
 Part of a "helper" class
 
-- e.g. Laravel's Str class 
+- e.g. method within Laravel's Str class 
 
 <br>
 
-### **Model methods** 
+### Model methods
 
 Pure methods
 
@@ -354,7 +361,7 @@ Pure methods
 
 ::right::
 
-### **Domain rules** 
+### Domain rules
 
 Do not depend on external systems.
 
@@ -362,7 +369,7 @@ Do not depend on external systems.
 
 <br>
 
-### **Refactoring guardrails** 
+### Refactoring guardrails
 
 Safety net that immediately tells you: 
 
@@ -540,25 +547,32 @@ Now we define Feature Tests before any code.
 
 ---
 level: 2
+layout: two-cols
 ---
 
-# Section 2 — Feature Tests
+# What is a **Feature Test**?
 
-## What is a **Feature Test**?
+::left::
 
-Feature Tests verify how **multiple parts** of the application work 
-together.
+## A **Feature Test**
 
-For example:
--   routing, controllers, middleware, validation, database, views or JSON responses.
+- verifies how **multiple parts** of the application work together.
 
-They...
+For example combinations of:
+-   routing, controllers, middleware, validation, database, 
+views or JSON responses.
+
+::right::
+
+## Key Points
+
 - Use **HTTP test helpers** like `get()`, `postJson()`
-- Execute requests **without a real server** (internally simulated)
+- Execute requests **without a real server** (internal simulation)
 - Assert status codes, headers, views, and JSON structures
 
 <!-- 
-Key message: Feature tests simulate real user or client interactions across the stack. 
+Key message: Feature tests simulate real user or client 
+interactions across the stack. 
 -->
 
 ---
@@ -566,13 +580,13 @@ level: 2
 layout: two-cols
 ---
 
-# Section 2 — Feature Tests
+# Feature Tests
 
 ## When to use Feature Tests
 
 ::left::
 
-## **Web pages** 
+### Web UI / Pages
 
 - 'views' & forms, 
 - redirects, 
@@ -580,7 +594,7 @@ layout: two-cols
 
 <br>
 
-## **API endpoints**
+### API endpoints
 
 - CRUD / BREAD
 - validation, 
@@ -591,7 +605,7 @@ layout: two-cols
 
 ::right::
 
-## **Database interactions**
+### Database interactions
 
 - creation, 
 - updates, 
@@ -599,7 +613,7 @@ layout: two-cols
 
 <br>
 
-## **HTTP behaviour**
+### HTTP behaviour
 
 - headers, 
 - content negotiation, 
@@ -676,7 +690,7 @@ it('loads the homepage', function () {
 
 <!-- 
 HTTP tests are fluent and expressive: `assertOk`, `assertSee`, `assertRedirect`, etc.
-Internally simulated – no external web server is needed. citeturn1search31 
+Internally simulated – no external web server is needed.  
 -->
 
 ---
@@ -790,8 +804,9 @@ it('lists contacts with pagination meta', function () {
 
 ````
 <!-- 
-Use JSON helpers `getJson`, `postJson`; assertions for structure and paths.
-Pagination auto-includes `links` and `meta` when using Laravel paginator with resources. citeturn1search31turn1search10 
+- Use JSON helpers `getJson`, `postJson`; assertions for structure and paths.
+- Pagination auto-includes `links` and `meta` when using Laravel paginator 
+with resources. 
 -->
 
 ---
@@ -816,12 +831,14 @@ return response()
     ->header('Content-Type','application/problem+json');
 ```
 
-**Why**: Machine-readable, standardised error shape per **Problem Details** specification (RFC 9457, superseding RFC 7807). citeturn1search63turn1search59
+<Announcement type="info" title="Why"> 
+<p>Machine-readable, standardised error shape per **Problem Details** 
+specification <br>(RFC 9457, superseding RFC 7807).</p>
+</Announcement>
 
 <!-- 
-Laravel returns 422 with default error JSON. 
-
-Showing Problem Details hints how to standardise errors for clients. 
+- Laravel returns 422 with default error JSON. 
+- Showing Problem Details hints how to standardise errors for clients. 
 -->
 
 ---
@@ -859,24 +876,29 @@ layout: section
 
 ---
 level: 2
+layout: grid
 ---
 
 # Activity + Challenges
 
+::tl::
 ## Base: 
 
-Write a feature test for GET /api/students that asserts pagination 
+Write a feature test for `GET /api/students` that asserts pagination 
 meta is present.
 
+::bl::
 ## Challenge A:
 
-Add CoursePolicy and test that unauthorized POST /api/courses returns 403 with Problem Details.
+Add CoursePolicy and test that unauthorized `POST /api/courses` returns 403 with Problem Details.
 
+::tr::
 ## Challenge B: 
 
-Implement a JSON:API-like envelope for students and update 
+Implement a `JSON:API`-like envelope for students and update 
 tests accordingly.
 
+::br::
 ## Reflect: 
 
 When is a unit test enough vs when do you need a feature test?
@@ -893,20 +915,12 @@ level: 2
 
 # Recap Checklist
 
-- [ ] Explain Unit vs Feature trade-offs (speed vs realism) [sli.dev]
-- [ ] Pest installed & working (Laravel plugin) [github.com]
-- [ ] API Resources shape clean JSON (+links/meta) [laravel.com]
-- [ ] Feature tests cover endpoints (201/200/404/422/204) [laravel.com]
-- [ ] Unit tests protect core rules (no framework boot) [sli.dev]
-- [ ] SQLite config + Postman collection ready [jsonapi.org], [laravel.com]
-
----
-level: 2
----
-
-# Exit Ticket
-
-> Pose a question about the content
+- [ ] Explain Unit vs Feature trade-offs (speed vs realism) 
+- [ ] Pest installed & working (Laravel plugin) 
+- [ ] API Resources shape clean JSON (+links/meta) 
+- [ ] Feature tests cover endpoints (201/200/404/422/204) 
+- [ ] Unit tests protect core rules (no framework boot) 
+- [ ] SQLite config + Postman collection ready 
 
 ---
 layout: section
@@ -919,11 +933,6 @@ level: 2
 
 # Acknowledgements / References
 
-
-
-## References 
-
-
 - API Coach. (2026). *RFC 9457 problem details for HTTP APIs*. https://apicoach.io/wiki/http-fundamentals/problem-details/  
 - Bergmann, S. (2026). *PHPUnit manual: Version 12.5*. https://docs.phpunit.de/en/12.5/index.html  
 - Brown, S., Timoney, J., Lysaght, T., & Ye, D. (2011). *Software testing: Principles and practice*. China Machine Press. http://www.softwaretestingbook.org/ed1/SWTPP-Edition1-online.pdf  
@@ -933,7 +942,8 @@ level: 2
 level: 2
 ---
 
-## References 2
+# Acknowledgements / References 2
+
 
 - GeeksforGeeks. (2025). *Unit testing best practices*. https://www.geeksforgeeks.org/blogs/unit-testing-best-practices/  
 - IBM. (2026). *Unit testing best practices*. https://www.ibm.com/think/insights/unit-testing-best-practices  
@@ -946,24 +956,22 @@ level: 2
 level: 2
 ---
 
-## References 3
+
+# Acknowledgements / References 3
 
 - Laragon. (2026). *Laragon documentation*. https://laragon.org/docs  
-- Laravel. (2026). *Database: Getting started*. https://laravel.com/docs/12.
-x/database
-- Laravel. (2026). *Eloquent API resources*. https://laravel.com/docs/12.
-x/eloquent-resources
+- Laravel. (2026). *Database: Getting started*. https://laravel.com/docs/12.x/database
+- Laravel. (2026). *Eloquent API resources*. https://laravel.com/docs/12.x/eloquent-resources
 - Laravel. (2026). *HTTP tests*. https://laravel.com/docs/12.x/http-tests  
-- Laravel. (2026). *Testing: Getting started*. https://laravel.com/docs/12.
-x/testing  
+- Laravel. (2026). *Testing: Getting started*. https://laravel.com/docs/12.x/testing  
 
 
 ---
 level: 2
 ---
 
-## References 4
 
+# Acknowledgements / References 4
 
 - Microsoft Azure Architecture Center. (2026). *API design: Best practices*. https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
 - Microsoft. (2025). *Unit testing best practices for .NET*. https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices  
@@ -974,11 +982,27 @@ level: 2
 level: 2
 ---
 
-## References 5
+
+# Acknowledgements / References 5
 
 - PestPHP. (2026). *Pest: An elegant PHP testing framework*. https://pestphp.com/  
 - Postman. (2026). *Postman API client*. https://www.postman.com/product/api-client/  
 - SQLite Project. (2026). *SQLite documentation: In‑memory databases*. https://www.sqlite.org/inmemorydb.html  
 - Vonage Developer. (2025). *Control your legacy refactor with PEST architecture testing*. https://developer.vonage.com/en/blog/control-your-legacy-refactor-with-pest-architecture-testing  
 
+<br>
+
 > - Some content was generated with the assistance of Microsoft CoPilot
+
+
+---
+level: 2
+layout: end
+---
+
+# Fin! 🟢 😆 🪲
+
+<h1 style="text-align: left; line-height: 3rem;">
+ Green test lights blink on —<br> API endpoints laugh,<br> spring bugs 
+flee in shame.
+</h1>

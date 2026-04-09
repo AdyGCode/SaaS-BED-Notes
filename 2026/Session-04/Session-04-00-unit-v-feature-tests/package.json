@@ -19,7 +19,6 @@
     "@slidev/types": "latest",
     "shiki": "latest",
     "shiki-magic-move": "latest",
-    "slidev-addon-announcement": "latest",
     "slidev-theme-nmt": "latest",
     "vue": "latest"
   },
@@ -32,7 +31,7 @@
         "provider": "coollabs",
         "mono": "Fira Code,consolas",
         "serif": "Roboto Serif,Georgia",
-        "sans": "Lexend,Avenir Next.Arial",
+        "sans": "Lexend,Avenir Next,Arial",
         "local": "Lexend,Avenir Next,Arial",
         "italic": false
       },
