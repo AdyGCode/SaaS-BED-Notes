@@ -10,7 +10,7 @@ mdc: true
 duration: 35min
 ---
 
-# Session 10/1 - Introducing NoSQL
+# Introducing NoSQL
 
 ## Software as a Service - Back-End Development
 
@@ -59,20 +59,25 @@ layout: section
 # Objectives
 
 ---
-layout: two-cols
-level: 1
+level: 2
 class: text-left
 ---
 
 # Objectives
 
-::left::
 
--
+By the end of this session, learners will be able to:
 
-::right::
+- Explain what **NoSQL databases** are and why they are used
+- Compare **NoSQL and SQL/RDBMS** across schema, scalability, and consistency
+- Identify the **main types of NoSQL databases** and their use cases
+- Select an appropriate **NoSQL model** for a given application scenario
 
--
+<!-- Presenter Notes
+These objectives are deliberately application‑focused rather than tool‑specific.  
+Emphasise that students are not expected to *master* NoSQL yet — just understand *why and when* it is used.
+-->
+
 
 ---
 level: 2
@@ -89,22 +94,44 @@ layout: section
 
 # Warm up!
 
-## ...
+## Think Like a System Designer
+
 
 ---
 level: 2
+layout: two-cols
 ---
 
-# ... warmup details
 
-<Announcement type="brainstorm">
-<ol>
-<li>...</li>
-</ol>
+## Warm‑Up: Think Like a System Designer
+
+::left::
+
+### Setting the Scene
+
+<Announcement type="default" title="Scenario">
+
+You are building a global social media app.
+
+- Millions of users
+- Real‑time updates
+- Rapid growth
+- Data structure changes often
+
 </Announcement>
 
-<!--
+::right::
 
+### Discuss (2–3 minutes):
+- What problems might a **traditional SQL database** face?
+- What characteristics would you want from a database instead?
+
+<!-- Presenter Notes
+- This is a diagnostic warm‑up, not a test.
+- Look for answers around scalability, schema changes, performance, and 
+availability.
+- Do not introduce the term “NoSQL” yet — let students surface the need 
+organically.
 -->
 
 ---
@@ -346,6 +373,41 @@ layout: two-cols
    - MongoDB uses a query language similar to JavaScript, 
    - Cassandra uses CQL (Cassandra Query Language).
 
+
+
+---
+layout: two-cols
+---
+
+# Practice: To SQL or Not to SQL (NoSQL)?
+::left::
+
+### Scenarios
+For each scenario, choose **SQL or NoSQL** and justify your answer.
+
+<Announcement type="brainstorm" title="Which do you chose">
+
+
+1. A banking system handling money transfers  
+2. A real‑time multiplayer game leaderboard  
+3. An e‑commerce catalogue with frequently changing product attributes  
+4. A social network mapping relationships between users  
+
+</Announcement>
+
+::right::
+### Discussion 🗣️ 
+
+Discuss in pairs, then share one choice with the class.
+
+<!-- Presenter Notes
+There are no trick questions — some answers may be debatable.
+The goal is justification, not correctness.
+Watch for students who choose NoSQL for everything and challenge that assumption.
+-->
+
+
+
 ---
 layout: section
 ---
@@ -514,6 +576,49 @@ There are systems that offer Multiple models of data storage, and they include (
 - Azure Cosmos DB, and 
 - Couchbase.
 
+
+
+
+---
+layout: two-cols
+---
+
+# Database Types: Mini Exercise
+## Match the Model
+
+::left::
+
+### Scenario
+Match each requirement to a NoSQL type:
+
+| Requirement | Best Fit |
+|------------|---------|
+| Fast session storage | ? |
+| Social network relationships | ? |
+| Large write‑heavy time‑series data | ? |
+| Flexible JSON documents | ? |
+
+::right::
+
+### Task
+
+Select what you believe is the most appropriate from:
+
+- Key‑Value, 
+- Document,
+- Wide Column, 
+- Graph,
+- Relational
+
+Think about your choices, why it fits.
+
+<!-- Presenter Notes
+Encourage reasoning over speed.
+Ask *why* a model fits, not just *what fits*.
+This prepares students for architecture decisions later in the course.
+-->
+
+
 ---
 layout: section
 ---
@@ -556,36 +661,76 @@ level: 2
 - _memcached - a distributed memory object caching system_. (2025). Memcached.org. https://memcached.org/
 
 ---
+layout: section
+---
 
-# Recap Checklist
+# Recap 🔁 
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+ What You Already Know
 
 ---
 level: 2
 ---
 
-# Exit Ticket
+# Recap:
 
-> Pose a question about the content
+Before diving into NoSQL, recall that SQL / RDBMS systems:
+
+- [ ] Use **tables with fixed schemas**
+- [ ] Rely on **relationships and joins**
+- [ ] Favour **ACID transactions**
+- [ ] Scale mainly by **upgrading single servers**
+
+Keep these ideas in mind — we’ll compare directly against them.
+
+<!-- Presenter Notes
+- This slide anchors new knowledge to prior learning.
+- If students struggle here, briefly revisit ACID and table relationships.
+-->
+
+
+---
+layout: section
+---
+
+# 🚪 Exit Ticket
+
+---
+level: 2
+---
+
+# 🚪 Exit Ticket
+
+Before you leave, answer at least **one** of the following:
+
+1. When would you *avoid* using NoSQL?
+2. Which NoSQL model makes the most sense to you — and why?
+3. How does the CAP theorem influence NoSQL design?
+
+✍️ Write 2–3 sentences.
+
+<!-- Presenter Notes
+Use this as formative assessment.
+Answers help identify misconceptions around “NoSQL replaces SQL”.
+-->
+
 
 
 ---
 
 # Acknowledgements
 
-- Fu, A. (2020). Slidev. Sli.dev. https://sli.dev/
-- Font Awesome. (2026). Font Awesome. Fontawesome.com; Font
-  Awesome. https://fontawesome.com/
-- Mermaid Chart. (2026). Mermaid.ai. https://mermaid.ai/
 
-> Slide template by Adrian Gould
+> Slide template by Adrian Gould<br>
+> Mermaid syntax used for some diagrams<br>
+> Some content was generated with the assistance of Microsoft CoPilot
 
-<br>
 
-> - Mermaid syntax used for some diagrams
-> - Some content was generated with the assistance of Microsoft CoPilot
+---
+level: 2
+layout: end
+---
+
+# Fin! 🍋‍🟩 ⚾ 😧
+
+# ACID guards the past.<br>BASE runs toward tomorrow —<br>choose by changing strain.

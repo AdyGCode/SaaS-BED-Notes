@@ -739,3 +739,14 @@ level: 2
 
 > - Mermaid syntax used for some diagrams
 > - Some content was generated with the assistance of Microsoft CoPilot
+
+
+
+---
+level: 2
+layout: end
+---
+
+# Fin! 👋 🌊 🏄
+
+# Fixed paths become rows.<br>Objects fade into vast scale;<br>shards keep ACID true.
