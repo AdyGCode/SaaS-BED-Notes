@@ -8,8 +8,6 @@ drawings:
 transition: fade
 mdc: true
 duration: 35min
-addons:
-  - slidev-addon-announcement
 ---
 
 # Session 01: Introduction
@@ -135,7 +133,7 @@ subjects: "SaaS, API Dev, IoT"
 msTeams: "Teams: adrian.gould@nmtafe.wa.edu.au"
 website: "https://northmetrotafe.wa.edu.au"
 github: "https://github.com/adygcode"
-imageSrc: /ajg-lego.png
+imageSrc: ./images/ajg-lego.png
 ---
 
 ---
@@ -371,5 +369,4 @@ level: 2
 - Fu, A. (2020). Slidev. Sli.dev. https://sli.dev/
 - Font Awesome. (2026). Font Awesome. Fontawesome.com; Font Awesome. https://fontawesome.com/
 
-- Slide template
-  - Adrian Gould
+> Slide template by Adrian Gould

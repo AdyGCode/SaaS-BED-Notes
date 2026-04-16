@@ -1,6 +1,9 @@
 .trash
 .trash/*
 .trash/**/*
+**/**/*-lock.yaml
+
+/**/node_modules/
 
 ### JetBrains+all template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -242,3 +245,4 @@ Temporary Items
 /.obsidian/plugins/
 /.obsidian/themes/
 /.obsidian/snippets/
+/2026/Session-02/Slides-02-01/node_modules/
