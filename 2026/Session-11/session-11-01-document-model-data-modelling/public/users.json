@@ -1,0 +1,71 @@
+[
+  {
+    "_id": { "$oid": "661fa9000000000000000001" },
+    "name": "Alice Chen",
+    "email": "alice.chen@example.com",
+    "role": "admin",
+    "status": "active",
+    "orders": [
+      {
+        "orderNumber": "A1001",
+        "date": { "$date": "2026-04-10T10:15:00Z" },
+        "items": [
+          { "sku": "SKU-1001", "name": "Pro Subscription", "qty": 1, "price": 49.00 },
+          { "sku": "SKU-2001", "name": "Onboarding Support", "qty": 1, "price": 99.00 }
+        ],
+        "total": 148.00
+      },
+      {
+        "orderNumber": "A1002",
+        "date": { "$date": "2026-04-18T14:40:00Z" },
+        "items": [
+          { "sku": "SKU-3001", "name": "Extra Storage Pack", "qty": 2, "price": 10.00 }
+        ],
+        "total": 20.00
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "661fa9000000000000000002" },
+    "name": "Bob Williams",
+    "email": "bob.williams@example.com",
+    "role": "user",
+    "status": "active",
+    "orders": [
+      {
+        "orderNumber": "B2001",
+        "date": { "$date": "2026-04-11T09:05:00Z" },
+        "items": [
+          { "sku": "SKU-1001", "name": "Pro Subscription", "qty": 1, "price": 49.00 }
+        ],
+        "total": 49.00
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "661fa9000000000000000003" },
+    "name": "Carla Ramirez",
+    "email": "carla.ramirez@example.com",
+    "role": "user",
+    "status": "suspended",
+    "orders": [
+      {
+        "orderNumber": "C3001",
+        "date": { "$date": "2026-04-05T16:20:00Z" },
+        "items": [
+          { "sku": "SKU-3001", "name": "Extra Storage Pack", "qty": 1, "price": 10.00 },
+          { "sku": "SKU-4001", "name": "Priority Support", "qty": 1, "price": 29.00 }
+        ],
+        "total": 39.00
+      },
+      {
+        "orderNumber": "C3002",
+        "date": { "$date": "2026-04-21T08:55:00Z" },
+        "items": [
+          { "sku": "SKU-1001", "name": "Pro Subscription", "qty": 1, "price": 49.00 }
+        ],
+        "total": 49.00
+      }
+    ]
+  }
+]
