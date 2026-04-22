@@ -270,18 +270,25 @@ level: 2
 - Use validators for balance
 
 ---
+levle: 2
+layout: two-cols
+---
 
 ## Guided Demo — Relational → Document
 
-Relational:
+::left::
+
+### Relational:
 
 ```
 users(id,name)
-orders(id,user_id)
+orders(id,user_id,date)
 order_items(order_id,sku,qty)
 ```
 
-Document:
+::right::
+
+### Document
 
 ```json
 {
@@ -289,6 +296,7 @@ Document:
   "name": "Alice",
   "orders": [
     {
+      "date": "2026-04-10",
       "items": [
         {
           "sku": "SKU-1001",
@@ -300,32 +308,82 @@ Document:
 }
 ```
 
+Aside: `order_id` would not go amiss for each order.
+
+<!-- Presenter Notes:
+
+Aside: You may want to include the `user_id` in the orders collection for 
+easier referencing in a real‑world scenario, but this simplified example 
+focuses on the embedding aspect.
+
+-->
+
+---
+layout: section
 ---
 
-## MongoDB Compass — Demo
+# MongoDB Compass — Demo
+
+---
+level: 2
+---
+
+# MongoDB Compass — Demo
 
 1. Create DB: `saas_demo`
 2. Create Collection: `users`
-3. ADD DATA → Import JSON → `users.json`
+3. Import JSON → `users.json`
+4. Create Collection: `orders`
+5. Import JSON → `orders.json`
+
+
+---
+level: 2
+layout: two-cols
+---
+
+# MongoDB Compass — Demo
+
+::left::
+
+## Set Up Demo Database 
+
+Create a new database on your MongoDB Atlas account.
+
+- `saas_demo`
+
+<br>
+<br>
+
+## Sample Data
+
+Data found on GitHub:
+https://github.com/AdyGCode/SaaS-BED-Notes/tree/main/2026/Session-11/session-11-01-document-model-data-modelling/public
+
+::right::
+
+## Collections & Data
+
+Create new collections, and import data into them.
+
+| Collection | Sample Data |
+|------------|----------------------------------------|
+| `users`    | [users.json](./public/users.json) | 
+| `orders`   | [orders.json](./public/orders.json) | 
+
+- Importing one using compass’s UI.
+- Import the other using the `mongoimport` CLI tool.
 
 ---
 
 ## Compass Queries
 
-```js
-{
-    "role"
-:
-    "admin"
-}
+```json
+{ "role": "admin" }
 ```
 
-```js
-{
-    "orders.items.sku"
-:
-    "SKU-1001"
-}
+```json
+{ "orders.items.sku": "SKU-1001"}
 ```
 
 ---
@@ -362,8 +420,6 @@ level: 2
 - Ignoring access patterns
 - No validation
 
-
-# 🚨 Common Modelling Mistakes
 
 ## ❌ Unlimited Array Growth
 - Risks 16MB limit
@@ -413,24 +469,6 @@ layout: two-cols
 3. Schema-on-read?
 
 <br>
-
-#### Set Up Demo Database 
-
-Create a new database on your MongoDB Atlas account.
-- `saas_demo`
-
-::right::
-#### Collections & Data
-
-Create new collections, and import data into them.
-
-| Collection | Sample Data |
-|------------|----------------------------------------|
-| `users`    | [users.json](./public/users.json) | 
-| `orders`   | [orders.json](./public/orders.json) | 
-
-Data also found on GitHub:
-
 
 <!-- Presenter Notes:
 
