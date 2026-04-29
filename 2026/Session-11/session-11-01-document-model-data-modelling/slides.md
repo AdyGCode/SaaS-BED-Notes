@@ -180,34 +180,37 @@ By the end of this session, you will be able to:
 layout: section
 ---
 
-# BSON Structure
+# MongoDB & BSON
 
 ---
 level: 2
-layout: default
+layout: two-cols
 ---
 
-# BSON Structure
+# MongoDB & BSON
 
-BSON (Binary JSON) is the data format used by MongoDB to store documents. It
-extends JSON with additional data types and is designed for efficient storage
-and retrieval.
+::left::
 
-MongoDB uses BSON to represent documents, which are the basic units of data in
-MongoDB. Each document is a collection of key-value pairs, where the keys are
-strings and the values can be various data types, including:
+### BSON (Binary JSON)
 
-- String
-- Number
-- Boolean
-- Date
-- Array
-- Embedded document
-- ObjectId (a unique identifier)
+- Used by MongoDB to store documents
+- Extends JSON with additional data types
+- designed for efficient storage and retrieval
 
-and more
+<br>
 
-## Example BSON Document
+### MongoDB Documents
+
+- BSON used
+- Document = collection of key-value pairs
+- Values have data type: 
+  - String, Number, Boolean,
+  - Date, Array, Embedded document,
+  - ObjectId (a unique identifier), and more
+
+::right::
+
+### Example BSON Document
 
 ```json
 {
@@ -226,6 +229,18 @@ and more
   }
 }
 ```
+
+<!-- Presenter Notes:
+
+BSON (Binary JSON) is the data format used by MongoDB to store documents. It
+extends JSON with additional data types and is designed for efficient storage
+and retrieval.
+
+
+MongoDB uses BSON to represent documents, which are the basic units of data in
+MongoDB. Each document is a collection of key-value pairs, where the keys are
+strings and the values can be various data types.
+-->
 
 ---
 layout: section
@@ -442,13 +457,23 @@ Close with:
 
 ---
 level: 2
+layout: two-cols
 ---
-## Schema-on-Read vs Write
+# Schema-on-Read vs Write
 
-- Read: Flexible, app-enforced
-- Write: Rigid, DB-enforced
+::left::
+
+### Quick Comparison
+
+- Read: 
+  - Flexible, 
+  - App-enforced
+- Write: 
+  - Rigid, 
+  - DB-enforced
 - Use validators for balance
 
+::right::
 
 <Announcement type="important" title="Embedded & Referencing" class="mt-6">
 <p>
@@ -478,15 +503,16 @@ layout: two-cols
 
 ```
 users(id,name)
-orders(id,user_id,date)
+orders(id,user_id,order_at)
 order_items(order_id,sku,qty)
 ```
 
-<Announcement type="idea" title="Relational Model" class="mt-6">
-<p>The example does not consider issue of ensuring an order number. </p>
-<p>It has a date (Y-M-D) for simplicity</p>
-<p>In a real‑world scenario, you would likely want a more robust order ID 
-system.</p>
+<Announcement type="idea" title="Relational Model" class="mt-4">
+<p>The example does not consider issue of ensuring an order number such as 
+"order_id", instead for simplicity opting for only showing "order_at" 
+(Y-M-D).</p>
+<p>In a real‑world scenario, you would expect a more robust system for the 
+order number.</p>
 </Announcement>
 
 
@@ -500,7 +526,7 @@ system.</p>
   "name": "Alice",
   "orders": [
     {
-      "date": "2026-04-10",
+      "order_at": "2026-04-10",
       "items": [
         {
           "sku": "SKU-1001",
@@ -512,7 +538,6 @@ system.</p>
 }
 ```
 
-Aside: `order_id` would not go amiss for each order.
 
 <!-- Presenter Notes:
 
