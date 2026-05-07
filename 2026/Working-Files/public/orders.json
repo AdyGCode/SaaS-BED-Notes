@@ -1,0 +1,54 @@
+[
+  {
+    "_id": { "$oid": "661fb1000000000000000101" },
+    "orderNumber": "A1001",
+    "userId": { "$oid": "661fa9000000000000000001" },
+    "date": { "$date": "2026-04-10T10:15:00Z" },
+    "items": [
+      { "sku": "SKU-1001", "name": "Pro Subscription", "qty": 1, "price": 49.00 },
+      { "sku": "SKU-2001", "name": "Onboarding Support", "qty": 1, "price": 99.00 }
+    ],
+    "total": 148.00
+  },
+  {
+    "_id": { "$oid": "661fb1000000000000000102" },
+    "orderNumber": "A1002",
+    "userId": { "$oid": "661fa9000000000000000001" },
+    "date": { "$date": "2026-04-18T14:40:00Z" },
+    "items": [
+      { "sku": "SKU-3001", "name": "Extra Storage Pack", "qty": 2, "price": 10.00 }
+    ],
+    "total": 20.00
+  },
+  {
+    "_id": { "$oid": "661fb1000000000000000103" },
+    "orderNumber": "B2001",
+    "userId": { "$oid": "661fa9000000000000000002" },
+    "date": { "$date": "2026-04-11T09:05:00Z" },
+    "items": [
+      { "sku": "SKU-1001", "name": "Pro Subscription", "qty": 1, "price": 49.00 }
+    ],
+    "total": 49.00
+  },
+  {
+    "_id": { "$oid": "661fb1000000000000000104" },
+    "orderNumber": "C3001",
+    "userId": { "$oid": "661fa9000000000000000003" },
+    "date": { "$date": "2026-04-05T16:20:00Z" },
+    "items": [
+      { "sku": "SKU-3001", "name": "Extra Storage Pack", "qty": 1, "price": 10.00 },
+      { "sku": "SKU-4001", "name": "Priority Support", "qty": 1, "price": 29.00 }
+    ],
+    "total": 39.00
+  },
+  {
+    "_id": { "$oid": "661fb1000000000000000105" },
+    "orderNumber": "C3002",
+    "userId": { "$oid": "661fa9000000000000000003" },
+    "date": { "$date": "2026-04-21T08:55:00Z" },
+    "items": [
+      { "sku": "SKU-1001", "name": "Pro Subscription", "qty": 1, "price": 49.00 }
+    ],
+    "total": 49.00
+  }
+]

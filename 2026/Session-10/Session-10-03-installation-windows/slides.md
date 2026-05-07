@@ -262,7 +262,7 @@ https://www.mongodb.com/try/download/community
 
 <div style="max-width: 75%; margin: 0 auto;">
 
-![S09-MongoDB-2-Installing-Windows-20240912134242968.png](./public/images/S09-MongoDB-2-Installing-Windows-20240912134242968.png)
+![S09-MongoDB-2-Installing-Windows-20240912134242968.png](./images/S09-MongoDB-2-Installing-Windows-20240912134242968.png)
 
 </div>
 
@@ -274,7 +274,7 @@ Scroll down until the Server Download is visible:
 
 <div style="max-width: 75%; margin: 0 auto;">
 
-![S09-MongoDB-2-Installing-Windows-20240912133602825.png](./public/images/S09-MongoDB-2-Installing-Windows-20240912133602825.png)
+![S09-MongoDB-2-Installing-Windows-20240912133602825.png](./images/S09-MongoDB-2-Installing-Windows-20240912133602825.png)
 
 </div>
 
@@ -299,7 +299,7 @@ We are able to also download other utilities whilst we wait...
 
 <div style="max-width: 75%; margin: 0 auto;">
 
-![S09-MongoDB-2-Installing-Windows-20240912133851300.png](./public/images/S09-MongoDB-2-Installing-Windows-20240912133851300.png)
+![S09-MongoDB-2-Installing-Windows-20240912133851300.png](./images/S09-MongoDB-2-Installing-Windows-20240912133851300.png)
 
 </div>
 
@@ -313,7 +313,7 @@ We are able to also download other utilities whilst we wait...
 
 <div style="max-width: 75%; margin: 0 auto;">
 
-![S09-MongoDB-2-Installing-Windows-20240912134101143.png](./public/images/S09-MongoDB-2-Installing-Windows-20240912134101143.png)
+![S09-MongoDB-2-Installing-Windows-20240912134101143.png](./images/S09-MongoDB-2-Installing-Windows-20240912134101143.png)
 
 </div>
 
@@ -335,7 +335,7 @@ Once the downloads are complete you will want to uncompress the ZIPs into folder
 
 ### Animation of uncompressing files
 
-![Animation of uncompressing files](./public/images/explorer_9maIfR0ARx.gif)
+![Animation of uncompressing files](./images/explorer_9maIfR0ARx.gif)
 
 ---
 level: 2
@@ -422,7 +422,7 @@ Move the files to a new folder `MongoDB` inside `Laragon\bin` folder.
 ::right::
 ### Animation: Navigate to folder
 
-![Animation of navigating to the correct location](./public/images/explorer_36hf9fEsIY.gif)
+![Animation of navigating to the correct location](./images/explorer_36hf9fEsIY.gif)
 
 ---
 level: 2
@@ -447,7 +447,7 @@ layout: two-cols
 
 <div style="max-width: 65%; margin: 0 auto;">
 
-![](./public/images/explorer_AwmGkSETPE.gif)
+![](./images/explorer_AwmGkSETPE.gif)
 
 </div>
 
@@ -474,7 +474,7 @@ layout: two-cols
 ::right::
 ### Animation: Moving Files/Folders
 
-![](./public/images/explorer_oo0JfYFIxZ.gif)
+![](./images/explorer_oo0JfYFIxZ.gif)
 
 
 ---
@@ -539,7 +539,7 @@ layout: two-cols
 ### Extract Files
 - If you have not done so extract the files from the compressed files
 
-![](./public/images/vivaldi_BsQXA41Nje.gif)
+![](./images/vivaldi_BsQXA41Nje.gif)
 
 ::right::
 
@@ -548,7 +548,7 @@ layout: two-cols
 - Second File Explorer:
 - Locate & open `MongoDB-Windows-x.x.x\bin`
 
-![](./public/images/explorer_K3iOL5JiC6.gif)
+![](./images/explorer_K3iOL5JiC6.gif)
 
 ---
 level: 2
@@ -566,7 +566,7 @@ Second File Explorer (Downlaods folder):
 
 Repeat the steps for the second set of files (eg. the MongoDB Tools).
 
-![](./public/images/explorer_VNu4dzD4zW.gif)
+![](./images/explorer_VNu4dzD4zW.gif)
 
 
 ---
@@ -618,7 +618,7 @@ MongoDB Compass now in Start Menu.
 
 ### Download Details
 
-![](./public/images/S09-MongoDB-2-Installing-Windows-20240912134242968.png)
+![](./images/S09-MongoDB-2-Installing-Windows-20240912134242968.png)
 
 ---
 level: 2
@@ -642,7 +642,7 @@ layout: two-cols
 
 ### Animation: Extract and Move MongoDB Compass
 
-![Animation: Extract and Move MongoDB Compass](./public/images/explorer_3MCbYqmxVh.gif)
+![Animation: Extract and Move MongoDB Compass](./images/explorer_3MCbYqmxVh.gif)
 
 
 ---
@@ -669,7 +669,7 @@ YOu may now run MongoDB Compass from the Start Menu
 
 ### Animation: Adding to Start Menu
 
-![Animation: Adding Compass to Start Menu](./public/images/explorer_Spi0O8An0R.gif)
+![Animation: Adding Compass to Start Menu](./images/explorer_Spi0O8An0R.gif)
 
 ---
 layout: section
@@ -716,7 +716,7 @@ To run MongoDB from Laragon:
 
 On first "enable", Laragon restarts all services
 
-![](./public/images/Obsidian_h9i3Nw984c.gif)
+![](./images/Obsidian_h9i3Nw984c.gif)
 
 ---
 level: 2
@@ -748,7 +748,7 @@ If Laragon does not start MongoDB...
 
 <div style="max-width: 90%; margin: 0 auto;">
 
-![Animation: Check MongoDB Version](./public/images/Obsidian_xVuFmRnXbW.gif)
+![Animation: Check MongoDB Version](./images/Obsidian_xVuFmRnXbW.gif)
 
 </div>
 
@@ -787,7 +787,7 @@ As above, but click "Add Laragon to Path"
 ::right::
 #### Animation: Update Laragon Paths
 
-![Animation: Update Laragon Paths](./public/images/Obsidian_07VVnnyMq6.gif)
+![Animation: Update Laragon Paths](./images/Obsidian_07VVnnyMq6.gif)
 
 ---
 level: 2
@@ -804,7 +804,7 @@ You may now open the Windows Terminal and use the CLI tools...
 
 ::right::
 
-![](./public/images/vivaldi_wnXznqslo1.gif)
+![](./images/vivaldi_wnXznqslo1.gif)
 
 
 ---

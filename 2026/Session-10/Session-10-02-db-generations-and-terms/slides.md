@@ -319,7 +319,7 @@ layout: two-cols
 
 <div style="max-width: 62%">
 
-![geek-and-poke-cv-nosql.jpg](./public/images/geek-and-poke-cv-nosql.jpg)
+![geek-and-poke-cv-nosql.jpg](./images/geek-and-poke-cv-nosql.jpg)
 
 </div>
 
