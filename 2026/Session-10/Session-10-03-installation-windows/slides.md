@@ -12,18 +12,18 @@ duration: 35min
 
 # Installing MongoDB: Windows
 
-## Software as a Service - Back-End Development
+## Cluster: Software as a Service - Back-End Development
 
 #### ICT50120 Diploma of Information Technology (Advanced Programming)<br>
 #### ICT50120 Diploma of Information Technology (Back-End Development)
 
 <div @click="$slidev.nav.next" class="mt-12 -mx-4 p-4" hover:bg="white op-10">
-<p>Press <kbd>Space</kbd> or <kbd>RIGHT</kbd> for next slide/step <fa7-solid-arrow-right /></p>
+<p>Press <kbd>Space</kbd> or <kbd>RIGHT</kbd> for next slide/step <fa-solid-arrow-right /></p>
 </div>
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/adygcode/SaaS-FED-Notes" target="_blank" class="slidev-icon-btn">
-    <fa7-brands-github class="text-zinc-300 text-3xl -mr-2"/>
+    <fa-brands-github class="text-zinc-300 text-3xl -mr-2"/>
   </a>
 </div>
 

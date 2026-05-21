@@ -10,9 +10,6 @@
     "room": "slidev --bind 10.25.35.117 --port 8080 --open --force"
   },
   "dependencies": {
-    "@iconify-json/fa7-brands": "latest",
-    "@iconify-json/fa7-regular": "latest",
-    "@iconify-json/fa7-solid": "latest",
     "@iconify-json/fa-brands": "latest",
     "@iconify-json/fa-regular": "latest",
     "@iconify-json/fa-solid": "latest",

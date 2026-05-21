@@ -1,0 +1,112 @@
+[
+  {
+    "_id": { "$oid": "123" },
+    "title": "Test-Driven APIs with Laravel and Pest",
+    "isbn": "9781617299010",
+    "pageCount": 320,
+    "publishedDate": { "$date": "2023-04-15T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["John Doe"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "234" },
+    "title": "Laravel Beyond Code",
+    "isbn": "9781617299027",
+    "pageCount": 280,
+    "publishedDate": { "$date": "2022-09-10T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Jane Smith"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "345" },
+    "title": "Full-Stack Laravel 13 and Livewire 4 + AI + Alpine.js",
+    "isbn": "9781617299034",
+    "pageCount": 410,
+    "publishedDate": { "$date": "2024-01-20T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Carlos Mendes"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "456" },
+    "title": "Laravel 13 in Practice: Advanced PHP Web Development",
+    "isbn": "9781617299041",
+    "pageCount": 365,
+    "publishedDate": { "$date": "2023-07-05T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Emily Chen"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "567" },
+    "title": "Mastering Laravel 13: Simplify",
+    "isbn": "9781617299058",
+    "pageCount": 300,
+    "publishedDate": { "$date": "2022-11-11T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["David Turner"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "678" },
+    "title": "Mastering Laravel 13 for Web Development",
+    "isbn": "9781617299065",
+    "pageCount": 355,
+    "publishedDate": { "$date": "2024-03-18T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Sophia Patel"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "789" },
+    "title": "Laravel: Up & Running, 3rd Edition",
+    "isbn": "9781492041216",
+    "pageCount": 450,
+    "publishedDate": { "$date": "2019-12-15T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Matt Stauffer"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "890" },
+    "title": "Battle Ready Laravel",
+    "isbn": "9781617299072",
+    "pageCount": 250,
+    "publishedDate": { "$date": "2023-05-01T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Ash Allen"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "901" },
+    "title": "Consuming APIs with Laravel",
+    "isbn": "9781617299089",
+    "pageCount": 270,
+    "publishedDate": { "$date": "2022-06-12T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Ash Allen"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "987" },
+    "title": "Mastering Laravel Validation Rules",
+    "isbn": "9781617299096",
+    "pageCount": 230,
+    "publishedDate": { "$date": "2020-08-25T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Aaron Saray", "Joel Clermont"],
+    "categories": ["Software Engineering"]
+  },
+  {
+    "_id": { "$oid": "876" },
+    "title": "Best Practices for Laravel Enterprise Applications",
+    "isbn": "9781617299102",
+    "pageCount": 390,
+    "publishedDate": { "$date": "2023-10-09T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Wendell Adriel"],
+    "categories": ["Software Engineering"]
+  }
+]

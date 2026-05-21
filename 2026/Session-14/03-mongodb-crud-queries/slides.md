@@ -1,7 +1,7 @@
 ---
 theme: nmt
 background: https://cover.sli.dev
-title: MongoDB Exercises 2 - Queries
+title: MongoDB Exercises 3 - CRUD - Queries
 class: text-left
 drawings:
   persist: false
@@ -10,9 +10,9 @@ mdc: true
 duration: 35min
 ---
 
-# MongoDB Exercises 2 - Queries
+# MongoDB Exercises 3 - CRUD - Queries
 
-## Software as a Service - Back-End Development
+## Cluster: Software as a Service - Back-End Development
 
 #### ICT50120 Diploma of Information Technology (Advanced Programming)<br>
 
@@ -88,28 +88,24 @@ By the end of this session, you will be able to:
 layout: section
 ---
 
-#  MongoDB Exercises 2 - Queries
+# MongoDB Exercises 2 - Queries
 
 ---
 level: 2
 ---
 
-#  MongoDB Exercises 2 - Queries
+# MongoDB Exercises 2 - Queries
 
 Before you start you will require some sample data.
 
 Two versions:
+
 - Embedded Data
-  - [embedded_cleaned.json](public/embedded_cleaned.json)
-- Referenced Data 
-  - [referenced_authors.json](public/referenced_authors.json)
-  - [referenced_books.json](public/referenced_books.json)
-  - [referenced_categories.json](public/referenced_categories.json)
+    - [embedded_cleaned.json](public/embedded_cleaned.json)
 
 You may download this from GitHub:
-    - https://githug.com/AdyGCode/SaaS-BED-Notes/
-    - Open: 2026/Session-14/02-mongodb-queries/public/
-
+- https://githug.com/AdyGCode/SaaS-BED-Notes/
+- Open: 2026/Session-14/02-mongodb-queries/public/
 
 The data set is much larger than the previous version, so we will not show it within this presentation.
 
@@ -117,70 +113,103 @@ The data set is much larger than the previous version, so we will not show it wi
 level: 2
 ---
 
-#  MongoDB Exercises 2 - Queries
+# MongoDB Exercises 2 - Queries
 
-## Setup
+## Requirtements
 
-Open MongoDB Compass
-Create a DB called lab_exercises
-Use the database
-create a table books_embedded
-import the embedded data into this table
-create books, authors, categories tables for the referenced data
-import the relevant files into each table
+- MongoDB installed locally or MongoDB Atlas account
+- MongoDB Shell installed locally
+- MongoDB Tools installed locally
+- MongoDB Compass installed locally
+
+## Setting Up - Using MongoDB CLI tools
+
+Open your CLI, and ensure that you are able to run the following:
+
+```shell
+mongodbimport --version
+```
+
+## Setting Up - Using MongoDB Compass
+
+- Open MongoDB Compass
+- Create a DB called lab_exercises
+- Use the database
+- create a table books_embedded
+- import the embedded data into this table
+- create books, authors, categories tables for the referenced data
+- import the relevant files into each table
 
 
-# Lab 1: Query Embedded Data
+---
+level: 2
+---
+
+# MongoDB Exercises 2 - Queries - Question 1
 
 Find all books by 'Charlie Collins'
 
+<!-- 
 ```js
 db.books.find({ authors: "Charlie Collins" })
 ```
 
-<!-- Answer: Simple array match works because authors are embedded directly -->
+
+Answer: Simple array match works because authors are embedded directly
+-->
 
 ---
 
-# Lab 2: Category Query
+# MongoDB Exercises 2 - Queries - Question 2
 
 Find all Java books
 
+<!-- 
 ```js
 db.books.find({ categories: "Java" })
 ```
 
-<!-- Answer: Embedded array allows direct filtering without joins -->
+
+Answer: Embedded array allows direct filtering without joins
+-->
 
 ---
 
-# Lab 3: Sorting
+# MongoDB Exercises 2 - Queries - Question 3
 
 Sort books by newest publishedDate
 
+<!-- 
 ```js
 db.books.find().sort({ publishedDate: -1 })
 ```
 
-<!-- Answer: Native BSON date enables efficient sorting -->
+
+Answer: Native BSON date enables efficient sorting
+-->
 
 ---
 
-# Lab 4: Missing Data
+# MongoDB Exercises 2 - Queries - Question 4
 
 Find books with missing pageCount
 
+<!-- 
 ```js
 db.books.find({ pageCount: null })
 ```
 
-<!-- Answer: Using null instead of 0 enables meaningful filtering -->
+
+Answer: Using null instead of 0 enables meaningful filtering
+-->
 
 ---
 
-# Lab 5: Referenced Lookup
+# MongoDB Exercises 2 - Queries - Question 5
 
 Join books with authors
+
+<!-- 
 
 ```js
 db.books.aggregate([
@@ -195,13 +224,17 @@ db.books.aggregate([
 ])
 ```
 
-<!-- Answer: $lookup required because authors are stored separately -->
+
+Answer: $lookup required because authors are stored separately
+-->
 
 ---
 
-# Lab 6: Projection
+# MongoDB Exercises 2 - Queries - Question 6
 
 Return title and author names only
+
+<!-- 
 
 ```js
 db.books.aggregate([
@@ -210,24 +243,31 @@ db.books.aggregate([
 ])
 ```
 
-<!-- Answer: Projection limits output and demonstrates aggregation shaping -->
+
+Answer: Projection limits output and demonstrates aggregation shaping
+-->
 
 ---
 
-# Lab 7: Design Comparison
+# MongoDB Exercises 2 - Queries - Question 7
 
 Embedded vs Referenced
 
 - Which is faster for reads?
 - Which reduces duplication?
 
-<!-- Answer: Embedded = faster reads, Referenced = less duplication and more flexible -->
+<!-- 
+
+Answer: Embedded = faster reads, Referenced = less duplication and more flexible
+-->
 
 ---
 
-# Lab 8: Schema Validation
+# MongoDB Exercises 2 - Queries - Question 8
 
 Add validation rule
+
+<!-- 
 
 ```js
 db.runCommand({
@@ -245,7 +285,9 @@ db.runCommand({
 })
 ```
 
-<!-- Answer: Validation enforces structure in a flexible schema -->
+
+Answer: Validation enforces structure in a flexible schema
+-->
 
 ---
 
@@ -269,8 +311,6 @@ level: 2
 
 # Further Learning
 
-
-
 ---
 layout: section
 ---
@@ -287,7 +327,6 @@ level: 2
 
 - MongoDB. (2026). *MongoDB Courses and Trainings | MongoDB Shell Cheatsheet | MongoDB University*.
   Mongodb.com. https://learn.mongodb.com/learn/course/mongodb-shell-cheatsheet/
-
 
 <br>
 

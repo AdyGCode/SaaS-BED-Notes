@@ -30,7 +30,7 @@ updated: 2024-10-03T09:18
 
 # Session XX Exercises & Journal Entry
 
-## Software as a Service - Back-End Development
+## Cluster: Software as a Service - Back-End Development
 
 Session XX In-class, Out-of-Class, and Assessment Activities 
 

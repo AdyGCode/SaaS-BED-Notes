@@ -20,7 +20,7 @@ updated: 2025-05-06T12:23
 
 # Session 06 Exercises & Additional Learning
 
-## Software as a Service - Back-End Development
+## Cluster: Software as a Service - Back-End Development
 
 Session 06 In Class and Out of Class Structured Learning Activities
 

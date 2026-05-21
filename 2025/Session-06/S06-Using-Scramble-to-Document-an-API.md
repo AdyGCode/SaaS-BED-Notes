@@ -25,7 +25,7 @@ updated: 2025-03-27T17:56
 
 # Session 06 Using Scramble to Document an API
 
-## Software as a Service - Back-End Development
+## Cluster: Software as a Service - Back-End Development
 
 Developed by Adrian Gould
 

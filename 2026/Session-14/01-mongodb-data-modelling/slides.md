@@ -12,7 +12,7 @@ duration: 35min
 
 # MongoDB Exercises 1 - Data Modeling
 
-## Software as a Service - Back-End Development
+## Cluster: Software as a Service - Back-End Development
 
 #### ICT50120 Diploma of Information Technology (Advanced Programming)<br>
 

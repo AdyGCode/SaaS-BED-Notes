@@ -1,0 +1,112 @@
+[
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071001" },
+    "title": "Learning MySQL and MariaDB: Heading in the Right Direction with MySQL and MariaDB",
+    "isbn": "9781617299201A",
+    "pageCount": 350,
+    "publishedDate": { "$date": "2020-05-10T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Russell J.T. Dyer"],
+    "categories": ["Databases"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071002" },
+    "title": "Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data",
+    "isbn": "9781593278276",
+    "pageCount": 480,
+    "publishedDate": { "$date": "2019-10-01T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Anthony DeBarros"],
+    "categories": ["Data Analytics"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071003" },
+    "title": "SQL for Data Analytics: Analyze Data Effectively, Uncover Insights and Master Advanced SQL",
+    "isbn": "9781789808829",
+    "pageCount": 420,
+    "publishedDate": { "$date": "2022-07-15T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Upom Malik", "Matt Goldwasser"],
+    "categories": ["Data Analytics"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071004" },
+    "title": "The Manga Guide to Databases",
+    "isbn": "9781593271901",
+    "pageCount": 250,
+    "publishedDate": { "$date": "2009-04-01T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Mana Takahashi"],
+    "categories": ["Databases"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071005" },
+    "title": "MariaDB: The Complete Guide to Open-Source Relational Database Management",
+    "isbn": "9781484272093",
+    "pageCount": 500,
+    "publishedDate": { "$date": "2023-03-10T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["John Smith"],
+    "categories": ["Databases"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071006" },
+    "title": "Software Security: Building Security In",
+    "isbn": "9780321356704",
+    "pageCount": 720,
+    "publishedDate": { "$date": "2006-03-01T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Gary McGraw"],
+    "categories": ["Security"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071007" },
+    "title": "SQL Beginners Guide: Master SQL Programming from Zero with Practical Examples",
+    "isbn": "9781800567890",
+    "pageCount": 300,
+    "publishedDate": { "$date": "2022-01-12T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["James Miller"],
+    "categories": ["Databases"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071008" },
+    "title": "Software Security for Developers",
+    "isbn": "9781119876543",
+    "pageCount": 360,
+    "publishedDate": { "$date": "2023-06-20T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Laura Brown"],
+    "categories": ["Security"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071009" },
+    "title": "Software Security in Practice: Vulnerabilities, Attacks and Defenses",
+    "isbn": "9781509301234",
+    "pageCount": 410,
+    "publishedDate": { "$date": "2021-09-01T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Mark Thompson"],
+    "categories": ["Security"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071010" },
+    "title": "Advanced Software Security: Strategies for Robust Backend Systems",
+    "isbn": "9781492078903",
+    "pageCount": 390,
+    "publishedDate": { "$date": "2024-02-14T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Daniel White"],
+    "categories": ["Security"]
+  },
+  {
+    "_id": { "$oid": "53c2ae8528d75d572c071011" },
+    "title": "Application Security Program Handbook: A Guide for Software Engineers and Team Leaders",
+    "isbn": "9781119501234",
+    "pageCount": 450,
+    "publishedDate": { "$date": "2018-11-05T00:00:00.000Z" },
+    "status": "published",
+    "authors": ["Jane Adams"],
+    "categories": ["Security"]
+  }
+]

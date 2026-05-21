@@ -1,0 +1,7922 @@
+[{
+  "_id": {
+    "$oid": "53c2ae8528d75d572c06ffff"
+  },
+  "title": "Unlocking Android",
+  "isbn": "1933988673",
+  "pageCount": 416,
+  "publishedDate": {
+    "$date": "2009-04-01T07:00:00.000Z"
+  },
+  "status": "published",
+  "authors": [
+    "W. Frank Ableson",
+    "Charlie Collins",
+    "Robi Sen"
+  ],
+  "categories": [
+    "Mobile",
+    "Open Source"
+  ]
+},
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070000"
+    },
+    "title": "Android in Action, Second Edition",
+    "isbn": "1935182722",
+    "pageCount": 592,
+    "publishedDate": {
+      "$date": "2011-01-14T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "W. Frank Ableson",
+      "Robi Sen"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070001"
+    },
+    "title": "Specification by Example",
+    "isbn": "1617290084",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-06-03T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Gojko Adzic"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070002"
+    },
+    "title": "Flex 3 in Action",
+    "isbn": "1933988746",
+    "pageCount": 576,
+    "publishedDate": {
+      "$date": "2009-02-02T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tariq Ahmed",
+      "Jon Hirschi",
+      "Faisal Abid"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070003"
+    },
+    "title": "Flex 4 in Action",
+    "isbn": "1935182420",
+    "pageCount": 600,
+    "publishedDate": {
+      "$date": "2010-11-15T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tariq Ahmed",
+      "Dan Orlando",
+      "John C. Bland II",
+      "Joel Hooks"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070004"
+    },
+    "title": "Collective Intelligence in Action",
+    "isbn": "1933988312",
+    "pageCount": 425,
+    "publishedDate": {
+      "$date": "2008-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Satnam Alag"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070005"
+    },
+    "title": "Zend Framework in Action",
+    "isbn": "1933988320",
+    "pageCount": 432,
+    "publishedDate": {
+      "$date": "2008-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Rob Allen",
+      "Nick Lo",
+      "Steven Brown"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070006"
+    },
+    "title": "Flex on Java",
+    "isbn": "1933988797",
+    "pageCount": 265,
+    "publishedDate": {
+      "$date": "2010-10-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bernerd Allmon",
+      "Jeremy Anderson"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070007"
+    },
+    "title": "Griffon in Action",
+    "isbn": "1935182234",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2012-06-04T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Andres Almiray",
+      "Danno Ferrin",
+      "James Shingler"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070008"
+    },
+    "title": "OSGi in Depth",
+    "isbn": "193518217X",
+    "pageCount": 325,
+    "publishedDate": {
+      "$date": "2011-12-12T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Alexandre de Castro Alves"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070009"
+    },
+    "title": "Flexible Rails",
+    "isbn": "1933988509",
+    "pageCount": 592,
+    "publishedDate": {
+      "$date": "2008-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Peter Armstrong"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07000a"
+    },
+    "title": "Hello! Flex 4",
+    "isbn": "1933988762",
+    "pageCount": 258,
+    "publishedDate": {
+      "$date": "2009-11-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Peter Armstrong"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07000b"
+    },
+    "title": "Coffeehouse",
+    "isbn": "1884777384",
+    "pageCount": 316,
+    "publishedDate": {
+      "$date": "1997-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Levi Asher",
+      "Christian Crumlish"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07000c"
+    },
+    "title": "Team Foundation Server 2008 in Action",
+    "isbn": "1933988592",
+    "pageCount": 344,
+    "publishedDate": {
+      "$date": "2008-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jamil Azher"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07000d"
+    },
+    "title": "Brownfield Application Development in .NET",
+    "isbn": "1933988711",
+    "pageCount": 550,
+    "publishedDate": {
+      "$date": "2010-04-16T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kyle Baley",
+      "Donald Belcham"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07000e"
+    },
+    "title": "MongoDB in Action",
+    "isbn": "1935182870",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-12-12T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kyle Banker"
+    ],
+    "categories": [
+      "Next Generation Databases"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07000f"
+    },
+    "title": "Distributed Application Development with PowerBuilder 6.0",
+    "isbn": "1884777686",
+    "pageCount": 504,
+    "publishedDate": {
+      "$date": "1998-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Michael J. Barlotta"
+    ],
+    "categories": [
+      "Powerbuilder"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070010"
+    },
+    "title": "Jaguar Development with PowerBuilder 7",
+    "isbn": "1884777864",
+    "pageCount": 550,
+    "publishedDate": {
+      "$date": "1999-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Michael Barlotta"
+    ],
+    "categories": [
+      "Powerbuilder",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070011"
+    },
+    "title": "3D User Interfaces with Java 3D",
+    "isbn": "1884777902",
+    "pageCount": 520,
+    "publishedDate": {
+      "$date": "2000-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jon Barrilleaux"
+    ],
+    "categories": [
+      "Computer Graphics",
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070012"
+    },
+    "title": "Hibernate in Action",
+    "isbn": "193239415X",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2004-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Christian Bauer",
+      "Gavin King"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070013"
+    },
+    "title": "Hibernate in Action (Chinese Edition)",
+    "isbn": null,
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "1999-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Christian Bauer",
+      "Gavin King"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070014"
+    },
+    "title": "Java Persistence with Hibernate",
+    "isbn": "1932394885",
+    "pageCount": 880,
+    "publishedDate": {
+      "$date": "2006-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Christian Bauer",
+      "Gavin King"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070015"
+    },
+    "title": "JSTL in Action",
+    "isbn": "1930110529",
+    "pageCount": 480,
+    "publishedDate": {
+      "$date": "2002-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Shawn Bayern"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070016"
+    },
+    "title": "iBATIS in Action",
+    "isbn": "1932394826",
+    "pageCount": 384,
+    "publishedDate": {
+      "$date": "2007-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Clinton Begin",
+      "Brandon Goodin",
+      "Larry Meadors"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070017"
+    },
+    "title": "Designing Hard Software",
+    "isbn": "133046192",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "1997-02-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Douglas W. Bennett"
+    ],
+    "categories": [
+      "S",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070018"
+    },
+    "title": "Hibernate Search in Action",
+    "isbn": "1933988649",
+    "pageCount": 488,
+    "publishedDate": {
+      "$date": "2008-12-21T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Emmanuel Bernard",
+      "John Griffin"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070019"
+    },
+    "title": "jQuery in Action",
+    "isbn": "1933988355",
+    "pageCount": 376,
+    "publishedDate": {
+      "$date": "2008-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bear Bibeault",
+      "Yehuda Katz"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07001a"
+    },
+    "title": "jQuery in Action, Second Edition",
+    "isbn": "1935182323",
+    "pageCount": 488,
+    "publishedDate": {
+      "$date": "2010-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bear Bibeault",
+      "Yehuda Katz"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07001b"
+    },
+    "title": "Building Secure and Reliable Network Applications",
+    "isbn": "1884777295",
+    "pageCount": 591,
+    "publishedDate": {
+      "$date": "1996-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kenneth P. Birman"
+    ],
+    "categories": [
+      "Theory",
+      "Networking"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07001c"
+    },
+    "title": "Ruby for Rails",
+    "isbn": "1932394699",
+    "pageCount": 532,
+    "publishedDate": {
+      "$date": "2006-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "David A. Black"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07001d"
+    },
+    "title": "The Well-Grounded Rubyist",
+    "isbn": "1933988657",
+    "pageCount": 520,
+    "publishedDate": {
+      "$date": "2009-04-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "David A. Black"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07001e"
+    },
+    "title": "Website Owner's Manual",
+    "isbn": "1933988452",
+    "pageCount": 296,
+    "publishedDate": {
+      "$date": "2009-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Paul A. Boag"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07001f"
+    },
+    "title": "ASP.NET 4.0 in Practice",
+    "isbn": "1935182463",
+    "pageCount": 504,
+    "publishedDate": {
+      "$date": "2011-05-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Daniele Bochicchio",
+      "Stefano Mostarda",
+      "Marco De Sanctis"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070020"
+    },
+    "title": "Hello! Python",
+    "isbn": "1935182080",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "2012-02-13T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Anthony Briggs"
+    ],
+    "categories": [
+      "Python"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070021"
+    },
+    "title": "PFC Programmer's Reference Manual",
+    "isbn": "1884777554",
+    "pageCount": 368,
+    "publishedDate": {
+      "$date": "1998-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Richard Brooks"
+    ],
+    "categories": [
+      "Powerbuilder"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070022"
+    },
+    "title": "Graphics File Formats",
+    "isbn": "133034054",
+    "pageCount": 484,
+    "publishedDate": {
+      "$date": "1995-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "C. Wayne Brown",
+      "Barry J. Shepherd"
+    ],
+    "categories": [
+      "Computer Graphics"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070023"
+    },
+    "title": "Visual Object Oriented Programming",
+    "isbn": "131723979",
+    "pageCount": 280,
+    "publishedDate": {
+      "$date": "1995-02-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Margaret M. Burnett",
+      "Adele Goldberg",
+      "Ted G. Lewis"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070024"
+    },
+    "title": "iOS in Practice",
+    "isbn": "1617291269",
+    "pageCount": 325,
+    "publishedDate": {
+      "$date": "2013-11-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bear P. Cahill"
+    ],
+    "categories": [
+      "Mobile"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070025"
+    },
+    "title": "iPhone in Action",
+    "isbn": "193398886X",
+    "pageCount": 472,
+    "publishedDate": {
+      "$date": "2008-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Christopher Allen",
+      "Shannon Appelcline"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070026"
+    },
+    "title": "Silverlight 2 in Action",
+    "isbn": "1933988428",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2008-10-31T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Chad A. Campbell",
+      "John Stockton"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070027"
+    },
+    "title": "The Quick Python Book, Second Edition",
+    "isbn": "193518220X",
+    "pageCount": 360,
+    "publishedDate": {
+      "$date": "2010-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Naomi R. Ceder"
+    ],
+    "categories": [
+      "Python"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070028"
+    },
+    "title": "Internet and Intranet Applications with PowerBuilder 6",
+    "isbn": "1884777600",
+    "pageCount": 390,
+    "publishedDate": {
+      "$date": "2000-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tom Cervenka"
+    ],
+    "categories": [
+      "Powerbuilder"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070029"
+    },
+    "title": "Practical Methods for Your Year 2000 Problem",
+    "isbn": "188477752X",
+    "pageCount": 236,
+    "publishedDate": {
+      "$date": "1998-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Robert Chapman"
+    ],
+    "categories": [
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07002a"
+    },
+    "title": "Mobile Agents",
+    "isbn": "1884777368",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "1997-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "William R. Cockayne",
+      "Michael Zyda",
+      "editors"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07002b"
+    },
+    "title": "Spring Dynamic Modules in Action",
+    "isbn": "1935182307",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2010-09-04T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Arnaud Cogoluegnes",
+      "Thierry Templier",
+      "Andy Piper"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07002c"
+    },
+    "title": "SQL Server 2008 Administration in Action",
+    "isbn": "193398872X",
+    "pageCount": 468,
+    "publishedDate": {
+      "$date": "2009-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Rod Colledge"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07002d"
+    },
+    "title": "Android in Practice",
+    "isbn": "1935182927",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "2011-09-30T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Charlie Collins",
+      "Michael D. Galpin",
+      "Matthias Kaeppler"
+    ],
+    "categories": [
+      "Mobile"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07002e"
+    },
+    "title": "Object Oriented Perl",
+    "isbn": "1884777791",
+    "pageCount": 512,
+    "publishedDate": {
+      "$date": "1999-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Damian Conway"
+    ],
+    "categories": [
+      "P",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07002f"
+    },
+    "title": "GWT in Practice",
+    "isbn": "1933988290",
+    "pageCount": 376,
+    "publishedDate": {
+      "$date": "2008-04-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Robert Cooper",
+      "Charles Collins"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070030"
+    },
+    "title": "Ajax in Action",
+    "isbn": "1932394613",
+    "pageCount": 680,
+    "publishedDate": {
+      "$date": "2005-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dave Crane",
+      "Eric Pascarello",
+      "Darren James"
+    ],
+    "categories": [
+      "Xml",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070031"
+    },
+    "title": "Ajax in Practice",
+    "isbn": "1932394990",
+    "pageCount": 536,
+    "publishedDate": {
+      "$date": "2007-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dave Crane",
+      "Jord Sonneveld",
+      "Bear Bibeault",
+      "Ted Goddard",
+      "Chris Gray",
+      "Ram Venkataraman",
+      "Joe Walker"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070032"
+    },
+    "title": "Prototype and Scriptaculous in Action",
+    "isbn": "1933988037",
+    "pageCount": 544,
+    "publishedDate": {
+      "$date": "2007-04-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dave Crane",
+      "Bear Bibeault",
+      "Tom Locke"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070033"
+    },
+    "title": "POJOs in Action",
+    "isbn": "1932394583",
+    "pageCount": 592,
+    "publishedDate": {
+      "$date": "2006-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Chris Richardson"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070034"
+    },
+    "title": "Data Munging with Perl",
+    "isbn": "1930110006",
+    "pageCount": 304,
+    "publishedDate": {
+      "$date": "2001-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "David Cross"
+    ],
+    "categories": [
+      "Perl"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070035"
+    },
+    "title": "Hello! HTML5 & CSS3",
+    "isbn": "1935182897",
+    "pageCount": 325,
+    "publishedDate": {
+      "$date": "2012-10-17T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Rob Crowther"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070036"
+    },
+    "title": "Seam in Action",
+    "isbn": "1933988401",
+    "pageCount": 624,
+    "publishedDate": {
+      "$date": "2008-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dan Allen"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070037"
+    },
+    "title": "Wicket in Action",
+    "isbn": "1932394982",
+    "pageCount": 392,
+    "publishedDate": {
+      "$date": "2008-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Martijn Dashorst",
+      "Eelco Hillenius"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070038"
+    },
+    "title": "Open Source SOA",
+    "isbn": "1933988541",
+    "pageCount": 448,
+    "publishedDate": {
+      "$date": "2009-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jeff Davis"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070039"
+    },
+    "title": "Struts 2 in Action",
+    "isbn": "193398807X",
+    "pageCount": 432,
+    "publishedDate": {
+      "$date": "2008-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Donald Brown",
+      "Chad Michael Davis",
+      "Scott Stanlick"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07003a"
+    },
+    "title": "Essential Guide to Peoplesoft Development and Customization",
+    "isbn": "1884777929",
+    "pageCount": 1101,
+    "publishedDate": {
+      "$date": "2000-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tony DeLia",
+      "Galina Landres",
+      "Isidor Rivera",
+      "Prakash Sankaran"
+    ],
+    "categories": [
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07003b"
+    },
+    "title": ".NET Multithreading",
+    "isbn": "1930110545",
+    "pageCount": 360,
+    "publishedDate": {
+      "$date": "2002-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Alan Dennis"
+    ],
+    "categories": [
+      ".NET",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07003c"
+    },
+    "title": "SCWCD Exam Study Kit Second Edition",
+    "isbn": "1932394389",
+    "pageCount": 560,
+    "publishedDate": {
+      "$date": "2005-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Hanumant Deshmukh",
+      "Jignesh Malavia",
+      "Matthew Scarpino"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07003d"
+    },
+    "title": "Spring Roo in Action",
+    "isbn": "193518296X",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "2012-04-13T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ken Rimple",
+      "Srini Penchikala"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07003e"
+    },
+    "title": "SOA Governance in Action",
+    "isbn": "1617290270",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-07-27T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jos Dirksen"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07003f"
+    },
+    "title": "RSS and Atom in Action",
+    "isbn": "1932394494",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2006-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dave Johnson"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070040"
+    },
+    "title": "LDAP Programming, Management and Integration",
+    "isbn": "1930110405",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "2002-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Clayton Donley"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070041"
+    },
+    "title": "Mule in Action",
+    "isbn": "1933988967",
+    "pageCount": 432,
+    "publishedDate": {
+      "$date": "2009-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "David Dossot",
+      "John D'Emic"
+    ],
+    "categories": [
+      "Java",
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070042"
+    },
+    "title": "Java Foundation Classes",
+    "isbn": "1884777678",
+    "pageCount": 1088,
+    "publishedDate": {
+      "$date": "2001-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Stephen C. Drye",
+      "William C. Wake"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070043"
+    },
+    "title": "Managing Components with Modeler",
+    "isbn": "1932394524k-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070044"
+    },
+    "title": "Command-line Processing with CLI",
+    "isbn": "1932394524l-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070045"
+    },
+    "title": "Understanding and Using Chain",
+    "isbn": "1932394524m-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070046"
+    },
+    "title": "Working with the Logging and Discovery Components",
+    "isbn": "1932394524n-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070047"
+    },
+    "title": "Uploading files with FileUpload",
+    "isbn": "1932394524b-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070048"
+    },
+    "title": "Handling Protocols with the Net Component",
+    "isbn": "1932394524c-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070049"
+    },
+    "title": "XML Parsing with Digester",
+    "isbn": "1932394524d-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07004a"
+    },
+    "title": "JXPath and Betwixt: Working with XML",
+    "isbn": "1932394524e-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07004b"
+    },
+    "title": "Validating Data with Validator",
+    "isbn": "1932394524f-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07004c"
+    },
+    "title": "Enhancing Java Core Libraries with Collections",
+    "isbn": "1932394524g-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07004d"
+    },
+    "title": "Enhancing Java Core Libraries with BeanUtils and Lang",
+    "isbn": "1932394524h-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07004e"
+    },
+    "title": "Pool and DBCP: Creating and Using Object Pools",
+    "isbn": "1932394524i-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07004f"
+    },
+    "title": "Python and Tkinter Programming",
+    "isbn": "1884777813",
+    "pageCount": 688,
+    "publishedDate": {
+      "$date": "2000-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "John E. Grayson"
+    ],
+    "categories": [
+      "Python"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070050"
+    },
+    "title": "Microsoft.NET for Programmers",
+    "isbn": "1930110197",
+    "pageCount": 386,
+    "publishedDate": {
+      "$date": "2002-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Fergal Grimes"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070051"
+    },
+    "title": "Grails in Action",
+    "isbn": "1933988932",
+    "pageCount": 520,
+    "publishedDate": {
+      "$date": "2009-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Glen Smith",
+      "Peter Ledbrook"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070052"
+    },
+    "title": "Up to Speed with Swing, Second Edition",
+    "isbn": "1884777759",
+    "pageCount": 560,
+    "publishedDate": {
+      "$date": "1999-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Steven Gutz"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070053"
+    },
+    "title": "OSGi in Action",
+    "isbn": "1933988916",
+    "pageCount": 576,
+    "publishedDate": {
+      "$date": "2011-04-06T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Richard S. Hall",
+      "Karl Pauls",
+      "Stuart McCulloch",
+      "David Savage"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070054"
+    },
+    "title": "GWT in Action",
+    "isbn": "1933988231",
+    "pageCount": 632,
+    "publishedDate": {
+      "$date": "2007-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Robert Hanson",
+      "Adam Tacy"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070055"
+    },
+    "title": "The Quick Python Book",
+    "isbn": "1884777740",
+    "pageCount": 444,
+    "publishedDate": {
+      "$date": "1999-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Daryl Harms",
+      "Kenneth McDonald"
+    ],
+    "categories": [
+      "Python"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070056"
+    },
+    "title": "SharePoint 2010 Site Owner's Manual",
+    "isbn": "1933988754",
+    "pageCount": 300,
+    "publishedDate": {
+      "$date": "2012-02-13T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Yvonne M. Harryman"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070057"
+    },
+    "title": "Java Development with Ant",
+    "isbn": "1930110588",
+    "pageCount": 672,
+    "publishedDate": {
+      "$date": "2002-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Erik Hatcher",
+      "Steve Loughran"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070058"
+    },
+    "title": "Lucene in Action",
+    "isbn": "1932394281",
+    "pageCount": 456,
+    "publishedDate": {
+      "$date": "2004-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Erik Hatcher",
+      "Otis Gospodnetic"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070059"
+    },
+    "title": "Lucene in Action, Second Edition",
+    "isbn": "1933988177",
+    "pageCount": 532,
+    "publishedDate": {
+      "$date": "2010-07-09T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Erik Hatcher",
+      "Otis Gospodnetic",
+      "Michael McCandless"
+    ],
+    "categories": [
+      "Open Source",
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07005a"
+    },
+    "title": "PowerBuilder 6.0 Questions & Answers",
+    "isbn": "1884777708",
+    "pageCount": 446,
+    "publishedDate": {
+      "$date": "1998-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tim Hatton"
+    ],
+    "categories": [
+      "Powerbuilder"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07005b"
+    },
+    "title": "The Awesome Power of PowerJ",
+    "isbn": "1884777538",
+    "pageCount": 378,
+    "publishedDate": {
+      "$date": "1998-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tim Hatton"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07005c"
+    },
+    "title": "The Awesome Power of Power++",
+    "isbn": "1884777546",
+    "pageCount": 416,
+    "publishedDate": {
+      "$date": "1998-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tim Hatton"
+    ],
+    "categories": [
+      "Powerbuilder"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07005d"
+    },
+    "title": "Azure in Action",
+    "isbn": "193518248X",
+    "pageCount": 425,
+    "publishedDate": {
+      "$date": "2010-10-22T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Chris Hay",
+      "Brian H. Prince"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07005e"
+    },
+    "title": "Distributed Agile in Action",
+    "isbn": "1935182412",
+    "pageCount": 325,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Vikas Hazrati",
+      "Balaji D Loganathan"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07005f"
+    },
+    "title": "Metaprogramming in .NET",
+    "isbn": "1617290262",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-12-31T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kevin Hazzard",
+      "Jason Bock"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070060"
+    },
+    "title": "Portlets and Apache Portals",
+    "isbn": null,
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "2005-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Stefan Hepper",
+      "Peter Fischer",
+      "Stephan Hesmer",
+      "Richard Jacob",
+      "David Sean Taylor"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070061"
+    },
+    "title": "Code Generation in Action",
+    "isbn": "1930110979",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "2003-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jack Herrington"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070062"
+    },
+    "title": "Illustrated Guide to HTTP",
+    "isbn": "138582262",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "1997-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Paul S. Hethmon"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070063"
+    },
+    "title": "Agile ALM",
+    "isbn": "1935182633",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-08-20T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Michael Hüttermann"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070064"
+    },
+    "title": "Java Network Programming, Second Edition",
+    "isbn": "188477749X",
+    "pageCount": 860,
+    "publishedDate": {
+      "$date": "1999-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Merlin Hughes",
+      "Michael Shoffner",
+      "Derek Hamner"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070065"
+    },
+    "title": "Struts in Action",
+    "isbn": "1932394249",
+    "pageCount": 672,
+    "publishedDate": {
+      "$date": "2002-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ted N. Husted",
+      "Cedric Dumoulin",
+      "George Franciscus",
+      "David Winterfeldt"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070066"
+    },
+    "title": "Camel in Action",
+    "isbn": "1935182366",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2011-01-04T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Claus Ibsen",
+      "Jonathan Anstey"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070067"
+    },
+    "title": "Taming Text",
+    "isbn": "193398838X",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "2012-12-31T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Grant S. Ingersoll",
+      "Thomas S. Morton",
+      "Andrew L. Farris"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070068"
+    },
+    "title": "JBoss in Action",
+    "isbn": "1933988029",
+    "pageCount": 496,
+    "publishedDate": {
+      "$date": "2009-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Javid Jamae",
+      "Peter Johnson"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070069"
+    },
+    "title": "Gnuplot in Action",
+    "isbn": "1933988398",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2009-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Philipp K. Janert"
+    ],
+    "categories": [
+      "Computer Graphics"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07006a"
+    },
+    "title": "Extending and Embedding Perl",
+    "isbn": "1930110820",
+    "pageCount": 384,
+    "publishedDate": {
+      "$date": "2002-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tim Jenness",
+      "Simon Cozens"
+    ],
+    "categories": [
+      "Perl"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07006b"
+    },
+    "title": "iOS 4 in Action",
+    "isbn": "1617290017",
+    "pageCount": 504,
+    "publishedDate": {
+      "$date": "2011-06-09T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jocelyn Harrington",
+      "Brandon Trebitowski",
+      "Christopher Allen",
+      "Shannon Appelcline"
+    ],
+    "categories": [
+      "Mobile"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07006c"
+    },
+    "title": "Elements of Programming with Perl",
+    "isbn": "1884777805",
+    "pageCount": 368,
+    "publishedDate": {
+      "$date": "1999-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Andrew L. Johnson"
+    ],
+    "categories": [
+      "Perl"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07006d"
+    },
+    "title": "Learn Windows PowerShell in a Month of Lunches",
+    "isbn": "1617290211",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-04-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Don Jones"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07006e"
+    },
+    "title": "R in Action",
+    "isbn": "1935182390",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2011-08-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Robert I. Kabacoff"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07006f"
+    },
+    "title": "Android in Practice",
+    "isbn": "9781935182924",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Matthias Kaeppler",
+      "Michael D. Galpin",
+      "Charlie Collins"
+    ],
+    "categories": [
+      "Mobile"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070070"
+    },
+    "title": "SOA Security",
+    "isbn": "1932394680",
+    "pageCount": 512,
+    "publishedDate": {
+      "$date": "2007-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ramarao Kanneganti",
+      "Prasad A. Chodavarapu"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070071"
+    },
+    "title": "Rails 3 in Action",
+    "isbn": "1935182277",
+    "pageCount": 425,
+    "publishedDate": {
+      "$date": "2011-09-20T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ryan Bigg",
+      "Yehuda Katz"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070072"
+    },
+    "title": "Continuous Integration in .NET",
+    "isbn": "1935182552",
+    "pageCount": 328,
+    "publishedDate": {
+      "$date": "2011-03-14T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Marcin Kawalerowicz",
+      "Craig Berntson"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070073"
+    },
+    "title": "Technology Paradise Lost",
+    "isbn": "1932394133",
+    "pageCount": 260,
+    "publishedDate": {
+      "$date": "2004-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Erik Keller"
+    ],
+    "categories": [
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070074"
+    },
+    "title": "Kermit 95+",
+    "isbn": "1930110057",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2003-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kermit Project at Columbia University"
+    ],
+    "categories": [
+      "Miscella",
+      "Networking",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070075"
+    },
+    "title": "Laszlo in Action",
+    "isbn": "1932394834",
+    "pageCount": 552,
+    "publishedDate": {
+      "$date": "2008-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Norman Klein",
+      "Max Carlson",
+      "Glenn MacEwen"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070076"
+    },
+    "title": "Groovy in Action",
+    "isbn": "1932394842",
+    "pageCount": 696,
+    "publishedDate": {
+      "$date": "2007-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dierk Koenig",
+      "Andrew Glover",
+      "Paul King",
+      "Guillaume Laforge",
+      "Jon Skeet"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070077"
+    },
+    "title": "Groovy in Action, Second Edition",
+    "isbn": "1935182447",
+    "pageCount": 700,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Dierk König",
+      "Guillaume Laforge",
+      "Paul King",
+      "Cédric Champeau",
+      "Hamlet D'Arcy",
+      "Erik Pragt",
+      "Jon Skeet"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070078"
+    },
+    "title": "Object Technology Centers of Excellence",
+    "isbn": "132612313",
+    "pageCount": 200,
+    "publishedDate": {
+      "$date": "1996-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Timothy D. Korson",
+      "Vijay K. Vaishnavi"
+    ],
+    "categories": [
+      "Object-Technology Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070079"
+    },
+    "title": "Test Driven",
+    "isbn": "1932394850",
+    "pageCount": 544,
+    "publishedDate": {
+      "$date": "2007-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Lasse Koskela"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07007a"
+    },
+    "title": "Effective Unit Testing",
+    "isbn": "1935182579",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "2013-02-04T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Lasse Koskela"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07007b"
+    },
+    "title": "Making Java Groovy",
+    "isbn": "1935182943",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-09-19T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kenneth A. Kousen"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07007c"
+    },
+    "title": "The Awesome Power of Direct3D/DirectX",
+    "isbn": "1884777473",
+    "pageCount": 840,
+    "publishedDate": {
+      "$date": "2002-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Peter J. Kovach"
+    ],
+    "categories": [
+      "Computer Graphics"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07007d"
+    },
+    "title": "Practical Software Requirements",
+    "isbn": "1884777597",
+    "pageCount": 448,
+    "publishedDate": {
+      "$date": "1998-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Benjamin L. Kovitz"
+    ],
+    "categories": [
+      "Theory",
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07007e"
+    },
+    "title": "NHibernate in Action",
+    "isbn": "1932394923",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2009-02-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Pierre Henri Kuate",
+      "Tobin Harris",
+      "Christian Bauer",
+      "Gavin King"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07007f"
+    },
+    "title": "Microsoft Reporting Services in Action",
+    "isbn": "1932394222",
+    "pageCount": 656,
+    "publishedDate": {
+      "$date": "2004-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Teo Lachev"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070080"
+    },
+    "title": "AspectJ in Action",
+    "isbn": "1930110936",
+    "pageCount": 512,
+    "publishedDate": {
+      "$date": "2003-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ramnivas Laddad"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070081"
+    },
+    "title": "AspectJ in Action, Second Edition",
+    "isbn": "1933988053",
+    "pageCount": 568,
+    "publishedDate": {
+      "$date": "2009-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ramnivas Laddad"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070082"
+    },
+    "title": "Hadoop in Action",
+    "isbn": "1935182196",
+    "pageCount": 325,
+    "publishedDate": {
+      "$date": "2010-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Chuck Lam"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070083"
+    },
+    "title": "SQR in PeopleSoft and Other Applications",
+    "isbn": "1884777775",
+    "pageCount": 600,
+    "publishedDate": {
+      "$date": "2003-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Galina",
+      "Vlad Landres"
+    ],
+    "categories": [
+      "Business",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070084"
+    },
+    "title": "SQR in PeopleSoft and Other Applications, Second Edition",
+    "isbn": "1932394001",
+    "pageCount": 696,
+    "publishedDate": {
+      "$date": "2003-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Galina Landres",
+      "Vlad Landres"
+    ],
+    "categories": [
+      "Business",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070085"
+    },
+    "title": "F# in Action",
+    "isbn": "1935182250",
+    "pageCount": 425,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Amanda Laucher"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070086"
+    },
+    "title": "Tuscany SCA in Action",
+    "isbn": "1933988894",
+    "pageCount": 472,
+    "publishedDate": {
+      "$date": "2011-02-12T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Simon Laws",
+      "Mark Combellack",
+      "Raymond Feng",
+      "Haleh Mahbod",
+      "Simon Nash"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070087"
+    },
+    "title": "Client/Server Yellow Pages",
+    "isbn": "1884777082",
+    "pageCount": 280,
+    "publishedDate": {
+      "$date": "1995-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Compiled",
+      "introduced by Ted Lewis"
+    ],
+    "categories": [
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070088"
+    },
+    "title": "Object Oriented Application Frameworks",
+    "isbn": "1884777066",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "1995-04-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ted Lewis",
+      "friends"
+    ],
+    "categories": [
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070089"
+    },
+    "title": "Tapestry in Action",
+    "isbn": "1932394117",
+    "pageCount": 580,
+    "publishedDate": {
+      "$date": "2004-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Howard M. Lewis Ship"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07008a"
+    },
+    "title": "WebWork in Action",
+    "isbn": "1932394532",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2005-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Patrick Lightbody",
+      "Jason Carreira"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07008b"
+    },
+    "title": "MacRuby in Action",
+    "isbn": "1935182498",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-04-11T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Brendan G. Lim",
+      "Jerry Cheung",
+      "Jeremy McAnally"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07008c"
+    },
+    "title": "Erlang and OTP in Action",
+    "isbn": "1933988789",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "2010-11-16T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Martin Logan",
+      "Eric Merritt",
+      "Richard Carlsson"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07008d"
+    },
+    "title": "SharePoint 2007 Developer's Guide to Business Data Catalog",
+    "isbn": "1933988819",
+    "pageCount": 304,
+    "publishedDate": {
+      "$date": "2009-09-09T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Brett Lonsdale",
+      "Nick Swan"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07008e"
+    },
+    "title": "Doing IT Right",
+    "isbn": "133964256",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "1995-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Harold Lorin"
+    ],
+    "categories": [
+      "Business",
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07008f"
+    },
+    "title": "Adobe AIR in Action",
+    "isbn": "1933988487",
+    "pageCount": 336,
+    "publishedDate": {
+      "$date": "2008-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Joey Lott",
+      "Kathryn Rotondo",
+      "Sam Ahn",
+      "Ashley Atkins"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070090"
+    },
+    "title": "Ant in Action",
+    "isbn": "193239480X",
+    "pageCount": 600,
+    "publishedDate": {
+      "$date": "2007-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Steve Loughran",
+      "Erik Hatcher"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070091"
+    },
+    "title": "Restlet in Action",
+    "isbn": "193518234X",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2012-09-26T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jerome Louvel",
+      "Thierry Boileau",
+      "Philippe Mougin"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070092"
+    },
+    "title": "iText in Action",
+    "isbn": "1932394796",
+    "pageCount": 688,
+    "publishedDate": {
+      "$date": "2006-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruno Lowagie"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070093"
+    },
+    "title": "iText in Action, Second Edition",
+    "isbn": "1935182617",
+    "pageCount": 600,
+    "publishedDate": {
+      "$date": "2010-11-22T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruno Lowagie"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070094"
+    },
+    "title": "Power-3D",
+    "isbn": "138412146",
+    "pageCount": 550,
+    "publishedDate": {
+      "$date": "1997-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kyle Lussier"
+    ],
+    "categories": [
+      "Computer Graphics"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070095"
+    },
+    "title": "SNA and TCP/IP Enterprise Networking",
+    "isbn": "131271687",
+    "pageCount": 540,
+    "publishedDate": {
+      "$date": "1997-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Daniel C. Lynch",
+      "James P. Gray",
+      "and Edward Rabinovitch",
+      "editors"
+    ],
+    "categories": [
+      "Theory",
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070096"
+    },
+    "title": "Subversion in Action",
+    "isbn": "1932394478",
+    "pageCount": 356,
+    "publishedDate": {
+      "$date": "2004-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jeffrey Machols"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070097"
+    },
+    "title": "Minimal Perl",
+    "isbn": "1932394508",
+    "pageCount": 504,
+    "publishedDate": {
+      "$date": "2006-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tim Maher"
+    ],
+    "categories": [
+      "Perl"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070098"
+    },
+    "title": "Distributed Programming with Java",
+    "isbn": "1884777651",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "1999-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Qusay H. Mahmoud"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070099"
+    },
+    "title": "Comprehensive Networking Glossary and Acronym Guide",
+    "isbn": "013319955X",
+    "pageCount": 208,
+    "publishedDate": {
+      "$date": "1995-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Gary Scott Malkin"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07009a"
+    },
+    "title": "JavaServer Faces in Action",
+    "isbn": "1932394125",
+    "pageCount": 744,
+    "publishedDate": {
+      "$date": "2004-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kito D. Mann"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07009b"
+    },
+    "title": "LINQ in Action",
+    "isbn": "1933988169",
+    "pageCount": 576,
+    "publishedDate": {
+      "$date": "2008-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Fabrice Marguerie",
+      "Steve Eichert",
+      "Jim Wooley"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07009c"
+    },
+    "title": "Internet BBSs",
+    "isbn": "132869985",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "1996-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Richard Scott Mark"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07009d"
+    },
+    "title": "Algorithms of the Intelligent Web",
+    "isbn": "1933988665",
+    "pageCount": 368,
+    "publishedDate": {
+      "$date": "2009-05-29T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Haralambos Marmanis",
+      "Dmitry Babenko"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07009e"
+    },
+    "title": "JUnit in Action",
+    "isbn": "1930110995",
+    "pageCount": 384,
+    "publishedDate": {
+      "$date": "2003-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Vincent Massol",
+      "Ted Husted"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07009f"
+    },
+    "title": "Tika in Action",
+    "isbn": "1935182854",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Chris A. Mattmann",
+      "Jukka L. Zitting"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a0"
+    },
+    "title": "Ruby in Practice",
+    "isbn": "1933988479",
+    "pageCount": 360,
+    "publishedDate": {
+      "$date": "2009-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jeremy McAnally",
+      "Assaf Arkin"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a1"
+    },
+    "title": "Inside LotusScript",
+    "isbn": "1884777481",
+    "pageCount": 420,
+    "publishedDate": {
+      "$date": "1997-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Joe McGinn"
+    ],
+    "categories": [
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a2"
+    },
+    "title": "Maximum MIDI",
+    "isbn": "1884777449",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "1997-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Paul Messick"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a3"
+    },
+    "title": "Planning and Managing ATM Networks",
+    "isbn": "132621894",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "1997-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Daniel Minoli",
+      "Thomas W. Golway",
+      "Norris P. Smith"
+    ],
+    "categories": [
+      "Networking",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a4"
+    },
+    "title": "Client/Server Applications on ATM Networks",
+    "isbn": "137353006",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "1997-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Daniel Minoli",
+      "Andrew Schmidt"
+    ],
+    "categories": [
+      "Networking",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a5"
+    },
+    "title": "JavaFX in Action",
+    "isbn": "1933988991",
+    "pageCount": 373,
+    "publishedDate": {
+      "$date": "2009-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Simon Morris"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a6"
+    },
+    "title": "Entity Framework 4 in Action",
+    "isbn": "1935182188",
+    "pageCount": 576,
+    "publishedDate": {
+      "$date": "2011-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Stefano Mostarda",
+      "Marco De Sanctis",
+      "Daniele Bochicchio"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a7"
+    },
+    "title": "ASP.NET 2.0 Web Parts in Action",
+    "isbn": "193239477X",
+    "pageCount": 344,
+    "publishedDate": {
+      "$date": "2006-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Darren Neimke"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a8"
+    },
+    "title": "Sass and Compass in Action",
+    "isbn": "1617290149",
+    "pageCount": 300,
+    "publishedDate": {
+      "$date": "2013-07-26T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Wynn Netherland",
+      "Nathan Weizenbaum",
+      "Chris Eppstein",
+      "Brandon Mathis"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700a9"
+    },
+    "title": "Core OWL 5.0",
+    "isbn": "1884777503",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "1997-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ted Neward"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700aa"
+    },
+    "title": "Advanced OWL 5.0",
+    "isbn": "1884777465",
+    "pageCount": 570,
+    "publishedDate": {
+      "$date": "1998-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ted Neward"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ab"
+    },
+    "title": "Server-Based Java Programming",
+    "isbn": "1884777716",
+    "pageCount": 592,
+    "publishedDate": {
+      "$date": "2000-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ted Neward"
+    ],
+    "categories": [
+      "Web",
+      "Java",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ac"
+    },
+    "title": "SQL Server MVP Deep Dives",
+    "isbn": "1935182048",
+    "pageCount": 848,
+    "publishedDate": {
+      "$date": "2009-11-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Contributions from 53 SQL Server MVPs",
+      "Edited by Paul Nielsen",
+      "Kalen Delaney",
+      "Greg Low",
+      "Adam Machanic",
+      "Paul S. Randal",
+      "Kimberly L. Tripp"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ad"
+    },
+    "title": "SQL Server MVP Deep Dives",
+    "isbn": "9781935182047",
+    "pageCount": 848,
+    "publishedDate": {
+      "$date": "2009-11-15T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Contributions from 53 SQL Server MVPs; Edited by Paul Nielsen",
+      "Kalen Delaney",
+      "Greg Low",
+      "Adam Machanic",
+      "Paul S. Randal",
+      "Kimberly L. Tripp"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ae"
+    },
+    "title": "PostGIS in Action",
+    "isbn": "1935182269",
+    "pageCount": 325,
+    "publishedDate": {
+      "$date": "2011-04-11T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Regina O. Obe",
+      "Leo S. Hsu"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700af"
+    },
+    "title": "Programming Mac OS X",
+    "isbn": "1930110855",
+    "pageCount": 384,
+    "publishedDate": {
+      "$date": "2003-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kevin O'Malley"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b0"
+    },
+    "title": "The Art of Unit Testing",
+    "isbn": "1933988274",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "2009-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Roy Osherove"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b1"
+    },
+    "title": "Mahout in Action",
+    "isbn": "1935182684",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2011-10-05T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Sean Owen",
+      "Robin Anil",
+      "Ted Dunning",
+      "Ellen Friedman"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b2"
+    },
+    "title": "ASP.NET MVC in Action",
+    "isbn": "1933988622",
+    "pageCount": 392,
+    "publishedDate": {
+      "$date": "2009-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jeffrey Palermo",
+      "Ben Scheirman",
+      "Jimmy Bogard"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b3"
+    },
+    "title": "ASP.NET MVC 2 in Action",
+    "isbn": "193518279X",
+    "pageCount": 432,
+    "publishedDate": {
+      "$date": "2010-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jeffrey Palermo",
+      "Ben Scheirman",
+      "Jimmy Bogard",
+      "Eric Hexter",
+      "Matthew Hinze"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b4"
+    },
+    "title": "ASP.NET MVC 4 in Action",
+    "isbn": "1617290416",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2012-05-25T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jeffrey Palermo",
+      "Jimmy Bogard",
+      "Eric Hexter",
+      "Matthew Hinze",
+      "Jeremy Skinner"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b5"
+    },
+    "title": "EJB 3 in Action",
+    "isbn": "1933988347",
+    "pageCount": 712,
+    "publishedDate": {
+      "$date": "2007-04-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Debu Panda",
+      "Reza Rahman",
+      "Derek Lane"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b6"
+    },
+    "title": "EJB 3 in Action, Second Edition",
+    "isbn": "1935182994",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-04-07T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Debu Panda",
+      "Reza Rahman",
+      "Ryan Cuprak",
+      "Michael Remijan"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b7"
+    },
+    "title": "Explorer's Guide to the Semantic Web",
+    "isbn": "1932394206",
+    "pageCount": 304,
+    "publishedDate": {
+      "$date": "2004-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Thomas B. Passin"
+    ],
+    "categories": [
+      "Theory",
+      "Xml",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b8"
+    },
+    "title": "Practical LotusScript",
+    "isbn": "1884777767",
+    "pageCount": 512,
+    "publishedDate": {
+      "$date": "1999-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Anthony Patton"
+    ],
+    "categories": [
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700b9"
+    },
+    "title": "Domino Development with Java",
+    "isbn": "1930110049",
+    "pageCount": 467,
+    "publishedDate": {
+      "$date": "2000-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Anthony Patton"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ba"
+    },
+    "title": "Windows PowerShell in Action",
+    "isbn": "1932394907",
+    "pageCount": 576,
+    "publishedDate": {
+      "$date": "2007-02-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruce Payette"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700bb"
+    },
+    "title": "Windows PowerShell in Action, Second Edition",
+    "isbn": "1935182137",
+    "pageCount": 700,
+    "publishedDate": {
+      "$date": "2011-05-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruce Payette"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700bc"
+    },
+    "title": "Silverlight 4 in Action, Revised Edition",
+    "isbn": "1935182374",
+    "pageCount": 425,
+    "publishedDate": {
+      "$date": "2010-10-04T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Pete Brown"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700bd"
+    },
+    "title": "Silverlight 5 in Action",
+    "isbn": "1617290319",
+    "pageCount": 925,
+    "publishedDate": {
+      "$date": "2012-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Pete Brown"
+    ],
+    "categories": [
+      ".Net",
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700be"
+    },
+    "title": "Hibernate Quickly",
+    "isbn": "1932394419",
+    "pageCount": 456,
+    "publishedDate": {
+      "$date": "2005-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Patrick Peak",
+      "Nick Heudecker"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700bf"
+    },
+    "title": "Generative Art",
+    "isbn": "1935182625",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-06-30T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Matt Pearson"
+    ],
+    "categories": [
+      "Algorithmic Art"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c0"
+    },
+    "title": "Windows Phone 7 in Action",
+    "isbn": "1617290092",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-08-21T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Timothy Binkley-Jones",
+      "Massimo Perga",
+      "Michael Sync"
+    ],
+    "categories": [
+      "Mobile"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c1"
+    },
+    "title": "Lift in Action",
+    "isbn": "1935182803",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2011-11-18T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Timothy Perrett"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c2"
+    },
+    "title": "Web Development with Apache and Perl",
+    "isbn": "1930110065",
+    "pageCount": 424,
+    "publishedDate": {
+      "$date": "2002-04-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Theo Petersen"
+    ],
+    "categories": [
+      "Perl",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c3"
+    },
+    "title": "Real-World Functional Programming",
+    "isbn": "1933988924",
+    "pageCount": 560,
+    "publishedDate": {
+      "$date": "2009-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tomas Petricek",
+      "Jon Skeet"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c4"
+    },
+    "title": "Machine Learning in Action",
+    "isbn": "1617290181",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-04-04T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Peter Harrington"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c5"
+    },
+    "title": "Dependency Injection",
+    "isbn": "193398855X",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "2009-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dhanji R. Prasanna"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c6"
+    },
+    "title": "Understanding Enterprise SOA",
+    "isbn": "1932394591",
+    "pageCount": 280,
+    "publishedDate": {
+      "$date": "2005-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Eric Pulier",
+      "Hugh Taylor",
+      "Foreword by Paul Gaffney"
+    ],
+    "categories": [
+      "Theory"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c7"
+    },
+    "title": "Open-Source ESBs in Action",
+    "isbn": "1933988215",
+    "pageCount": 528,
+    "publishedDate": {
+      "$date": "2008-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tijs Rademakers",
+      "Jos Dirksen"
+    ],
+    "categories": [
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c8"
+    },
+    "title": "Activiti in Action",
+    "isbn": "1617290122",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-07-12T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Tijs Rademakers"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700c9"
+    },
+    "title": "DSLs in Boo: Domain-Specific Languages in .NET",
+    "isbn": "1933988606",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "2010-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Oren Eini writing as Ayende Rahien"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ca"
+    },
+    "title": "JUnit Recipes",
+    "isbn": "1932394230",
+    "pageCount": 752,
+    "publishedDate": {
+      "$date": "2004-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "J. B. Rainsberger",
+      "contributions by Scott Stirling"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700cb"
+    },
+    "title": "wxPython in Action",
+    "isbn": "1932394621",
+    "pageCount": 620,
+    "publishedDate": {
+      "$date": "2006-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Noel Rappin",
+      "Robin Dunn"
+    ],
+    "categories": [
+      "Python"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700cc"
+    },
+    "title": "Clojure in Action",
+    "isbn": "1935182595",
+    "pageCount": 475,
+    "publishedDate": {
+      "$date": "2011-11-15T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Amit Rathore"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700cd"
+    },
+    "title": "Scala in Action",
+    "isbn": "1935182757",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-04-09T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Nilanjan Raychaudhuri"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ce"
+    },
+    "title": "Working with Objects",
+    "isbn": "134529308",
+    "pageCount": 420,
+    "publishedDate": {
+      "$date": "1995-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Trygve Reenskaug"
+    ],
+    "categories": [
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700cf"
+    },
+    "title": "PHP in Action",
+    "isbn": "1932394753",
+    "pageCount": 552,
+    "publishedDate": {
+      "$date": "2007-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dagfinn Reiersøl",
+      "Marcus Baker",
+      "Chris Shiflett"
+    ],
+    "categories": [
+      "Php"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d0"
+    },
+    "title": "Secrets of the JavaScript Ninja",
+    "isbn": "193398869X",
+    "pageCount": 300,
+    "publishedDate": {
+      "$date": "2012-12-27T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "John Resig"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d1"
+    },
+    "title": "Microsoft Office Essentials",
+    "isbn": "132623129",
+    "pageCount": 480,
+    "publishedDate": {
+      "$date": "1996-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ronny Richardson"
+    ],
+    "categories": [
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d2"
+    },
+    "title": "Swing",
+    "isbn": "1884777848",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "1999-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Matthew Robinson",
+      "Pavel Vorobiev"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d3"
+    },
+    "title": "Swing Second Edition",
+    "isbn": "193011088X",
+    "pageCount": 912,
+    "publishedDate": {
+      "$date": "2003-02-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d4"
+    },
+    "title": "The Awesome Power of Java Beans",
+    "isbn": "1884777562",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "1998-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Lawrence H. Rodrigues"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d5"
+    },
+    "title": "Personal Videoconferencing",
+    "isbn": "013268327X",
+    "pageCount": 420,
+    "publishedDate": {
+      "$date": "1996-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Evan Rosen"
+    ],
+    "categories": [
+      "Networking"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d6"
+    },
+    "title": "The Cloud at Your Service",
+    "isbn": "1935182528",
+    "pageCount": 200,
+    "publishedDate": {
+      "$date": "2010-11-22T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jothy Rosenberg",
+      "Arthur Mateos"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d7"
+    },
+    "title": "Implementing Elliptic Curve Cryptography",
+    "isbn": "1884777694",
+    "pageCount": 330,
+    "publishedDate": {
+      "$date": "1998-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Michael Rosing"
+    ],
+    "categories": [
+      "Theory"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d8"
+    },
+    "title": "SOA Patterns",
+    "isbn": "1933988266",
+    "pageCount": 250,
+    "publishedDate": {
+      "$date": "2012-09-12T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Arnon Rotem-Gal-Oz"
+    ],
+    "categories": [
+      "Soa"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700d9"
+    },
+    "title": "Hello World!",
+    "isbn": "1933988495",
+    "pageCount": 432,
+    "publishedDate": {
+      "$date": "2009-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Warren D. Sande",
+      "Carter Sande"
+    ],
+    "categories": [
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700da"
+    },
+    "title": "SCBCD Exam Study Kit",
+    "isbn": "1932394400",
+    "pageCount": 488,
+    "publishedDate": {
+      "$date": "2005-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Paul Sanghera"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700db"
+    },
+    "title": "Portlets in Action",
+    "isbn": "1935182544",
+    "pageCount": 475,
+    "publishedDate": {
+      "$date": "2011-09-16T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ashish Sarin"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700dc"
+    },
+    "title": "SWT/JFace in Action",
+    "isbn": "1932394273",
+    "pageCount": 496,
+    "publishedDate": {
+      "$date": "2004-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Matthew Scarpino",
+      "Stephen Holder",
+      "Stanford Ng",
+      "Laurent Mihalkovic"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700dd"
+    },
+    "title": "OpenCL in Action",
+    "isbn": "1617290173",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-11-14T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Matthew Scarpino"
+    ],
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700de"
+    },
+    "title": "Multiprotocol over ATM",
+    "isbn": "138892709",
+    "pageCount": 341,
+    "publishedDate": {
+      "$date": "1998-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Andrew Schmidt",
+      "Daniel Minoli"
+    ],
+    "categories": [
+      "Networking",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700df"
+    },
+    "title": "Dependency Injection in .NET",
+    "isbn": "1935182501",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2011-10-03T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Mark Seemann"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e0"
+    },
+    "title": "Java 3D Programming",
+    "isbn": "1930110359",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2002-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Daniel Selman"
+    ],
+    "categories": [
+      "Computer Graph",
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e1"
+    },
+    "title": "Liferay in Action",
+    "isbn": "193518282X",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2011-09-20T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Richard Sezov",
+      "Jr"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e2"
+    },
+    "title": "JSP Tag Libraries",
+    "isbn": "193011009X",
+    "pageCount": 656,
+    "publishedDate": {
+      "$date": "2001-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Gal Shachor",
+      "Adam Chace",
+      "Magnus Rydin"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e3"
+    },
+    "title": "Instant Messaging in Java",
+    "isbn": "1930110464",
+    "pageCount": 402,
+    "publishedDate": {
+      "$date": "2002-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Iain Shigeoka"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e4"
+    },
+    "title": "Java Applets and Channels Without Programming",
+    "isbn": "1884777392",
+    "pageCount": 372,
+    "publishedDate": {
+      "$date": "1999-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ronny Richardson",
+      "Michael Shoffner",
+      "Marq Singer",
+      "Bruce Murray",
+      "Jack Gambol"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e5"
+    },
+    "title": "PowerShell in Practice",
+    "isbn": "1935182005",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "2010-06-08T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Richard Siddaway"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e6"
+    },
+    "title": "PowerShell and WMI",
+    "isbn": "1617290114",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-04-30T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Richard Siddaway"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e7"
+    },
+    "title": "Making Sense of Java",
+    "isbn": "132632942",
+    "pageCount": 180,
+    "publishedDate": {
+      "$date": "1996-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruce Simpson",
+      "John Mitchell",
+      "Brian Christeson",
+      "Rehan Zaidi",
+      "Jonathan Levine"
+    ],
+    "categories": [
+      "Java",
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e8"
+    },
+    "title": "C++/CLI in Action",
+    "isbn": "1932394818",
+    "pageCount": 416,
+    "publishedDate": {
+      "$date": "2007-04-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Nishant Sivakumar"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700e9"
+    },
+    "title": "C# in Depth",
+    "isbn": "1933988363",
+    "pageCount": 424,
+    "publishedDate": {
+      "$date": "2008-04-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jon Skeet"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ea"
+    },
+    "title": "C# in Depth, Second Edition",
+    "isbn": "1935182471",
+    "pageCount": 584,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Jon Skeet"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700eb"
+    },
+    "title": "Magical A-Life Avatars",
+    "isbn": "1884777589",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2000-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Peter Small"
+    ],
+    "categories": [
+      "Theory",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ec"
+    },
+    "title": "Becoming Agile",
+    "isbn": "1933988258",
+    "pageCount": 408,
+    "publishedDate": {
+      "$date": "2009-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Greg Smith",
+      "Ahmed Sidky"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ed"
+    },
+    "title": "ActiveMQ in Action",
+    "isbn": "1933988940",
+    "pageCount": 408,
+    "publishedDate": {
+      "$date": "2011-03-31T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruce Snyder",
+      "Dejan Bosanac",
+      "Rob Davies"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ee"
+    },
+    "title": "Implementing PeopleSoft Financials",
+    "isbn": "138411808",
+    "pageCount": 220,
+    "publishedDate": {
+      "$date": "1997-01-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Early Stephens"
+    ],
+    "categories": [
+      "Business",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ef"
+    },
+    "title": "SQL Server DMVs in Action",
+    "isbn": "1935182730",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "2011-05-09T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ian W. Stirk"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f0"
+    },
+    "title": "Scala in Depth",
+    "isbn": "1935182706",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-05-14T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Joshua D. Suereth"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f1"
+    },
+    "title": "JMX in Action",
+    "isbn": "1930110561",
+    "pageCount": 424,
+    "publishedDate": {
+      "$date": "2002-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Benjamin G. Sullins",
+      "Mark B. Whipple"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f2"
+    },
+    "title": "EJB Cookbook",
+    "isbn": "1930110944",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "2003-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Benjamin G. Sullins",
+      "Mark B. Whipple"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f3"
+    },
+    "title": "GWT in Action, Second Edition",
+    "isbn": "1935182846",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-01-21T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Adam Tacy",
+      "Robert Hanson",
+      "Jason Essington",
+      "Anna Tökke"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f4"
+    },
+    "title": "JUnit in Action, Second Edition",
+    "isbn": "1935182021",
+    "pageCount": 504,
+    "publishedDate": {
+      "$date": "2010-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Petar Tahchiev",
+      "Felipe Leme",
+      "Vincent Massol",
+      "Gary Gregory"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f5"
+    },
+    "title": "Bitter Java",
+    "isbn": "193011043X",
+    "pageCount": 368,
+    "publishedDate": {
+      "$date": "2002-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruce A. Tate"
+    ],
+    "categories": [
+      "Client Server",
+      "Java",
+      "Business"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f6"
+    },
+    "title": "Bitter EJB",
+    "isbn": "1930110952",
+    "pageCount": 440,
+    "publishedDate": {
+      "$date": "2003-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bruce Tate",
+      "Mike Clark",
+      "Bob Lee",
+      "Patrick Linskey"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f7"
+    },
+    "title": "Spring Batch in Action",
+    "isbn": "1935182951",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Arnaud Cogoluegnes",
+      "Thierry Templier",
+      "Gary Gregory",
+      "Olivier Bazoud"
+    ],
+    "categories": [
+      "In Action"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f8"
+    },
+    "title": "JDK 1.4 Tutorial",
+    "isbn": "1930110456",
+    "pageCount": 408,
+    "publishedDate": {
+      "$date": "2002-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Gregory M. Travis"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700f9"
+    },
+    "title": "iPhone and iPad in Action",
+    "isbn": "1935182587",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2010-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Brandon Trebitowski",
+      "Christopher Allen",
+      "Shannon Appelcline"
+    ],
+    "categories": [
+      "Mobile"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700fa"
+    },
+    "title": "SQL Server 2005 Reporting Services in Action",
+    "isbn": "1932394761",
+    "pageCount": 600,
+    "publishedDate": {
+      "$date": "2006-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Bret Updegraff"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700fb"
+    },
+    "title": "Ten Years of UserFriendly.Org",
+    "isbn": "1935182129",
+    "pageCount": 1096,
+    "publishedDate": {
+      "$date": "2008-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "JD \"Illiad\" Frazer"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700fc"
+    },
+    "title": "Graphics Programming with Perl",
+    "isbn": "1930110022",
+    "pageCount": 328,
+    "publishedDate": {
+      "$date": "2002-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Martien Verbruggen"
+    ],
+    "categories": [
+      "Perl",
+      "Computer Graphics"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700fd"
+    },
+    "title": "RabbitMQ in Action",
+    "isbn": "1935182978",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-04-20T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Alvaro Videla",
+      "Jason J.W. Williams"
+    ],
+    "categories": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700fe"
+    },
+    "title": "XDoclet in Action",
+    "isbn": "1932394052",
+    "pageCount": 624,
+    "publishedDate": {
+      "$date": "2003-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Craig Walls",
+      "Norman Richards"
+    ],
+    "categories": [
+      "Xml",
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0700ff"
+    },
+    "title": "Spring in Action",
+    "isbn": "1932394354",
+    "pageCount": 472,
+    "publishedDate": {
+      "$date": "2005-02-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Craig Walls",
+      "Ryan Breidenbach"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070100"
+    },
+    "title": "Spring in Action, Second Edition",
+    "isbn": "1933988134",
+    "pageCount": 768,
+    "publishedDate": {
+      "$date": "2007-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Craig Walls",
+      "Ryan Breidenbach"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070101"
+    },
+    "title": "Spring in Action, Third Edition",
+    "isbn": "1935182358",
+    "pageCount": 424,
+    "publishedDate": {
+      "$date": "2011-06-21T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Craig Walls"
+    ],
+    "categories": [
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070102"
+    },
+    "title": "Spring in Practice",
+    "isbn": "1935182056",
+    "pageCount": 600,
+    "publishedDate": {
+      "$date": "2013-05-09T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Willie Wheeler",
+      "Joshua White"
+    ],
+    "categories": [
+      "Software Development",
+      "Java"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070103"
+    },
+    "title": "Java 2 Micro Edition",
+    "isbn": "1930110332",
+    "pageCount": 504,
+    "publishedDate": {
+      "$date": "2002-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "James P. White",
+      "David A. Hemphill"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070104"
+    },
+    "title": "SharePoint 2010 Workflows in Action",
+    "isbn": "1935182714",
+    "pageCount": 360,
+    "publishedDate": {
+      "$date": "2011-02-07T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Phil Wicklund"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070105"
+    },
+    "title": "SharePoint 2010 Web Parts in Action",
+    "isbn": "1935182773",
+    "pageCount": 448,
+    "publishedDate": {
+      "$date": "2011-04-24T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Wictor Wilén"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070106"
+    },
+    "title": "C++ Concurrency in Action",
+    "isbn": "1933988770",
+    "pageCount": 325,
+    "publishedDate": {
+      "$date": "2012-02-24T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Anthony Williams"
+    ],
+    "categories": [
+      ".NET"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070107"
+    },
+    "title": "Java Servlets by Example",
+    "isbn": "188477766X",
+    "pageCount": 550,
+    "publishedDate": {
+      "$date": "2002-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Alan R. Williamson"
+    ],
+    "categories": [
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070108"
+    },
+    "title": "XML Programming with VB and ASP",
+    "isbn": "1884777872",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "1999-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Mark Wilson",
+      "Tracey Wilson"
+    ],
+    "categories": [
+      "Xml",
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070109"
+    },
+    "title": "Oracle8i Database Administration",
+    "isbn": "1884777783",
+    "pageCount": 543,
+    "publishedDate": {
+      "$date": "1999-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Noel Yuhanna"
+    ],
+    "categories": [
+      "Networking",
+      "Client-Server"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07010a"
+    },
+    "title": "The Engaging Web",
+    "isbn": "9781935182078",
+    "pageCount": 325,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Gabe Zichermann",
+      "Chris Cunningham"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07010b"
+    },
+    "title": "Enterprise OSGi In Action",
+    "isbn": "1617290130",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Holly Cummins",
+      "Timothy Ward"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07010c"
+    },
+    "title": "Ext JS in Action, Second Edition",
+    "isbn": "1617290327",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-02-04T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jesus Garcia",
+      "Grgur Grisogono",
+      "Jacob K. Andresen"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07010d"
+    },
+    "title": "Android in Action, Third Edition",
+    "isbn": "1617290505",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2011-11-15T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "W. Frank Ableson",
+      "Robi Sen",
+      "Chris King",
+      "C. Enrique Ortiz"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07010e"
+    },
+    "title": "Arduino in Action",
+    "isbn": "1617290246",
+    "pageCount": 300,
+    "publishedDate": {
+      "$date": "2013-05-30T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Martin Evans",
+      "Joshua Noble",
+      "Jordan Hochenbaum"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07010f"
+    },
+    "title": "Node.js in Action",
+    "isbn": "1617290572",
+    "pageCount": 300,
+    "publishedDate": {
+      "$date": "2013-10-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Mike Cantelon",
+      "Marc Harter",
+      "T.J. Holowaychuk",
+      "Nathan Rajlich"
+    ],
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070110"
+    },
+    "title": "Third-Party JavaScript ",
+    "isbn": "1617290548",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-03-11T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ben Vinegar",
+      "Anton Kovalyov"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070111"
+    },
+    "title": "Multimedia Computing",
+    "isbn": "020152029X",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "1993-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Matthew E. Hodges"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070112"
+    },
+    "title": "Web Development with JavaServer Pages",
+    "isbn": "1884777996",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2000-05-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Duane K. Fields",
+      "Mark A. Kolb"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070113"
+    },
+    "title": "Up to Speed with Swing",
+    "isbn": "1884777643",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "1998-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Steven J. Gutz"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070114"
+    },
+    "title": "Manager's Guide to Open Source",
+    "isbn": "193239429X",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2004-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Maria Winslow"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070115"
+    },
+    "title": "Programming Web Services with Java",
+    "isbn": "1930110421",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2002-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ajamu A. Wesley"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070116"
+    },
+    "title": "TCP/IP Programming for OS/2",
+    "isbn": "132612496",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "1996-04-23T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Steven J. Gutz"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070117"
+    },
+    "title": "Implementing SAP R/3, Second Edition",
+    "isbn": "013889213X",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "1997-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070118"
+    },
+    "title": "Implementing SAP R/3",
+    "isbn": "1884777228",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "1996-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070119"
+    },
+    "title": "Using C-Kermit: Communication Software",
+    "isbn": "1884777147",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07011a"
+    },
+    "title": "SCWCD Exam Study Kit",
+    "isbn": "1930110596",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2002-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Hanumant Deshmukh",
+      "Jignesh Malavia"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07011b"
+    },
+    "title": "Unit Testing in C++",
+    "isbn": "1617290386",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Bruce Trask",
+      "Angel Roman"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07011c"
+    },
+    "title": "Big Data",
+    "isbn": "1617290343",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Nathan Marz",
+      "James Warren"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07011d"
+    },
+    "title": "CoffeeScript in Action",
+    "isbn": "1617290629",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-05-09T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Patrick Lee"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07011e"
+    },
+    "title": "SQL Server MVP Deep Dives, Volume 2",
+    "isbn": "1617290475",
+    "pageCount": 750,
+    "publishedDate": {
+      "$date": "2011-10-13T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Kalen Delaney",
+      "Louis Davidson",
+      "Greg Low",
+      "Brad McGehee",
+      "Paul Nielsen",
+      "Paul Randal",
+      "Kimberly Tripp"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07011f"
+    },
+    "title": "HTML5 in Action",
+    "isbn": "1617290491",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2014-02-10T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Rob Crowther",
+      "Joe Lennon",
+      "Ash Blue",
+      "Greg Wanish"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070120"
+    },
+    "title": "Java Persistence with Hibernate, Second Edition",
+    "isbn": "1617290459",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Christian Bauer",
+      "Gavin King",
+      "Gary Gregory"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070121"
+    },
+    "title": "Hadoop in Practice",
+    "isbn": "1617290238",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-10-02T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Alex Holmes"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070122"
+    },
+    "title": "HBase in Action",
+    "isbn": "1617290521",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-11-02T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Nicholas Dimiduk",
+      "Amandeep Khurana"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070123"
+    },
+    "title": "Flex Mobile in Action",
+    "isbn": "1617290610",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-05-30T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jonathan Campos"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070124"
+    },
+    "title": "HTML5 for .NET Developers",
+    "isbn": "1617290432",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-11-30T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jim Jackson",
+      "II",
+      "Ian Gilman"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070125"
+    },
+    "title": "50 Android Hacks",
+    "isbn": "1617290564",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-06-03T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Carlos M. Sessa"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070126"
+    },
+    "title": "PowerShell in Depth",
+    "isbn": "1617290556",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-02-20T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Don Jones",
+      "Richard Siddaway",
+      "Jeffery Hicks"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070127"
+    },
+    "title": "Augmented Reality Revealed",
+    "isbn": "1617290165",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Robert A. Rice Jr."
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070128"
+    },
+    "title": "Building Well-Structured JavaScript Applications",
+    "isbn": "1617290599",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Julio C. Ody"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070129"
+    },
+    "title": "Linked Data",
+    "isbn": "1617290394",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-12-31T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "David Wood",
+      "Marsha Zaidman",
+      "Luke Ruth",
+      "with Michael Hausenblas"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07012a"
+    },
+    "title": "Mule in Action, Second Edition",
+    "isbn": "1617290823",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-02-20T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "David Dossot",
+      "John D'Emic",
+      "Victor Romero"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07012b"
+    },
+    "title": "Single Page Web Applications",
+    "isbn": "1617290750",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-09-19T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Michael S. Mikowski",
+      "Josh C. Powell"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07012c"
+    },
+    "title": "The Art of Unit Testing, Second Edition",
+    "isbn": "1617290890",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-11-25T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Roy Osherove"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07012d"
+    },
+    "title": "Play for Java",
+    "isbn": "1617290904",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-03-14T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Nicolas Leroux",
+      "Sietse de Kaper"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07012e"
+    },
+    "title": "Hello World! Second Edition",
+    "isbn": "1617290920",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-12-12T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Warren Sande",
+      "Carter Sande"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07012f"
+    },
+    "title": "Dart in Action",
+    "isbn": "1617290866",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-12-31T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Chris Buckett"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070130"
+    },
+    "title": "Redis in Action",
+    "isbn": "1617290858",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-06-18T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Josiah Carlson"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070131"
+    },
+    "title": "Using the TI-83 Plus/TI-84 Plus",
+    "isbn": "161729084X",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-08-19T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Christopher R. Mitchell"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070132"
+    },
+    "title": "Neo4j in Action",
+    "isbn": "1617290769",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Jonas Partner",
+      "Aleksa Vukotic",
+      "Nicki Watt"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070133"
+    },
+    "title": "Programming the TI-83 Plus/TI-84 Plus",
+    "isbn": "1617290777",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-09-14T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Christopher R. Mitchell"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070134"
+    },
+    "title": "Functional Programming in Scala",
+    "isbn": "1617290653",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Paul Chiusano",
+      "Rúnar Bjarnason"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070135"
+    },
+    "title": "Play for Scala",
+    "isbn": "1617290793",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-10-03T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Peter Hilton",
+      "Erik Bakker",
+      "Francisco Canedo"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070136"
+    },
+    "title": "Node.js in Practice",
+    "isbn": "1617290939",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Alex Young",
+      "Marc Harter"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070137"
+    },
+    "title": "SonarQube in Action",
+    "isbn": "1617290955",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-10-30T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "G. Ann Campbell",
+      "Patroklos P. Papapetrou"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070138"
+    },
+    "title": "Windows Store App Development: C# and XAML",
+    "isbn": "1617290947",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-06-03T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Peter M. Brown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070139"
+    },
+    "title": "Learn Windows IIS in a Month of Lunches",
+    "isbn": "1617290971",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-12-31T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jason C. Helmick"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07013a"
+    },
+    "title": "Mondrian in Action",
+    "isbn": "161729098X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "William Back",
+      "Nicholas Goodman",
+      "Julian Hyde"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07013b"
+    },
+    "title": "RabbitMQ in Depth",
+    "isbn": "1617291005",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Gavin M. Roy"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07013c"
+    },
+    "title": "Akka in Action",
+    "isbn": "1617291013",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Raymond Roestenburg",
+      "Rob Bakker",
+      "Rob Williams",
+      "Steven Haines"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07013d"
+    },
+    "title": "Extending jQuery",
+    "isbn": "161729103X",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-08-12T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Keith B. Wood"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07013e"
+    },
+    "title": "OCA Java SE 7 Programmer I Certification Guide",
+    "isbn": "1617291048",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-04-02T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Mala Gupta"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07013f"
+    },
+    "title": "Kanban in Action",
+    "isbn": "1617291056",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-03-04T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Marcus Hammarberg",
+      "Joakim Sunden"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070140"
+    },
+    "title": "Solr in Action",
+    "isbn": "1617291021",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-03-25T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Trey Grainger",
+      "Timothy Potter"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070141"
+    },
+    "title": "Making Sense of NoSQL",
+    "isbn": "1617291072",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-09-03T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Daniel G. McCreary",
+      "Ann M. Kelly"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070142"
+    },
+    "title": "Grails in Action, Second Edition",
+    "isbn": "1617290963",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Glen Smith",
+      "Peter Ledbrook"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070143"
+    },
+    "title": "Rails 4 in Action",
+    "isbn": "1617291099",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Ryan Bigg",
+      "Yehuda Katz",
+      "and Steve Klabnik"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070144"
+    },
+    "title": "Learn Windows PowerShell in a Month of Lunches, Second Edition",
+    "isbn": "1617291080",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-11-12T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Don Jones",
+      "Jeffery D. Hicks"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070145"
+    },
+    "title": "AOP in .NET",
+    "isbn": "1617291145",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-06-21T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Matthew D. Groves"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070146"
+    },
+    "title": "Learn PowerShell Toolmaking in a Month of Lunches",
+    "isbn": "1617291161",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-12-12T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Don Jones",
+      "Jeffery Hicks"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070147"
+    },
+    "title": "CMIS and Apache Chemistry in Action",
+    "isbn": "1617291153",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Florian Müller",
+      "Jay Brown",
+      "Jeff Potts"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070148"
+    },
+    "title": "Action Guide (aka VB .NET)",
+    "isbn": "1930110324",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Paul Messick"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070149"
+    },
+    "title": "Learn Active Directory Management in a Month of Lunches",
+    "isbn": "1617291196",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Richard Siddaway"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07014a"
+    },
+    "title": "Spring in Action, Fourth Edition",
+    "isbn": "161729120X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Craig Walls"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07014b"
+    },
+    "title": "The Mikado Method",
+    "isbn": "1617291218",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-03-05T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Ola Ellnestam",
+      "Daniel Brolund"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07014c"
+    },
+    "title": "The Responsive Web",
+    "isbn": "1617291242",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Matthew Carver"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07014d"
+    },
+    "title": "Fast ASP.NET Websites",
+    "isbn": "1617291250",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-08-29T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Dean Alan Hume"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07014e"
+    },
+    "title": "SBT in Action",
+    "isbn": "1617291277",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Joshua Suereth",
+      "Matthew Farwell"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07014f"
+    },
+    "title": "PowerShell Deep Dives",
+    "isbn": "1617291315",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Edited by Jeffery Hicks",
+      "Richard Siddaway",
+      "Oisin Grehan",
+      "Aleksandar Nikolic"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070150"
+    },
+    "title": "Gradle in Action",
+    "isbn": "1617291307",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-02-18T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Benjamin Muschko"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070151"
+    },
+    "title": "Scalatra in Action",
+    "isbn": "1617291293",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Ivan Porto Carrero",
+      "Ross A. Baker",
+      "Dave Hrycyszyn",
+      "Stefan Ollinger",
+      "Jared Armstrong"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070152"
+    },
+    "title": "AngularJS in Action",
+    "isbn": "1617291331",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Brian Ford",
+      "Lukas Ruebbelke"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070153"
+    },
+    "title": "Software Development Metrics",
+    "isbn": "1617291358",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "David Nicolette"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070154"
+    },
+    "title": "F# Deep Dives",
+    "isbn": "1617291323",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Tomas Petricek",
+      "Phillip Trelford"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070155"
+    },
+    "title": "C# in Depth, Third Edition",
+    "isbn": "161729134X",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-09-19T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Jon Skeet"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070156"
+    },
+    "title": "PostGIS in Action, Second Edition",
+    "isbn": "1617291390",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Regina Obe",
+      "Leo Hsu"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070157"
+    },
+    "title": "R in Action, Second Edition",
+    "isbn": "1617291382",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Robert Kabacoff"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070158"
+    },
+    "title": "The Joy of Clojure, Second Edition",
+    "isbn": "1617291412",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-05-29T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Michael Fogus",
+      "Chris Houser"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070159"
+    },
+    "title": "iOS 7 in Action",
+    "isbn": "1617291420",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-04-03T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Brendan G. Lim",
+      "Martin Conte Mac Donell"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07015a"
+    },
+    "title": "Hello App Inventor!",
+    "isbn": "1617291439",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Paula Beer",
+      "Carl Simmons"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07015b"
+    },
+    "title": "Ember.js in Action",
+    "isbn": "1617291455",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-06-10T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Joachim Haagen Skeie"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07015c"
+    },
+    "title": "Netty in Action",
+    "isbn": "1617291471",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Norman Maurer",
+      "Courtney Robinson"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07015d"
+    },
+    "title": "RavenDB in Action",
+    "isbn": "1617291501",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Itamar Syn-Hershko"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07015e"
+    },
+    "title": "OCP Java SE 7 Programmer II Certification Guide",
+    "isbn": "161729148X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Mala Gupta"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07015f"
+    },
+    "title": "Backbone.js in Action",
+    "isbn": "1617291536",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Samuel M. Breed",
+      "Cole Krumbholz",
+      "Phillip Whisenhunt"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070160"
+    },
+    "title": "Clojure in Action, Second Edition",
+    "isbn": "1617291528",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Amit Rathore"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070161"
+    },
+    "title": "Practical Data Science with R",
+    "isbn": "1617291560",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-04-02T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Nina Zumel",
+      "John Mount"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070162"
+    },
+    "title": "Secrets of the JavaScript Ninja pBook upgrade",
+    "isbn": null,
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070163"
+    },
+    "title": "ArcGIS Web Development",
+    "isbn": "1617291617",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Rene Rubalcava"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070164"
+    },
+    "title": "Elasticsearch in Action",
+    "isbn": "1617291625",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Radu Gheorghe",
+      "Matthew Lee Hinman"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070165"
+    },
+    "title": "Learn SCCM 2012 in a Month of Lunches",
+    "isbn": "1617291684",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "James Bannan"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070166"
+    },
+    "title": "Programming for Musicians and Digital Artists",
+    "isbn": "1617291706",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Ajay Kapur",
+      "Perry Cook",
+      "Spencer Salazar",
+      "Ge Wang"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070167"
+    },
+    "title": "BDD in Action",
+    "isbn": "161729165X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "John F. Smart"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070168"
+    },
+    "title": "Windows Phone 8 in Action",
+    "isbn": "1617291374",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-12-31T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Timothy Binkley-Jones",
+      "Massimo Perga",
+      "Michael Sync",
+      "Adam Benoit"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070169"
+    },
+    "title": "Titanium Alloy in Action",
+    "isbn": "1617291749",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Ricardo Alcocer"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07016a"
+    },
+    "title": "Giraph in Action",
+    "isbn": "1617291757",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Claudio Martella",
+      "Roman Shaposhnik",
+      "Dionysios Logothetis"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07016b"
+    },
+    "title": "The Well-Grounded Rubyist, Second Edition",
+    "isbn": "1617291692",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-06-24T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "David A. Black"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07016c"
+    },
+    "title": "Go in Action",
+    "isbn": "1617291781",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Brian Ketelsen",
+      "Erik St. Martin",
+      "William Kennedy"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07016d"
+    },
+    "title": "The Programmer's Guide to Apache Thrift ",
+    "isbn": "1617291811",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Randy Abernethy"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07016e"
+    },
+    "title": "Grokking Functional Programming",
+    "isbn": "1617291838",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Aslam Khan"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07016f"
+    },
+    "title": "CORS in Action",
+    "isbn": "161729182X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Monsur Hossain"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070170"
+    },
+    "title": "Reactive Design Patterns",
+    "isbn": "1617291803",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Roland Kuhn",
+      "Jamie Allen"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070171"
+    },
+    "title": "Storm Applied",
+    "isbn": "1617291897",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Sean Allen",
+      "Peter Pathirana",
+      "Matthew Jankowski"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070172"
+    },
+    "title": "Real-World Machine Learning",
+    "isbn": "1617291927",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Henrik Brink",
+      "Joseph Richards"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070173"
+    },
+    "title": "jQuery UI in Action",
+    "isbn": "1617291935",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Theodore J. (T.J.) VanToll III"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070174"
+    },
+    "title": "Web Components in Action",
+    "isbn": "1617291943",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Chris Buckett"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070175"
+    },
+    "title": "JavaScript Application Design",
+    "isbn": "1617291951",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Nicolas G. Bevacqua"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070176"
+    },
+    "title": "Git in Practice",
+    "isbn": "1617291978",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Mike McQuaid"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070177"
+    },
+    "title": "Impala in Action",
+    "isbn": "1617291986",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Richard L. Saltzer",
+      "Istvan Szegedi"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070178"
+    },
+    "title": "Java 8 in Action",
+    "isbn": "1617291994",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Raoul-Gabriel Urma",
+      "Mario Fusco",
+      "Alan Mycroft"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070179"
+    },
+    "title": "Elixir in Action",
+    "isbn": "161729201X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Saša Juric´"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07017a"
+    },
+    "title": "MongoDB in Action, Second Edition",
+    "isbn": "1617291609",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Kyle Banker",
+      "Peter Bakkum",
+      "Tim Hawkins",
+      "Shaun Verch",
+      "Douglas Garrett"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07017b"
+    },
+    "title": "Getting MEAN with Mongo, Express, Angular, and Node",
+    "isbn": "1617292036",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Simon Holmes"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07017c"
+    },
+    "title": "jQuery in Action, Third Edition",
+    "isbn": "1617292079",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Bear Bibeault",
+      "Yehuda Katz",
+      "Aurelio De Rosa"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07017d"
+    },
+    "title": "D3.js in Action",
+    "isbn": "1617292117",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Elijah Meeks"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07017e"
+    },
+    "title": "Learn SQL Server Administration in a Month of Lunches",
+    "isbn": "1617292133",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2014-05-02T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Don Jones"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07017f"
+    },
+    "title": "Geoprocessing with Python",
+    "isbn": "1617292141",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Chris Garrard"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070180"
+    },
+    "title": "Barcodes with iOS",
+    "isbn": "161729215X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Oliver Drobnik"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070181"
+    },
+    "title": "Chef in Action",
+    "isbn": "1617292214",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Dimitri Aivaliotis"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070182"
+    },
+    "title": "Hadoop in Practice, Second Edition",
+    "isbn": "1617292222",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Alex Holmes"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070183"
+    },
+    "title": "Oculus Rift in Action",
+    "isbn": "1617292192",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Bradley Austin Davis",
+      "Karen Bryla",
+      "Alex Benton"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070184"
+    },
+    "title": "OpenStack in Action",
+    "isbn": "1617292168",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Cody Bumgardner"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070185"
+    },
+    "title": "PowerShell in Depth, Second Edition",
+    "isbn": "1617292184",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Don Jones",
+      "Jeffery Hicks",
+      "Richard Siddaway"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070186"
+    },
+    "title": "Practical Probabilistic Programming",
+    "isbn": "1617292338",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Avi Pfeffer"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070187"
+    },
+    "title": "Unity in Action",
+    "isbn": "161729232X",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Joseph Hocking"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070188"
+    },
+    "title": "Express.js in Action",
+    "isbn": "1617292427",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Evan M. Hahn"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070189"
+    },
+    "title": "Learn Git in a Month of Lunches",
+    "isbn": "1617292419",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Rick Umali"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07018a"
+    },
+    "title": "Understanding SPAs",
+    "isbn": "1617292435",
+    "pageCount": null,
+    "publishedDate": null,
+    "status": "meap",
+    "authors": [
+      "Emmit A. Scott",
+      "Jr."
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07018b"
+    },
+    "title": "XSLT Quickly",
+    "isbn": "1930110111",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "2001-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07018c"
+    },
+    "title": "Windows Forms Programming with C#",
+    "isbn": "1930110286",
+    "pageCount": 752,
+    "publishedDate": {
+      "$date": "2002-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07018d"
+    },
+    "title": "Windows Forms in Action",
+    "isbn": "1932394656",
+    "pageCount": 950,
+    "publishedDate": {
+      "$date": "2006-04-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07018e"
+    },
+    "title": "Event Processing in Action",
+    "isbn": "1935182218",
+    "pageCount": 384,
+    "publishedDate": {
+      "$date": "2010-08-15T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07018f"
+    },
+    "title": "The Well-Grounded Java Developer",
+    "isbn": "1617290068",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2012-07-10T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070190"
+    },
+    "title": "Objective-C Fundamentals",
+    "isbn": "1935182536",
+    "pageCount": 355,
+    "publishedDate": {
+      "$date": "2011-09-13T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070191"
+    },
+    "title": "ADO.NET Programming",
+    "isbn": "1930110294",
+    "pageCount": 592,
+    "publishedDate": {
+      "$date": "2002-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070192"
+    },
+    "title": "WPF in Action with Visual Studio 2008",
+    "isbn": "1933988223",
+    "pageCount": 520,
+    "publishedDate": {
+      "$date": "2008-11-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070193"
+    },
+    "title": "Location-Aware Applications",
+    "isbn": "1935182331",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "2011-07-28T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070194"
+    },
+    "title": "Web Development with JavaServer Pages, Second Edition",
+    "isbn": "193011012X",
+    "pageCount": 800,
+    "publishedDate": {
+      "$date": "2001-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070195"
+    },
+    "title": "IntelliJ IDEA in Action",
+    "isbn": "1932394443",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2006-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070196"
+    },
+    "title": "Spring Integration in Action",
+    "isbn": "1935182439",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2012-09-19T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070197"
+    },
+    "title": "The Joy of Clojure",
+    "isbn": "1935182641",
+    "pageCount": 360,
+    "publishedDate": {
+      "$date": "2011-03-25T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070198"
+    },
+    "title": "Dynamic WAP Application Development",
+    "isbn": "1930110081",
+    "pageCount": 888,
+    "publishedDate": {
+      "$date": "2002-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c070199"
+    },
+    "title": "IronPython in Action",
+    "isbn": "1933988339",
+    "pageCount": 496,
+    "publishedDate": {
+      "$date": "2009-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07019a"
+    },
+    "title": "Art of Java Web Development",
+    "isbn": "1932394060",
+    "pageCount": 624,
+    "publishedDate": {
+      "$date": "2003-11-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07019b"
+    },
+    "title": "Java Reflection in Action",
+    "isbn": "1932394184",
+    "pageCount": 300,
+    "publishedDate": {
+      "$date": "2004-10-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07019c"
+    },
+    "title": "Programming Windows Server 2003",
+    "isbn": "1930110987",
+    "pageCount": 328,
+    "publishedDate": {
+      "$date": "2003-08-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07019d"
+    },
+    "title": "Hello! iOS Development",
+    "isbn": "1935182986",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2013-07-28T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07019e"
+    },
+    "title": "Jess in Action",
+    "isbn": "1930110898",
+    "pageCount": 480,
+    "publishedDate": {
+      "$date": "2003-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c07019f"
+    },
+    "title": "Remote LAN Access",
+    "isbn": "134944518",
+    "pageCount": 300,
+    "publishedDate": {
+      "$date": "1996-06-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a0"
+    },
+    "title": "J2EE and XML Development",
+    "isbn": "1930110308",
+    "pageCount": 304,
+    "publishedDate": {
+      "$date": "2002-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a1"
+    },
+    "title": "Eclipse in Action",
+    "isbn": "1930110960",
+    "pageCount": 416,
+    "publishedDate": {
+      "$date": "2003-05-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a2"
+    },
+    "title": "ASP.NET AJAX in Action",
+    "isbn": "1933988142",
+    "pageCount": 570,
+    "publishedDate": {
+      "$date": "2007-09-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a3"
+    },
+    "title": "Ext JS in Action",
+    "isbn": "1935182110",
+    "pageCount": 425,
+    "publishedDate": {
+      "$date": "2010-12-05T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a4"
+    },
+    "title": "Sencha Touch in Action",
+    "isbn": "1617290378",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2013-07-12T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a5"
+    },
+    "title": "DSLs in Action",
+    "isbn": "1935182455",
+    "pageCount": 376,
+    "publishedDate": {
+      "$date": "2010-12-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a6"
+    },
+    "title": "Database Programming for Handheld Devices",
+    "isbn": "1884777856",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2000-07-01T07:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a7"
+    },
+    "title": "Jakarta Commons Online Bookshelf",
+    "isbn": "1932394524",
+    "pageCount": 402,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a8"
+    },
+    "title": "Browsing with HttpClient",
+    "isbn": "1932394524a-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "53c2ae8528d75d572c0701a9"
+    },
+    "title": "Codec: Encoders and Decoders",
+    "isbn": "1932394524j-e",
+    "pageCount": null,
+    "publishedDate": {
+      "$date": "2005-03-01T08:00:00.000Z"
+    },
+    "status": "published",
+    "authors": [
+      "Unknown"
+    ],
+    "categories": [
+      "Unknown"
+    ]
+  }]

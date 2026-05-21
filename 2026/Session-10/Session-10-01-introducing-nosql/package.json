@@ -1,49 +1,49 @@
-//{
-//  "name": "session-XX-YY-presentation-title",
-//  "type": "module",
-//  "private": true,
-//  "scripts": {
-//    "build": "slidev build",
-//    "dev": "slidev --open",
-//    "export": "slidev export",
-//    "show": "slidev --remote SecretOne --port 8080 --open --force"
-//  },
-//  "dependencies": {
-//    "@iconify-json/fa-brands": "^1.2.2",
-//    "@iconify-json/fa-regular": "^1.2.2",
-//    "@iconify-json/fa-solid": "^1.2.2",
-//    "@slidev/types": "^0.50.0",
-//    "@unocss/preset-icons": "^66.6.8",
-//    "codemirror-theme-vars": "^0.1.2",
-//    "prism-theme-vars": "^0.2.5",
-//    "slidev-addon-sync": "^0.1.0",
-//    "slidev-component-poll": "^3.0.0",
-//    "slidev-theme-nmt": "^0.9.10",
-//    "theme-vitesse": "^0.6.4"
-//  },
-//  "devDependencies": {
-//    "@slidev/cli": "^0.50.0",
-//    "@types/node": "^18.19.130"
-//  },
-//  "slidev": {
-//    "colorSchema": "both",
-//    "defaults": {
-//      "fonts": {
-//        "provider": "coollabs",
-//        "mono": "Fira Code,consolas",
-//        "serif": "Roboto Serif,Georgia",
-//        "sans": "Lexend,Avenir Next.Arial",
-//        "local": "Lexend,Avenir Next,Arial",
-//        "italic": false
-//      },
-//      "transition": "fade",
-//      "aspectRatio": "16/10",
-//      "addons": [
-//        "slidev-component-poll"
-//      ]
-//    }
-//  },
-//  "author": "Adrian Gould <ady.g.coder@gmail.com>",
-//  "funding": "https://github.com/sponsors/adygcode",
-//  "bugs": "https://github.com/adygcode/slidev-theme-nmt/issues"
-//}
+{
+  "name": "session-XX-YY-presentation-title",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "show": "slidev --remote SecretOne --port 8080 --open --force"
+  },
+  "dependencies": {
+    "@iconify-json/fa-brands": "^1.2.2",
+    "@iconify-json/fa-regular": "^1.2.2",
+    "@iconify-json/fa-solid": "^1.2.2",
+    "@slidev/types": "^0.50.0",
+    "@unocss/preset-icons": "^66.6.8",
+    "codemirror-theme-vars": "^0.1.2",
+    "prism-theme-vars": "^0.2.5",
+    "slidev-addon-sync": "^0.1.0",
+    "slidev-component-poll": "^3.0.0",
+    "slidev-theme-nmt": "^0.9.10",
+    "theme-vitesse": "^0.6.4"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^0.50.0",
+    "@types/node": "^18.19.130"
+  },
+  "slidev": {
+    "colorSchema": "both",
+    "defaults": {
+      "fonts": {
+        "provider": "coollabs",
+        "mono": "Fira Code,consolas",
+        "serif": "Roboto Serif,Georgia",
+        "sans": "Lexend,Avenir Next.Arial",
+        "local": "Lexend,Avenir Next,Arial",
+        "italic": false
+      },
+      "transition": "fade",
+      "aspectRatio": "16/10",
+      "addons": [
+        "slidev-component-poll"
+      ]
+    }
+  },
+  "author": "Adrian Gould <ady.g.coder@gmail.com>",
+  "funding": "https://github.com/sponsors/adygcode",
+  "bugs": "https://github.com/adygcode/slidev-theme-nmt/issues"
+}
