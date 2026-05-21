@@ -9,25 +9,28 @@
     "show": "slidev --remote SecretOne --port 8080 --open --force",
     "room": "slidev --bind 10.25.35.117 --port 8080 --open --force"
   },
-
   "dependencies": {
     "@iconify-json/fa7-brands": "latest",
     "@iconify-json/fa7-regular": "latest",
     "@iconify-json/fa7-solid": "latest",
-    "@unocss/preset-icons": "latest",
-    "@slidev/cli": "latest",
-    "@slidev/theme-default": "latest",
-    "@slidev/types": "latest",
-    "shiki": "latest",
-    "shiki-magic-move": "latest",
-    "slidev-addon-announcement": "latest",
-    "slidev-theme-nmt": "latest",
-    "vue": "latest"
+    "@iconify-json/fa-brands": "latest",
+    "@iconify-json/fa-regular": "latest",
+    "@iconify-json/fa-solid": "latest",
+    "@slidev/types": "^0.50.0",
+    "@unocss/preset-icons": "^66.6.8",
+    "codemirror-theme-vars": "^0.1.2",
+    "prism-theme-vars": "^0.2.5",
+    "slidev-addon-sync": "^0.1.0",
+    "slidev-component-poll": "^3.0.0",
+    "slidev-theme-nmt": "^0.9.10",
+    "theme-vitesse": "^0.6.4"
   },
-
+  "devDependencies": {
+    "@slidev/cli": "^0.50.0",
+    "@types/node": "^18.19.130"
+  },
   "slidev": {
-    "colorSchema": "dark",
-    "highlighter": "shiki",
+    "colorSchema": "both",
     "defaults": {
       "fonts": {
         "provider": "coollabs",
@@ -38,11 +41,13 @@
         "italic": false
       },
       "transition": "fade",
-      "aspectRatio": "16/10"
+      "aspectRatio": "16/10",
+      "addons": [
+        "slidev-component-poll"
+      ]
     }
   },
-
-  "devDependencies": {
-    "playwright-chromium": "latest"
-  }
+  "author": "Adrian Gould <ady.g.coder@gmail.com>",
+  "funding": "https://github.com/sponsors/adygcode",
+  "bugs": "https://github.com/adygcode/slidev-theme-nmt/issues"
 }

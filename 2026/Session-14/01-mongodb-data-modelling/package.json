@@ -6,7 +6,8 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "show": "slidev --remote SecretOne --port 8080 --open --force"
+    "show": "slidev --remote SecretOne --port 8080 --open --force",
+    "room": "slidev --bind 10.25.35.117 --port 8080 --open --force"
   },
   "dependencies": {
     "@iconify-json/fa7-brands": "latest",
