@@ -1,0 +1,46 @@
+[
+  {
+    "title": "MongoDB Basics",
+    "isbn": "1111111111",
+    "pageCount": 0,
+    "publishedDate": { "$date": "2015-01-01T00:00:00.000Z" },
+    "thumbnailUrl": "http://example.com/mongo.jpg",
+    "shortDescription": "Intro to MongoDB",
+    "status": "PUBLISH",
+    "authors": ["John Doe", ""],
+    "categories": ["Databases", ""]
+  },
+  {
+    "title": "Advanced MongoDB",
+    "isbn": "2222222222",
+    "pageCount": 450,
+    "publishedDate": { "$date": "2018-05-10T00:00:00.000Z" },
+    "thumbnailUrl": "http://example.com/advanced.jpg",
+    "longDescription": "Deep dive into MongoDB internals",
+    "status": "MEAP",
+    "authors": [],
+    "categories": ["Databases"]
+  },
+  {
+    "title": "Learning NoSQL",
+    "isbn": "3333333333",
+    "pageCount": 300,
+    "publishedDate": { "$date": "2017-07-15T00:00:00.000Z" },
+    "thumbnailUrl": "http://example.com/nosql.jpg",
+    "shortDescription": "NoSQL overview",
+    "longDescription": "Covers MongoDB, Cassandra, and more",
+    "status": "PUBLISH",
+    "authors": ["Jane Smith"],
+    "categories": []
+  },
+  {
+    "title": "MongoDB Basics",
+    "isbn": "1111111111",
+    "pageCount": 250,
+    "publishedDate": { "$date": "2016-01-01T00:00:00.000Z" },
+    "thumbnailUrl": "http://example.com/mongo2.jpg",
+    "status": "PUBLISH",
+    "authors": ["John Doe"],
+    "categories": ["Databases"]
+  }
+]
