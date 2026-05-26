@@ -1,0 +1,520 @@
+[
+  {"title":"Barbie","year":2023,"imdb_id":"tt1517268","imdb_rating":6.9,"rotten_tomatoes":88},
+  {"title":"The Super Mario Bros. Movie","year":2023,"imdb_id":"tt6718170","imdb_rating":7.0,"rotten_tomatoes":59},
+  {"title":"Frozen","year":2013,"imdb_id":"tt2294629","imdb_rating":7.4,"rotten_tomatoes":90},
+  {"title":"Moana","year":2016,"imdb_id":"tt3521164","imdb_rating":7.6,"rotten_tomatoes":95},
+  {"title":"Coco","year":2017,"imdb_id":"tt2380307","imdb_rating":8.4,"rotten_tomatoes":97},
+  {"title":"Inside Out","year":2015,"imdb_id":"tt2096673","imdb_rating":8.1,"rotten_tomatoes":98},
+  {"title":"Up","year":2009,"imdb_id":"tt1049413","imdb_rating":8.3,"rotten_tomatoes":98},
+  {"title":"WALL·E","year":2008,"imdb_id":"tt0910970","imdb_rating":8.4,"rotten_tomatoes":95},
+  {"title":"Finding Nemo","year":2003,"imdb_id":"tt0266543","imdb_rating":8.2,"rotten_tomatoes":99},
+  {"title":"Shrek","year":2001,"imdb_id":"tt0126029","imdb_rating":7.9,"rotten_tomatoes":88}
+,
+  {"title":"Parasite","year":2019,"imdb_id":"tt6751668","imdb_rating":8.5,"rotten_tomatoes":99},
+  {"title":"Joker","year":2019,"imdb_id":"tt7286456","imdb_rating":8.4,"rotten_tomatoes":69},
+  {"title":"Avengers: Endgame","year":2019,"imdb_id":"tt4154796","imdb_rating":8.4,"rotten_tomatoes":94},
+  {"title":"Avengers: Infinity War","year":2018,"imdb_id":"tt4154756","imdb_rating":8.4,"rotten_tomatoes":85},
+  {"title":"Guardians of the Galaxy","year":2014,"imdb_id":"tt2015381","imdb_rating":8.0,"rotten_tomatoes":92},
+  {"title":"Black Panther","year":2018,"imdb_id":"tt1825683","imdb_rating":7.3,"rotten_tomatoes":96},
+  {"title":"Doctor Strange","year":2016,"imdb_id":"tt1211837","imdb_rating":7.5,"rotten_tomatoes":89},
+  {"title":"Logan","year":2017,"imdb_id":"tt3315342","imdb_rating":8.1,"rotten_tomatoes":93},
+  {"title":"Deadpool","year":2016,"imdb_id":"tt1431045","imdb_rating":8.0,"rotten_tomatoes":85},
+  {"title":"Deadpool 2","year":2018,"imdb_id":"tt5463162","imdb_rating":7.7,"rotten_tomatoes":84},
+  {"title":"The Batman","year":2022,"imdb_id":"tt1877830","imdb_rating":7.8,"rotten_tomatoes":85},
+  {"title":"Dune","year":2021,"imdb_id":"tt1160419","imdb_rating":8.0,"rotten_tomatoes":83},
+  {"title":"Dune: Part Two","year":2024,"imdb_id":"tt15239678","imdb_rating":8.6,"rotten_tomatoes":92},
+  {"title":"Everything Everywhere All at Once","year":2022,"imdb_id":"tt6710474","imdb_rating":7.8,"rotten_tomatoes":94},
+  {"title":"Oppenheimer","year":2023,"imdb_id":"tt15398776","imdb_rating":8.4,"rotten_tomatoes":93}
+,
+  {"title":"Goodfellas","year":1990,"imdb_id":"tt0099685","imdb_rating":8.7,"rotten_tomatoes":96},
+  {"title":"The Green Mile","year":1999,"imdb_id":"tt0120689","imdb_rating":8.6,"rotten_tomatoes":79},
+  {"title":"Saving Private Ryan","year":1998,"imdb_id":"tt0120815","imdb_rating":8.6,"rotten_tomatoes":94},
+  {"title":"The Usual Suspects","year":1995,"imdb_id":"tt0114814","imdb_rating":8.5,"rotten_tomatoes":88},
+  {"title":"Braveheart","year":1995,"imdb_id":"tt0112573","imdb_rating":8.3,"rotten_tomatoes":76},
+  {"title":"A Beautiful Mind","year":2001,"imdb_id":"tt0268978","imdb_rating":8.2,"rotten_tomatoes":74},
+  {"title":"No Country for Old Men","year":2007,"imdb_id":"tt0477348","imdb_rating":8.2,"rotten_tomatoes":93},
+  {"title":"There Will Be Blood","year":2007,"imdb_id":"tt0469494","imdb_rating":8.2,"rotten_tomatoes":91},
+  {"title":"The Social Network","year":2010,"imdb_id":"tt1285016","imdb_rating":7.8,"rotten_tomatoes":96},
+  {"title":"Whiplash","year":2014,"imdb_id":"tt2582802","imdb_rating":8.5,"rotten_tomatoes":94},
+  {"title":"The Wolf of Wall Street","year":2013,"imdb_id":"tt0993846","imdb_rating":8.2,"rotten_tomatoes":79},
+  {"title":"Django Unchained","year":2012,"imdb_id":"tt1853728","imdb_rating":8.4,"rotten_tomatoes":87},
+  {"title":"Inglourious Basterds","year":2009,"imdb_id":"tt0361748","imdb_rating":8.3,"rotten_tomatoes":89},
+  {"title":"The Revenant","year":2015,"imdb_id":"tt1663202","imdb_rating":8.0,"rotten_tomatoes":78},
+  {"title":"Mad Max: Fury Road","year":2015,"imdb_id":"tt1392190","imdb_rating":8.1,"rotten_tomatoes":97}
+,
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "imdb_id": "tt0499549",
+    "imdb_rating": 7.9,
+    "rotten_tomatoes": 82
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "imdb_id": "tt0088247",
+    "imdb_rating": 8.1,
+    "rotten_tomatoes": 100
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "imdb_id": "tt0120338",
+    "imdb_rating": 8.0,
+    "rotten_tomatoes": 88
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "imdb_id": "tt0076759",
+    "imdb_rating": 8.6,
+    "rotten_tomatoes": 93
+  },
+  {
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "imdb_id": "tt0063350",
+    "imdb_rating": 7.8,
+    "rotten_tomatoes": 96
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "imdb_id": "tt0090605",
+    "imdb_rating": 8.4,
+    "rotten_tomatoes": 94
+  },
+  {
+    "title": "Hot Fuzz",
+    "year": 2007,
+    "imdb_id": "tt0425112",
+    "imdb_rating": 7.8,
+    "rotten_tomatoes": 91
+  },
+  {
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "imdb_id": "tt0365748",
+    "imdb_rating": 7.8,
+    "rotten_tomatoes": 92
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "imdb_id": "tt3315342",
+    "imdb_rating": 8.1,
+    "rotten_tomatoes": 93
+  },
+  {
+    "title": "Independence Day",
+    "year": 1996,
+    "imdb_id": "tt0116629",
+    "imdb_rating": 7.0,
+    "rotten_tomatoes": 68
+  }
+,
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "imdb_id": "tt0090605",
+    "imdb_rating": 8.4,
+    "rotten_tomatoes": 94
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "imdb_id": "tt0103064",
+    "imdb_rating": 8.6,
+    "rotten_tomatoes": 91
+  },
+  {
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "imdb_id": "tt0185937",
+    "imdb_rating": 6.5,
+    "rotten_tomatoes": 86
+  },
+  {
+    "title": "Chicken Run",
+    "year": 2000,
+    "imdb_id": "tt0120630",
+    "imdb_rating": 7.0,
+    "rotten_tomatoes": 97
+  },
+  {
+    "title": "Clerks",
+    "year": 1994,
+    "imdb_id": "tt0109445",
+    "imdb_rating": 7.7,
+    "rotten_tomatoes": 90
+  },
+  {
+    "title": "Open Water",
+    "year": 2003,
+    "imdb_id": "tt0374102",
+    "imdb_rating": 5.8,
+    "rotten_tomatoes": 71
+  },
+  {
+    "title": "The Aviator",
+    "year": 2004,
+    "imdb_id": "tt0338751",
+    "imdb_rating": 7.5,
+    "rotten_tomatoes": 87
+  },
+  {
+    "title": "Super Size Me",
+    "year": 2004,
+    "imdb_id": "tt0390521",
+    "imdb_rating": 7.2,
+    "rotten_tomatoes": 92
+  },
+  {
+    "title": "The World's End",
+    "year": 2013,
+    "imdb_id": "tt1213663",
+    "imdb_rating": 6.9,
+    "rotten_tomatoes": 89
+  },
+  {
+    "title": "Arthur Christmas",
+    "year": 2011,
+    "imdb_id": "tt1430607",
+    "imdb_rating": 7.1,
+    "rotten_tomatoes": 92
+  },
+  {
+    "title": "Dune",
+    "year": 1984,
+    "imdb_id": "tt0087182",
+    "imdb_rating": 6.3,
+    "rotten_tomatoes": 36
+  },
+  {
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "imdb_id": "tt0117731",
+    "imdb_rating": 7.6,
+    "rotten_tomatoes": 93
+  },
+  {
+    "title": "The Prince of Egypt",
+    "year": 1998,
+    "imdb_id": "tt0120794",
+    "imdb_rating": 7.2,
+    "rotten_tomatoes": 80
+  },
+  {
+    "title": "Evil Dead II",
+    "year": 1987,
+    "imdb_id": "tt0092991",
+    "imdb_rating": 7.7,
+    "rotten_tomatoes": 95
+  },
+  {
+    "title": "Pretty Woman",
+    "year": 1990,
+    "imdb_id": "tt0100405",
+    "imdb_rating": 7.1,
+    "rotten_tomatoes": 65
+  }
+,
+  {
+    "title": "Psycho",
+    "year": 1960,
+    "imdb_id": "tt0054215",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 97
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "imdb_id": "tt0034583",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 99
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "imdb_id": "tt0033467",
+    "imdb_rating": 8.2,
+    "rotten_tomatoes": 99
+  },
+  {
+    "title": "North by Northwest",
+    "year": 1959,
+    "imdb_id": "tt0053125",
+    "imdb_rating": 8.3,
+    "rotten_tomatoes": 97
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "imdb_id": "tt0027977",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 98
+  },
+  {
+    "title": "Metropolis",
+    "year": 1927,
+    "imdb_id": "tt0017136",
+    "imdb_rating": 8.2,
+    "rotten_tomatoes": 97
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "imdb_id": "tt0050083",
+    "imdb_rating": 9.0,
+    "rotten_tomatoes": 100
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "imdb_id": "tt0056172",
+    "imdb_rating": 8.3,
+    "rotten_tomatoes": 94
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "imdb_id": "tt0050212",
+    "imdb_rating": 8.1,
+    "rotten_tomatoes": 96
+  },
+  {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "imdb_id": "tt0045152",
+    "imdb_rating": 8.3,
+    "rotten_tomatoes": 100
+  }
+,
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "imdb_id": "tt0133093",
+    "imdb_rating": 8.7,
+    "rotten_tomatoes": 83
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "imdb_id": "tt1375666",
+    "imdb_rating": 8.8,
+    "rotten_tomatoes": 87
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "imdb_id": "tt0468569",
+    "imdb_rating": 9.0,
+    "rotten_tomatoes": 94
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "imdb_id": "tt0816692",
+    "imdb_rating": 8.7,
+    "rotten_tomatoes": 73
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "imdb_id": "tt0111161",
+    "imdb_rating": 9.3,
+    "rotten_tomatoes": 91
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "imdb_id": "tt0110912",
+    "imdb_rating": 8.9,
+    "rotten_tomatoes": 92
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "imdb_id": "tt0068646",
+    "imdb_rating": 9.2,
+    "rotten_tomatoes": 97
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "imdb_id": "tt0071562",
+    "imdb_rating": 9.0,
+    "rotten_tomatoes": 96
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "imdb_id": "tt0137523",
+    "imdb_rating": 8.8,
+    "rotten_tomatoes": 79
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "imdb_id": "tt0109830",
+    "imdb_rating": 8.8,
+    "rotten_tomatoes": 71
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "imdb_id": "tt0102926",
+    "imdb_rating": 8.6,
+    "rotten_tomatoes": 96
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "imdb_id": "tt0114369",
+    "imdb_rating": 8.6,
+    "rotten_tomatoes": 83
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "imdb_id": "tt0172495",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 80
+  },
+  {
+    "title": "The Prestige",
+    "year": 2006,
+    "imdb_id": "tt0482571",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 76
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "imdb_id": "tt0407887",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 91
+  }
+,
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "imdb_id": "tt0083658",
+    "imdb_rating": 8.1,
+    "rotten_tomatoes": 89
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "imdb_id": "tt0080684",
+    "imdb_rating": 8.7,
+    "rotten_tomatoes": 94
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "imdb_id": "tt0086190",
+    "imdb_rating": 8.3,
+    "rotten_tomatoes": 83
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "imdb_id": "tt0088763",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 93
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "imdb_id": "tt0107290",
+    "imdb_rating": 8.2,
+    "rotten_tomatoes": 92
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "imdb_id": "tt0110357",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 93
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "imdb_id": "tt0114709",
+    "imdb_rating": 8.3,
+    "rotten_tomatoes": 100
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008,
+    "imdb_id": "tt0371746",
+    "imdb_rating": 7.9,
+    "rotten_tomatoes": 94
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "imdb_id": "tt0848228",
+    "imdb_rating": 8.0,
+    "rotten_tomatoes": 91
+  },
+  {
+    "title": "Spider-Man",
+    "year": 2002,
+    "imdb_id": "tt0145487",
+    "imdb_rating": 7.4,
+    "rotten_tomatoes": 90
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "imdb_id": "tt0103064",
+    "imdb_rating": 8.6,
+    "rotten_tomatoes": 93
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "imdb_id": "tt0078748",
+    "imdb_rating": 8.5,
+    "rotten_tomatoes": 98
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "imdb_id": "tt0088247",
+    "imdb_rating": 8.1,
+    "rotten_tomatoes": 100
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "year": 1981,
+    "imdb_id": "tt0082971",
+    "imdb_rating": 8.4,
+    "rotten_tomatoes": 95
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "imdb_id": "tt0083866",
+    "imdb_rating": 7.9,
+    "rotten_tomatoes": 99
+  }
+,
+  {"title":"Goodfellas","year":1990,"imdb_id":"tt0099685","imdb_rating":8.7,"rotten_tomatoes":96},
+  {"title":"The Green Mile","year":1999,"imdb_id":"tt0120689","imdb_rating":8.6,"rotten_tomatoes":79},
+  {"title":"Saving Private Ryan","year":1998,"imdb_id":"tt0120815","imdb_rating":8.6,"rotten_tomatoes":94},
+  {"title":"The Usual Suspects","year":1995,"imdb_id":"tt0114814","imdb_rating":8.5,"rotten_tomatoes":88},
+  {"title":"Braveheart","year":1995,"imdb_id":"tt0112573","imdb_rating":8.3,"rotten_tomatoes":76},
+  {"title":"A Beautiful Mind","year":2001,"imdb_id":"tt0268978","imdb_rating":8.2,"rotten_tomatoes":74},
+  {"title":"No Country for Old Men","year":2007,"imdb_id":"tt0477348","imdb_rating":8.2,"rotten_tomatoes":93},
+  {"title":"There Will Be Blood","year":2007,"imdb_id":"tt0469494","imdb_rating":8.2,"rotten_tomatoes":91},
+  {"title":"The Social Network","year":2010,"imdb_id":"tt1285016","imdb_rating":7.8,"rotten_tomatoes":96},
+  {"title":"Whiplash","year":2014,"imdb_id":"tt2582802","imdb_rating":8.5,"rotten_tomatoes":94},
+  {"title":"The Wolf of Wall Street","year":2013,"imdb_id":"tt0993846","imdb_rating":8.2,"rotten_tomatoes":79},
+  {"title":"Django Unchained","year":2012,"imdb_id":"tt1853728","imdb_rating":8.4,"rotten_tomatoes":87},
+  {"title":"Inglourious Basterds","year":2009,"imdb_id":"tt0361748","imdb_rating":8.3,"rotten_tomatoes":89},
+  {"title":"The Revenant","year":2015,"imdb_id":"tt1663202","imdb_rating":8.0,"rotten_tomatoes":78},
+  {"title":"Mad Max: Fury Road","year":2015,"imdb_id":"tt1392190","imdb_rating":8.1,"rotten_tomatoes":97}
+]

@@ -1,0 +1,3333 @@
+[
+  {
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "writers": [
+      "James Cameron",
+      "Rick Jaffa",
+      "Amanda Silver"
+    ],
+    "franchise": "Avatar",
+    "running_time": 192,
+    "budget": 350000000,
+    "box_office": 2300000000,
+    "actors": [
+      "Jake Sully",
+      "Sam Worthington",
+      "Sigourney Weaver",
+      "Zoe Saldana"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "Jake Sully and Neytiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora.",
+    "random": 0.491971001,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Little Shop of Horrors",
+    "year": 1986,
+    "writers": [
+      "Howard Ashman"
+    ],
+    "franchise": "",
+    "running_time": 93,
+    "budget": 25000000,
+    "box_office": 39000000,
+    "actors": [
+      "Rick Moranis",
+      "Ellen Greene",
+      "Steve Martin",
+      "Vincent Gardenia",
+      "Tichina Arnold",
+      "Tisha Campbell-Martin",
+      "Michelle Weeks",
+      "James Belushi",
+      "John Candy",
+      "Christopher Guest",
+      "Bill Murray"
+    ],
+    "directors": [
+      "Frank Oz"
+    ],
+    "summary": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
+    "random": 0.919447041,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "writers": [
+      "James Cameron"
+    ],
+    "franchise": "Avatar",
+    "running_time": 162,
+    "budget": 237000000,
+    "box_office": 2900000000,
+    "actors": [
+      "Sam Worthington",
+      "Sigourney Weaver",
+      "Zoe Saldana"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A paraplegic marine is sent to the moon Pandora on a unique mission and becomes torn between following orders and protecting the world he feels is his home.",
+    "random": 0.441173511,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": "tt0499549",
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "writers": [
+      "John A. Russo",
+      "George A. Romero"
+    ],
+    "franchise": "Living Dead",
+    "running_time": 96,
+    "budget": 144000,
+    "box_office": 30000000,
+    "actors": [
+      "Duane Jones",
+      "Judith O'Dea"
+    ],
+    "directors": [
+      "George A. Romero"
+    ],
+    "summary": "A group of people hide from bloodthirsty zombies in a farmhouse.",
+    "random": 0.52576401,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": "tt0063350",
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "year": 2014,
+    "writers": [
+      "Jemaine Clement",
+      "Taika Waititi"
+    ],
+    "franchise": "",
+    "running_time": 86,
+    "budget": 1600000,
+    "box_office": 7000000,
+    "actors": [
+      "Jemaine Clement",
+      "Taika Waititi",
+      "Jonathan Brugh",
+      "Cori Gonzalez-Macuer",
+      "Stu Rutherford"
+    ],
+    "directors": [
+      "Jemaine Clement",
+      "Taika Waititi"
+    ],
+    "summary": "A mockumentary about a group of vampire roommates navigating modern life in New Zealand.",
+    "random": 0.448776595,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Cuban Fury",
+    "year": 2014,
+    "writers": [
+      "Jon Brown",
+      "Nick Frost"
+    ],
+    "franchise": "",
+    "running_time": 98,
+    "budget": 5000000,
+    "box_office": 6200000,
+    "actors": [
+      "Chris O'Dowd",
+      "Nick Frost",
+      "Rashida Jones"
+    ],
+    "directors": [
+      "James Griffiths"
+    ],
+    "summary": "A former salsa prodigy attempts to regain his dancing skills to win over his boss.",
+    "random": 0.339674105,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "A Christmas Carol",
+    "year": 1999,
+    "writers": [
+      "Peter Barnes"
+    ],
+    "franchise": "",
+    "running_time": 95,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Christmas Eve",
+      "Ebenezer Scrooge",
+      "Patrick Stewart",
+      "Richard E. Grant"
+    ],
+    "directors": [
+      "David Hugh Jones"
+    ],
+    "summary": "Ebenezer Scrooge is visited by three spirits on Christmas Eve.",
+    "random": 0.349710998,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "writers": [
+      "James Cameron",
+      "Gale Anne Hurd"
+    ],
+    "franchise": "Terminator",
+    "running_time": 107,
+    "budget": 6400000,
+    "box_office": 78300000,
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A cyborg assassin from the future is sent to kill a young woman whose unborn son will lead humanity in a war against machines.",
+    "random": 0.486590088,
+    "genres": [
+      "Sci-Fi",
+      "War"
+    ],
+    "imdb_id": "tt0088247",
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "writers": [
+      "Chris Weitz",
+      "Tony Gilroy"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 133,
+    "budget": 200000000,
+    "box_office": 1056000000,
+    "actors": [
+      "Alan Tudyk",
+      "Death Star",
+      "Diego Luna",
+      "Felicity Jones"
+    ],
+    "directors": [
+      "Gareth Edwards"
+    ],
+    "summary": "A group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
+    "random": 0.359666758,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Fighting with My Family",
+    "year": 2019,
+    "writers": [
+      "Stephen Merchant"
+    ],
+    "franchise": "",
+    "running_time": 108,
+    "budget": 11000000,
+    "box_office": 41500000,
+    "actors": [
+      "Florence Pugh",
+      "Lena Headey",
+      "Nick Frost"
+    ],
+    "directors": [
+      "Stephen Merchant"
+    ],
+    "summary": "A family of wrestlers struggles to achieve success in WWE.",
+    "random": 0.440152178,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Chicken Run",
+    "year": 2000,
+    "writers": [
+      "Karey Kirkpatrick"
+    ],
+    "franchise": "",
+    "running_time": 84,
+    "budget": 45000000,
+    "box_office": 224800000,
+    "actors": [
+      "Julia Sawalha",
+      "Mel Gibson",
+      "Phil Daniels"
+    ],
+    "directors": [
+      "Peter Lord",
+      "Nick Park"
+    ],
+    "summary": "When a cockerel lands on a chicken farm, the chickens see him as an opportunity to escape their evil owners.",
+    "random": 0.137289688,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "year": 2024,
+    "writers": [
+      "Mark Burton",
+      "Nick Park"
+    ],
+    "franchise": "Wallace & Gromit",
+    "running_time": 70,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Ben Whitehead",
+      "Lauren Patel",
+      "Peter Kay"
+    ],
+    "directors": [
+      "Nick Park",
+      "Merlin Crossingham"
+    ],
+    "summary": "Wallace invents a smart gnome that develops a mind of its own, causing chaos.",
+    "random": 0.600731632,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "writers": [
+      "Peter Chiarelli",
+      "Adele Lim"
+    ],
+    "franchise": "",
+    "running_time": 120,
+    "budget": 30000000,
+    "box_office": 238500000,
+    "actors": [
+      "Constance Wu",
+      "Henry Golding",
+      "Michelle Yeoh",
+      "New Yorker"
+    ],
+    "directors": [
+      "Jon M. Chu"
+    ],
+    "summary": "A native New Yorker accompanies her boyfriend to Singapore and discovers his family is rich and he's one of the country's most eligible bachelors.",
+    "random": 0.01540236,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Material Girls",
+    "year": 2006,
+    "writers": [
+      "John Quaintance",
+      "Jessica O'Toole",
+      "Amy Rardin"
+    ],
+    "franchise": "",
+    "running_time": 97,
+    "budget": 15000000,
+    "box_office": 16900000,
+    "actors": [
+      "Brent Spiner",
+      "Haylie Duff",
+      "Hilary Duff"
+    ],
+    "directors": [
+      "Martha Coolidge"
+    ],
+    "summary": "Two wealthy sisters must adjust to a new life after their fortune is stolen.",
+    "random": 0.415143954,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "year": 2019,
+    "writers": [
+      "Chris Terrio",
+      "J.J. Abrams"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 142,
+    "budget": 275000000,
+    "box_office": 1077000000,
+    "actors": [
+      "Adam Driver",
+      "Carrie Fisher",
+      "First Order",
+      "Mark Hamill"
+    ],
+    "directors": [
+      "J.J. Abrams"
+    ],
+    "summary": "The surviving Resistance faces the First Order once again.",
+    "random": 0.021896585,
+    "genres": [
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Day the Earth Stood Still",
+    "year": 1951,
+    "writers": [],
+    "franchise": "",
+    "running_time": 92,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Hugh Marlowe",
+      "Michael Rennie",
+      "Patricia Neal"
+    ],
+    "directors": [
+      "Robert Wise"
+    ],
+    "summary": "An alien warns Earth to live peacefully or face destruction.",
+    "random": 0.201335933,
+    "genres": [
+      "Sci-Fi",
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Hot Fuzz",
+    "year": 2007,
+    "writers": [
+      "Simon Pegg",
+      "Edgar Wright"
+    ],
+    "franchise": "Three Flavours Cornetto",
+    "running_time": 121,
+    "budget": 12000000,
+    "box_office": 80700000,
+    "actors": [
+      "Jim Broadbent",
+      "Nick Frost",
+      "Simon Pegg"
+    ],
+    "directors": [
+      "Edgar Wright"
+    ],
+    "summary": "A top London cop is transferred to a small town with a dark secret.",
+    "random": 0.934691985,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Jeffrey",
+    "year": 1995,
+    "writers": [
+      "Paul Rudnick"
+    ],
+    "franchise": "",
+    "running_time": 92,
+    "budget": 3000000,
+    "box_office": 3500000,
+    "actors": [
+      "Michael T. Weiss",
+      "New York City",
+      "Patrick Stewart",
+      "Steven Weber"
+    ],
+    "directors": [
+      "Christopher Ashley"
+    ],
+    "summary": "A gay actor in New York City decides to become celibate just as he meets the man of his dreams.",
+    "random": 0.148018394,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Angels with Dirty Faces",
+    "year": 1938,
+    "writers": [],
+    "franchise": "",
+    "running_time": 97,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Humphrey Bogart",
+      "James Cagney",
+      "Pat O'Brien"
+    ],
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "summary": "A priest tries to stop a gangster from corrupting street kids.",
+    "random": 0.185287525,
+    "genres": [
+      "Crime"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "year": 2005,
+    "writers": [
+      "Steve Box",
+      "Nick Park",
+      "Mark Burton",
+      "Bob Baker"
+    ],
+    "franchise": "Wallace & Gromit",
+    "running_time": 85,
+    "budget": 30000000,
+    "box_office": 192600000,
+    "actors": [
+      "Helena Bonham Carter",
+      "Peter Sallis",
+      "Ralph Fiennes"
+    ],
+    "directors": [
+      "Steve Box",
+      "Nick Park"
+    ],
+    "summary": "Wallace and his dog Gromit try to discover the mystery behind the garden sabotage that plagues their village.",
+    "random": 0.845069358,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "writers": [],
+    "franchise": "",
+    "running_time": 87,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Charlie Chaplin",
+      "Paulette Goddard"
+    ],
+    "directors": [
+      "Charlie Chaplin"
+    ],
+    "summary": "A factory worker struggles to survive in the modern industrialized world.",
+    "random": 0.446301015,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Clerks",
+    "year": 1994,
+    "writers": [
+      "Kevin Smith"
+    ],
+    "franchise": "",
+    "running_time": 92,
+    "budget": 27000,
+    "box_office": 3000000,
+    "actors": [
+      "Brian O'Halloran",
+      "Jeff Anderson"
+    ],
+    "directors": [
+      "Kevin Smith"
+    ],
+    "summary": "A day in the lives of two convenience store clerks as they annoy customers, discuss movies, and play hockey on the store roof.",
+    "random": 0.882538252,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Match",
+    "year": 2014,
+    "writers": [
+      "Stephen Belber"
+    ],
+    "franchise": "",
+    "running_time": 92,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Carla Gugino",
+      "Matthew Lillard",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "Stephen Belber"
+    ],
+    "summary": "A ballet instructor's interview with a couple turns into a deeply personal confrontation.",
+    "random": 0.467254298,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Open Water",
+    "year": 2003,
+    "writers": [
+      "Chris Kentis"
+    ],
+    "franchise": "",
+    "running_time": 79,
+    "budget": 130000,
+    "box_office": 55000000,
+    "actors": [
+      "Blanchard Ryan",
+      "Daniel Travis"
+    ],
+    "directors": [
+      "Chris Kentis"
+    ],
+    "summary": "Based on a true story, a couple is left behind in shark-infested waters during a scuba diving trip.",
+    "random": 0.769815925,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Killer Klowns from Outer Space",
+    "year": 1988,
+    "writers": [
+      "Charles Chiodo"
+    ],
+    "franchise": "",
+    "running_time": 88,
+    "budget": 2000000,
+    "box_office": 43000000,
+    "actors": [
+      "Grant Cramer",
+      "Suzanne Snyder",
+      "John Allen Nelson",
+      "Royal Dano",
+      "Peter Licassi"
+    ],
+    "directors": [
+      "Stephen Chiodo"
+    ],
+    "summary": "Aliens who look like clowns come from outer space and terrorize a small town.",
+    "random": 0.747799723,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Pirates! In an Adventure with Scientists!",
+    "year": 2012,
+    "writers": [
+      "Gideon Defoe"
+    ],
+    "franchise": "",
+    "running_time": 88,
+    "budget": 55000000,
+    "box_office": 123000000,
+    "actors": [
+      "Hugh Grant",
+      "Imelda Staunton",
+      "Martin Freeman",
+      "Year Award"
+    ],
+    "directors": [
+      "Peter Lord",
+      "Jeff Newitt"
+    ],
+    "summary": "A pirate captain sets out to defeat his rivals and win the Pirate of the Year Award.",
+    "random": 0.732597422,
+    "genres": [
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Independence Day: Resurgence",
+    "year": 2016,
+    "writers": [
+      "Nicolas Wright",
+      "James A. Woods",
+      "Dean Devlin",
+      "Roland Emmerich"
+    ],
+    "franchise": "Independence Day",
+    "running_time": 120,
+    "budget": 165000000,
+    "box_office": 389700000,
+    "actors": [
+      "Brent Spiner",
+      "Jeff Goldblum",
+      "Liam Hemsworth"
+    ],
+    "directors": [
+      "Roland Emmerich"
+    ],
+    "summary": "Two decades after the first invasion, Earth faces a new extraterrestrial threat.",
+    "random": 0.734206106,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Basket Case",
+    "year": 1982,
+    "writers": [
+      "Frank Henenlotter"
+    ],
+    "franchise": "",
+    "running_time": 91,
+    "budget": 35000,
+    "box_office": 1600000,
+    "actors": [
+      "Kevin Van Hentenryck",
+      "Terri Susan Smith",
+      "Beverly Bonner",
+      "Robert Vogel",
+      "Diana Browne"
+    ],
+    "directors": [
+      "Frank Henenlotter"
+    ],
+    "summary": "A young man carries around his deformed twin brother in a basket, seeking revenge on the doctors who separated them.",
+    "random": 0.370030447,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Aviator",
+    "year": 2004,
+    "writers": [
+      "John Logan"
+    ],
+    "franchise": "",
+    "running_time": 170,
+    "budget": 110000000,
+    "box_office": 213700000,
+    "actors": [
+      "Brent Spiner",
+      "Cate Blanchett",
+      "Howard Hughes",
+      "Leonardo DiCaprio"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "summary": "A biopic of aviation pioneer Howard Hughes, chronicling his career and descent into mental illness.",
+    "random": 0.46221972,
+    "genres": [
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Super Size Me",
+    "year": 2004,
+    "writers": [
+      "Morgan Spurlock"
+    ],
+    "franchise": "",
+    "running_time": 100,
+    "budget": 65000,
+    "box_office": 20000000,
+    "actors": [
+      "Morgan Spurlock"
+    ],
+    "directors": [
+      "Morgan Spurlock"
+    ],
+    "summary": "While examining the influence of the fast food industry, Morgan Spurlock personally explores the consequences of eating only McDonald's food for thirty days.",
+    "random": 0.567050796,
+    "genres": [
+      "Documentary"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The World's End",
+    "year": 2013,
+    "writers": [
+      "Simon Pegg",
+      "Edgar Wright"
+    ],
+    "franchise": "Three Flavours Cornetto",
+    "running_time": 109,
+    "budget": 20000000,
+    "box_office": 46100000,
+    "actors": [
+      "Martin Freeman",
+      "Nick Frost",
+      "Simon Pegg"
+    ],
+    "directors": [
+      "Edgar Wright"
+    ],
+    "summary": "Five friends reunite for a pub crawl and discover an alien invasion.",
+    "random": 0.521889806,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "North by Northwest",
+    "year": 1959,
+    "writers": [],
+    "franchise": "",
+    "running_time": 136,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "summary": "An ad executive is mistaken for a spy and pursued across the country.",
+    "random": 0.005633139,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Arthur Christmas",
+    "year": 2011,
+    "writers": [
+      "Peter Baynham",
+      "Sarah Smith"
+    ],
+    "franchise": "",
+    "running_time": 97,
+    "budget": 100000000,
+    "box_office": 147000000,
+    "actors": [
+      "Bill Nighy",
+      "Hugh Laurie",
+      "James McAvoy"
+    ],
+    "directors": [
+      "Sarah Smith",
+      "Barry Cook"
+    ],
+    "summary": "Santa's clumsy son Arthur sets out to deliver a misplaced present before Christmas morning.",
+    "random": 0.15470789,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "writers": [
+      "James Cameron",
+      "William Wisher Jr."
+    ],
+    "franchise": "Terminator",
+    "running_time": 137,
+    "budget": 100000000,
+    "box_office": 520000000,
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Edward Furlong",
+      "Linda Hamilton"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A cyborg is sent back in time to protect a young boy who will become the leader of the human resistance against machines.",
+    "random": 0.239367418,
+    "genres": [
+      "Sci-Fi",
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "year": 2017,
+    "writers": [
+      "Rian Johnson"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 152,
+    "budget": 200000000,
+    "box_office": 1333000000,
+    "actors": [
+      "Adam Driver",
+      "Carrie Fisher",
+      "First Order",
+      "Luke Skywalker",
+      "Mark Hamill"
+    ],
+    "directors": [
+      "Rian Johnson"
+    ],
+    "summary": "Rey develops her abilities with the help of Luke Skywalker as the Resistance prepares for battle against the First Order.",
+    "random": 0.250717136,
+    "genres": [
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "writers": [
+      "James Cameron"
+    ],
+    "franchise": "",
+    "running_time": 195,
+    "budget": 2200000000,
+    "box_office": null,
+    "actors": [
+      "Billy Zane",
+      "Kate Winslet",
+      "Leonardo DiCaprio"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A young couple from different social classes fall in love aboard the ill-fated RMS Titanic.",
+    "random": 0.739267925,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": "tt0120338",
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": 1999,
+    "writers": [
+      "George Lucas"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 136,
+    "budget": 115000000,
+    "box_office": 1026999999,
+    "actors": [
+      "Ewan McGregor",
+      "Liam Neeson",
+      "Natalie Portman",
+      "Two Jedi"
+    ],
+    "directors": [
+      "George Lucas"
+    ],
+    "summary": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their former glory.",
+    "random": 0.536038931,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "year": 2015,
+    "writers": [
+      "Lawrence Kasdan",
+      "J.J. Abrams",
+      "Michael Arndt"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 138,
+    "budget": 245000000,
+    "box_office": 2068000000,
+    "actors": [
+      "Carrie Fisher",
+      "Han Solo",
+      "Harrison Ford",
+      "Mark Hamill"
+    ],
+    "directors": [
+      "J.J. Abrams"
+    ],
+    "summary": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+    "random": 0.081682992,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Slaughterhouse Rulez",
+    "year": 2018,
+    "writers": [
+      "Crispian Mills",
+      "Henry Fitzherbert"
+    ],
+    "franchise": "",
+    "running_time": 103,
+    "budget": 10000000,
+    "box_office": 1100000,
+    "actors": [
+      "Asa Butterfield",
+      "Finn Cole",
+      "Nick Frost"
+    ],
+    "directors": [
+      "Crispian Mills"
+    ],
+    "summary": "A sinkhole opens at a British boarding school, unleashing monsters.",
+    "random": 0.037575358,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "writers": [
+      "James Cameron"
+    ],
+    "franchise": "Alien",
+    "running_time": 137,
+    "budget": 18500000,
+    "box_office": 183300000,
+    "actors": [
+      "Carrie Henn",
+      "Ellen Ripley",
+      "Michael Biehn",
+      "Sigourney Weaver"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "Ellen Ripley returns to the planet where her crew encountered the hostile Alien creature, this time with a team of marines.",
+    "random": 0.449375129,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Dune",
+    "year": 1984,
+    "writers": [
+      "David Lynch"
+    ],
+    "franchise": "Dune",
+    "running_time": 137,
+    "budget": 40000000,
+    "box_office": 30900000,
+    "actors": [
+      "Francesca Annis",
+      "Kyle MacLachlan",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "David Lynch"
+    ],
+    "summary": "A noble family becomes embroiled in a war for control of the desert planet Arrakis.",
+    "random": 0.902323738,
+    "genres": [
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Trek: Nemesis",
+    "year": 2002,
+    "writers": [
+      "John Logan",
+      "Rick Berman",
+      "Brent Spiner"
+    ],
+    "franchise": "Star Trek",
+    "running_time": 117,
+    "budget": 60000000,
+    "box_office": 67300000,
+    "actors": [
+      "Brent Spiner",
+      "Jonathan Frakes",
+      "Patrick Stewart",
+      "Romulan Senate"
+    ],
+    "directors": [
+      "Stuart Baird"
+    ],
+    "summary": "A clone of Picard, created by the Romulans, assassinates the Romulan Senate and lures the Enterprise to Romulus.",
+    "random": 0.094879532,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Hamlet",
+    "year": 2009,
+    "writers": [
+      "William Shakespeare",
+      "Gregory Doran"
+    ],
+    "franchise": "",
+    "running_time": 180,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "David Tennant",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "Gregory Doran"
+    ],
+    "summary": "A modern adaptation of Shakespeare's tragedy.",
+    "random": 0.850272855,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Clockstoppers",
+    "year": 2002,
+    "writers": [
+      "Rob Hedden",
+      "J. David Stem",
+      "David N. Weiss"
+    ],
+    "franchise": "",
+    "running_time": 94,
+    "budget": 26000000,
+    "box_office": 38800000,
+    "actors": [
+      "French Stewart",
+      "Jesse Bradford",
+      "Paula Garcos"
+    ],
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "summary": "A teenager discovers a wristwatch that can stop time and must protect it from falling into the wrong hands.",
+    "random": 0.442962949,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Prince of Egypt",
+    "year": 1998,
+    "writers": [
+      "Nicholas Meyer",
+      "Philip LaZebnik"
+    ],
+    "franchise": "",
+    "running_time": 99,
+    "budget": 70000000,
+    "box_office": 218600000,
+    "actors": [
+      "Patrick Stewart",
+      "Ralph Fiennes",
+      "Val Kilmer"
+    ],
+    "directors": [
+      "Brenda Chapman",
+      "Steve Hickner",
+      "Simon Wells"
+    ],
+    "summary": "An animated retelling of the story of Moses, raised as a prince of Egypt.",
+    "random": 0.389476836,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "writers": [
+      "Scott Frank",
+      "James Mangold",
+      "Michael Green"
+    ],
+    "franchise": "X-Men",
+    "running_time": 137,
+    "budget": 97000000,
+    "box_office": 619000000,
+    "actors": [
+      "Dafne Keen",
+      "Hugh Jackman",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "James Mangold"
+    ],
+    "summary": "An aging Wolverine and a frail Professor X protect a young mutant from dark forces.",
+    "random": 0.402580694,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "writers": [],
+    "franchise": "",
+    "running_time": 103,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Debbie Reynolds",
+      "Donald O'Connor",
+      "Gene Kelly"
+    ],
+    "directors": [
+      "Stanley Donen",
+      "Gene Kelly"
+    ],
+    "summary": "A silent film star falls for a chorus girl during the transition to talking pictures.",
+    "random": 0.806393145,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "writers": [
+      "Daniel Myrick",
+      "Eduardo Sanchez"
+    ],
+    "franchise": "Blair Witch",
+    "running_time": 81,
+    "budget": 60000,
+    "box_office": 1500000,
+    "actors": [
+      "Blair Witch",
+      "Heather Donahue",
+      "Joshua Leonard",
+      "Michael C. Williams"
+    ],
+    "directors": [
+      "Daniel Myrick",
+      "Eduardo Sanchez"
+    ],
+    "summary": "Three student filmmakers disappear in the woods while filming a documentary about the Blair Witch legend.",
+    "random": 0.428205663,
+    "genres": [
+      "Documentary"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Midnight Man",
+    "year": 2016,
+    "writers": [
+      "D.C. Hamilton",
+      "Brinna Kelly"
+    ],
+    "franchise": "",
+    "running_time": 105,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Brent Spiner",
+      "Will Kemp"
+    ],
+    "directors": [
+      "D.C. Hamilton"
+    ],
+    "summary": "A former hitman is pulled back into the criminal underworld when his niece is kidnapped.",
+    "random": 0.219330946,
+    "genres": [
+      "Crime"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Bridget Jones's Diary",
+    "year": 2001,
+    "writers": [
+      "Helen Fielding",
+      "Andrew Davies",
+      "Richard Curtis"
+    ],
+    "franchise": "Bridget Jones",
+    "running_time": 97,
+    "budget": 25000000,
+    "box_office": 281900000,
+    "actors": [
+      "Colin Firth",
+      "Hugh Grant",
+      "Rene Zellweger"
+    ],
+    "directors": [
+      "Sharon Maguire"
+    ],
+    "summary": "A British woman is determined to improve herself while she looks for love in a year in which she keeps a personal diary.",
+    "random": 0.171805706,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Master of Disguise",
+    "year": 2002,
+    "writers": [
+      "Dana Carvey",
+      "Harris Goldberg"
+    ],
+    "franchise": "",
+    "running_time": 80,
+    "budget": 16000000,
+    "box_office": 43400000,
+    "actors": [
+      "Brent Spiner",
+      "Dana Carvey"
+    ],
+    "directors": [
+      "Perry Andelin Blake"
+    ],
+    "summary": "A man with an uncanny ability to disguise himself must rescue his kidnapped parents.",
+    "random": 0.316797644,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Chicken Run: Dawn of the Nugget",
+    "year": 2023,
+    "writers": [
+      "Karey Kirkpatrick",
+      "John O'Farrell",
+      "Rachel Tunnard"
+    ],
+    "franchise": "Chicken Run",
+    "running_time": 98,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Bella Ramsey",
+      "Thandiwe Newton",
+      "Zachary Levi"
+    ],
+    "directors": [
+      "Sam Fell"
+    ],
+    "summary": "Ginger and her flock face a new threat as they try to protect their peaceful sanctuary.",
+    "random": 0.326258376,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Nosferatu: A Symphony of Horror",
+    "year": 1922,
+    "writers": [],
+    "franchise": "",
+    "running_time": 94,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Alexander Granach",
+      "Count Orlok",
+      "Gustav von Wangenheim",
+      "Max Schreck"
+    ],
+    "directors": [
+      "F.W. Murnau"
+    ],
+    "summary": "Count Orlok expresses interest in a new residence and a real estate agent's wife.",
+    "random": 0.065634723,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "writers": [],
+    "franchise": "",
+    "running_time": 119,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Dorothy Comingore",
+      "Joseph Cotten",
+      "Orson Welles"
+    ],
+    "directors": [
+      "Orson Welles"
+    ],
+    "summary": "Reporters investigate the meaning of a publishing tycoon's final word: 'Rosebud.'",
+    "random": 0.675860239,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Ghosts of the Abyss",
+    "year": 2003,
+    "writers": [
+      "James Cameron"
+    ],
+    "franchise": "",
+    "running_time": 60,
+    "budget": 13000000,
+    "box_office": 28700000,
+    "actors": [
+      "Bill Paxton",
+      "James Cameron"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A documentary exploring the wreck of the Titanic using advanced 3D technology.",
+    "random": 0.962152531,
+    "genres": [
+      "Documentary"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Kinky Boots",
+    "year": 2005,
+    "writers": [
+      "Geoff Deane",
+      "Tim Firth"
+    ],
+    "franchise": "",
+    "running_time": 107,
+    "budget": 10000000,
+    "box_office": 9900000,
+    "actors": [
+      "Chiwetel Ejiofor",
+      "Joel Edgerton",
+      "Nick Frost"
+    ],
+    "directors": [
+      "Julian Jarrold"
+    ],
+    "summary": "A struggling shoe factory reinvents itself by making boots for drag queens.",
+    "random": 0.473146303,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "13 Going on 30",
+    "year": 2004,
+    "writers": [
+      "Cathy Yuspa",
+      "Josh Goldsmith"
+    ],
+    "franchise": "",
+    "running_time": 98,
+    "budget": 37000000,
+    "box_office": 96500000,
+    "actors": [
+      "Jennifer Garner",
+      "Mark Ruffalo"
+    ],
+    "directors": [
+      "Gary Winick"
+    ],
+    "summary": "A girl makes a wish on her thirteenth birthday and wakes up the next day as a thirty-year-old woman.",
+    "random": 0.070367977,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "writers": [
+      "George Lucas",
+      "Jonathan Hales"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 142,
+    "budget": 115000000,
+    "box_office": 653800000,
+    "actors": [
+      "Anakin Skywalker",
+      "Ewan McGregor",
+      "Hayden Christensen",
+      "Natalie Portman",
+      "Padm Amidala",
+      "Wan Kenobi"
+    ],
+    "directors": [
+      "George Lucas"
+    ],
+    "summary": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padm Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi.",
+    "random": 0.498396111,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "year": 1989,
+    "writers": [
+      "Nora Ephron"
+    ],
+    "franchise": "",
+    "running_time": 95,
+    "budget": 16000000,
+    "box_office": 92800000,
+    "actors": [
+      "Billy Crystal",
+      "Carrie Fisher",
+      "Meg Ryan"
+    ],
+    "directors": [
+      "Rob Reiner"
+    ],
+    "summary": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+    "random": 0.19572369,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Attack of the Killer Tomatoes!",
+    "year": 1978,
+    "writers": [
+      "Costa Dillon",
+      "John De Bello",
+      "J. Stephen Peace"
+    ],
+    "franchise": "",
+    "running_time": 87,
+    "budget": 100000,
+    "box_office": 576000,
+    "actors": [
+      "David Miller",
+      "George Wilson",
+      "Sharon Taylor",
+      "Jack Riley",
+      "Eric Christmas"
+    ],
+    "directors": [
+      "John De Bello"
+    ],
+    "summary": "A group of scientists band together to save the world from mutated killer tomatoes.",
+    "random": 0.616445739,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Independence Day",
+    "year": 1996,
+    "writers": [
+      "Dean Devlin",
+      "Roland Emmerich"
+    ],
+    "franchise": "Independence Day",
+    "running_time": 145,
+    "budget": 75000000,
+    "box_office": 817400000,
+    "actors": [
+      "Brent Spiner",
+      "Jeff Goldblum",
+      "Will Smith"
+    ],
+    "directors": [
+      "Roland Emmerich"
+    ],
+    "summary": "A group of people unites to fight back against a massive alien invasion threatening Earth.",
+    "random": 0.915324136,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Pretty Woman",
+    "year": 1990,
+    "writers": [
+      "J.F. Lawton"
+    ],
+    "franchise": "",
+    "running_time": 119,
+    "budget": 14000000,
+    "box_office": 463400000,
+    "actors": [
+      "Beverly Hills",
+      "Julia Roberts",
+      "Richard Gere"
+    ],
+    "directors": [
+      "Garry Marshall"
+    ],
+    "summary": "A corporate raider hires a hooker to act as a business escort in Beverly Hills, California.",
+    "random": 0.449647108,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "El Mariachi",
+    "year": 1992,
+    "writers": [
+      "Robert Rodriguez"
+    ],
+    "franchise": "Mariachi Trilogy",
+    "running_time": 81,
+    "budget": 7000,
+    "box_office": 2000000,
+    "actors": [
+      "Carlos Gallardo",
+      "Consuelo Gmez"
+    ],
+    "directors": [
+      "Robert Rodriguez"
+    ],
+    "summary": "A traveling mariachi is mistaken for a hitman and must fight to survive.",
+    "random": 0.116162434,
+    "genres": [
+      "Crime"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Librarian: Return to King Solomon's Mines",
+    "year": 2006,
+    "writers": [
+      "Marco Schnabel"
+    ],
+    "franchise": "The Librarian",
+    "running_time": 96,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Bob Newhart",
+      "Gabrielle Anwar",
+      "King Solomon",
+      "Librarian Flynn Carsen",
+      "Noah Wyle"
+    ],
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "summary": "Librarian Flynn Carsen sets out to find King Solomon's Mines and protect its secrets from falling into the wrong hands.",
+    "random": 0.350392143,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "writers": [
+      "Scott Frank",
+      "James Mangold",
+      "Michael Green"
+    ],
+    "franchise": "X-Men",
+    "running_time": 137,
+    "budget": 97000000,
+    "box_office": 619000000,
+    "actors": [
+      "Dafne Keen",
+      "Hugh Jackman",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "James Mangold"
+    ],
+    "summary": "An aging Wolverine and a frail Professor X protect a young mutant from dark forces.",
+    "random": 0.974135361,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Devil's Gate",
+    "year": 2017,
+    "writers": [
+      "Clay Staub",
+      "Peter Aperlo"
+    ],
+    "franchise": "",
+    "running_time": 95,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Amanda Schull",
+      "Jonathan Frakes",
+      "Milo Ventimiglia"
+    ],
+    "directors": [
+      "Clay Staub"
+    ],
+    "summary": "An FBI agent and a local sheriff investigate the disappearance of a woman and uncover a sinister mystery.",
+    "random": 0.632574106,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "X-Men",
+    "year": 2000,
+    "writers": [
+      "David Hayter"
+    ],
+    "franchise": "X-Men",
+    "running_time": 104,
+    "budget": 75000000,
+    "box_office": 296000000,
+    "actors": [
+      "Hugh Jackman",
+      "Ian McKellen",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "Bryan Singer"
+    ],
+    "summary": "Mutants with extraordinary powers fight for coexistence in a world that fears them.",
+    "random": 0.635073762,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Poultrygeist: Night of the Chicken Dead",
+    "year": 2006,
+    "writers": [
+      "Lloyd Kaufman",
+      "Daniel Bova"
+    ],
+    "franchise": "",
+    "running_time": 103,
+    "budget": 450000,
+    "box_office": 22000,
+    "actors": [
+      "Jason Yachanin",
+      "Kate Graham",
+      "Allyson Sereboff",
+      "Robin L. Watkins",
+      "Caleb Emerson"
+    ],
+    "directors": [
+      "Lloyd Kaufman"
+    ],
+    "summary": "A fast food restaurant built on a Native American burial ground is attacked by zombie chickens.",
+    "random": 0.669163678,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Green Room",
+    "year": 2015,
+    "writers": [
+      "Jeremy Saulnier"
+    ],
+    "franchise": "",
+    "running_time": 95,
+    "budget": 5000000,
+    "box_office": 3800000,
+    "actors": [
+      "Anton Yelchin",
+      "Imogen Poots",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "Jeremy Saulnier"
+    ],
+    "summary": "A punk band witnesses a murder and must survive against a violent neo-Nazi gang.",
+    "random": 0.826085419,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Trek Generations",
+    "year": 1994,
+    "writers": [
+      "Rick Berman",
+      "Ronald D. Moore",
+      "Brannon Braga"
+    ],
+    "franchise": "Star Trek",
+    "running_time": 118,
+    "budget": 35000000,
+    "box_office": 118000000,
+    "actors": [
+      "Captain Kirk",
+      "Captain Picard",
+      "Jonathan Frakes",
+      "Patrick Stewart",
+      "William Shatner"
+    ],
+    "directors": [
+      "David Carson"
+    ],
+    "summary": "Captain Picard teams up with Captain Kirk to stop a madman from destroying a star and killing millions.",
+    "random": 0.685465688,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The War of the Worlds",
+    "year": 1953,
+    "writers": [],
+    "franchise": "",
+    "running_time": 85,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Ann Robinson",
+      "Gene Barry",
+      "Les Tremayne"
+    ],
+    "directors": [
+      "Byron Haskin"
+    ],
+    "summary": "Martians attack a small town in California, beginning a worldwide invasion.",
+    "random": 0.466155952,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "writers": [
+      "George Lucas"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 121,
+    "budget": 11000000,
+    "box_office": 775400000,
+    "actors": [
+      "Carrie Fisher",
+      "Harrison Ford",
+      "Jedi Knight",
+      "Luke Skywalker",
+      "Mark Hamill"
+    ],
+    "directors": [
+      "George Lucas"
+    ],
+    "summary": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station.",
+    "random": 0.194714902,
+    "genres": [
+      "Sci-Fi",
+      "War"
+    ],
+    "imdb_id": "tt0076759",
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "writers": [],
+    "franchise": "",
+    "running_time": 96,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "summary": "A lone juror convinces others to reconsider the evidence in a murder trial.",
+    "random": 0.122121685,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "writers": [],
+    "franchise": "",
+    "running_time": 222,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Alec Guinness",
+      "Anthony Quinn",
+      "Arab Revolt",
+      "Peter O'Toole"
+    ],
+    "directors": [
+      "David Lean"
+    ],
+    "summary": "The story of T.E. Lawrence and his role in the Arab Revolt during WWI.",
+    "random": 0.513845452,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Kid Who Would Be King",
+    "year": 2019,
+    "writers": [
+      "Joe Cornish"
+    ],
+    "franchise": "",
+    "running_time": 120,
+    "budget": 59000000,
+    "box_office": 32000000,
+    "actors": [
+      "Louis Ashbourne Serkis",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "Joe Cornish"
+    ],
+    "summary": "A young boy discovers Excalibur and must unite his friends to defeat an ancient enemy.",
+    "random": 0.246796813,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Flushed Away",
+    "year": 2006,
+    "writers": [
+      "Dick Clement",
+      "Ian La Frenais",
+      "Chris Lloyd",
+      "Joe Keenan",
+      "Will Davies"
+    ],
+    "franchise": "",
+    "running_time": 85,
+    "budget": 149000000,
+    "box_office": 178000000,
+    "actors": [
+      "Hugh Jackman",
+      "Ian McKellen",
+      "Kate Winslet"
+    ],
+    "directors": [
+      "David Bowers",
+      "Sam Fell"
+    ],
+    "summary": "An uptown rat gets flushed down the toilet and must adapt to life in the sewers of London.",
+    "random": 0.425665977,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Uninvited",
+    "year": 1944,
+    "writers": [],
+    "franchise": "",
+    "running_time": 99,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Donald Crisp",
+      "Ray Milland",
+      "Ruth Hussey"
+    ],
+    "directors": [
+      "Lewis Allen"
+    ],
+    "summary": "A composer and his sister discover their new mansion has a haunted past.",
+    "random": 0.279873806,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "True Lies",
+    "year": 1994,
+    "writers": [
+      "James Cameron"
+    ],
+    "franchise": "",
+    "running_time": 141,
+    "budget": 378900000,
+    "box_office": null,
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Jamie Lee Curtis",
+      "Tom Arnold"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A secret agent struggles to balance his professional and personal life while trying to stop a terrorist plot.",
+    "random": 0.726403575,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Trek: Insurrection",
+    "year": 1998,
+    "writers": [
+      "Rick Berman",
+      "Michael Piller"
+    ],
+    "franchise": "Star Trek",
+    "running_time": 103,
+    "budget": 58000000,
+    "box_office": 117800000,
+    "actors": [
+      "Brent Spiner",
+      "Captain Picard",
+      "F. Murray Abraham",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "summary": "Captain Picard and his crew rebel against Starfleet to protect the inhabitants of a unique planet.",
+    "random": 0.435564667,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Trek: Generations",
+    "year": 1994,
+    "writers": [
+      "Rick Berman",
+      "Ronald D. Moore",
+      "Brannon Braga"
+    ],
+    "franchise": "Star Trek",
+    "running_time": 118,
+    "budget": 35000000,
+    "box_office": 118000000,
+    "actors": [
+      "Brent Spiner",
+      "Captain Kirk",
+      "Captain Picard",
+      "Patrick Stewart",
+      "William Shatner"
+    ],
+    "directors": [
+      "David Carson"
+    ],
+    "summary": "Captain Picard teams up with Captain Kirk to stop a madman from destroying a star.",
+    "random": 0.044290208,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "A Shaun the Sheep Movie: Farmageddon",
+    "year": 2019,
+    "writers": [
+      "Jon Brown",
+      "Mark Burton"
+    ],
+    "franchise": "Shaun the Sheep",
+    "running_time": 86,
+    "budget": 25000000,
+    "box_office": 47800000,
+    "actors": [
+      "John Sparkes",
+      "Justin Fletcher"
+    ],
+    "directors": [
+      "Will Becher",
+      "Richard Phelan"
+    ],
+    "summary": "Shaun and the flock help an alien return home while evading a secret government agency.",
+    "random": 0.750507902,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Big Sick",
+    "year": 2017,
+    "writers": [
+      "Emily V. Gordon",
+      "Kumail Nanjiani"
+    ],
+    "franchise": "",
+    "running_time": 120,
+    "budget": 5000000,
+    "box_office": 56400000,
+    "actors": [
+      "Holly Hunter",
+      "Kumail Nanjiani",
+      "Zoe Kazan"
+    ],
+    "directors": [
+      "Michael Showalter"
+    ],
+    "summary": "Pakistan-born comedian Kumail and grad student Emily fall in love but struggle as their cultures clash.",
+    "random": 0.037598816,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Frankenstein",
+    "year": 1931,
+    "writers": [],
+    "franchise": "",
+    "running_time": 70,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Boris Karloff",
+      "Colin Clive",
+      "Mae Clarke"
+    ],
+    "directors": [
+      "James Whale"
+    ],
+    "summary": "Dr. Frankenstein creates a monster from body parts and brings it to life.",
+    "random": 0.532444913,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Pi",
+    "year": 1998,
+    "writers": [
+      "Darren Aronofsky"
+    ],
+    "franchise": "",
+    "running_time": 84,
+    "budget": 68000,
+    "box_office": 3000000,
+    "actors": [
+      "Mark Margolis",
+      "Sean Gullette"
+    ],
+    "directors": [
+      "Darren Aronofsky"
+    ],
+    "summary": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
+    "random": 0.701130564,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Notting Hill",
+    "year": 1999,
+    "writers": [
+      "Richard Curtis"
+    ],
+    "franchise": "",
+    "running_time": 124,
+    "budget": 42000000,
+    "box_office": 364000000,
+    "actors": [
+      "Hugh Grant",
+      "Julia Roberts"
+    ],
+    "directors": [
+      "Roger Michell"
+    ],
+    "summary": "The life of a simple bookshop owner changes when he meets the most famous film star in the world.",
+    "random": 0.860203583,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "She's Gotta Have It",
+    "year": 1986,
+    "writers": [
+      "Spike Lee"
+    ],
+    "franchise": "",
+    "running_time": 84,
+    "budget": 175000,
+    "box_office": 7000000,
+    "actors": [
+      "John Canada Terrell",
+      "Tommy Redmond Hicks",
+      "Tracy Camilla Johns"
+    ],
+    "directors": [
+      "Spike Lee"
+    ],
+    "summary": "A Brooklyn woman juggles three suitors while trying to figure out which one she likes best.",
+    "random": 0.614564612,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Gremlins 2: The New Batch",
+    "year": 1990,
+    "writers": [
+      "Charles S. Haas"
+    ],
+    "franchise": "Gremlins",
+    "running_time": 106,
+    "budget": 50000000,
+    "box_office": 41500000,
+    "actors": [
+      "Zach Galligan",
+      "Phoebe Cates",
+      "John Glover",
+      "Robert Prosky",
+      "Robert Picardo",
+      "Christopher Lee"
+    ],
+    "directors": [
+      "Joe Dante"
+    ],
+    "summary": "Gremlins wreak havoc in a high-tech skyscraper in New York City.",
+    "random": 0.846687255,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Eraserhead",
+    "year": 1980,
+    "writers": [
+      "David Lynch"
+    ],
+    "franchise": "",
+    "running_time": 89,
+    "budget": 100000,
+    "box_office": 7000000,
+    "actors": [
+      "Charlotte Stewart",
+      "Jack Nance"
+    ],
+    "directors": [
+      "David Lynch"
+    ],
+    "summary": "A man tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+    "random": 0.455670603,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "writers": [],
+    "franchise": "",
+    "running_time": 102,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid"
+    ],
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "summary": "A cynical expatriate must choose between love and virtue in WWII Morocco.",
+    "random": 0.058647305,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Metropolis",
+    "year": 1927,
+    "writers": [],
+    "franchise": "",
+    "running_time": 153,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Alfred Abel",
+      "Brigitte Helm",
+      "Gustav Frhlich"
+    ],
+    "directors": [
+      "Fritz Lang"
+    ],
+    "summary": "In a futuristic city divided between the working class and city planners, a young man falls in love with a prophet.",
+    "random": 0.309723014,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "writers": [
+      "Simon Pegg",
+      "Edgar Wright"
+    ],
+    "franchise": "Three Flavours Cornetto",
+    "running_time": 99,
+    "budget": 6100000,
+    "box_office": 30000000,
+    "actors": [
+      "Kate Ashfield",
+      "Nick Frost",
+      "Simon Pegg"
+    ],
+    "directors": [
+      "Edgar Wright"
+    ],
+    "summary": "A man decides to win back his ex-girlfriend by surviving a zombie apocalypse with his best friend.",
+    "random": 0.064381747,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Haunting",
+    "year": 1963,
+    "writers": [],
+    "franchise": "",
+    "running_time": 112,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Claire Bloom",
+      "Julie Harris",
+      "Richard Johnson"
+    ],
+    "directors": [
+      "Robert Wise"
+    ],
+    "summary": "A team investigates a haunted house with a tragic history.",
+    "random": 0.169938269,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Brothers of the Frontier",
+    "year": 1996,
+    "writers": [
+      "Jim Byrnes"
+    ],
+    "franchise": "",
+    "running_time": 97,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Joey Lawrence",
+      "Jonathan Frakes",
+      "Matthew Lawrence",
+      "New Mexico"
+    ],
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "summary": "Two brothers in the New Mexico territory plan one last job to rob a ruthless town boss.",
+    "random": 0.642341916,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "All About Eve",
+    "year": 1950,
+    "writers": [],
+    "franchise": "",
+    "running_time": 138,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Anne Baxter",
+      "Bette Davis",
+      "George Sanders"
+    ],
+    "directors": [
+      "Joseph L. Mankiewicz"
+    ],
+    "summary": "A ruthless ingnue infiltrates the life of a Broadway star.",
+    "random": 0.162168196,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "writers": [
+      "Lawrence Kasdan",
+      "George Lucas"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 131,
+    "budget": 32500000,
+    "box_office": 475100000,
+    "actors": [
+      "Carrie Fisher",
+      "Darth Vader",
+      "Death Star",
+      "Han Solo",
+      "Harrison Ford",
+      "Mark Hamill",
+      "Rebel Alliance"
+    ],
+    "directors": [
+      "Richard Marquand"
+    ],
+    "summary": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+    "random": 0.648968435,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Innocents",
+    "year": 1961,
+    "writers": [],
+    "franchise": "",
+    "running_time": 100,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Deborah Kerr",
+      "Megs Jenkins",
+      "Peter Wyngarde"
+    ],
+    "directors": [
+      "Jack Clayton"
+    ],
+    "summary": "A young governess for two children becomes convinced that the house and grounds are haunted.",
+    "random": 0.773297321,
+    "genres": [
+      "Horror"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Robin Hood: Men in Tights",
+    "year": 1993,
+    "writers": [
+      "Mel Brooks",
+      "Evan Chandler",
+      "J. David Shapiro"
+    ],
+    "franchise": "",
+    "running_time": 104,
+    "budget": 20000000,
+    "box_office": 35700000,
+    "actors": [
+      "Cary Elwes",
+      "Patrick Stewart",
+      "Robin Hood"
+    ],
+    "directors": [
+      "Mel Brooks"
+    ],
+    "summary": "A comedic retelling of the Robin Hood legend.",
+    "random": 0.598328824,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "A Christmas Carol",
+    "year": 1999,
+    "writers": [
+      "Peter Barnes"
+    ],
+    "franchise": "",
+    "running_time": 95,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Christmas Eve",
+      "Ebenezer Scrooge",
+      "Patrick Stewart",
+      "Richard E. Grant"
+    ],
+    "directors": [
+      "David Hugh Jones"
+    ],
+    "summary": "Ebenezer Scrooge is visited by three spirits on Christmas Eve.",
+    "random": 0.535157109,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Aliens of the Deep",
+    "year": 2005,
+    "writers": [
+      "James Cameron"
+    ],
+    "franchise": "",
+    "running_time": 95,
+    "budget": 10000000,
+    "box_office": 9300000,
+    "actors": [
+      "Anatoly M. Sagalevitch",
+      "James Cameron"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A documentary exploring the deep ocean and its alien-like creatures.",
+    "random": 0.275935322,
+    "genres": [
+      "Sci-Fi",
+      "Documentary"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Abyss",
+    "year": 1989,
+    "writers": [
+      "James Cameron"
+    ],
+    "franchise": "",
+    "running_time": 140,
+    "budget": 90000000,
+    "box_office": null,
+    "actors": [
+      "Ed Harris",
+      "Mary Elizabeth Mastrantonio",
+      "Michael Biehn"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "summary": "A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species.",
+    "random": 0.11464073,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "year": 2005,
+    "writers": [
+      "George Lucas"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 140,
+    "budget": 113000000,
+    "box_office": 868400000,
+    "actors": [
+      "Anakin Skywalker",
+      "Chancellor Palpatine",
+      "Clone Wars",
+      "Ewan McGregor",
+      "Hayden Christensen",
+      "Natalie Portman",
+      "Wan Kenobi"
+    ],
+    "directors": [
+      "George Lucas"
+    ],
+    "summary": "As the Clone Wars nears its end, Obi-Wan Kenobi pursues a new threat, while Anakin Skywalker is lured by Chancellor Palpatine into a sinister plot for galactic domination.",
+    "random": 0.571287625,
+    "genres": [
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Rocky Horror Picture Show",
+    "year": 1975,
+    "writers": [
+      "Richard O'Brien",
+      "Jim Sharman"
+    ],
+    "franchise": "",
+    "running_time": 100,
+    "budget": 1400000,
+    "box_office": 226000000,
+    "actors": [
+      "Tim Curry",
+      "Susan Sarandon",
+      "Barry Bostwick",
+      "Richard O'Brien",
+      "Patricia Quinn",
+      "Nell Campbell",
+      "Meat Loaf"
+    ],
+    "directors": [
+      "Jim Sharman"
+    ],
+    "summary": "A newly engaged couple have a breakdown in an isolated area and must seek shelter at the bizarre residence of Dr. Frank-N-Furter.",
+    "random": 0.299398287,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Early Man",
+    "year": 2018,
+    "writers": [
+      "Mark Burton",
+      "James Higginson",
+      "Nick Park"
+    ],
+    "franchise": "",
+    "running_time": 89,
+    "budget": 50000000,
+    "box_office": 54600000,
+    "actors": [
+      "Bronze Age",
+      "Eddie Redmayne",
+      "Maisie Williams",
+      "Tom Hiddleston"
+    ],
+    "directors": [
+      "Nick Park"
+    ],
+    "summary": "A caveman unites his tribe to save their home from a Bronze Age invader.",
+    "random": 0.675453392,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Evil Dead II",
+    "year": 1987,
+    "writers": [
+      "Sam Raimi",
+      "Scott Spiegel"
+    ],
+    "franchise": "Evil Dead",
+    "running_time": 84,
+    "budget": 3600000,
+    "box_office": 5900000,
+    "actors": [
+      "Bruce Campbell",
+      "Sarah Berry",
+      "Dan Hicks",
+      "Kassie Wesley DePaiva",
+      "Ted Raimi"
+    ],
+    "directors": [
+      "Sam Raimi"
+    ],
+    "summary": "The lone survivor of an onslaught of flesh-possessing spirits holds up in a cabin with a group of strangers while the demons continue their attack.",
+    "random": 0.499226838,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Librarian: Curse of the Judas Chalice",
+    "year": 2008,
+    "writers": [
+      "Marco Schnabel"
+    ],
+    "franchise": "The Librarian",
+    "running_time": 90,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Bob Newhart",
+      "Flynn Carsen",
+      "Judas Chalice",
+      "New Orleans",
+      "Noah Wyle",
+      "Stana Katic"
+    ],
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "summary": "Flynn Carsen battles vampires in New Orleans to protect the Judas Chalice from falling into evil hands.",
+    "random": 0.956330747,
+    "genres": [
+      "Horror",
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Thunderbirds",
+    "year": 2004,
+    "writers": [
+      "William Osborne",
+      "Michael McCullers"
+    ],
+    "franchise": "",
+    "running_time": 87,
+    "budget": 57000000,
+    "box_office": 28300000,
+    "actors": [
+      "Alan Tracy",
+      "Ben Kingsley",
+      "Bill Paxton",
+      "Brady Corbet"
+    ],
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "summary": "When the Tracy family is captured, it's up to young Alan Tracy and his friends to save the day using the Thunderbirds machines.",
+    "random": 0.066555911,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Paul",
+    "year": 2011,
+    "writers": [
+      "Simon Pegg",
+      "Nick Frost"
+    ],
+    "franchise": "",
+    "running_time": 104,
+    "budget": 40000000,
+    "box_office": 97900000,
+    "actors": [
+      "Nick Frost",
+      "Seth Rogen",
+      "Simon Pegg",
+      "Two British"
+    ],
+    "directors": [
+      "Greg Mottola"
+    ],
+    "summary": "Two British comic-book geeks encounter an alien outside Area 51.",
+    "random": 0.082750047,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Psycho",
+    "year": 1960,
+    "writers": [],
+    "franchise": "",
+    "running_time": 109,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "summary": "A secretary embezzles money and checks into a remote motel run by a disturbed man.",
+    "random": 0.007005287,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "writers": [],
+    "franchise": "",
+    "running_time": 161,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Alec Guinness",
+      "Jack Hawkins",
+      "William Holden"
+    ],
+    "directors": [
+      "David Lean"
+    ],
+    "summary": "British POWs build a railway bridge for Japanese captors, unaware of an allied raid.",
+    "random": 0.914861125,
+    "genres": [
+      "War"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Tucker and Dale vs. Evil",
+    "year": 2010,
+    "writers": [
+      "Eli Craig",
+      "Morgan Jurgenson"
+    ],
+    "franchise": "",
+    "running_time": 89,
+    "budget": 5000000,
+    "box_office": 5200000,
+    "actors": [
+      "Tyler Labine",
+      "Alan Tudyk",
+      "Katrina Bowden",
+      "Jesse Moss",
+      "Philip Granger"
+    ],
+    "directors": [
+      "Eli Craig"
+    ],
+    "summary": "Two hillbillies are mistaken for killers by a group of college students camping in the woods.",
+    "random": 0.273721411,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Dracula",
+    "year": 1931,
+    "writers": [],
+    "franchise": "",
+    "running_time": 75,
+    "budget": null,
+    "box_office": null,
+    "actors": [
+      "Bela Lugosi",
+      "Count Dracula",
+      "David Manners",
+      "Helen Chandler"
+    ],
+    "directors": [
+      "Tod Browning"
+    ],
+    "summary": "Count Dracula arrives in England and begins to prey upon a virtuous young woman.",
+    "random": 0.206913058,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "writers": [
+      "Karen McCullah",
+      "Kirsten Smith"
+    ],
+    "franchise": "",
+    "running_time": 97,
+    "budget": 16000000,
+    "box_office": 60400000,
+    "actors": [
+      "Heath Ledger",
+      "Joseph Gordon-Levitt",
+      "Julia Stiles"
+    ],
+    "directors": [
+      "Gil Junger"
+    ],
+    "summary": "A high-school boy pays a mysterious boy to charm a girl so he can date her sister.",
+    "random": 0.277448794,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Shaun the Sheep Movie",
+    "year": 2015,
+    "writers": [
+      "Mark Burton",
+      "Richard Starzak"
+    ],
+    "franchise": "Shaun the Sheep",
+    "running_time": 85,
+    "budget": 25000000,
+    "box_office": 106200000,
+    "actors": [
+      "John Sparkes",
+      "Justin Fletcher",
+      "Omid Djalili"
+    ],
+    "directors": [
+      "Mark Burton",
+      "Richard Starzak"
+    ],
+    "summary": "Shaun and his flock must rescue their farmer who ends up in the big city.",
+    "random": 0.721637851,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "writers": [
+      "Leigh Brackett",
+      "Lawrence Kasdan"
+    ],
+    "franchise": "Star Wars",
+    "running_time": 124,
+    "budget": 18000000,
+    "box_office": 538400000,
+    "actors": [
+      "Boba Fett",
+      "Carrie Fisher",
+      "Darth Vader",
+      "Harrison Ford",
+      "Jedi Master Yoda",
+      "Luke Skywalker",
+      "Mark Hamill",
+      "Rebel Alliance"
+    ],
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "summary": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+    "random": 0.421953863,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "writers": [
+      "Rick Berman",
+      "Brannon Braga",
+      "Ronald D. Moore"
+    ],
+    "franchise": "Star Trek",
+    "running_time": 111,
+    "budget": 45000000,
+    "box_office": 146000000,
+    "actors": [
+      "Brent Spiner",
+      "Jonathan Frakes",
+      "Patrick Stewart"
+    ],
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "summary": "The crew of the Enterprise travels back in time to stop the Borg from preventing Earth's first contact with an alien species.",
+    "random": 0.744391796,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Attack the Block",
+    "year": 2011,
+    "writers": [
+      "Joe Cornish"
+    ],
+    "franchise": "",
+    "running_time": 88,
+    "budget": 13000000,
+    "box_office": 5800000,
+    "actors": [
+      "Jodie Whittaker",
+      "John Boyega",
+      "Nick Frost",
+      "South London"
+    ],
+    "directors": [
+      "Joe Cornish"
+    ],
+    "summary": "A teen gang in South London defends their block from alien invaders.",
+    "random": 0.174812047,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Once",
+    "year": 2007,
+    "writers": [
+      "John Carney"
+    ],
+    "franchise": "",
+    "running_time": 85,
+    "budget": 150000,
+    "box_office": 10000000,
+    "actors": [
+      "Glen Hansard",
+      "Markta Irglov"
+    ],
+    "directors": [
+      "John Carney"
+    ],
+    "summary": "A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs.",
+    "random": 0.867546308,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Proposal",
+    "year": 2009,
+    "writers": [
+      "Peter Chiarelli"
+    ],
+    "franchise": "",
+    "running_time": 108,
+    "budget": 40000000,
+    "box_office": 317400000,
+    "actors": [
+      "Ryan Reynolds",
+      "Sandra Bullock"
+    ],
+    "directors": [
+      "Anne Fletcher"
+    ],
+    "summary": "A pushy boss forces her young assistant to marry her in order to keep her visa status in the U.S. and avoid deportation to Canada.",
+    "random": 0.125763983,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Love Actually",
+    "year": 2003,
+    "writers": [
+      "Richard Curtis"
+    ],
+    "franchise": "",
+    "running_time": 135,
+    "budget": null,
+    "box_office": 246900000,
+    "actors": [
+      "Colin Firth",
+      "Hugh Grant",
+      "Liam Neeson"
+    ],
+    "directors": [
+      "Richard Curtis"
+    ],
+    "summary": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales.",
+    "random": 0.572845784,
+    "genres": [
+      "Romance"
+    ],
+    "imdb_id": null,
+    "imdb_rating": null,
+    "rotten_tomatoes": null
+  }
+]
