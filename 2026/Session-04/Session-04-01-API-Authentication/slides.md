@@ -116,9 +116,9 @@ In small groups you will identify the lie in a set of statements about CORS
 </Announcement>
 
 <!--
-CORS is a browser security feature designed to prevent websites from making unauthorized cross‑origin requests. ✔️ Truth
-CORS must always be configured on the frontend; the backend plays no role in CORS. ❌ Lie
-CORS can allow or block requests based on the request's origin. ✔️ Truth
+Session-x-CORS is a browser security feature designed to prevent websites from making unauthorized cross‑origin requests. ✔️ Truth
+Session-x-CORS must always be configured on the frontend; the backend plays no role in Session-x-CORS. ❌ Lie
+Session-x-CORS can allow or block requests based on the request's origin. ✔️ Truth
 -->
 
 
@@ -166,9 +166,9 @@ In small groups you will identify the lie in a set of statements about CORS
 </Announcement>
 
 <!--
-CORS errors occur in the browser, even if the server is misconfigured. ✔️ Truth
-Disabling CORS in your browser permanently fixes CORS issues in production. ❌ Lie
-CORS is not relevant for server‑to‑server communication unless one server emulates a browser environment. ✔️ Truth
+Session-x-CORS errors occur in the browser, even if the server is misconfigured. ✔️ Truth
+Disabling Session-x-CORS in your browser permanently fixes Session-x-CORS issues in production. ❌ Lie
+Session-x-CORS is not relevant for server‑to‑server communication unless one server emulates a browser environment. ✔️ Truth
 -->
 
 
